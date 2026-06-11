@@ -1,6 +1,23 @@
 {
   "version": 1,
-  "generated_at": "2026-06-11T00:00:00.000Z",
-  "broadcasts": [],
+  "generated_at": "2026-06-11T08:06:46.808Z",
+  "broadcasts": [
+    {
+      "id": "e1fa1d91-b8d3-431f-b6a3-d7664dfc934a",
+      "title": "Test braodcast",
+      "message": "this is a test",
+      "starts_at": null,
+      "expires_at": null,
+      "updated_at": "2026-06-11T08:06:46.806Z"
+    },
+    {
+      "id": "b72c779f-1a06-4bb5-9a96-10d5807a27bd",
+      "title": "testing123",
+      "message": "testsetksetskn",
+      "starts_at": null,
+      "expires_at": null,
+      "updated_at": "2026-06-08T15:03:48.714Z"
+    }
+  ],
   "events": []
 }
