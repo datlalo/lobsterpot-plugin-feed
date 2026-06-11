@@ -1,23 +1,7444 @@
 {
   "version": 1,
-  "generated_at": "2026-06-11T08:06:46.808Z",
-  "broadcasts": [
+  "generated_at": "2026-06-11T08:54:51.360Z",
+  "broadcasts": [],
+  "events": [],
+  "members": [
     {
-      "id": "e1fa1d91-b8d3-431f-b6a3-d7664dfc934a",
-      "title": "Test braodcast",
-      "message": "this is a test",
-      "starts_at": null,
-      "expires_at": null,
-      "updated_at": "2026-06-11T08:06:46.806Z"
+      "rsn": "0jack black0",
+      "rsn_key": "0jackblack0",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-09-08",
+      "points_total": 270,
+      "points_spent": 0,
+      "points_available": 270,
+      "months_in_clan": 9,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 30,
+        "missing_months": 0,
+        "can_claim": false
+      }
     },
     {
-      "id": "b72c779f-1a06-4bb5-9a96-10d5807a27bd",
-      "title": "testing123",
-      "message": "testsetksetskn",
-      "starts_at": null,
-      "expires_at": null,
-      "updated_at": "2026-06-08T15:03:48.714Z"
+      "rsn": "1024mb",
+      "rsn_key": "1024mb",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "11drive1577",
+      "rsn_key": "11drive1577",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-10-12",
+      "points_total": 290,
+      "points_spent": 200,
+      "points_available": 90,
+      "months_in_clan": 7,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 210,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "24 7 anxiety",
+      "rsn_key": "247anxiety",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2025-12-07 18:36:22.184125+00",
+      "points_total": 5,
+      "points_spent": 0,
+      "points_available": 5,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "2antelopes69",
+      "rsn_key": "2antelopes69",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "2girlz1sara",
+      "rsn_key": "2girlz1sara",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "2x3",
+      "rsn_key": "2x3",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "43 43 43",
+      "rsn_key": "434343",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-01-11",
+      "points_total": 110,
+      "points_spent": 0,
+      "points_available": 110,
+      "months_in_clan": 5,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "672",
+      "rsn_key": "672",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "99Everything",
+      "rsn_key": "99everything",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
+      "join_date": "2025-09-21",
+      "points_total": 575,
+      "points_spent": 300,
+      "points_available": 275,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 125,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "acutesloth",
+      "rsn_key": "acutesloth",
+      "bot_rank": "Dragonstone",
+      "progression_rank": "Dragonstone",
+      "join_date": "2025-09-25",
+      "points_total": 1450,
+      "points_spent": 1230,
+      "points_available": 220,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Onyx",
+        "point_cost": 800,
+        "min_months": 12,
+        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "missing_points": 580,
+        "missing_months": 4,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "AgilityLamp",
+      "rsn_key": "agilitylamp",
+      "bot_rank": "Diamond",
+      "progression_rank": "Diamond",
+      "join_date": "2025-11-24",
+      "points_total": 1050,
+      "points_spent": 900,
+      "points_available": 150,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Dragonstone",
+        "point_cost": 500,
+        "min_months": 8,
+        "requirements": "Barrows Gloves",
+        "missing_points": 350,
+        "missing_months": 2,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "A Heady Wook",
+      "rsn_key": "aheadywook",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Alex Zender",
+      "rsn_key": "alexzender",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2026-02-26",
+      "points_total": 345,
+      "points_spent": 300,
+      "points_available": 45,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 255,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Allegalfs",
+      "rsn_key": "allegalfs",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-02-03",
+      "points_total": 315,
+      "points_spent": 110,
+      "points_available": 205,
+      "months_in_clan": 4,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "ammies",
+      "rsn_key": "ammies",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-03-09",
+      "points_total": 100,
+      "points_spent": 0,
+      "points_available": 100,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Anveril",
+      "rsn_key": "anveril",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2025-12-07 18:36:24.335888+00",
+      "points_total": 5,
+      "points_spent": 0,
+      "points_available": 5,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Aodhagan",
+      "rsn_key": "aodhagan",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-04-19",
+      "points_total": 15,
+      "points_spent": 0,
+      "points_available": 15,
+      "months_in_clan": 1,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 185,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "a purple gay",
+      "rsn_key": "apurplegay",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-12-24",
+      "points_total": 445,
+      "points_spent": 310,
+      "points_available": 135,
+      "months_in_clan": 5,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 165,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "aquila rah",
+      "rsn_key": "aquilarah",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "arexius dex",
+      "rsn_key": "arexiusdex",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
+      "join_date": "2025-08-06",
+      "points_total": 300,
+      "points_spent": 300,
+      "points_available": 0,
+      "months_in_clan": 10,
+      "next_rank": {
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 400,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "ariangela",
+      "rsn_key": "ariangela",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2025-12-07 18:36:26.273611+00",
+      "points_total": 100,
+      "points_spent": 0,
+      "points_available": 100,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Arkanos M",
+      "rsn_key": "arkanosm",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
+      "join_date": "2025-11-03",
+      "points_total": 865,
+      "points_spent": 700,
+      "points_available": 165,
+      "months_in_clan": 7,
+      "next_rank": {
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 235,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "AshenaleFerg",
+      "rsn_key": "ashenaleferg",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2026-01-31",
+      "points_total": 535,
+      "points_spent": 350,
+      "points_available": 185,
+      "months_in_clan": 4,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 115,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Ashen bun",
+      "rsn_key": "ashenbun",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-03-18",
+      "points_total": 80,
+      "points_spent": 0,
+      "points_available": 80,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 20,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Ashfid",
+      "rsn_key": "ashfid",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2025-11-06",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 7,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 200,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "aslak aunard",
+      "rsn_key": "aslakaunard",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Ataraxiac",
+      "rsn_key": "ataraxiac",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "atrealz",
+      "rsn_key": "atrealz",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-11-30",
+      "points_total": 400,
+      "points_spent": 200,
+      "points_available": 200,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Average One",
+      "rsn_key": "averageone",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "a wild mouse",
+      "rsn_key": "awildmouse",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-04-10",
+      "points_total": 15,
+      "points_spent": 0,
+      "points_available": 15,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 85,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "ayochillcuh",
+      "rsn_key": "ayochillcuh",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Azryel",
+      "rsn_key": "azryel",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2026-02-28",
+      "points_total": 445,
+      "points_spent": 350,
+      "points_available": 95,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 205,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "bailys94",
+      "rsn_key": "bailys94",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-11-27",
+      "points_total": 225,
+      "points_spent": 250,
+      "points_available": -25,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 325,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Barker235",
+      "rsn_key": "barker235",
+      "bot_rank": "Diamond",
+      "progression_rank": "Diamond",
+      "join_date": "2025-08-29",
+      "points_total": 970,
+      "points_spent": 700,
+      "points_available": 270,
+      "months_in_clan": 9,
+      "next_rank": {
+        "name": "Dragonstone",
+        "point_cost": 500,
+        "min_months": 8,
+        "requirements": "Barrows Gloves",
+        "missing_points": 230,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "b bub",
+      "rsn_key": "bbub",
+      "bot_rank": "Diamond",
+      "progression_rank": "Diamond",
+      "join_date": "2025-08-01",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 10,
+      "next_rank": {
+        "name": "Dragonstone",
+        "point_cost": 500,
+        "min_months": 8,
+        "requirements": "Barrows Gloves",
+        "missing_points": 500,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "BearsBeatsBG",
+      "rsn_key": "bearsbeatsbg",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-09-28",
+      "points_total": 805,
+      "points_spent": 150,
+      "points_available": 655,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Beds",
+      "rsn_key": "beds",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "biffbcool",
+      "rsn_key": "biffbcool",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-08-15",
+      "points_total": 295,
+      "points_spent": 0,
+      "points_available": 295,
+      "months_in_clan": 9,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 5,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "BigFishRS",
+      "rsn_key": "bigfishrs",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "biologichaus",
+      "rsn_key": "biologichaus",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-03-02",
+      "points_total": 100,
+      "points_spent": 100,
+      "points_available": 0,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 200,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "blinkman",
+      "rsn_key": "blinkman",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "BlzdTim",
+      "rsn_key": "blzdtim",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-01-11",
+      "points_total": 50,
+      "points_spent": 0,
+      "points_available": 50,
+      "months_in_clan": 5,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 50,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "BMO O",
+      "rsn_key": "bmoo",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2025-11-15",
+      "points_total": 165,
+      "points_spent": 0,
+      "points_available": 165,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 35,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "bnuuy_ashe",
+      "rsn_key": "bnuuyashe",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "bootbonebell",
+      "rsn_key": "bootbonebell",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-04-14",
+      "points_total": 5,
+      "points_spent": 0,
+      "points_available": 5,
+      "months_in_clan": 1,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 95,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "br1tneyspear",
+      "rsn_key": "br1tneyspear",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Bradley ofc",
+      "rsn_key": "bradleyofc",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2026-01-20",
+      "points_total": 415,
+      "points_spent": 300,
+      "points_available": 115,
+      "months_in_clan": 4,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 185,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "bravo boogie",
+      "rsn_key": "bravoboogie",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-03-20 22:12:14.780985+00",
+      "points_total": 15,
+      "points_spent": 0,
+      "points_available": 15,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Brodoham",
+      "rsn_key": "brodoham",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-09-26",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 300,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "bronze wolfy",
+      "rsn_key": "bronzewolfy",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
+      "join_date": "2025-09-22",
+      "points_total": 455,
+      "points_spent": 310,
+      "points_available": 145,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 255,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "bubbly beer",
+      "rsn_key": "bubblybeer",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-05-07",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 1,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "bud t",
+      "rsn_key": "budt",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2025-12-07 18:36:26.920081+00",
+      "points_total": 15,
+      "points_spent": 0,
+      "points_available": 15,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "callmetowel",
+      "rsn_key": "callmetowel",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "casual q q",
+      "rsn_key": "casualqq",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Casual UwU",
+      "rsn_key": "casualuwu",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "cgshit",
+      "rsn_key": "cgshit",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-03-02",
+      "points_total": 155,
+      "points_spent": 100,
+      "points_available": 55,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 145,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "chadwardenog",
+      "rsn_key": "chadwardenog",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Chalys",
+      "rsn_key": "chalys",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-05-02",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 1,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "cheesette",
+      "rsn_key": "cheesette",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-08-20",
+      "points_total": 255,
+      "points_spent": 0,
+      "points_available": 255,
+      "months_in_clan": 9,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 45,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Chef30Y",
+      "rsn_key": "chef30y",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "chef ed up",
+      "rsn_key": "chefedup",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-09-09",
+      "points_total": 150,
+      "points_spent": 0,
+      "points_available": 150,
+      "months_in_clan": 9,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 150,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "chef pumpkin",
+      "rsn_key": "chefpumpkin",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2025-12-07 18:36:19.806521+00",
+      "points_total": 35,
+      "points_spent": 0,
+      "points_available": 35,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "chip chap1",
+      "rsn_key": "chipchap1",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-05-19",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "chlo oui",
+      "rsn_key": "chlooui",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-02-25 01:20:42.227823+00",
+      "points_total": 35,
+      "points_spent": 0,
+      "points_available": 35,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "chrysomer",
+      "rsn_key": "chrysomer",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Clayboy20",
+      "rsn_key": "clayboy20",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "cm fireman",
+      "rsn_key": "cmfireman",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "col4rt",
+      "rsn_key": "col4rt",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "composts",
+      "rsn_key": "composts",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "conesucker",
+      "rsn_key": "conesucker",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-11-09",
+      "points_total": 10,
+      "points_spent": 0,
+      "points_available": 10,
+      "months_in_clan": 7,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 290,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "conyewes",
+      "rsn_key": "conyewes",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "crazy jojo",
+      "rsn_key": "crazyjojo",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "creyns",
+      "rsn_key": "creyns",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "criptbandit",
+      "rsn_key": "criptbandit",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "crogathe",
+      "rsn_key": "crogathe",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "DaKM",
+      "rsn_key": "dakm",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "damn wolf",
+      "rsn_key": "damnwolf",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "DatLalo",
+      "rsn_key": "datlalo",
+      "bot_rank": "Owner",
+      "progression_rank": "Owner",
+      "join_date": "2024-08-01",
+      "points_total": 4835,
+      "points_spent": 1140,
+      "points_available": 3695,
+      "months_in_clan": 22,
+      "next_rank": null
+    },
+    {
+      "rsn": "DCed By Gf",
+      "rsn_key": "dcedbygf",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-02-25 01:21:57.658641+00",
+      "points_total": 5,
+      "points_spent": 0,
+      "points_available": 5,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "dead bub",
+      "rsn_key": "deadbub",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "demo183",
+      "rsn_key": "demo183",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2025-10-02",
+      "points_total": 10,
+      "points_spent": 0,
+      "points_available": 10,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 190,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Demurky",
+      "rsn_key": "demurky",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Desertfaux",
+      "rsn_key": "desertfaux",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Diomedes",
+      "rsn_key": "diomedes",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-03-09",
+      "points_total": 235,
+      "points_spent": 100,
+      "points_available": 135,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 65,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "dire sloth",
+      "rsn_key": "diresloth",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2025-12-07 18:36:24.956917+00",
+      "points_total": 5,
+      "points_spent": 0,
+      "points_available": 5,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "divinegreen",
+      "rsn_key": "divinegreen",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "doc on rs",
+      "rsn_key": "doconrs",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-03-10",
+      "points_total": 190,
+      "points_spent": 0,
+      "points_available": 190,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "doipy 87",
+      "rsn_key": "doipy87",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2025-11-26",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 200,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "drbees69",
+      "rsn_key": "drbees69",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-09-14",
+      "points_total": 150,
+      "points_spent": 0,
+      "points_available": 150,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 150,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "DSG farts",
+      "rsn_key": "dsgfarts",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-03-06 20:08:22.295525+00",
+      "points_total": 5,
+      "points_spent": 0,
+      "points_available": 5,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Du5tyr0ck1",
+      "rsn_key": "du5tyr0ck1",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-03-18",
+      "points_total": 30,
+      "points_spent": 0,
+      "points_available": 30,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 70,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Dvalini",
+      "rsn_key": "dvalini",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Dyeve",
+      "rsn_key": "dyeve",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2025-11-06",
+      "points_total": 150,
+      "points_spent": 0,
+      "points_available": 150,
+      "months_in_clan": 7,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 50,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "earweval",
+      "rsn_key": "earweval",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-03-09 21:33:40.77031+00",
+      "points_total": 5,
+      "points_spent": 0,
+      "points_available": 5,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Earwren",
+      "rsn_key": "earwren",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-03-09 21:33:40.823862+00",
+      "points_total": 5,
+      "points_spent": 0,
+      "points_available": 5,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Ecterunn",
+      "rsn_key": "ecterunn",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-02-14",
+      "points_total": 365,
+      "points_spent": 100,
+      "points_available": 265,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "elastic pant",
+      "rsn_key": "elasticpant",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-02-15 19:07:31.438617+00",
+      "points_total": 35,
+      "points_spent": 0,
+      "points_available": 35,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "EL Guuapo",
+      "rsn_key": "elguuapo",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "ellran",
+      "rsn_key": "ellran",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "elmadros",
+      "rsn_key": "elmadros",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Elymental",
+      "rsn_key": "elymental",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-05-17 14:00:07.458542+00",
+      "points_total": 225,
+      "points_spent": 0,
+      "points_available": 225,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "epicdeath15",
+      "rsn_key": "epicdeath15",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-02-25 01:20:41.846786+00",
+      "points_total": 5,
+      "points_spent": 0,
+      "points_available": 5,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "ErenYeag3r",
+      "rsn_key": "erenyeag3r",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-03-27 23:00:05.170239+00",
+      "points_total": 25,
+      "points_spent": 0,
+      "points_available": 25,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "eudorna",
+      "rsn_key": "eudorna",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "ExGIMbex",
+      "rsn_key": "exgimbex",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-04-01",
+      "points_total": 50,
+      "points_spent": 0,
+      "points_available": 50,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 50,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Fab",
+      "rsn_key": "fab",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-06-02 14:00:09.587843+00",
+      "points_total": 10,
+      "points_spent": 0,
+      "points_available": 10,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Fallllyy",
+      "rsn_key": "fallllyy",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "FarmorsPung",
+      "rsn_key": "farmorspung",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-04-08",
+      "points_total": 130,
+      "points_spent": 100,
+      "points_available": 30,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 170,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "FATGOONSTINK",
+      "rsn_key": "fatgoonstink",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "feckinfade",
+      "rsn_key": "feckinfade",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "ferrumdea",
+      "rsn_key": "ferrumdea",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Fe Talos",
+      "rsn_key": "fetalos",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Fikos",
+      "rsn_key": "fikos",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
+      "join_date": "2025-09-21",
+      "points_total": 505,
+      "points_spent": 300,
+      "points_available": 205,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 195,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "fire dog 201",
+      "rsn_key": "firedog201",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "fires brand",
+      "rsn_key": "firesbrand",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "FisherBes",
+      "rsn_key": "fisherbes",
+      "bot_rank": "Diamond",
+      "progression_rank": "Diamond",
+      "join_date": "2025-08-25",
+      "points_total": 710,
+      "points_spent": 700,
+      "points_available": 10,
+      "months_in_clan": 9,
+      "next_rank": {
+        "name": "Dragonstone",
+        "point_cost": 500,
+        "min_months": 8,
+        "requirements": "Barrows Gloves",
+        "missing_points": 490,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "fiskmore",
+      "rsn_key": "fiskmore",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
+      "join_date": "2025-09-21",
+      "points_total": 505,
+      "points_spent": 300,
+      "points_available": 205,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 195,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "fluxerius",
+      "rsn_key": "fluxerius",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "forlibertea",
+      "rsn_key": "forlibertea",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-03-16",
+      "points_total": 45,
+      "points_spent": 0,
+      "points_available": 45,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 55,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Franticallis",
+      "rsn_key": "franticallis",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "freddender",
+      "rsn_key": "freddender",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "FrogRights",
+      "rsn_key": "frogrights",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
+      "join_date": "2025-08-30",
+      "points_total": 335,
+      "points_spent": 300,
+      "points_available": 35,
+      "months_in_clan": 9,
+      "next_rank": {
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 365,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "furryfailure",
+      "rsn_key": "furryfailure",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Ghost Free",
+      "rsn_key": "ghostfree",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-06-07",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "gimlazyswige",
+      "rsn_key": "gimlazyswige",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-01-28",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 4,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "GIM Slothie",
+      "rsn_key": "gimslothie",
+      "bot_rank": "Dragonstone",
+      "progression_rank": "Dragonstone",
+      "join_date": "2025-09-25",
+      "points_total": 1450,
+      "points_spent": 1230,
+      "points_available": 220,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Onyx",
+        "point_cost": 800,
+        "min_months": 12,
+        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "missing_points": 580,
+        "missing_months": 4,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "gnfxmystic",
+      "rsn_key": "gnfxmystic",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "GnFxSonic",
+      "rsn_key": "gnfxsonic",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-02-16",
+      "points_total": 170,
+      "points_spent": 0,
+      "points_available": 170,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Gooserock",
+      "rsn_key": "gooserock",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "G orgy",
+      "rsn_key": "gorgy",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Gremlinella",
+      "rsn_key": "gremlinella",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Groddman",
+      "rsn_key": "groddman",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-03-06",
+      "points_total": 10,
+      "points_spent": 0,
+      "points_available": 10,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 90,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Grookshank",
+      "rsn_key": "grookshank",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-01-08",
+      "points_total": 290,
+      "points_spent": 120,
+      "points_available": 170,
+      "months_in_clan": 5,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 30,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "groupskilled",
+      "rsn_key": "groupskilled",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "harm1a",
+      "rsn_key": "harm1a",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "hawking456",
+      "rsn_key": "hawking456",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2025-12-16 18:05:33.310017+00",
+      "points_total": 55,
+      "points_spent": 0,
+      "points_available": 55,
+      "months_in_clan": 5,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "helgabox",
+      "rsn_key": "helgabox",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Heratarn10",
+      "rsn_key": "heratarn10",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-05-05",
+      "points_total": 130,
+      "points_spent": 0,
+      "points_available": 130,
+      "months_in_clan": 1,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "HerrakyykkaF",
+      "rsn_key": "herrakyykkaf",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Hobsa",
+      "rsn_key": "hobsa",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
+      "join_date": "2025-09-03",
+      "points_total": 640,
+      "points_spent": 310,
+      "points_available": 330,
+      "months_in_clan": 9,
+      "next_rank": {
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 70,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Hooni GIM",
+      "rsn_key": "hoonigim",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Hoonis main",
+      "rsn_key": "hoonismain",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-03-04",
+      "points_total": 275,
+      "points_spent": 100,
+      "points_available": 175,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 25,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "hotcuparamen",
+      "rsn_key": "hotcuparamen",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "HTooTHBTW",
+      "rsn_key": "htoothbtw",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2025-10-06",
+      "points_total": 200,
+      "points_spent": 0,
+      "points_available": 200,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "I 330",
+      "rsn_key": "i330",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2026-01-28",
+      "points_total": 400,
+      "points_spent": 350,
+      "points_available": 50,
+      "months_in_clan": 4,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 250,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "ibizor",
+      "rsn_key": "ibizor",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-06-02",
+      "points_total": 20,
+      "points_spent": 0,
+      "points_available": 20,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 80,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "ichig0at",
+      "rsn_key": "ichig0at",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "if stupid",
+      "rsn_key": "ifstupid",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-03-16 13:00:27.459611+00",
+      "points_total": 20,
+      "points_spent": 0,
+      "points_available": 20,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "im homesick",
+      "rsn_key": "imhomesick",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "im instinct",
+      "rsn_key": "iminstinct",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-01-27 14:55:04.899775+00",
+      "points_total": 20,
+      "points_spent": 0,
+      "points_available": 20,
+      "months_in_clan": 4,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "IM Jelmz",
+      "rsn_key": "imjelmz",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "invader ruhn",
+      "rsn_key": "invaderruhn",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "iqlw",
+      "rsn_key": "iqlw",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "ironafkbob",
+      "rsn_key": "ironafkbob",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-02-15 19:07:31.938741+00",
+      "points_total": 15,
+      "points_spent": 0,
+      "points_available": 15,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "iron kellox",
+      "rsn_key": "ironkellox",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-04-03 11:00:04.345627+00",
+      "points_total": 40,
+      "points_spent": 0,
+      "points_available": 40,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "iron_marpo",
+      "rsn_key": "ironmarpo",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "I ronmen",
+      "rsn_key": "ironmen",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-04-06",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "iron mosfet",
+      "rsn_key": "ironmosfet",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-03-17",
+      "points_total": 80,
+      "points_spent": 0,
+      "points_available": 80,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 20,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "iron mowglie",
+      "rsn_key": "ironmowglie",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2025-12-07 18:36:20.02776+00",
+      "points_total": 10,
+      "points_spent": 0,
+      "points_available": 10,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "ironsynotics",
+      "rsn_key": "ironsynotics",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-03-02",
+      "points_total": 130,
+      "points_spent": 0,
+      "points_available": 130,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "ironyoloft64",
+      "rsn_key": "ironyoloft64",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2025-10-09",
+      "points_total": 105,
+      "points_spent": 0,
+      "points_available": 105,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 95,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "I Slay AFK",
+      "rsn_key": "islayafk",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "ithalya",
+      "rsn_key": "ithalya",
+      "bot_rank": "Diamond",
+      "progression_rank": "Diamond",
+      "join_date": "2025-09-14",
+      "points_total": 945,
+      "points_spent": 700,
+      "points_available": 245,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Dragonstone",
+        "point_cost": 500,
+        "min_months": 8,
+        "requirements": "Barrows Gloves",
+        "missing_points": 255,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "i toot",
+      "rsn_key": "itoot",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-03-09 21:33:40.716949+00",
+      "points_total": 10,
+      "points_spent": 0,
+      "points_available": 10,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "JackWilfred",
+      "rsn_key": "jackwilfred",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "JamminJon",
+      "rsn_key": "jamminjon",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-03-04 14:15:12.474046+00",
+      "points_total": 20,
+      "points_spent": 0,
+      "points_available": 20,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "jaxa999",
+      "rsn_key": "jaxa999",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "JJaim",
+      "rsn_key": "jjaim",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-01-04 22:18:18.892215+00",
+      "points_total": 30,
+      "points_spent": 0,
+      "points_available": 30,
+      "months_in_clan": 5,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "just a jax",
+      "rsn_key": "justajax",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "just a timmy",
+      "rsn_key": "justatimmy",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-03-02",
+      "points_total": 155,
+      "points_spent": 100,
+      "points_available": 55,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 145,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Justeli555",
+      "rsn_key": "justeli555",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Kadwallar",
+      "rsn_key": "kadwallar",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-02-25",
+      "points_total": 205,
+      "points_spent": 100,
+      "points_available": 105,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 95,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "kapt badrukk",
+      "rsn_key": "kaptbadrukk",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "kariirn",
+      "rsn_key": "kariirn",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "kaverinn",
+      "rsn_key": "kaverinn",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2026-01-16",
+      "points_total": 385,
+      "points_spent": 330,
+      "points_available": 55,
+      "months_in_clan": 4,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 245,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "kawaiihua",
+      "rsn_key": "kawaiihua",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "KEHE",
+      "rsn_key": "kehe",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2025-11-25",
+      "points_total": 50,
+      "points_spent": 0,
+      "points_available": 50,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 150,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "KelaKalevi",
+      "rsn_key": "kelakalevi",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Kethrim",
+      "rsn_key": "kethrim",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2025-12-07 18:36:25.17162+00",
+      "points_total": 255,
+      "points_spent": 0,
+      "points_available": 255,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "KillianGrave",
+      "rsn_key": "killiangrave",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-02-26",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "KnottyBoii",
+      "rsn_key": "knottyboii",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2025-12-07 18:36:26.617223+00",
+      "points_total": 50,
+      "points_spent": 0,
+      "points_available": 50,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Ko s Penguin",
+      "rsn_key": "kospenguin",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-04-11 19:07:50.743505+00",
+      "points_total": 5,
+      "points_spent": 0,
+      "points_available": 5,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "kumquat peel",
+      "rsn_key": "kumquatpeel",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "kurt squirt",
+      "rsn_key": "kurtsquirt",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "l3 v1",
+      "rsn_key": "l3v1",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2025-12-07 18:36:25.747515+00",
+      "points_total": 5,
+      "points_spent": 0,
+      "points_available": 5,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "LazyThom",
+      "rsn_key": "lazythom",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
+      "join_date": "2025-09-12",
+      "points_total": 570,
+      "points_spent": 300,
+      "points_available": 270,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 130,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "leekable",
+      "rsn_key": "leekable",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "linck242",
+      "rsn_key": "linck242",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "l Lewy l",
+      "rsn_key": "llewyl",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
+      "join_date": "2025-08-27",
+      "points_total": 400,
+      "points_spent": 300,
+      "points_available": 100,
+      "months_in_clan": 9,
+      "next_rank": {
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 300,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "lone hobo iv",
+      "rsn_key": "lonehoboiv",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-03-09 21:33:40.503581+00",
+      "points_total": 20,
+      "points_spent": 0,
+      "points_available": 20,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "LordOfLifts",
+      "rsn_key": "lordoflifts",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "lucaslefty",
+      "rsn_key": "lucaslefty",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "luciferlaura",
+      "rsn_key": "luciferlaura",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "lyralis",
+      "rsn_key": "lyralis",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-04-11",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "M0nkan",
+      "rsn_key": "m0nkan",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "M0rgueRat",
+      "rsn_key": "m0rguerat",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
+      "join_date": "2025-09-03",
+      "points_total": 390,
+      "points_spent": 350,
+      "points_available": 40,
+      "months_in_clan": 9,
+      "next_rank": {
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 360,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "m1kedyson",
+      "rsn_key": "m1kedyson",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "magickstick",
+      "rsn_key": "magickstick",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-04-12",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 1,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Magicshroomy",
+      "rsn_key": "magicshroomy",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "marco bizot",
+      "rsn_key": "marcobizot",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "mario uchiha",
+      "rsn_key": "mariouchiha",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "mark990",
+      "rsn_key": "mark990",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "mavisimo",
+      "rsn_key": "mavisimo",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Max Beefs",
+      "rsn_key": "maxbeefs",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "McGnomes",
+      "rsn_key": "mcgnomes",
+      "bot_rank": "Owner",
+      "progression_rank": "Owner",
+      "join_date": "2024-08-01",
+      "points_total": 4835,
+      "points_spent": 1140,
+      "points_available": 3695,
+      "months_in_clan": 22,
+      "next_rank": null
+    },
+    {
+      "rsn": "memelord85",
+      "rsn_key": "memelord85",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Mikey1569",
+      "rsn_key": "mikey1569",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-09-16",
+      "points_total": 215,
+      "points_spent": 0,
+      "points_available": 215,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 85,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Mini Soda",
+      "rsn_key": "minisoda",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-11-26",
+      "points_total": 330,
+      "points_spent": 200,
+      "points_available": 130,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 170,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Mint Macaron",
+      "rsn_key": "mintmacaron",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "misalongtime",
+      "rsn_key": "misalongtime",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-09-05",
+      "points_total": 475,
+      "points_spent": 350,
+      "points_available": 125,
+      "months_in_clan": 9,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 175,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "moeychan",
+      "rsn_key": "moeychan",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Mokkoku",
+      "rsn_key": "mokkoku",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2025-10-16",
+      "points_total": 30,
+      "points_spent": 0,
+      "points_available": 30,
+      "months_in_clan": 7,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 170,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "mokrilli",
+      "rsn_key": "mokrilli",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Mr Grenwall",
+      "rsn_key": "mrgrenwall",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-02-05",
+      "points_total": 230,
+      "points_spent": 100,
+      "points_available": 130,
+      "months_in_clan": 4,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 70,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "mrsnurbd",
+      "rsn_key": "mrsnurbd",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2025-12-04",
+      "points_total": 245,
+      "points_spent": 100,
+      "points_available": 145,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 55,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "mrtoeface",
+      "rsn_key": "mrtoeface",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-06-01",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "MrWFH",
+      "rsn_key": "mrwfh",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-09-28",
+      "points_total": 805,
+      "points_spent": 150,
+      "points_available": 655,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Mr WlKl",
+      "rsn_key": "mrwlkl",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Mustelidae",
+      "rsn_key": "mustelidae",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-04-11",
+      "points_total": 110,
+      "points_spent": 100,
+      "points_available": 10,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 190,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Nadyajj",
+      "rsn_key": "nadyajj",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-09-06",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 9,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 300,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "nai nai nai",
+      "rsn_key": "nainainai",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "naomhbrid",
+      "rsn_key": "naomhbrid",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-09-16",
+      "points_total": 215,
+      "points_spent": 0,
+      "points_available": 215,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 85,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "NaturalSwag",
+      "rsn_key": "naturalswag",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "neli",
+      "rsn_key": "neli",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-09-06",
+      "points_total": 235,
+      "points_spent": 0,
+      "points_available": 235,
+      "months_in_clan": 9,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 65,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "nenavizhu",
+      "rsn_key": "nenavizhu",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2025-12-07 18:36:24.174988+00",
+      "points_total": 5,
+      "points_spent": 0,
+      "points_available": 5,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "nerhca",
+      "rsn_key": "nerhca",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "newishgt52",
+      "rsn_key": "newishgt52",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2025-11-27",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 200,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "nickcnatspel",
+      "rsn_key": "nickcnatspel",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "ninyunnini",
+      "rsn_key": "ninyunnini",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2025-10-16",
+      "points_total": 30,
+      "points_spent": 0,
+      "points_available": 30,
+      "months_in_clan": 7,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 170,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "nippinhardd",
+      "rsn_key": "nippinhardd",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2026-01-03",
+      "points_total": 395,
+      "points_spent": 310,
+      "points_available": 85,
+      "months_in_clan": 5,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 215,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "noodles25x",
+      "rsn_key": "noodles25x",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-05-23 10:00:07.764491+00",
+      "points_total": 30,
+      "points_spent": 0,
+      "points_available": 30,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "notplayingvb",
+      "rsn_key": "notplayingvb",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "NUGAMOTO",
+      "rsn_key": "nugamoto",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "nursemitch",
+      "rsn_key": "nursemitch",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "ocahound",
+      "rsn_key": "ocahound",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-04-16",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 1,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "offlinedude",
+      "rsn_key": "offlinedude",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-04-09",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Ol ivia",
+      "rsn_key": "olivia",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-03-20",
+      "points_total": 200,
+      "points_spent": 100,
+      "points_available": 100,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "oO Crabs Oo",
+      "rsn_key": "oocrabsoo",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-04-09",
+      "points_total": 5,
+      "points_spent": 0,
+      "points_available": 5,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 95,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Ophelia Vey",
+      "rsn_key": "opheliavey",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-01-31",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 4,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "os jk",
+      "rsn_key": "osjk",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-05-12",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "OZ OF ZOAP",
+      "rsn_key": "ozofzoap",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-01-29",
+      "points_total": 215,
+      "points_spent": 110,
+      "points_available": 105,
+      "months_in_clan": 4,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 95,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "pandooraah",
+      "rsn_key": "pandooraah",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "parm a jon",
+      "rsn_key": "parmajon",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "part e pat",
+      "rsn_key": "partepat",
+      "bot_rank": "Diamond",
+      "progression_rank": "Diamond",
+      "join_date": "2025-09-12",
+      "points_total": 955,
+      "points_spent": 770,
+      "points_available": 185,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Dragonstone",
+        "point_cost": 500,
+        "min_months": 8,
+        "requirements": "Barrows Gloves",
+        "missing_points": 315,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "peksoleb",
+      "rsn_key": "peksoleb",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-01-20 08:45:04.713408+00",
+      "points_total": 5,
+      "points_spent": 0,
+      "points_available": 5,
+      "months_in_clan": 4,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "PerpSloth",
+      "rsn_key": "perpsloth",
+      "bot_rank": "Dragonstone",
+      "progression_rank": "Dragonstone",
+      "join_date": "2025-09-25",
+      "points_total": 1450,
+      "points_spent": 1230,
+      "points_available": 220,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Onyx",
+        "point_cost": 800,
+        "min_months": 12,
+        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "missing_points": 580,
+        "missing_months": 4,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "phiil",
+      "rsn_key": "phiil",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "philFTP",
+      "rsn_key": "philftp",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2025-11-14",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 200,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "pieturtle5",
+      "rsn_key": "pieturtle5",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "PokesBo",
+      "rsn_key": "pokesbo",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "ponkshark",
+      "rsn_key": "ponkshark",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2025-11-05",
+      "points_total": 125,
+      "points_spent": 50,
+      "points_available": 75,
+      "months_in_clan": 7,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 125,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Porkchaser",
+      "rsn_key": "porkchaser",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2026-02-03",
+      "points_total": 400,
+      "points_spent": 350,
+      "points_available": 50,
+      "months_in_clan": 4,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 250,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Port Wizard",
+      "rsn_key": "portwizard",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "powerman659",
+      "rsn_key": "powerman659",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Pulsations",
+      "rsn_key": "pulsations",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-04-07 19:00:03.50805+00",
+      "points_total": 5,
+      "points_spent": 0,
+      "points_available": 5,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "punt on 3rd",
+      "rsn_key": "punton3rd",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "PuzzleDream",
+      "rsn_key": "puzzledream",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
+      "join_date": "2025-09-30",
+      "points_total": 530,
+      "points_spent": 300,
+      "points_available": 230,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 170,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "queeniebobs",
+      "rsn_key": "queeniebobs",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "R00BY",
+      "rsn_key": "r00by",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-05-20",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Radicafire",
+      "rsn_key": "radicafire",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-03-11",
+      "points_total": 325,
+      "points_spent": 130,
+      "points_available": 195,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 5,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Rakahz",
+      "rsn_key": "rakahz",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2026-02-26",
+      "points_total": 345,
+      "points_spent": 300,
+      "points_available": 45,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 255,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "randymarsh91",
+      "rsn_key": "randymarsh91",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "rawd0gr0dn3y",
+      "rsn_key": "rawd0gr0dn3y",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "reflexsloth",
+      "rsn_key": "reflexsloth",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Relye",
+      "rsn_key": "relye",
+      "bot_rank": "Diamond",
+      "progression_rank": "Diamond",
+      "join_date": "2024-10-26",
+      "points_total": 235,
+      "points_spent": 0,
+      "points_available": 235,
+      "months_in_clan": 19,
+      "next_rank": {
+        "name": "Dragonstone",
+        "point_cost": 500,
+        "min_months": 8,
+        "requirements": "Barrows Gloves",
+        "missing_points": 265,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "re milia",
+      "rsn_key": "remilia",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2025-10-13",
+      "points_total": 265,
+      "points_spent": 0,
+      "points_available": 265,
+      "months_in_clan": 7,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "renfrow",
+      "rsn_key": "renfrow",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-09-15",
+      "points_total": 425,
+      "points_spent": 200,
+      "points_available": 225,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 75,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "rex456894",
+      "rsn_key": "rex456894",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "roman pwc",
+      "rsn_key": "romanpwc",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "rougerascal",
+      "rsn_key": "rougerascal",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "roycety",
+      "rsn_key": "roycety",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "RSPlaz",
+      "rsn_key": "rsplaz",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-03-03",
+      "points_total": 25,
+      "points_spent": 0,
+      "points_available": 25,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 75,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "rumpulll4skn",
+      "rsn_key": "rumpulll4skn",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2025-12-07 18:36:22.360172+00",
+      "points_total": 5,
+      "points_spent": 0,
+      "points_available": 5,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Rune Relay",
+      "rsn_key": "runerelay",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2025-10-06",
+      "points_total": 320,
+      "points_spent": 0,
+      "points_available": 320,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "ruspinelli",
+      "rsn_key": "ruspinelli",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Rw_lz",
+      "rsn_key": "rwlz",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-03-01 01:07:23.542761+00",
+      "points_total": 5,
+      "points_spent": 0,
+      "points_available": 5,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "S7",
+      "rsn_key": "s7",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Saint Divahn",
+      "rsn_key": "saintdivahn",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2025-12-07 18:36:19.326276+00",
+      "points_total": 250,
+      "points_spent": 0,
+      "points_available": 250,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Saint RIan",
+      "rsn_key": "saintrian",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2025-12-07 18:36:22.74811+00",
+      "points_total": 250,
+      "points_spent": 0,
+      "points_available": 250,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "saiyyara",
+      "rsn_key": "saiyyara",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Saltydave",
+      "rsn_key": "saltydave",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-02-22",
+      "points_total": 80,
+      "points_spent": 0,
+      "points_available": 80,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 20,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "samurai hasu",
+      "rsn_key": "samuraihasu",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "samurai yack",
+      "rsn_key": "samuraiyack",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Saricanius",
+      "rsn_key": "saricanius",
+      "bot_rank": "Diamond",
+      "progression_rank": "Diamond",
+      "join_date": "2025-10-11",
+      "points_total": 1045,
+      "points_spent": 900,
+      "points_available": 145,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Dragonstone",
+        "point_cost": 500,
+        "min_months": 8,
+        "requirements": "Barrows Gloves",
+        "missing_points": 355,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "ScootinFruty",
+      "rsn_key": "scootinfruty",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "ScottishBobB",
+      "rsn_key": "scottishbobb",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-02-16",
+      "points_total": 15,
+      "points_spent": 0,
+      "points_available": 15,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 85,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "seaizzme",
+      "rsn_key": "seaizzme",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Seckon",
+      "rsn_key": "seckon",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "serfraser",
+      "rsn_key": "serfraser",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Shadow Dream",
+      "rsn_key": "shadowdream",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2025-12-07 18:36:23.242706+00",
+      "points_total": 45,
+      "points_spent": 0,
+      "points_available": 45,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Shamnet",
+      "rsn_key": "shamnet",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2025-12-07 18:36:23.06268+00",
+      "points_total": 50,
+      "points_spent": 0,
+      "points_available": 50,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "sharkinbath",
+      "rsn_key": "sharkinbath",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-06-07",
+      "points_total": 5,
+      "points_spent": 0,
+      "points_available": 5,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 95,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "shinji420",
+      "rsn_key": "shinji420",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
+      "join_date": "2025-08-31",
+      "points_total": 550,
+      "points_spent": 350,
+      "points_available": 200,
+      "months_in_clan": 9,
+      "next_rank": {
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 200,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Shmoot",
+      "rsn_key": "shmoot",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "shotcupid",
+      "rsn_key": "shotcupid",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Silkscourge",
+      "rsn_key": "silkscourge",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Sim Zam Bim",
+      "rsn_key": "simzambim",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-02-22",
+      "points_total": 225,
+      "points_spent": 220,
+      "points_available": 5,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 195,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "sinesu",
+      "rsn_key": "sinesu",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-03-14 00:53:54.362637+00",
+      "points_total": 20,
+      "points_spent": 0,
+      "points_available": 20,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "sinsaytional",
+      "rsn_key": "sinsaytional",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Sir Ashburn",
+      "rsn_key": "sirashburn",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2026-03-09",
+      "points_total": 310,
+      "points_spent": 300,
+      "points_available": 10,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 290,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "sir bespoke",
+      "rsn_key": "sirbespoke",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-02-08",
+      "points_total": 5,
+      "points_spent": 0,
+      "points_available": 5,
+      "months_in_clan": 4,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 95,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "sir breakfst",
+      "rsn_key": "sirbreakfst",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
+      "join_date": "2025-08-27",
+      "points_total": 350,
+      "points_spent": 300,
+      "points_available": 50,
+      "months_in_clan": 9,
+      "next_rank": {
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 350,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "sir kellox",
+      "rsn_key": "sirkellox",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "SIR Kyvonio",
+      "rsn_key": "sirkyvonio",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "siryanka",
+      "rsn_key": "siryanka",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-01-04 22:18:19.234188+00",
+      "points_total": 5,
+      "points_spent": 0,
+      "points_available": 5,
+      "months_in_clan": 5,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Sixareen",
+      "rsn_key": "sixareen",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "skillaid",
+      "rsn_key": "skillaid",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2025-10-06",
+      "points_total": 320,
+      "points_spent": 0,
+      "points_available": 320,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "s k w d",
+      "rsn_key": "skwd",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "SkyHawk1429",
+      "rsn_key": "skyhawk1429",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-02-23",
+      "points_total": 10,
+      "points_spent": 0,
+      "points_available": 10,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 90,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Skyofstrife",
+      "rsn_key": "skyofstrife",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-05-17",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "SlothKing609",
+      "rsn_key": "slothking609",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-06-01",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "smallgaiaya",
+      "rsn_key": "smallgaiaya",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "snackiesnack",
+      "rsn_key": "snackiesnack",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-08-21",
+      "points_total": 110,
+      "points_spent": 0,
+      "points_available": 110,
+      "months_in_clan": 9,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 190,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "sneakyshortz",
+      "rsn_key": "sneakyshortz",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Solrosen",
+      "rsn_key": "solrosen",
+      "bot_rank": "Deputy Owner",
+      "progression_rank": "Deputy Owner",
+      "join_date": "2024-08-01",
+      "points_total": 920,
+      "points_spent": 0,
+      "points_available": 920,
+      "months_in_clan": 22,
+      "next_rank": null
+    },
+    {
+      "rsn": "spacelazor",
+      "rsn_key": "spacelazor",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
+      "join_date": "2025-09-22",
+      "points_total": 615,
+      "points_spent": 300,
+      "points_available": 315,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 85,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "SpotOnSpenny",
+      "rsn_key": "spotonspenny",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-04-26",
+      "points_total": 30,
+      "points_spent": 0,
+      "points_available": 30,
+      "months_in_clan": 1,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 70,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "SSJ Bradley",
+      "rsn_key": "ssjbradley",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "stan stihl",
+      "rsn_key": "stanstihl",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "StarktKaffe",
+      "rsn_key": "starktkaffe",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "StonedGengar",
+      "rsn_key": "stonedgengar",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "subtlevalues",
+      "rsn_key": "subtlevalues",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-05-04",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 1,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "SuperRamen",
+      "rsn_key": "superramen",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-03-16",
+      "points_total": 220,
+      "points_spent": 100,
+      "points_available": 120,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 80,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "syly",
+      "rsn_key": "syly",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2025-10-19",
+      "points_total": 40,
+      "points_spent": 0,
+      "points_available": 40,
+      "months_in_clan": 7,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 160,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Synclara",
+      "rsn_key": "synclara",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "tandynz",
+      "rsn_key": "tandynz",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-03-08",
+      "points_total": 70,
+      "points_spent": 0,
+      "points_available": 70,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 30,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "tawutiso",
+      "rsn_key": "tawutiso",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Teh Shew",
+      "rsn_key": "tehshew",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Teorik",
+      "rsn_key": "teorik",
+      "bot_rank": "Diamond",
+      "progression_rank": "Diamond",
+      "join_date": "2024-10-26",
+      "points_total": 235,
+      "points_spent": 0,
+      "points_available": 235,
+      "months_in_clan": 19,
+      "next_rank": {
+        "name": "Dragonstone",
+        "point_cost": 500,
+        "min_months": 8,
+        "requirements": "Barrows Gloves",
+        "missing_points": 265,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "thedrkhorror",
+      "rsn_key": "thedrkhorror",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-04-08",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "The Gorg",
+      "rsn_key": "thegorg",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-03-08",
+      "points_total": 30,
+      "points_spent": 0,
+      "points_available": 30,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 170,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "ThePanj",
+      "rsn_key": "thepanj",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-05-29",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "therondir",
+      "rsn_key": "therondir",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "thesothan",
+      "rsn_key": "thesothan",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "TheXamero",
+      "rsn_key": "thexamero",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "thowise",
+      "rsn_key": "thowise",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "TonioVinito",
+      "rsn_key": "toniovinito",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-08-28",
+      "points_total": 150,
+      "points_spent": 0,
+      "points_available": 150,
+      "months_in_clan": 9,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 150,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "ToxicGIM",
+      "rsn_key": "toxicgim",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
+      "join_date": "2025-09-21",
+      "points_total": 575,
+      "points_spent": 300,
+      "points_available": 275,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 125,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "tristram004",
+      "rsn_key": "tristram004",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-09-19",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 300,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "tyborrs",
+      "rsn_key": "tyborrs",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-10-01",
+      "points_total": 170,
+      "points_spent": 30,
+      "points_available": 140,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 160,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "uios",
+      "rsn_key": "uios",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "uiwolf holo",
+      "rsn_key": "uiwolfholo",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
+      "join_date": "2025-11-02",
+      "points_total": 570,
+      "points_spent": 500,
+      "points_available": 70,
+      "months_in_clan": 7,
+      "next_rank": {
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 330,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "u n kn own",
+      "rsn_key": "unknown",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Use Kebab",
+      "rsn_key": "usekebab",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-02-12 10:26:06.568303+00",
+      "points_total": 10,
+      "points_spent": 0,
+      "points_available": 10,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "V alley",
+      "rsn_key": "valley",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Vampiro236",
+      "rsn_key": "vampiro236",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "VaporeonHead",
+      "rsn_key": "vaporeonhead",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2025-12-01",
+      "points_total": 150,
+      "points_spent": 0,
+      "points_available": 150,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Vaultus",
+      "rsn_key": "vaultus",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-03-16",
+      "points_total": 15,
+      "points_spent": 0,
+      "points_available": 15,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 85,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "vesperiza",
+      "rsn_key": "vesperiza",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2025-10-17",
+      "points_total": 100,
+      "points_spent": 0,
+      "points_available": 100,
+      "months_in_clan": 7,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "vinitotonio",
+      "rsn_key": "vinitotonio",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-08-28",
+      "points_total": 150,
+      "points_spent": 0,
+      "points_available": 150,
+      "months_in_clan": 9,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 150,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "vinnymack115",
+      "rsn_key": "vinnymack115",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Vytrax",
+      "rsn_key": "vytrax",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-02-14",
+      "points_total": 255,
+      "points_spent": 100,
+      "points_available": 155,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 45,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "wardyironboi",
+      "rsn_key": "wardyironboi",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "weebles92",
+      "rsn_key": "weebles92",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Weeping4ngeI",
+      "rsn_key": "weeping4ngei",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "wegotmars",
+      "rsn_key": "wegotmars",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
+      "join_date": "2025-08-26",
+      "points_total": 570,
+      "points_spent": 300,
+      "points_available": 270,
+      "months_in_clan": 9,
+      "next_rank": {
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 130,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "WickdWizzy",
+      "rsn_key": "wickdwizzy",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-02-18",
+      "points_total": 20,
+      "points_spent": 0,
+      "points_available": 20,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 180,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "WilliusJR",
+      "rsn_key": "williusjr",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-02-25",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Woofle Boi",
+      "rsn_key": "woofleboi",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-04-09",
+      "points_total": 95,
+      "points_spent": 0,
+      "points_available": 95,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 5,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Wyard",
+      "rsn_key": "wyard",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-04-13",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 1,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Xaevros",
+      "rsn_key": "xaevros",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "xBinks",
+      "rsn_key": "xbinks",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-12-02",
+      "points_total": 350,
+      "points_spent": 340,
+      "points_available": 10,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 290,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Xerxes1",
+      "rsn_key": "xerxes1",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-04-10 17:00:04.36996+00",
+      "points_total": 5,
+      "points_spent": 0,
+      "points_available": 5,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "x IronCrab x",
+      "rsn_key": "xironcrabx",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-04-09",
+      "points_total": 5,
+      "points_spent": 0,
+      "points_available": 5,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 95,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Yakult00",
+      "rsn_key": "yakult00",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Yelver",
+      "rsn_key": "yelver",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "Yu Gi Scape",
+      "rsn_key": "yugiscape",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "yungbony",
+      "rsn_key": "yungbony",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-04-02",
+      "points_total": 5,
+      "points_spent": 0,
+      "points_available": 5,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 95,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "zealixi",
+      "rsn_key": "zealixi",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-05-23 15:00:16.833464+00",
+      "points_total": 30,
+      "points_spent": 0,
+      "points_available": 30,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "zeroskilled",
+      "rsn_key": "zeroskilled",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "ZorgaRedeem",
+      "rsn_key": "zorgaredeem",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "zyperii",
+      "rsn_key": "zyperii",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": "2026-03-04 21:04:27.198711+00",
+      "points_total": 10,
+      "points_spent": 0,
+      "points_available": 10,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
     }
-  ],
-  "events": []
+  ]
 }
