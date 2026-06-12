@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-12T07:32:03.328Z",
+  "generated_at": "2026-06-12T07:32:14.143Z",
   "broadcasts": [
     {
       "id": "11021187-3470-4f9e-8a95-ffd44d9a74e5",
@@ -9,14 +9,6 @@
       "starts_at": null,
       "expires_at": null,
       "updated_at": "2026-06-11T09:13:52.507Z"
-    },
-    {
-      "id": "b72c779f-1a06-4bb5-9a96-10d5807a27bd",
-      "title": "testing123",
-      "message": "testsetksetskn",
-      "starts_at": null,
-      "expires_at": null,
-      "updated_at": "2026-06-08T15:03:48.714Z"
     }
   ],
   "events": [],
