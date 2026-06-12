@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-12T17:11:37.937Z",
+  "generated_at": "2026-06-12T18:11:38.470Z",
   "broadcasts": [],
   "events": [],
   "members": [
@@ -427,6 +427,26 @@
     {
       "rsn": "aquila rah",
       "rsn_key": "aquilarah",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "archive96713",
+      "rsn_key": "archive96713",
       "bot_rank": null,
       "progression_rank": null,
       "join_date": null,
@@ -6763,26 +6783,6 @@
     {
       "rsn": "TheXamero",
       "rsn_key": "thexamero",
-      "bot_rank": null,
-      "progression_rank": null,
-      "join_date": null,
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Gnome",
-        "point_cost": 0,
-        "min_months": 0,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      }
-    },
-    {
-      "rsn": "thowise",
-      "rsn_key": "thowise",
       "bot_rank": null,
       "progression_rank": null,
       "join_date": null,
