@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-12T18:41:38.074Z",
+  "generated_at": "2026-06-12T19:11:38.095Z",
   "broadcasts": [],
   "events": [],
   "members": [
@@ -1734,26 +1734,6 @@
         "missing_points": 150,
         "missing_months": 0,
         "can_claim": false
-      }
-    },
-    {
-      "rsn": "DSG farts",
-      "rsn_key": "dsgfarts",
-      "bot_rank": null,
-      "progression_rank": null,
-      "join_date": "2026-03-06 20:08:22.295525+00",
-      "points_total": 5,
-      "points_spent": 0,
-      "points_available": 5,
-      "months_in_clan": 3,
-      "next_rank": {
-        "name": "Gnome",
-        "point_cost": 0,
-        "min_months": 0,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
       }
     },
     {
