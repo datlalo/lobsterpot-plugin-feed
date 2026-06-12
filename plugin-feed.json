@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-12T07:53:19.438Z",
+  "generated_at": "2026-06-12T16:11:37.808Z",
   "broadcasts": [],
   "events": [],
   "members": [
@@ -302,6 +302,26 @@
         "missing_points": 255,
         "missing_months": 0,
         "can_claim": false
+      }
+    },
+    {
+      "rsn": "ali the fe",
+      "rsn_key": "alithefe",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
       }
     },
     {
@@ -2137,26 +2157,6 @@
       }
     },
     {
-      "rsn": "Fallllyy",
-      "rsn_key": "fallllyy",
-      "bot_rank": null,
-      "progression_rank": null,
-      "join_date": null,
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Gnome",
-        "point_cost": 0,
-        "min_months": 0,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      }
-    },
-    {
       "rsn": "FarmorsPung",
       "rsn_key": "farmorspung",
       "bot_rank": "Sapphire",
@@ -2274,6 +2274,26 @@
         "missing_points": 195,
         "missing_months": 0,
         "can_claim": false
+      }
+    },
+    {
+      "rsn": "finon",
+      "rsn_key": "finon",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
       }
     },
     {
@@ -3586,6 +3606,26 @@
       "points_spent": 0,
       "points_available": 255,
       "months_in_clan": 6,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
+      "rsn": "kidakol",
+      "rsn_key": "kidakol",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
       "next_rank": {
         "name": "Gnome",
         "point_cost": 0,
@@ -7258,26 +7298,6 @@
         "missing_points": 100,
         "missing_months": 0,
         "can_claim": false
-      }
-    },
-    {
-      "rsn": "Xaevros",
-      "rsn_key": "xaevros",
-      "bot_rank": null,
-      "progression_rank": null,
-      "join_date": null,
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Gnome",
-        "point_cost": 0,
-        "min_months": 0,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
       }
     },
     {
