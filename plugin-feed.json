@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-11T09:18:03.519Z",
+  "generated_at": "2026-06-12T07:29:15.321Z",
   "broadcasts": [
     {
       "id": "11021187-3470-4f9e-8a95-ffd44d9a74e5",
@@ -78,7 +78,7 @@
       "points_total": 290,
       "points_spent": 200,
       "points_available": 90,
-      "months_in_clan": 7,
+      "months_in_clan": 8,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -247,6 +247,26 @@
         "missing_points": 580,
         "missing_months": 4,
         "can_claim": false
+      }
+    },
+    {
+      "rsn": "Adamo Tosca",
+      "rsn_key": "adamotosca",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
       }
     },
     {
@@ -2142,26 +2162,6 @@
       }
     },
     {
-      "rsn": "Fab",
-      "rsn_key": "fab",
-      "bot_rank": null,
-      "progression_rank": null,
-      "join_date": "2026-06-02 14:00:09.587843+00",
-      "points_total": 10,
-      "points_spent": 0,
-      "points_available": 10,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Gnome",
-        "point_cost": 0,
-        "min_months": 0,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      }
-    },
-    {
       "rsn": "Fallllyy",
       "rsn_key": "fallllyy",
       "bot_rank": null,
@@ -3750,7 +3750,7 @@
       "points_total": 570,
       "points_spent": 300,
       "points_available": 270,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -3990,7 +3990,7 @@
       "points_total": 0,
       "points_spent": 0,
       "points_available": 0,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -4654,6 +4654,26 @@
       }
     },
     {
+      "rsn": "Normal Hyena",
+      "rsn_key": "normalhyena",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
       "rsn": "notplayingvb",
       "rsn_key": "notplayingvb",
       "bot_rank": null,
@@ -4822,14 +4842,14 @@
       "points_total": 0,
       "points_spent": 0,
       "points_available": 0,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 100,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       }
     },
@@ -4902,7 +4922,7 @@
       "points_total": 955,
       "points_spent": 770,
       "points_available": 185,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
@@ -6386,6 +6406,26 @@
       }
     },
     {
+      "rsn": "stachimir",
+      "rsn_key": "stachimir",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
       "rsn": "stan stihl",
       "rsn_key": "stanstihl",
       "bot_rank": null,
@@ -6746,6 +6786,26 @@
       }
     },
     {
+      "rsn": "throwgold222",
+      "rsn_key": "throwgold222",
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
       "rsn": "TonioVinito",
       "rsn_key": "toniovinito",
       "bot_rank": "Emerald",
@@ -6894,7 +6954,7 @@
       "points_total": 10,
       "points_spent": 0,
       "points_available": 10,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Gnome",
         "point_cost": 0,
