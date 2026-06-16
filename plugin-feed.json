@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-16T09:23:55.415Z",
+  "generated_at": "2026-06-16T09:51:10.297Z",
   "broadcasts": [],
   "events": [],
   "members": [
@@ -1462,9 +1462,9 @@
       "bot_rank": "Alt",
       "progression_rank": "Alt",
       "join_date": "2024-08-01",
-      "points_total": 5085,
+      "points_total": 5335,
       "points_spent": 1940,
-      "points_available": 3145,
+      "points_available": 3395,
       "months_in_clan": 22,
       "next_rank": null
     },
@@ -3802,9 +3802,9 @@
       "bot_rank": "Alt",
       "progression_rank": "Alt",
       "join_date": "2024-08-01",
-      "points_total": 5085,
+      "points_total": 5335,
       "points_spent": 1940,
-      "points_available": 3145,
+      "points_available": 3395,
       "months_in_clan": 22,
       "next_rank": null
     },
