@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-16T18:22:19.257Z",
+  "generated_at": "2026-06-16T20:52:19.380Z",
   "broadcasts": [],
   "events": [],
   "members": [
@@ -6487,19 +6487,19 @@
     {
       "rsn": "Vytrax",
       "rsn_key": "vytrax",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2026-02-14",
       "points_total": 255,
       "points_spent": 100,
       "points_available": 155,
       "months_in_clan": 4,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 45,
+        "missing_points": 145,
         "missing_months": 0,
         "can_claim": false
       }
@@ -6507,22 +6507,14 @@
     {
       "rsn": "wardyironboi",
       "rsn_key": "wardyironboi",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
       "join_date": null,
       "points_total": 0,
       "points_spent": 0,
       "points_available": 0,
       "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 100,
-        "missing_months": 1,
-        "can_claim": false
-      }
+      "next_rank": null
     },
     {
       "rsn": "weebles92",
@@ -6620,26 +6612,6 @@
         "min_months": 2,
         "requirements": null,
         "missing_points": 105,
-        "missing_months": 0,
-        "can_claim": false
-      }
-    },
-    {
-      "rsn": "Wyard",
-      "rsn_key": "wyard",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-04-13",
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 2,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 100,
         "missing_months": 0,
         "can_claim": false
       }
