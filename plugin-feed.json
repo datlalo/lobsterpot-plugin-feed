@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-16T09:51:10.297Z",
+  "generated_at": "2026-06-16T15:07:18.963Z",
   "broadcasts": [],
   "events": [],
   "members": [
@@ -1059,38 +1059,6 @@
         "missing_months": 1,
         "can_claim": false
       }
-    },
-    {
-      "rsn": "casual q q",
-      "rsn_key": "casualqq",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": null,
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 100,
-        "missing_months": 1,
-        "can_claim": false
-      }
-    },
-    {
-      "rsn": "Casual UwU",
-      "rsn_key": "casualuwu",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": null,
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": null
     },
     {
       "rsn": "cgshit",
@@ -3617,6 +3585,26 @@
       }
     },
     {
+      "rsn": "m0istest",
+      "rsn_key": "m0istest",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "M0nkan",
       "rsn_key": "m0nkan",
       "bot_rank": "Emerald",
@@ -5289,26 +5277,6 @@
       }
     },
     {
-      "rsn": "Seckon",
-      "rsn_key": "seckon",
-      "bot_rank": "Diamond",
-      "progression_rank": "Diamond",
-      "join_date": null,
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Dragonstone",
-        "point_cost": 500,
-        "min_months": 8,
-        "requirements": "Barrows Gloves",
-        "missing_points": 500,
-        "missing_months": 8,
-        "can_claim": false
-      }
-    },
-    {
       "rsn": "serfraser",
       "rsn_key": "serfraser",
       "bot_rank": "Gnome",
@@ -5901,26 +5869,6 @@
         "requirements": null,
         "missing_points": 100,
         "missing_months": 1,
-        "can_claim": false
-      }
-    },
-    {
-      "rsn": "StarktKaffe",
-      "rsn_key": "starktkaffe",
-      "bot_rank": "Diamond",
-      "progression_rank": "Diamond",
-      "join_date": null,
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Dragonstone",
-        "point_cost": 500,
-        "min_months": 8,
-        "requirements": "Barrows Gloves",
-        "missing_points": 500,
-        "missing_months": 8,
         "can_claim": false
       }
     },
@@ -6861,6 +6809,26 @@
         "requirements": "Barrows Gloves",
         "missing_points": 500,
         "missing_months": 8,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "zerozebo",
+      "rsn_key": "zerozebo",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
         "can_claim": false
       }
     },
