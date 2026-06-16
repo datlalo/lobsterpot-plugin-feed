@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-16T15:07:18.963Z",
+  "generated_at": "2026-06-16T16:07:18.786Z",
   "broadcasts": [],
   "events": [],
   "members": [
@@ -2051,14 +2051,22 @@
     {
       "rsn": "Fikos",
       "rsn_key": "fikos",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
       "join_date": "2025-09-21",
       "points_total": 505,
       "points_spent": 300,
       "points_available": 205,
       "months_in_clan": 8,
-      "next_rank": null
+      "next_rank": {
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 195,
+        "missing_months": 0,
+        "can_claim": false
+      }
     },
     {
       "rsn": "finon",
@@ -2135,14 +2143,22 @@
     {
       "rsn": "fiskmore",
       "rsn_key": "fiskmore",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
       "join_date": "2025-09-21",
       "points_total": 505,
       "points_spent": 300,
       "points_available": 205,
       "months_in_clan": 8,
-      "next_rank": null
+      "next_rank": {
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 195,
+        "missing_months": 0,
+        "can_claim": false
+      }
     },
     {
       "rsn": "fizzybub",
@@ -5045,18 +5061,6 @@
       }
     },
     {
-      "rsn": "Rune Relay",
-      "rsn_key": "runerelay",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2025-10-06",
-      "points_total": 320,
-      "points_spent": 0,
-      "points_available": 320,
-      "months_in_clan": 8,
-      "next_rank": null
-    },
-    {
       "rsn": "ruspinelli",
       "rsn_key": "ruspinelli",
       "bot_rank": "Sapphire",
@@ -5615,18 +5619,6 @@
         "missing_months": 3,
         "can_claim": false
       }
-    },
-    {
-      "rsn": "skillaid",
-      "rsn_key": "skillaid",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2025-10-06",
-      "points_total": 320,
-      "points_spent": 0,
-      "points_available": 320,
-      "months_in_clan": 8,
-      "next_rank": null
     },
     {
       "rsn": "s k w d",
