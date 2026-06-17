@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-16T20:52:19.380Z",
+  "generated_at": "2026-06-17T09:15:10.973Z",
   "broadcasts": [],
   "events": [],
   "members": [
@@ -1430,9 +1430,9 @@
       "bot_rank": "Alt",
       "progression_rank": "Alt",
       "join_date": "2024-08-01",
-      "points_total": 5335,
+      "points_total": 5458,
       "points_spent": 1940,
-      "points_available": 3395,
+      "points_available": 3518,
       "months_in_clan": 22,
       "next_rank": null
     },
@@ -1877,14 +1877,14 @@
       "points_total": 225,
       "points_spent": 0,
       "points_available": 225,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
         "missing_points": 0,
-        "missing_months": 2,
+        "missing_months": 1,
         "can_claim": false
       }
     },
@@ -2937,7 +2937,7 @@
       "points_total": 80,
       "points_spent": 0,
       "points_available": 80,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -3806,9 +3806,9 @@
       "bot_rank": "Alt",
       "progression_rank": "Alt",
       "join_date": "2024-08-01",
-      "points_total": 5335,
+      "points_total": 5458,
       "points_spent": 1940,
-      "points_available": 3395,
+      "points_available": 3518,
       "months_in_clan": 22,
       "next_rank": null
     },
@@ -5661,14 +5661,14 @@
       "points_total": 0,
       "points_spent": 0,
       "points_available": 0,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 100,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       }
     },
@@ -6433,7 +6433,7 @@
       "points_total": 100,
       "points_spent": 0,
       "points_available": 100,
-      "months_in_clan": 7,
+      "months_in_clan": 8,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
