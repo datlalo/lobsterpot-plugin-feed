@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-21T10:19:16.620Z",
+  "generated_at": "2026-06-21T10:28:28.940Z",
   "broadcasts": [],
   "events": [
     {
@@ -848,14 +848,22 @@
     {
       "rsn": "bnuuy_ashe",
       "rsn_key": "bnuuyashe",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": null,
-      "points_total": 0,
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-03-18",
+      "points_total": 80,
       "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": null
+      "points_available": 80,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 20,
+        "missing_months": 0,
+        "can_claim": false
+      }
     },
     {
       "rsn": "br1tneyspear",
@@ -2832,22 +2840,14 @@
     {
       "rsn": "ichig0at",
       "rsn_key": "ichig0at",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
       "join_date": null,
       "points_total": 0,
       "points_spent": 0,
       "points_available": 0,
       "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 100,
-        "missing_months": 1,
-        "can_claim": false
-      }
+      "next_rank": null
     },
     {
       "rsn": "if stupid",
@@ -3786,26 +3786,6 @@
         "requirements": "Fire Cape",
         "missing_points": 360,
         "missing_months": 0,
-        "can_claim": false
-      }
-    },
-    {
-      "rsn": "m1kedyson",
-      "rsn_key": "m1kedyson",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
-      "join_date": null,
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 300,
-        "missing_months": 3,
         "can_claim": false
       }
     },
