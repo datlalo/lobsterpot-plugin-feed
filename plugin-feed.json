@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-21T10:18:15.882Z",
+  "generated_at": "2026-06-21T10:19:16.620Z",
   "broadcasts": [],
   "events": [
     {
@@ -42,26 +42,6 @@
         "requirements": null,
         "missing_points": 30,
         "missing_months": 0,
-        "can_claim": false
-      }
-    },
-    {
-      "rsn": "1024mb",
-      "rsn_key": "1024mb",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": null,
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 200,
-        "missing_months": 2,
         "can_claim": false
       }
     },
@@ -3550,26 +3530,6 @@
       }
     },
     {
-      "rsn": "l3 v1",
-      "rsn_key": "l3v1",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": null,
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 200,
-        "missing_months": 2,
-        "can_claim": false
-      }
-    },
-    {
       "rsn": "LazyThom",
       "rsn_key": "lazythom",
       "bot_rank": "Ruby",
@@ -5450,26 +5410,6 @@
         "requirements": null,
         "missing_points": 100,
         "missing_months": 1,
-        "can_claim": false
-      }
-    },
-    {
-      "rsn": "samurai yack",
-      "rsn_key": "samuraiyack",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
-      "join_date": null,
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 300,
-        "missing_months": 3,
         "can_claim": false
       }
     },
