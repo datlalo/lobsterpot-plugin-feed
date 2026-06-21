@@ -1,8 +1,29 @@
 {
   "version": 1,
-  "generated_at": "2026-06-17T20:02:33.417Z",
+  "generated_at": "2026-06-21T07:40:38.446Z",
   "broadcasts": [],
-  "events": [],
+  "events": [
+    {
+      "id": "1517992106654961885",
+      "type": "event",
+      "title": "June Slayer BOTM",
+      "location": "Slayer Boss Rooms",
+      "starts_at": "2026-06-22T06:00:00.000Z",
+      "ends_at": "2026-06-29T06:00:00.000Z",
+      "description": "",
+      "thread_id": "1517992106654961885"
+    },
+    {
+      "id": "1517638097402204272",
+      "type": "event",
+      "title": "Lobster Pot PVM Map Sweep",
+      "location": "Runescape",
+      "starts_at": "2026-07-27T15:00:00.000Z",
+      "ends_at": "2026-08-03T05:00:00.000Z",
+      "description": "",
+      "thread_id": "1517638097402204272"
+    }
+  ],
   "members": [
     {
       "rsn": "0jack black0",
@@ -60,26 +81,6 @@
         "min_months": 3,
         "requirements": null,
         "missing_points": 210,
-        "missing_months": 0,
-        "can_claim": false
-      }
-    },
-    {
-      "rsn": "24 7 anxiety",
-      "rsn_key": "247anxiety",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2025-12-07 18:36:22.184125+00",
-      "points_total": 5,
-      "points_spent": 0,
-      "points_available": 5,
-      "months_in_clan": 6,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 95,
         "missing_months": 0,
         "can_claim": false
       }
@@ -149,18 +150,18 @@
       "rsn_key": "672",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
-      "join_date": null,
+      "join_date": "2026-04-22",
       "points_total": 0,
       "points_spent": 0,
       "points_available": 0,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 100,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       }
     },
@@ -173,7 +174,7 @@
       "points_total": 575,
       "points_spent": 300,
       "points_available": 275,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -373,14 +374,14 @@
       "points_total": 15,
       "points_spent": 0,
       "points_available": 15,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
         "missing_points": 185,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       }
     },
@@ -513,7 +514,7 @@
       "points_total": 80,
       "points_spent": 0,
       "points_available": 80,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -670,16 +671,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2025-11-27",
-      "points_total": 250,
+      "points_total": 225,
       "points_spent": 250,
-      "points_available": 0,
+      "points_available": -25,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 300,
+        "missing_points": 325,
         "missing_months": 0,
         "can_claim": false
       }
@@ -687,14 +688,22 @@
     {
       "rsn": "Barker235",
       "rsn_key": "barker235",
-      "bot_rank": "Captain",
-      "progression_rank": "Captain",
+      "bot_rank": "Diamond",
+      "progression_rank": "Diamond",
       "join_date": "2025-08-29",
       "points_total": 970,
       "points_spent": 700,
       "points_available": 270,
       "months_in_clan": 9,
-      "next_rank": null
+      "next_rank": {
+        "name": "Dragonstone",
+        "point_cost": 500,
+        "min_months": 8,
+        "requirements": "Barrows Gloves",
+        "missing_points": 230,
+        "missing_months": 0,
+        "can_claim": false
+      }
     },
     {
       "rsn": "b bub",
@@ -719,14 +728,22 @@
     {
       "rsn": "BearsBeatsBG",
       "rsn_key": "bearsbeatsbg",
-      "bot_rank": "Lead Admin",
-      "progression_rank": "Lead Admin",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2025-09-28",
       "points_total": 805,
       "points_spent": 150,
       "points_available": 655,
       "months_in_clan": 8,
-      "next_rank": null
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
     },
     {
       "rsn": "Beds",
@@ -885,18 +902,18 @@
       "rsn_key": "bootbonebell",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
-      "join_date": "2026-04-14",
-      "points_total": 5,
+      "join_date": null,
+      "points_total": 0,
       "points_spent": 0,
-      "points_available": 5,
-      "months_in_clan": 2,
+      "points_available": 0,
+      "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 95,
-        "missing_months": 0,
+        "missing_points": 100,
+        "missing_months": 1,
         "can_claim": false
       }
     },
@@ -929,7 +946,7 @@
       "points_total": 415,
       "points_spent": 300,
       "points_available": 115,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -949,7 +966,7 @@
       "points_total": 15,
       "points_spent": 0,
       "points_available": 15,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -1129,7 +1146,7 @@
       "points_total": 255,
       "points_spent": 0,
       "points_available": 255,
-      "months_in_clan": 9,
+      "months_in_clan": 10,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -1209,14 +1226,14 @@
       "points_total": 0,
       "points_spent": 0,
       "points_available": 0,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 100,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       }
     },
@@ -1229,7 +1246,7 @@
       "points_total": 35,
       "points_spent": 0,
       "points_available": 35,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -1403,36 +1420,52 @@
     {
       "rsn": "DaKM",
       "rsn_key": "dakm",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": null,
       "points_total": 0,
       "points_spent": 0,
       "points_available": 0,
       "months_in_clan": 0,
-      "next_rank": null
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 300,
+        "missing_months": 3,
+        "can_claim": false
+      }
     },
     {
       "rsn": "damn wolf",
       "rsn_key": "damnwolf",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": null,
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": null
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
+      "join_date": "2025-09-22",
+      "points_total": 455,
+      "points_spent": 310,
+      "points_available": 145,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 255,
+        "missing_months": 0,
+        "can_claim": false
+      }
     },
     {
       "rsn": "DatLalo",
       "rsn_key": "datlalo",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
+      "bot_rank": "Owner",
+      "progression_rank": "Owner",
       "join_date": "2024-08-01",
-      "points_total": 5458,
-      "points_spent": 1940,
-      "points_available": 3518,
+      "points_total": 4835,
+      "points_spent": 1140,
+      "points_available": 3695,
       "months_in_clan": 22,
       "next_rank": null
     },
@@ -1654,16 +1687,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2025-09-14",
-      "points_total": 150,
+      "points_total": 180,
       "points_spent": 0,
-      "points_available": 150,
+      "points_available": 180,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 150,
+        "missing_points": 120,
         "missing_months": 0,
         "can_claim": false
       }
@@ -1677,7 +1710,7 @@
       "points_total": 30,
       "points_spent": 0,
       "points_available": 30,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -1814,16 +1847,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-02-15 19:07:31.438617+00",
-      "points_total": 35,
+      "points_total": 55,
       "points_spent": 0,
-      "points_available": 35,
+      "points_available": 55,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 65,
+        "missing_points": 45,
         "missing_months": 0,
         "can_claim": false
       }
@@ -2074,16 +2107,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-09-21",
-      "points_total": 505,
+      "points_total": 535,
       "points_spent": 300,
-      "points_available": 205,
-      "months_in_clan": 8,
+      "points_available": 235,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 195,
+        "missing_points": 165,
         "missing_months": 0,
         "can_claim": false
       }
@@ -2131,14 +2164,22 @@
     {
       "rsn": "fires brand",
       "rsn_key": "firesbrand",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": null,
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": null
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
+      "join_date": "2025-11-02",
+      "points_total": 570,
+      "points_spent": 500,
+      "points_available": 70,
+      "months_in_clan": 7,
+      "next_rank": {
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 330,
+        "missing_months": 0,
+        "can_claim": false
+      }
     },
     {
       "rsn": "FisherBes",
@@ -2166,16 +2207,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-09-21",
-      "points_total": 505,
+      "points_total": 535,
       "points_spent": 300,
-      "points_available": 205,
-      "months_in_clan": 8,
+      "points_available": 235,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 195,
+        "missing_points": 165,
         "missing_months": 0,
         "can_claim": false
       }
@@ -2183,6 +2224,26 @@
     {
       "rsn": "fizzybub",
       "rsn_key": "fizzybub",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "flame fire",
+      "rsn_key": "flamefire",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": null,
@@ -2483,14 +2544,42 @@
     {
       "rsn": "G orgy",
       "rsn_key": "gorgy",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-03-08",
+      "points_total": 30,
+      "points_spent": 0,
+      "points_available": 30,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 170,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Grayest",
+      "rsn_key": "grayest",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
       "join_date": null,
       "points_total": 0,
       "points_spent": 0,
       "points_available": 0,
       "months_in_clan": 0,
-      "next_rank": null
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "Gremlinella",
@@ -2715,14 +2804,22 @@
     {
       "rsn": "hotcuparamen",
       "rsn_key": "hotcuparamen",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": null,
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": null
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-03-16",
+      "points_total": 220,
+      "points_spent": 100,
+      "points_available": 120,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 80,
+        "missing_months": 0,
+        "can_claim": false
+      }
     },
     {
       "rsn": "HTooTHBTW",
@@ -2807,26 +2904,42 @@
     {
       "rsn": "ichig0at",
       "rsn_key": "ichig0at",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
       "join_date": null,
       "points_total": 0,
       "points_spent": 0,
       "points_available": 0,
       "months_in_clan": 0,
-      "next_rank": null
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "if stupid",
       "rsn_key": "ifstupid",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2026-03-16 13:00:27.459611+00",
-      "points_total": 20,
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-02-15 19:07:31.438617+00",
+      "points_total": 55,
       "points_spent": 0,
-      "points_available": 20,
-      "months_in_clan": 3,
-      "next_rank": null
+      "points_available": 55,
+      "months_in_clan": 4,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 45,
+        "missing_months": 0,
+        "can_claim": false
+      }
     },
     {
       "rsn": "im homesick",
@@ -2945,6 +3058,26 @@
         "requirements": null,
         "missing_points": 60,
         "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Iron Kolza",
+      "rsn_key": "ironkolza",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
         "can_claim": false
       }
     },
@@ -3171,14 +3304,22 @@
     {
       "rsn": "just a jax",
       "rsn_key": "justajax",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
       "join_date": null,
       "points_total": 0,
       "points_spent": 0,
       "points_available": 0,
       "months_in_clan": 0,
-      "next_rank": null
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "just a timmy",
@@ -3306,16 +3447,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": null,
-      "points_total": 0,
+      "points_total": 30,
       "points_spent": 0,
-      "points_available": 0,
+      "points_available": 30,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 100,
+        "missing_points": 70,
         "missing_months": 1,
         "can_claim": false
       }
@@ -3465,18 +3606,18 @@
       "rsn_key": "l3v1",
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
-      "join_date": "2025-12-07 18:36:25.747515+00",
-      "points_total": 5,
+      "join_date": null,
+      "points_total": 0,
       "points_spent": 0,
-      "points_available": 5,
-      "months_in_clan": 6,
+      "points_available": 0,
+      "months_in_clan": 0,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 195,
-        "missing_months": 0,
+        "missing_points": 200,
+        "missing_months": 2,
         "can_claim": false
       }
     },
@@ -3686,16 +3827,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": null,
-      "points_total": 0,
+      "points_total": 30,
       "points_spent": 0,
-      "points_available": 0,
+      "points_available": 30,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 100,
+        "missing_points": 70,
         "missing_months": 1,
         "can_claim": false
       }
@@ -3757,6 +3898,26 @@
         "requirements": null,
         "missing_points": 300,
         "missing_months": 3,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "mage hiro",
+      "rsn_key": "magehiro",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
         "can_claim": false
       }
     },
@@ -3883,14 +4044,34 @@
     {
       "rsn": "McGnomes",
       "rsn_key": "mcgnomes",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
+      "bot_rank": "Owner",
+      "progression_rank": "Owner",
       "join_date": "2024-08-01",
-      "points_total": 5458,
-      "points_spent": 1940,
-      "points_available": 3518,
+      "points_total": 4835,
+      "points_spent": 1140,
+      "points_available": 3695,
       "months_in_clan": 22,
       "next_rank": null
+    },
+    {
+      "rsn": "mc templeton",
+      "rsn_key": "mctempleton",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 200,
+        "missing_months": 2,
+        "can_claim": false
+      }
     },
     {
       "rsn": "Mikey1569",
@@ -3915,26 +4096,42 @@
     {
       "rsn": "Mini Soda",
       "rsn_key": "minisoda",
-      "bot_rank": "Moderator",
-      "progression_rank": "Moderator",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2025-11-26",
       "points_total": 330,
       "points_spent": 200,
       "points_available": 130,
       "months_in_clan": 6,
-      "next_rank": null
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 170,
+        "missing_months": 0,
+        "can_claim": false
+      }
     },
     {
       "rsn": "misalongtime",
       "rsn_key": "misalongtime",
-      "bot_rank": "Moderator",
-      "progression_rank": "Moderator",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2025-09-05",
-      "points_total": 475,
+      "points_total": 505,
       "points_spent": 350,
-      "points_available": 125,
+      "points_available": 155,
       "months_in_clan": 9,
-      "next_rank": null
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 145,
+        "missing_months": 0,
+        "can_claim": false
+      }
     },
     {
       "rsn": "moeychan",
@@ -4059,14 +4256,22 @@
     {
       "rsn": "MrWFH",
       "rsn_key": "mrwfh",
-      "bot_rank": "Lead Admin",
-      "progression_rank": "Lead Admin",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2025-09-28",
       "points_total": 805,
       "points_spent": 150,
       "points_available": 655,
       "months_in_clan": 8,
-      "next_rank": null
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
     },
     {
       "rsn": "Mr WlKl",
@@ -4393,18 +4598,18 @@
       "rsn_key": "nugamoto",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
-      "join_date": "2026-06-10",
+      "join_date": "2026-04-29",
       "points_total": 0,
       "points_spent": 0,
       "points_available": 0,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 100,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       }
     },
@@ -4471,22 +4676,14 @@
     {
       "rsn": "Ol ivia",
       "rsn_key": "olivia",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
       "join_date": "2026-03-20",
-      "points_total": 200,
+      "points_total": 230,
       "points_spent": 100,
-      "points_available": 100,
-      "months_in_clan": 2,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 100,
-        "missing_months": 0,
-        "can_claim": false
-      }
+      "points_available": 130,
+      "months_in_clan": 3,
+      "next_rank": null
     },
     {
       "rsn": "oO Crabs Oo",
@@ -4525,6 +4722,26 @@
         "requirements": null,
         "missing_points": 100,
         "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Orduil",
+      "rsn_key": "orduil",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
         "can_claim": false
       }
     },
@@ -4637,7 +4854,7 @@
       "points_total": 5,
       "points_spent": 0,
       "points_available": 5,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -4877,14 +5094,14 @@
       "points_total": 0,
       "points_spent": 0,
       "points_available": 0,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 100,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       }
     },
@@ -4971,14 +5188,22 @@
     {
       "rsn": "reflexsloth",
       "rsn_key": "reflexsloth",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": null,
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": null
+      "bot_rank": "Dragonstone",
+      "progression_rank": "Dragonstone",
+      "join_date": "2025-09-25",
+      "points_total": 1450,
+      "points_spent": 1230,
+      "points_available": 220,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Onyx",
+        "point_cost": 800,
+        "min_months": 12,
+        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "missing_points": 580,
+        "missing_months": 4,
+        "can_claim": false
+      }
     },
     {
       "rsn": "Relye",
@@ -5203,21 +5428,21 @@
     {
       "rsn": "Saint Divahn",
       "rsn_key": "saintdivahn",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Diamond",
+      "progression_rank": "Diamond",
       "join_date": "2025-12-07 18:36:19.326276+00",
-      "points_total": 255,
+      "points_total": 250,
       "points_spent": 0,
-      "points_available": 255,
+      "points_available": 250,
       "months_in_clan": 6,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
+        "name": "Dragonstone",
+        "point_cost": 500,
+        "min_months": 8,
+        "requirements": "Barrows Gloves",
+        "missing_points": 250,
+        "missing_months": 2,
+        "can_claim": false
       }
     },
     {
@@ -5425,19 +5650,19 @@
       "rsn_key": "sharkinbath",
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
-      "join_date": "2025-12-07 18:36:19.326276+00",
-      "points_total": 255,
+      "join_date": "2026-06-07",
+      "points_total": 5,
       "points_spent": 0,
-      "points_available": 255,
-      "months_in_clan": 6,
+      "points_available": 5,
+      "months_in_clan": 0,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
+        "missing_points": 195,
+        "missing_months": 2,
+        "can_claim": false
       }
     },
     {
@@ -5703,14 +5928,22 @@
     {
       "rsn": "s k w d",
       "rsn_key": "skwd",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": null,
-      "points_total": 0,
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2025-10-13",
+      "points_total": 265,
       "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": null
+      "points_available": 265,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
     },
     {
       "rsn": "SkyHawk1429",
@@ -5801,7 +6034,7 @@
       "points_total": 110,
       "points_spent": 0,
       "points_available": 110,
-      "months_in_clan": 9,
+      "months_in_clan": 10,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -5895,14 +6128,22 @@
     {
       "rsn": "SSJ Bradley",
       "rsn_key": "ssjbradley",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": null,
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": null
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2026-01-20",
+      "points_total": 415,
+      "points_spent": 300,
+      "points_available": 115,
+      "months_in_clan": 5,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 185,
+        "missing_months": 0,
+        "can_claim": false
+      }
     },
     {
       "rsn": "stachimir",
@@ -6013,7 +6254,7 @@
       "points_total": 40,
       "points_spent": 0,
       "points_available": 40,
-      "months_in_clan": 7,
+      "months_in_clan": 8,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -6225,6 +6466,26 @@
       }
     },
     {
+      "rsn": "thetownghost",
+      "rsn_key": "thetownghost",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2025-12-07 18:36:22.184125+00",
+      "points_total": 5,
+      "points_spent": 0,
+      "points_available": 5,
+      "months_in_clan": 6,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 95,
+        "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "TheXamero",
       "rsn_key": "thexamero",
       "bot_rank": "Gnome",
@@ -6293,7 +6554,7 @@
       "points_total": 575,
       "points_spent": 300,
       "points_available": 275,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -6313,7 +6574,7 @@
       "points_total": 0,
       "points_spent": 0,
       "points_available": 0,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -6570,16 +6831,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-02-14",
-      "points_total": 255,
-      "points_spent": 100,
-      "points_available": 155,
+      "points_total": 300,
+      "points_spent": 300,
+      "points_available": 0,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 145,
+        "missing_points": 300,
         "missing_months": 0,
         "can_claim": false
       }
@@ -6587,14 +6848,22 @@
     {
       "rsn": "wardyironboi",
       "rsn_key": "wardyironboi",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": null,
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": null
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-01-29",
+      "points_total": 215,
+      "points_spent": 110,
+      "points_available": 105,
+      "months_in_clan": 4,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 95,
+        "missing_months": 0,
+        "can_claim": false
+      }
     },
     {
       "rsn": "weebles92",
@@ -6645,7 +6914,7 @@
       "points_total": 20,
       "points_spent": 0,
       "points_available": 20,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
