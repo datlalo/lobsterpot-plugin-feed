@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-21T12:42:42.728Z",
+  "generated_at": "2026-06-21T17:10:31.664Z",
   "broadcasts": [],
   "events": [
     {
@@ -5642,6 +5642,18 @@
       }
     },
     {
+      "rsn": "sinesim",
+      "rsn_key": "sinesim",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
+    },
+    {
       "rsn": "sinesu",
       "rsn_key": "sinesu",
       "bot_rank": "Gnome",
@@ -6338,6 +6350,26 @@
         "requirements": null,
         "missing_points": 95,
         "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "the World G",
+      "rsn_key": "theworldg",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
         "can_claim": false
       }
     },
