@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-21T10:37:29.401Z",
+  "generated_at": "2026-06-21T10:41:03.297Z",
   "broadcasts": [],
   "events": [
     {
@@ -2838,18 +2838,6 @@
       }
     },
     {
-      "rsn": "ichig0at",
-      "rsn_key": "ichig0at",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": null,
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": null
-    },
-    {
       "rsn": "if stupid",
       "rsn_key": "ifstupid",
       "bot_rank": "Gnome",
@@ -3794,18 +3782,18 @@
       "rsn_key": "m1kedyson",
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
-      "join_date": null,
+      "join_date": "2025-08-24",
       "points_total": 0,
       "points_spent": 0,
       "points_available": 0,
-      "months_in_clan": 0,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
         "missing_points": 300,
-        "missing_months": 3,
+        "missing_months": 0,
         "can_claim": false
       }
     },
@@ -6299,26 +6287,6 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-05-29",
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 100,
-        "missing_months": 1,
-        "can_claim": false
-      }
-    },
-    {
-      "rsn": "therondir",
-      "rsn_key": "therondir",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": null,
       "points_total": 0,
       "points_spent": 0,
       "points_available": 0,
