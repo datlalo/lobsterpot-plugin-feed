@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-21T10:28:28.940Z",
+  "generated_at": "2026-06-21T10:34:27.561Z",
   "broadcasts": [],
   "events": [
     {
@@ -3786,6 +3786,26 @@
         "requirements": "Fire Cape",
         "missing_points": 360,
         "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "m1kedyson",
+      "rsn_key": "m1kedyson",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 300,
+        "missing_months": 3,
         "can_claim": false
       }
     },
