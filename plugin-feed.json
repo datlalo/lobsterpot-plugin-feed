@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-22T05:15:33.905Z",
+  "generated_at": "2026-06-22T10:39:40.449Z",
   "broadcasts": [],
   "events": [
     {
@@ -18,8 +18,8 @@
       "type": "event",
       "title": "Lobster Pot PVM Map Sweep",
       "location": "Runescape",
-      "starts_at": "2026-07-27T15:00:00.000Z",
-      "ends_at": "2026-08-03T05:00:00.000Z",
+      "starts_at": "2026-06-28T15:00:00.000Z",
+      "ends_at": "2026-07-05T15:00:00.000Z",
       "description": "",
       "thread_id": "1517638097402204272"
     }
