@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-22T21:59:32.696Z",
+  "generated_at": "2026-06-22T22:17:10.837Z",
   "broadcasts": [],
   "events": [
     {
@@ -1391,9 +1391,9 @@
       "bot_rank": "Owner",
       "progression_rank": "Owner",
       "join_date": "2024-08-01",
-      "points_total": 4835,
+      "points_total": 4850,
       "points_spent": 1140,
-      "points_available": 3695,
+      "points_available": 3710,
       "months_in_clan": 22,
       "next_rank": null
     },
@@ -3923,9 +3923,9 @@
       "bot_rank": "Owner",
       "progression_rank": "Owner",
       "join_date": "2024-08-01",
-      "points_total": 4835,
+      "points_total": 4850,
       "points_spent": 1140,
-      "points_available": 3695,
+      "points_available": 3710,
       "months_in_clan": 22,
       "next_rank": null
     },
@@ -4378,14 +4378,14 @@
       "points_total": 30,
       "points_spent": 0,
       "points_available": 30,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 70,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       }
     },
@@ -5810,7 +5810,7 @@
       "points_total": 10,
       "points_spent": 0,
       "points_available": 10,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -7050,14 +7050,14 @@
       "points_total": 30,
       "points_spent": 0,
       "points_available": 30,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 70,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       }
     },
