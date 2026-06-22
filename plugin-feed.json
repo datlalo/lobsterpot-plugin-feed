@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-22T11:00:00.276Z",
+  "generated_at": "2026-06-22T14:10:33.691Z",
   "broadcasts": [],
   "events": [
     {
@@ -4450,6 +4450,26 @@
       }
     },
     {
+      "rsn": "notfitz",
+      "rsn_key": "notfitz",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "notplayingvb",
       "rsn_key": "notplayingvb",
       "bot_rank": "Gnome",
@@ -5237,26 +5257,6 @@
         "min_months": 1,
         "requirements": null,
         "missing_points": 75,
-        "missing_months": 0,
-        "can_claim": false
-      }
-    },
-    {
-      "rsn": "rumpulll4skn",
-      "rsn_key": "rumpulll4skn",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
-      "join_date": "2025-12-07 18:36:22.360172+00",
-      "points_total": 5,
-      "points_spent": 0,
-      "points_available": 5,
-      "months_in_clan": 6,
-      "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 295,
         "missing_months": 0,
         "can_claim": false
       }
@@ -6938,6 +6938,46 @@
         "requirements": null,
         "missing_points": 95,
         "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "xJillzz",
+      "rsn_key": "xjillzz",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "xzeloss",
+      "rsn_key": "xzeloss",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
         "can_claim": false
       }
     },
