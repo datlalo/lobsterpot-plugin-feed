@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-22T17:45:40.528Z",
+  "generated_at": "2026-06-22T19:55:34.492Z",
   "broadcasts": [],
   "events": [
     {
@@ -683,26 +683,6 @@
         "missing_points": 500,
         "missing_months": 0,
         "can_claim": false
-      }
-    },
-    {
-      "rsn": "BearsBeatsBG",
-      "rsn_key": "bearsbeatsbg",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
-      "join_date": "2025-09-28",
-      "points_total": 805,
-      "points_spent": 150,
-      "points_available": 655,
-      "months_in_clan": 8,
-      "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
       }
     },
     {
@@ -3158,6 +3138,26 @@
       }
     },
     {
+      "rsn": "its kippari",
+      "rsn_key": "itskippari",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "JackWilfred",
       "rsn_key": "jackwilfred",
       "bot_rank": "Gnome",
@@ -4050,26 +4050,6 @@
       }
     },
     {
-      "rsn": "mokrilli",
-      "rsn_key": "mokrilli",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": null,
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 100,
-        "missing_months": 1,
-        "can_claim": false
-      }
-    },
-    {
       "rsn": "Mr Grenwall",
       "rsn_key": "mrgrenwall",
       "bot_rank": "Sapphire",
@@ -4127,26 +4107,6 @@
         "missing_points": 100,
         "missing_months": 1,
         "can_claim": false
-      }
-    },
-    {
-      "rsn": "MrWFH",
-      "rsn_key": "mrwfh",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
-      "join_date": "2025-09-28",
-      "points_total": 805,
-      "points_spent": 150,
-      "points_available": 655,
-      "months_in_clan": 8,
-      "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
       }
     },
     {
