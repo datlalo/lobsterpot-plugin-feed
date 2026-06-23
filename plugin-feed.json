@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-23T03:52:25.692Z",
+  "generated_at": "2026-06-23T03:55:27.442Z",
   "broadcasts": [],
   "events": [
     {
@@ -2723,16 +2723,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-03-16",
-      "points_total": 220,
+      "points_total": 250,
       "points_spent": 100,
-      "points_available": 120,
+      "points_available": 150,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 80,
+        "missing_points": 50,
         "missing_months": 0,
         "can_claim": false
       }
@@ -4215,16 +4215,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": null,
-      "points_total": 0,
+      "points_total": 30,
       "points_spent": 0,
-      "points_available": 0,
+      "points_available": 30,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 100,
+        "missing_points": 70,
         "missing_months": 1,
         "can_claim": false
       }
@@ -6087,16 +6087,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-03-16",
-      "points_total": 220,
+      "points_total": 250,
       "points_spent": 100,
-      "points_available": 120,
+      "points_available": 150,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 80,
+        "missing_points": 50,
         "missing_months": 0,
         "can_claim": false
       }
@@ -7047,16 +7047,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-05-23 15:00:16.833464+00",
-      "points_total": 30,
+      "points_total": 60,
       "points_spent": 0,
-      "points_available": 30,
+      "points_available": 60,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 70,
+        "missing_points": 40,
         "missing_months": 0,
         "can_claim": false
       }
