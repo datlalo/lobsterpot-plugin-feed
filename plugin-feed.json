@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-23T19:07:02.931Z",
+  "generated_at": "2026-06-23T21:43:14.269Z",
   "broadcasts": [
     {
       "id": "2dc43147-6617-45fb-b4aa-7f85be6c4d3b",
@@ -180,16 +180,16 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 1721,
+      "points_total": 1736,
       "points_spent": 1230,
-      "points_available": 491,
+      "points_available": 506,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 309,
+        "missing_points": 294,
         "missing_months": 4,
         "can_claim": false
       }
@@ -477,20 +477,20 @@
     {
       "rsn": "AshenaleFerg",
       "rsn_key": "ashenaleferg",
-      "bot_rank": "Ruby",
-      "progression_rank": "Ruby",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2026-01-31",
       "points_total": 783,
       "points_spent": 650,
       "points_available": 133,
       "months_in_clan": 4,
       "next_rank": {
-        "name": "Diamond",
-        "point_cost": 400,
-        "min_months": 5,
-        "requirements": "Fire Cape",
-        "missing_points": 267,
-        "missing_months": 1,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 167,
+        "missing_months": 0,
         "can_claim": false
       }
     },
@@ -1529,19 +1529,19 @@
     {
       "rsn": "Diomedes",
       "rsn_key": "diomedes",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-03-09",
       "points_total": 341,
       "points_spent": 300,
       "points_available": 41,
       "months_in_clan": 3,
       "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 259,
+        "missing_points": 159,
         "missing_months": 0,
         "can_claim": false
       }
@@ -2412,16 +2412,16 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 1721,
+      "points_total": 1736,
       "points_spent": 1230,
-      "points_available": 491,
+      "points_available": 506,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 309,
+        "missing_points": 294,
         "missing_months": 4,
         "can_claim": false
       }
@@ -4781,16 +4781,16 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 1721,
+      "points_total": 1736,
       "points_spent": 1230,
-      "points_available": 491,
+      "points_available": 506,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 309,
+        "missing_points": 294,
         "missing_months": 4,
         "can_claim": false
       }
@@ -5101,16 +5101,16 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 1721,
+      "points_total": 1736,
       "points_spent": 1230,
-      "points_available": 491,
+      "points_available": 506,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 309,
+        "missing_points": 294,
         "missing_months": 4,
         "can_claim": false
       }
