@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-23T15:41:32.492Z",
+  "generated_at": "2026-06-23T16:27:32.686Z",
   "broadcasts": [
     {
       "id": "2dc43147-6617-45fb-b4aa-7f85be6c4d3b",
@@ -1315,6 +1315,26 @@
       }
     },
     {
+      "rsn": "corvusim",
+      "rsn_key": "corvusim",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "crazy jojo",
       "rsn_key": "crazyjojo",
       "bot_rank": "Gnome",
@@ -2364,6 +2384,26 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      }
+    },
+    {
+      "rsn": "gimshortking",
+      "rsn_key": "gimshortking",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
       }
     },
     {
@@ -5033,26 +5073,6 @@
     {
       "rsn": "randymarsh91",
       "rsn_key": "randymarsh91",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": null,
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 100,
-        "missing_months": 1,
-        "can_claim": false
-      }
-    },
-    {
-      "rsn": "rawd0gr0dn3y",
-      "rsn_key": "rawd0gr0dn3y",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": null,
