@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-23T05:05:00.825Z",
+  "generated_at": "2026-06-23T12:54:23.856Z",
   "broadcasts": [],
   "events": [
     {
@@ -2723,16 +2723,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-03-16",
-      "points_total": 250,
+      "points_total": 265,
       "points_spent": 100,
-      "points_available": 150,
+      "points_available": 165,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 50,
+        "missing_points": 35,
         "missing_months": 0,
         "can_claim": false
       }
@@ -3758,26 +3758,6 @@
       }
     },
     {
-      "rsn": "M0rgueRat",
-      "rsn_key": "m0rguerat",
-      "bot_rank": "Ruby",
-      "progression_rank": "Ruby",
-      "join_date": "2025-09-03",
-      "points_total": 390,
-      "points_spent": 350,
-      "points_available": 40,
-      "months_in_clan": 9,
-      "next_rank": {
-        "name": "Diamond",
-        "point_cost": 400,
-        "min_months": 5,
-        "requirements": "Fire Cape",
-        "missing_points": 360,
-        "missing_months": 0,
-        "can_claim": false
-      }
-    },
-    {
       "rsn": "m1kedyson",
       "rsn_key": "m1kedyson",
       "bot_rank": "Emerald",
@@ -4530,6 +4510,26 @@
       }
     },
     {
+      "rsn": "og gromni",
+      "rsn_key": "oggromni",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "Ol ivia",
       "rsn_key": "olivia",
       "bot_rank": "Alt",
@@ -4907,16 +4907,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-09-30",
-      "points_total": 530,
+      "points_total": 575,
       "points_spent": 300,
-      "points_available": 230,
+      "points_available": 275,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 170,
+        "missing_points": 125,
         "missing_months": 0,
         "can_claim": false
       }
@@ -6087,16 +6087,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-03-16",
-      "points_total": 250,
+      "points_total": 265,
       "points_spent": 100,
-      "points_available": 150,
+      "points_available": 165,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 50,
+        "missing_points": 35,
         "missing_months": 0,
         "can_claim": false
       }
@@ -6302,7 +6302,7 @@
       }
     },
     {
-      "rsn": "thetownghost",
+      "rsn": "TheTownGhost",
       "rsn_key": "thetownghost",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
