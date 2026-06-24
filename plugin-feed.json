@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-24T20:43:19.316Z",
+  "generated_at": "2026-06-24T20:46:20.940Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -3460,26 +3460,21 @@
     {
       "rsn": "Kadwallar",
       "rsn_key": "kadwallar",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2026-02-25",
       "points_total": 324,
-      "points_spent": 100,
-      "points_available": 224,
+      "points_spent": 300,
+      "points_available": 24,
       "months_in_clan": 3,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 276,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Emerald",
-        "created_at": "2026-06-24T20:43:17.130Z"
+        "can_claim": false
       }
     },
     {
