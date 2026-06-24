@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-24T22:12:03.371Z",
+  "generated_at": "2026-06-24T22:15:04.933Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -2983,16 +2983,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-03-18",
-      "points_total": 148,
+      "points_total": 163,
       "points_spent": 100,
-      "points_available": 48,
+      "points_available": 63,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 152,
+        "missing_points": 137,
         "missing_months": 0,
         "can_claim": false
       }
