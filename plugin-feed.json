@@ -1,16 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-06-24T17:34:27.168Z",
-  "broadcasts": [
-    {
-      "id": "2dc43147-6617-45fb-b4aa-7f85be6c4d3b",
-      "title": "Test Broadcast for Fikos <3",
-      "message": "This is a test broadcast. Lorem Ipsum or some shit, idk.",
-      "starts_at": "2026-06-23T14:13:00.000Z",
-      "expires_at": "2026-06-25T14:13:00.000Z",
-      "updated_at": "2026-06-23T14:14:19.064Z"
-    }
-  ],
+  "generated_at": "2026-06-24T17:35:39.110Z",
+  "broadcasts": [],
   "events": [
     {
       "id": "1517992106654961885",
