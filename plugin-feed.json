@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-24T00:42:32.451Z",
+  "generated_at": "2026-06-24T04:39:23.340Z",
   "broadcasts": [
     {
       "id": "2dc43147-6617-45fb-b4aa-7f85be6c4d3b",
@@ -5533,26 +5533,21 @@
     {
       "rsn": "shinji420",
       "rsn_key": "shinji420",
-      "bot_rank": "Ruby",
-      "progression_rank": "Ruby",
+      "bot_rank": "Diamond",
+      "progression_rank": "Diamond",
       "join_date": "2025-08-31",
       "points_total": 847,
-      "points_spent": 350,
-      "points_available": 497,
+      "points_spent": 750,
+      "points_available": 97,
       "months_in_clan": 9,
       "next_rank": {
-        "name": "Diamond",
-        "point_cost": 400,
-        "min_months": 5,
-        "requirements": "Fire Cape",
-        "missing_points": 0,
+        "name": "Dragonstone",
+        "point_cost": 500,
+        "min_months": 8,
+        "requirements": "Barrows Gloves",
+        "missing_points": 403,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Diamond",
-        "created_at": "2026-06-23T21:43:51.293Z"
+        "can_claim": false
       }
     },
     {
