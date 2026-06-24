@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-24T15:49:14.933Z",
+  "generated_at": "2026-06-24T15:52:16.978Z",
   "broadcasts": [
     {
       "id": "2dc43147-6617-45fb-b4aa-7f85be6c4d3b",
@@ -79,19 +79,19 @@
       "rsn_key": "247anxiety",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
-      "join_date": null,
-      "points_total": 0,
+      "join_date": "2025-12-07 18:36:22.184125+00",
+      "points_total": 204,
       "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
+      "points_available": 204,
+      "months_in_clan": 6,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 100,
-        "missing_months": 1,
-        "can_claim": false
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
       }
     },
     {
