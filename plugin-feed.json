@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-24T18:19:43.738Z",
+  "generated_at": "2026-06-24T18:22:45.522Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -3120,26 +3120,21 @@
     {
       "rsn": "iron kellox",
       "rsn_key": "ironkellox",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-04-03 11:00:04.345627+00",
       "points_total": 122,
-      "points_spent": 0,
-      "points_available": 122,
+      "points_spent": 100,
+      "points_available": 22,
       "months_in_clan": 2,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 178,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-06-24T18:19:41.617Z"
+        "can_claim": false
       }
     },
     {
@@ -5889,26 +5884,21 @@
     {
       "rsn": "sir kellox",
       "rsn_key": "sirkellox",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-04-03 11:00:04.345627+00",
       "points_total": 122,
-      "points_spent": 0,
-      "points_available": 122,
+      "points_spent": 100,
+      "points_available": 22,
       "months_in_clan": 2,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 178,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-06-24T18:19:41.617Z"
+        "can_claim": false
       }
     },
     {
