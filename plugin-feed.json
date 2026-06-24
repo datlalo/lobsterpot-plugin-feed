@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-06-24T17:37:28.936Z",
-  "broadcasts": [],
+  "generated_at": "2026-06-24T17:37:52.676Z",
+  "broadcasts": [
+    {
+      "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
+      "title": "Make sure you check out our Slayer BOTW on Discord!",
+      "message": "Submit bounties and earn clan points :)",
+      "starts_at": null,
+      "expires_at": null,
+      "updated_at": "2026-06-24T17:37:32.790Z"
+    }
+  ],
   "events": [
     {
       "id": "1517992106654961885",
