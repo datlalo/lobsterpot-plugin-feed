@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-24T12:08:09.037Z",
+  "generated_at": "2026-06-24T12:11:11.329Z",
   "broadcasts": [
     {
       "id": "2dc43147-6617-45fb-b4aa-7f85be6c4d3b",
@@ -2649,26 +2649,21 @@
     {
       "rsn": "hawking456",
       "rsn_key": "hawking456",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2025-12-16 18:05:33.310017+00",
       "points_total": 245,
-      "points_spent": 100,
-      "points_available": 145,
+      "points_spent": 200,
+      "points_available": 45,
       "months_in_clan": 6,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 155,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-06-24T12:08:07.525Z"
+        "can_claim": false
       }
     },
     {
@@ -4958,26 +4953,21 @@
     {
       "rsn": "PuzzleDream",
       "rsn_key": "puzzledream",
-      "bot_rank": "Ruby",
-      "progression_rank": "Ruby",
+      "bot_rank": "Diamond",
+      "progression_rank": "Diamond",
       "join_date": "2025-09-30",
       "points_total": 842,
-      "points_spent": 300,
-      "points_available": 542,
+      "points_spent": 700,
+      "points_available": 142,
       "months_in_clan": 8,
       "next_rank": {
-        "name": "Diamond",
-        "point_cost": 400,
-        "min_months": 5,
-        "requirements": "Fire Cape",
-        "missing_points": 0,
+        "name": "Dragonstone",
+        "point_cost": 500,
+        "min_months": 8,
+        "requirements": "Barrows Gloves",
+        "missing_points": 358,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Diamond",
-        "created_at": "2026-06-24T12:01:46.474Z"
+        "can_claim": false
       }
     },
     {
