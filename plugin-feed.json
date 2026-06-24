@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-24T18:28:17.190Z",
+  "generated_at": "2026-06-24T18:31:19.122Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -688,21 +688,21 @@
     {
       "rsn": "Barker235",
       "rsn_key": "barker235",
-      "bot_rank": "Diamond",
-      "progression_rank": "Diamond",
+      "bot_rank": "Dragonstone",
+      "progression_rank": "Dragonstone",
       "join_date": "2025-08-29",
       "points_total": 1329,
-      "points_spent": 700,
-      "points_available": 629,
+      "points_spent": 1200,
+      "points_available": 129,
       "months_in_clan": 9,
       "next_rank": {
-        "name": "Dragonstone",
-        "point_cost": 500,
-        "min_months": 8,
-        "requirements": "Barrows Gloves",
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
+        "name": "Onyx",
+        "point_cost": 800,
+        "min_months": 12,
+        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "missing_points": 671,
+        "missing_months": 3,
+        "can_claim": false
       }
     },
     {
@@ -3760,26 +3760,21 @@
     {
       "rsn": "l Lewy l",
       "rsn_key": "llewyl",
-      "bot_rank": "Ruby",
-      "progression_rank": "Ruby",
+      "bot_rank": "Diamond",
+      "progression_rank": "Diamond",
       "join_date": "2025-08-27",
       "points_total": 701,
-      "points_spent": 300,
-      "points_available": 401,
+      "points_spent": 700,
+      "points_available": 1,
       "months_in_clan": 9,
       "next_rank": {
-        "name": "Diamond",
-        "point_cost": 400,
-        "min_months": 5,
-        "requirements": "Fire Cape",
-        "missing_points": 0,
+        "name": "Dragonstone",
+        "point_cost": 500,
+        "min_months": 8,
+        "requirements": "Barrows Gloves",
+        "missing_points": 499,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Diamond",
-        "created_at": "2026-06-24T18:28:15.133Z"
+        "can_claim": false
       }
     },
     {
