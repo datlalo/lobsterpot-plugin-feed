@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-24T17:40:30.971Z",
+  "generated_at": "2026-06-24T17:52:20.703Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -21,6 +21,17 @@
       "ends_at": "2026-06-29T06:00:00.000Z",
       "description": "",
       "thread_id": "1517992106654961885"
+    },
+    {
+      "id": "142587",
+      "type": "skill_competition",
+      "title": "Farming - SOTW",
+      "metric": "farming",
+      "metric_label": "Farming",
+      "starts_at": "2026-07-01T11:00:00.000Z",
+      "ends_at": "2026-07-08T11:00:00.000Z",
+      "thread_id": "1519399794127147092",
+      "wom_id": 142587
     },
     {
       "id": "1517638097402204272",
