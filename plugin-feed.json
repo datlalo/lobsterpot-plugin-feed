@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-24T17:29:31.191Z",
+  "generated_at": "2026-06-24T17:32:32.825Z",
   "broadcasts": [
     {
       "id": "2dc43147-6617-45fb-b4aa-7f85be6c4d3b",
@@ -4101,19 +4101,19 @@
     {
       "rsn": "Mikey1569",
       "rsn_key": "mikey1569",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
       "join_date": "2025-09-16",
       "points_total": 496,
       "points_spent": 300,
       "points_available": 196,
       "months_in_clan": 9,
       "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 104,
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 204,
         "missing_months": 0,
         "can_claim": false
       }
@@ -4361,19 +4361,19 @@
     {
       "rsn": "naomhbrid",
       "rsn_key": "naomhbrid",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
       "join_date": "2025-09-16",
       "points_total": 496,
       "points_spent": 300,
       "points_available": 196,
       "months_in_clan": 9,
       "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 104,
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 204,
         "missing_months": 0,
         "can_claim": false
       }
@@ -5293,19 +5293,19 @@
     {
       "rsn": "renfrow",
       "rsn_key": "renfrow",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
       "join_date": "2025-09-15",
       "points_total": 707,
       "points_spent": 500,
       "points_available": 207,
       "months_in_clan": 9,
       "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 93,
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 193,
         "missing_months": 0,
         "can_claim": false
       }
@@ -6233,20 +6233,20 @@
     {
       "rsn": "subtlevalues",
       "rsn_key": "subtlevalues",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-05-04",
       "points_total": 106,
       "points_spent": 100,
       "points_available": 6,
       "months_in_clan": 1,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 94,
-        "missing_months": 0,
+        "missing_points": 194,
+        "missing_months": 1,
         "can_claim": false
       }
     },
