@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-24T11:56:28.747Z",
+  "generated_at": "2026-06-24T12:01:47.984Z",
   "broadcasts": [
     {
       "id": "2dc43147-6617-45fb-b4aa-7f85be6c4d3b",
@@ -2649,21 +2649,21 @@
     {
       "rsn": "hawking456",
       "rsn_key": "hawking456",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
       "join_date": "2025-12-16 18:05:33.310017+00",
       "points_total": 245,
       "points_spent": 100,
       "points_available": 145,
       "months_in_clan": 6,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
         "requirements": null,
-        "missing_points": 55,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       }
     },
     {
@@ -4968,6 +4968,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Diamond",
+        "created_at": "2026-06-24T12:01:46.474Z"
       }
     },
     {
