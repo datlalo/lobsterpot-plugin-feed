@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-24T18:52:38.875Z",
+  "generated_at": "2026-06-24T19:04:54.652Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -1640,26 +1640,21 @@
     {
       "rsn": "doc on rs",
       "rsn_key": "doconrs",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2026-03-10",
       "points_total": 296,
-      "points_spent": 0,
-      "points_available": 296,
+      "points_spent": 200,
+      "points_available": 96,
       "months_in_clan": 3,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 204,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Emerald",
-        "created_at": "2026-06-24T18:52:36.606Z"
+        "can_claim": false
       }
     },
     {
