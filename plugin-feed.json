@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-25T00:27:57.683Z",
+  "generated_at": "2026-06-25T00:39:44.589Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -928,26 +928,21 @@
     {
       "rsn": "bravo boogie",
       "rsn_key": "bravoboogie",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-03-20 22:12:14.780985+00",
       "points_total": 112,
-      "points_spent": 0,
-      "points_available": 112,
+      "points_spent": 100,
+      "points_available": 12,
       "months_in_clan": 3,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 188,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-06-25T00:25:53.298Z"
+        "can_claim": false
       }
     },
     {
