@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-25T06:40:50.789Z",
+  "generated_at": "2026-06-25T06:43:53.560Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -931,16 +931,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-03-20 22:12:14.780985+00",
-      "points_total": 112,
+      "points_total": 127,
       "points_spent": 100,
-      "points_available": 12,
+      "points_available": 27,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 188,
+        "missing_points": 173,
         "missing_months": 0,
         "can_claim": false
       }
@@ -7207,18 +7207,18 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-05-23 15:00:16.833464+00",
-      "points_total": 93,
+      "points_total": 108,
       "points_spent": 0,
-      "points_available": 93,
+      "points_available": 108,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 7,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       }
     },
     {
