@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-25T15:45:07.358Z",
+  "generated_at": "2026-06-25T16:24:59.038Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -1061,6 +1061,26 @@
         "min_months": 1,
         "requirements": null,
         "missing_points": 99,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Ceramiq",
+      "rsn_key": "ceramiq",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-06-25",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
         "missing_months": 1,
         "can_claim": false
       }
@@ -2543,26 +2563,6 @@
       }
     },
     {
-      "rsn": "gluteusss",
-      "rsn_key": "gluteusss",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-06-17",
-      "points_total": 8,
-      "points_spent": 0,
-      "points_available": 8,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 92,
-        "missing_months": 1,
-        "can_claim": false
-      }
-    },
-    {
       "rsn": "gnfxmystic",
       "rsn_key": "gnfxmystic",
       "bot_rank": "Gnome",
@@ -2940,26 +2940,6 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
-      }
-    },
-    {
-      "rsn": "huuuyaaah",
-      "rsn_key": "huuuyaaah",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-06-17",
-      "points_total": 8,
-      "points_spent": 0,
-      "points_available": 8,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 92,
-        "missing_months": 1,
-        "can_claim": false
       }
     },
     {
@@ -3903,26 +3883,6 @@
       }
     },
     {
-      "rsn": "m0istest",
-      "rsn_key": "m0istest",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-06-16",
-      "points_total": 39,
-      "points_spent": 0,
-      "points_available": 39,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 61,
-        "missing_months": 1,
-        "can_claim": false
-      }
-    },
-    {
       "rsn": "M0nkan",
       "rsn_key": "m0nkan",
       "bot_rank": "Emerald",
@@ -4230,6 +4190,26 @@
         "min_months": 1,
         "requirements": null,
         "missing_points": 99,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "MrAKG",
+      "rsn_key": "mrakg",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-06-25",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
         "missing_months": 1,
         "can_claim": false
       }
