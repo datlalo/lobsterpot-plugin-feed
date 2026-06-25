@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-25T11:52:20.683Z",
+  "generated_at": "2026-06-25T15:45:07.358Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -2455,6 +2455,11 @@
         "missing_points": 82,
         "missing_months": 1,
         "can_claim": false
+      },
+      "pending_join_date_claim": {
+        "type": "join_date",
+        "requested_join_date": "2026-05-01",
+        "created_at": "2026-06-25T15:45:05.849Z"
       }
     },
     {
