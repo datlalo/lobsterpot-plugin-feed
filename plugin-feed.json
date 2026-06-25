@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-25T08:16:04.196Z",
+  "generated_at": "2026-06-25T08:19:05.873Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -411,9 +411,9 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2025-12-24",
-      "points_total": 628,
+      "points_total": 813,
       "points_spent": 310,
-      "points_available": 318,
+      "points_available": 503,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Ruby",
@@ -2223,16 +2223,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-08-25",
-      "points_total": 1014,
+      "points_total": 1179,
       "points_spent": 700,
-      "points_available": 314,
+      "points_available": 479,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 186,
+        "missing_points": 21,
         "missing_months": 0,
         "can_claim": false
       }
@@ -3763,16 +3763,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-08-27",
-      "points_total": 702,
+      "points_total": 897,
       "points_spent": 700,
-      "points_available": 2,
+      "points_available": 197,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 498,
+        "missing_points": 303,
         "missing_months": 0,
         "can_claim": false
       }
@@ -4155,9 +4155,9 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2025-09-05",
-      "points_total": 798,
+      "points_total": 983,
       "points_spent": 350,
-      "points_available": 448,
+      "points_available": 633,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Ruby",
@@ -5027,18 +5027,18 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-02-03",
-      "points_total": 542,
+      "points_total": 707,
       "points_spent": 350,
-      "points_available": 192,
+      "points_available": 357,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 108,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       }
     },
     {
@@ -5687,16 +5687,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-08-31",
-      "points_total": 848,
+      "points_total": 963,
       "points_spent": 750,
-      "points_available": 98,
+      "points_available": 213,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 402,
+        "missing_points": 287,
         "missing_months": 0,
         "can_claim": false
       }
