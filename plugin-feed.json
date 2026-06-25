@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-25T16:24:59.038Z",
+  "generated_at": "2026-06-25T20:01:46.234Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -3700,6 +3700,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Diamond",
+        "created_at": "2026-06-25T20:01:44.117Z"
       }
     },
     {
