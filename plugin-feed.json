@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-25T08:19:05.873Z",
+  "generated_at": "2026-06-25T08:24:28.451Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -211,16 +211,16 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 1738,
+      "points_total": 1753,
       "points_spent": 1230,
-      "points_available": 508,
+      "points_available": 523,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 292,
+        "missing_points": 277,
         "missing_months": 3,
         "can_claim": false
       }
@@ -2523,16 +2523,16 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 1738,
+      "points_total": 1753,
       "points_spent": 1230,
-      "points_available": 508,
+      "points_available": 523,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 292,
+        "missing_points": 277,
         "missing_months": 3,
         "can_claim": false
       }
@@ -4927,16 +4927,16 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 1738,
+      "points_total": 1753,
       "points_spent": 1230,
-      "points_available": 508,
+      "points_available": 523,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 292,
+        "missing_points": 277,
         "missing_months": 3,
         "can_claim": false
       }
@@ -5247,16 +5247,16 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 1738,
+      "points_total": 1753,
       "points_spent": 1230,
-      "points_available": 508,
+      "points_available": 523,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 292,
+        "missing_points": 277,
         "missing_months": 3,
         "can_claim": false
       }
