@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-25T10:35:43.592Z",
+  "generated_at": "2026-06-25T11:26:00.178Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -408,26 +408,21 @@
     {
       "rsn": "a purple gay",
       "rsn_key": "apurplegay",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
       "join_date": "2025-12-24",
       "points_total": 813,
-      "points_spent": 310,
-      "points_available": 503,
+      "points_spent": 610,
+      "points_available": 203,
       "months_in_clan": 6,
       "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 0,
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 197,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Ruby",
-        "created_at": "2026-06-25T10:35:41.476Z"
+        "can_claim": false
       }
     },
     {
