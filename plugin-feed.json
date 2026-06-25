@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-25T20:01:46.234Z",
+  "generated_at": "2026-06-25T20:04:47.943Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -3685,26 +3685,21 @@
     {
       "rsn": "LazyThom",
       "rsn_key": "lazythom",
-      "bot_rank": "Ruby",
-      "progression_rank": "Ruby",
+      "bot_rank": "Diamond",
+      "progression_rank": "Diamond",
       "join_date": "2025-09-12",
       "points_total": 856,
-      "points_spent": 300,
-      "points_available": 556,
+      "points_spent": 700,
+      "points_available": 156,
       "months_in_clan": 9,
       "next_rank": {
-        "name": "Diamond",
-        "point_cost": 400,
-        "min_months": 5,
-        "requirements": "Fire Cape",
-        "missing_points": 0,
+        "name": "Dragonstone",
+        "point_cost": 500,
+        "min_months": 8,
+        "requirements": "Barrows Gloves",
+        "missing_points": 344,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Diamond",
-        "created_at": "2026-06-25T20:01:44.117Z"
+        "can_claim": false
       }
     },
     {
