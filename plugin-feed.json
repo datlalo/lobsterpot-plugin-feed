@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-25T22:30:49.048Z",
+  "generated_at": "2026-06-25T22:33:51.276Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -528,26 +528,21 @@
     {
       "rsn": "Ashen bun",
       "rsn_key": "ashenbun",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-03-18",
       "points_total": 179,
-      "points_spent": 0,
-      "points_available": 179,
+      "points_spent": 100,
+      "points_available": 79,
       "months_in_clan": 3,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 121,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-06-25T22:30:46.892Z"
+        "can_claim": false
       }
     },
     {
@@ -873,26 +868,21 @@
     {
       "rsn": "bnuuy_ashe",
       "rsn_key": "bnuuyashe",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-03-18",
       "points_total": 179,
-      "points_spent": 0,
-      "points_available": 179,
+      "points_spent": 100,
+      "points_available": 79,
       "months_in_clan": 3,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 121,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-06-25T22:30:46.892Z"
+        "can_claim": false
       }
     },
     {
