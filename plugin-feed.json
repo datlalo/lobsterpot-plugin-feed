@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-25T08:27:29.984Z",
+  "generated_at": "2026-06-25T09:35:18.211Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -3583,16 +3583,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-06-12",
-      "points_total": 13,
+      "points_total": 43,
       "points_spent": 0,
-      "points_available": 13,
+      "points_available": 43,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 87,
+        "missing_points": 57,
         "missing_months": 1,
         "can_claim": false
       }
@@ -4735,9 +4735,9 @@
       "bot_rank": "Alt",
       "progression_rank": "Alt",
       "join_date": "2026-03-20",
-      "points_total": 327,
+      "points_total": 357,
       "points_spent": 100,
-      "points_available": 227,
+      "points_available": 257,
       "months_in_clan": 3,
       "next_rank": null
     },
