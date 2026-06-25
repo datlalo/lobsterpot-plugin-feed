@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-25T08:13:02.736Z",
+  "generated_at": "2026-06-25T08:16:04.196Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -2963,16 +2963,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-01-28",
-      "points_total": 548,
+      "points_total": 623,
       "points_spent": 350,
-      "points_available": 198,
+      "points_available": 273,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 102,
+        "missing_points": 27,
         "missing_months": 0,
         "can_claim": false
       }
@@ -5107,16 +5107,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-30",
-      "points_total": 853,
+      "points_total": 863,
       "points_spent": 700,
-      "points_available": 153,
+      "points_available": 163,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 347,
+        "missing_points": 337,
         "missing_months": 0,
         "can_claim": false
       }
@@ -5827,16 +5827,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-03-09",
-      "points_total": 418,
+      "points_total": 463,
       "points_spent": 300,
-      "points_available": 118,
+      "points_available": 163,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 182,
+        "missing_points": 137,
         "missing_months": 0,
         "can_claim": false
       }
@@ -6987,16 +6987,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-04-09",
-      "points_total": 172,
+      "points_total": 182,
       "points_spent": 0,
-      "points_available": 172,
+      "points_available": 182,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 28,
+        "missing_points": 18,
         "missing_months": 0,
         "can_claim": false
       }
