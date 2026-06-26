@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-26T00:24:58.176Z",
+  "generated_at": "2026-06-26T00:56:04.379Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -2462,24 +2462,19 @@
       "rsn_key": "ghostfree",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
-      "join_date": "2026-06-07",
-      "points_total": 19,
+      "join_date": "2026-05-01",
+      "points_total": 56,
       "points_spent": 0,
-      "points_available": 19,
-      "months_in_clan": 0,
+      "points_available": 56,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 81,
-        "missing_months": 1,
+        "missing_points": 44,
+        "missing_months": 0,
         "can_claim": false
-      },
-      "pending_join_date_claim": {
-        "type": "join_date",
-        "requested_join_date": "2026-05-01",
-        "created_at": "2026-06-25T15:45:05.849Z"
       }
     },
     {
