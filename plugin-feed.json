@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-27T14:01:13.434Z",
+  "generated_at": "2026-06-27T14:04:15.552Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -6404,26 +6404,21 @@
     {
       "rsn": "syly",
       "rsn_key": "syly",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2025-10-19",
       "points_total": 291,
-      "points_spent": 0,
-      "points_available": 291,
+      "points_spent": 200,
+      "points_available": 91,
       "months_in_clan": 8,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 209,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Emerald",
-        "created_at": "2026-06-27T14:01:11.299Z"
+        "can_claim": false
       }
     },
     {
