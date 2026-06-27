@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-27T07:52:05.314Z",
+  "generated_at": "2026-06-27T11:42:49.737Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -241,6 +241,26 @@
         "min_months": 1,
         "requirements": null,
         "missing_points": 84,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "aerea",
+      "rsn_key": "aerea",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-06-27",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
         "missing_months": 1,
         "can_claim": false
       }
@@ -802,6 +822,26 @@
         "requirements": null,
         "missing_points": 83,
         "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Bizonix",
+      "rsn_key": "bizonix",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-06-27",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
         "can_claim": false
       }
     },
@@ -2958,6 +2998,26 @@
       }
     },
     {
+      "rsn": "iammogar",
+      "rsn_key": "iammogar",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-06-27",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "ibizor",
       "rsn_key": "ibizor",
       "bot_rank": "Sapphire",
@@ -4270,6 +4330,26 @@
       }
     },
     {
+      "rsn": "mrtradie1997",
+      "rsn_key": "mrtradie1997",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-06-27",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "Mr WlKl",
       "rsn_key": "mrwlkl",
       "bot_rank": "Gnome",
@@ -4306,6 +4386,26 @@
         "requirements": null,
         "missing_points": 113,
         "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "myloosh",
+      "rsn_key": "myloosh",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-06-27",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
         "can_claim": false
       }
     },
@@ -4802,6 +4902,26 @@
       }
     },
     {
+      "rsn": "Other Mitch",
+      "rsn_key": "othermitch",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-06-27",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "OZ OF ZOAP",
       "rsn_key": "ozofzoap",
       "bot_rank": "Sapphire",
@@ -4959,6 +5079,26 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      }
+    },
+    {
+      "rsn": "pigeon lad",
+      "rsn_key": "pigeonlad",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-06-27",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
       }
     },
     {
