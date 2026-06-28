@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-28T13:39:02.970Z",
+  "generated_at": "2026-06-28T14:57:50.722Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -3658,6 +3658,18 @@
       }
     },
     {
+      "rsn": "knight bkfst",
+      "rsn_key": "knightbkfst",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-06-28",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
+    },
+    {
       "rsn": "KnottyBoii",
       "rsn_key": "knottyboii",
       "bot_rank": "Sapphire",
@@ -4898,26 +4910,6 @@
         "requirements": null,
         "missing_points": 53,
         "missing_months": 0,
-        "can_claim": false
-      }
-    },
-    {
-      "rsn": "Other Mitch",
-      "rsn_key": "othermitch",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-06-27",
-      "points_total": 1,
-      "points_spent": 0,
-      "points_available": 1,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 99,
-        "missing_months": 1,
         "can_claim": false
       }
     },
