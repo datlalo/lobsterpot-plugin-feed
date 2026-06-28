@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-28T19:35:49.033Z",
+  "generated_at": "2026-06-28T19:58:36.018Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -2060,26 +2060,21 @@
     {
       "rsn": "ErenYeag3r",
       "rsn_key": "erenyeag3r",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-03-27 23:00:05.170239+00",
       "points_total": 118,
-      "points_spent": 0,
-      "points_available": 118,
+      "points_spent": 100,
+      "points_available": 18,
       "months_in_clan": 3,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 182,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-06-28T19:35:46.864Z"
+        "can_claim": false
       }
     },
     {
