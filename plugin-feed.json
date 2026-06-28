@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-28T17:53:56.183Z",
+  "generated_at": "2026-06-28T17:56:42.534Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -3918,26 +3918,6 @@
       }
     },
     {
-      "rsn": "lyralis",
-      "rsn_key": "lyralis",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-04-10",
-      "points_total": 79,
-      "points_spent": 0,
-      "points_available": 79,
-      "months_in_clan": 2,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 21,
-        "missing_months": 0,
-        "can_claim": false
-      }
-    },
-    {
       "rsn": "M0nkan",
       "rsn_key": "m0nkan",
       "bot_rank": "Emerald",
@@ -4819,18 +4799,6 @@
       "points_spent": 100,
       "points_available": 260,
       "months_in_clan": 3,
-      "next_rank": null
-    },
-    {
-      "rsn": "oO Crabs Oo",
-      "rsn_key": "oocrabsoo",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2026-04-07",
-      "points_total": 82,
-      "points_spent": 0,
-      "points_available": 82,
-      "months_in_clan": 2,
       "next_rank": null
     },
     {
@@ -7109,26 +7077,6 @@
         "min_months": 1,
         "requirements": null,
         "missing_points": 16,
-        "missing_months": 0,
-        "can_claim": false
-      }
-    },
-    {
-      "rsn": "x IronCrab x",
-      "rsn_key": "xironcrabx",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-04-20",
-      "points_total": 69,
-      "points_spent": 0,
-      "points_available": 69,
-      "months_in_clan": 2,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 31,
         "missing_months": 0,
         "can_claim": false
       }
