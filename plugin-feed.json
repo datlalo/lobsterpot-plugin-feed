@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-29T00:58:05.223Z",
+  "generated_at": "2026-06-29T10:43:08.310Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -12,16 +12,6 @@
     }
   ],
   "events": [
-    {
-      "id": "1517992106654961885",
-      "type": "event",
-      "title": "June Slayer BOTM",
-      "location": "Slayer Boss Rooms",
-      "starts_at": "2026-06-22T06:00:00.000Z",
-      "ends_at": "2026-06-29T06:00:00.000Z",
-      "description": "",
-      "thread_id": "1517992106654961885"
-    },
     {
       "id": "142587",
       "type": "skill_competition",
@@ -5322,6 +5312,26 @@
       }
     },
     {
+      "rsn": "Reeen",
+      "rsn_key": "reeen",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-06-29",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "reflexsloth",
       "rsn_key": "reflexsloth",
       "bot_rank": "Dragonstone",
@@ -7237,6 +7247,26 @@
         "min_months": 2,
         "requirements": null,
         "missing_points": 188,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "zentacol",
+      "rsn_key": "zentacol",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-06-29",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
         "missing_months": 1,
         "can_claim": false
       }
