@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-29T19:52:42.485Z",
+  "generated_at": "2026-06-29T23:59:02.895Z",
   "broadcasts": [],
   "events": [
     {
@@ -605,7 +605,7 @@
       "points_total": 611,
       "points_spent": 500,
       "points_available": 111,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -2437,7 +2437,7 @@
       "points_total": 638,
       "points_spent": 300,
       "points_available": 338,
-      "months_in_clan": 9,
+      "months_in_clan": 10,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -4401,6 +4401,26 @@
       }
     },
     {
+      "rsn": "NachoSausage",
+      "rsn_key": "nachosausage",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-01-29",
+      "points_total": 366,
+      "points_spent": 110,
+      "points_available": 256,
+      "months_in_clan": 5,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
+    },
+    {
       "rsn": "Nadyajj",
       "rsn_key": "nadyajj",
       "bot_rank": "Emerald",
@@ -4873,26 +4893,6 @@
       }
     },
     {
-      "rsn": "OZ OF ZOAP",
-      "rsn_key": "ozofzoap",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2026-01-29",
-      "points_total": 366,
-      "points_spent": 110,
-      "points_available": 256,
-      "months_in_clan": 5,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      }
-    },
-    {
       "rsn": "pandooraah",
       "rsn_key": "pandooraah",
       "bot_rank": "Gnome",
@@ -5021,7 +5021,7 @@
       "points_total": 60,
       "points_spent": 0,
       "points_available": 60,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -5201,7 +5201,7 @@
       "points_total": 867,
       "points_spent": 700,
       "points_available": 167,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
@@ -7001,7 +7001,7 @@
       "points_total": 60,
       "points_spent": 0,
       "points_available": 60,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
