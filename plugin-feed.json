@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-29T12:45:22.785Z",
+  "generated_at": "2026-06-29T17:59:02.650Z",
   "broadcasts": [
     {
       "id": "7dd45795-7709-4e69-bed2-0a40efcd519a",
@@ -4979,6 +4979,26 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      }
+    },
+    {
+      "rsn": "pennywhisle",
+      "rsn_key": "pennywhisle",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-06-29",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
       }
     },
     {
