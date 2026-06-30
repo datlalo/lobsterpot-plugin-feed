@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-30T09:04:30.203Z",
+  "generated_at": "2026-06-30T13:44:05.257Z",
   "broadcasts": [
     {
       "id": "a56c7c5c-e057-4807-b979-f436d26f53ef",
@@ -246,7 +246,7 @@
       }
     },
     {
-      "rsn": "aerea",
+      "rsn": "Aerea",
       "rsn_key": "aerea",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
