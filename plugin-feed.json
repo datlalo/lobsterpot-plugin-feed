@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-06-30T09:01:28.188Z",
-  "broadcasts": [],
+  "generated_at": "2026-06-30T09:01:57.939Z",
+  "broadcasts": [
+    {
+      "id": "a56c7c5c-e057-4807-b979-f436d26f53ef",
+      "title": "Skill of the Week - Farming",
+      "message": "Compete for the most farming xp gained while completing bounties.",
+      "starts_at": null,
+      "expires_at": null,
+      "updated_at": "2026-06-30T09:01:52.190Z"
+    }
+  ],
   "events": [
     {
       "id": "142587",
