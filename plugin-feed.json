@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-01T12:17:22.796Z",
+  "generated_at": "2026-07-01T13:14:07.267Z",
   "broadcasts": [
     {
       "id": "629f957b-0c00-4c87-8206-3a5e43422c27",
@@ -86,7 +86,7 @@
       }
     },
     {
-      "rsn": "24-7_anxiety",
+      "rsn": "24 7 anxiety",
       "rsn_key": "247anxiety",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
