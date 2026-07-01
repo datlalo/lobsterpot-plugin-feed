@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-01T22:12:19.424Z",
+  "generated_at": "2026-07-01T22:15:20.978Z",
   "broadcasts": [
     {
       "id": "629f957b-0c00-4c87-8206-3a5e43422c27",
@@ -1780,26 +1780,21 @@
     {
       "rsn": "drbees69",
       "rsn_key": "drbees69",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
       "join_date": "2025-09-14",
       "points_total": 470,
-      "points_spent": 0,
-      "points_available": 470,
+      "points_spent": 300,
+      "points_available": 170,
       "months_in_clan": 9,
       "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 0,
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 230,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Ruby",
-        "created_at": "2026-07-01T22:12:17.376Z"
+        "can_claim": false
       }
     },
     {
