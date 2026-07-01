@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-01T02:33:04.279Z",
+  "generated_at": "2026-07-01T06:51:48.257Z",
   "broadcasts": [
     {
       "id": "a56c7c5c-e057-4807-b979-f436d26f53ef",
@@ -4212,26 +4212,21 @@
     {
       "rsn": "Mokkoku",
       "rsn_key": "mokkoku",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2025-10-16",
       "points_total": 288,
-      "points_spent": 0,
-      "points_available": 288,
+      "points_spent": 200,
+      "points_available": 88,
       "months_in_clan": 8,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 212,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Emerald",
-        "created_at": "2026-07-01T02:33:00.592Z"
+        "can_claim": false
       }
     },
     {
@@ -4617,26 +4612,21 @@
     {
       "rsn": "ninyunnini",
       "rsn_key": "ninyunnini",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2025-10-16",
       "points_total": 288,
-      "points_spent": 0,
-      "points_available": 288,
+      "points_spent": 200,
+      "points_available": 88,
       "months_in_clan": 8,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 212,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Emerald",
-        "created_at": "2026-07-01T02:33:00.592Z"
+        "can_claim": false
       }
     },
     {
