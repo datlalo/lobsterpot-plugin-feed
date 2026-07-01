@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-01T20:12:14.730Z",
+  "generated_at": "2026-07-01T20:12:45.231Z",
   "broadcasts": [
     {
       "id": "629f957b-0c00-4c87-8206-3a5e43422c27",
@@ -1551,9 +1551,9 @@
       "bot_rank": "Owner",
       "progression_rank": "Owner",
       "join_date": "2024-08-01",
-      "points_total": 5549,
+      "points_total": 5550,
       "points_spent": 1140,
-      "points_available": 4409,
+      "points_available": 4410,
       "months_in_clan": 23,
       "next_rank": null
     },
@@ -4123,9 +4123,9 @@
       "bot_rank": "Owner",
       "progression_rank": "Owner",
       "join_date": "2024-08-01",
-      "points_total": 5549,
+      "points_total": 5550,
       "points_spent": 1140,
-      "points_available": 4409,
+      "points_available": 4410,
       "months_in_clan": 23,
       "next_rank": null
     },
