@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-01T21:53:50.713Z",
+  "generated_at": "2026-07-01T22:12:19.424Z",
   "broadcasts": [
     {
       "id": "629f957b-0c00-4c87-8206-3a5e43422c27",
@@ -814,7 +814,7 @@
       "points_total": 221,
       "points_spent": 100,
       "points_available": 121,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -1134,7 +1134,7 @@
       "points_total": 276,
       "points_spent": 100,
       "points_available": 176,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -1174,7 +1174,7 @@
       "points_total": 60,
       "points_spent": 0,
       "points_available": 60,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -1626,7 +1626,7 @@
       "points_total": 282,
       "points_spent": 200,
       "points_available": 82,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -1795,6 +1795,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Ruby",
+        "created_at": "2026-07-01T22:12:17.376Z"
       }
     },
     {
@@ -2266,7 +2271,7 @@
       "points_total": 916,
       "points_spent": 500,
       "points_available": 416,
-      "months_in_clan": 7,
+      "months_in_clan": 8,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -2366,7 +2371,7 @@
       "points_total": 606,
       "points_spent": 0,
       "points_available": 606,
-      "months_in_clan": 19,
+      "months_in_clan": 20,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
@@ -3306,7 +3311,7 @@
       "points_total": 251,
       "points_spent": 100,
       "points_available": 151,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -3486,7 +3491,7 @@
       "points_total": 276,
       "points_spent": 100,
       "points_available": 176,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -6230,7 +6235,7 @@
       "points_total": 211,
       "points_spent": 0,
       "points_available": 211,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -6770,7 +6775,7 @@
       "points_total": 916,
       "points_spent": 500,
       "points_available": 416,
-      "months_in_clan": 7,
+      "months_in_clan": 8,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -7130,7 +7135,7 @@
       "points_total": 561,
       "points_spent": 340,
       "points_available": 221,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -7270,7 +7275,7 @@
       "points_total": 95,
       "points_spent": 0,
       "points_available": 95,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
