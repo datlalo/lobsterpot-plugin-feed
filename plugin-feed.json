@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-02T22:59:48.644Z",
+  "generated_at": "2026-07-02T23:56:15.796Z",
   "broadcasts": [
     {
       "id": "629f957b-0c00-4c87-8206-3a5e43422c27",
@@ -22,16 +22,6 @@
       "ends_at": "2026-07-08T11:00:00.000Z",
       "thread_id": "1519399794127147092",
       "wom_id": 142587
-    },
-    {
-      "id": "1521106023463649312",
-      "type": "event",
-      "title": "Elymental 99 agility and maxing party! (maybe a little drop party afterwards if you are nice)",
-      "location": "TBD",
-      "starts_at": "2026-07-02T21:00:00.000Z",
-      "ends_at": "2026-07-02T23:00:00.000Z",
-      "description": "Join us to celebrate Elymental max his account.\nMore info coming soon :)",
-      "thread_id": "1521106023463649312"
     },
     {
       "id": "1517638097402204272",
@@ -3023,16 +3013,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-06-27",
-      "points_total": 20,
+      "points_total": 60,
       "points_spent": 0,
-      "points_available": 20,
+      "points_available": 60,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 80,
+        "missing_points": 40,
         "missing_months": 1,
         "can_claim": false
       }
