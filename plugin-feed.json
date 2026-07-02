@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-02T16:10:38.466Z",
+  "generated_at": "2026-07-02T18:04:39.643Z",
   "broadcasts": [
     {
       "id": "629f957b-0c00-4c87-8206-3a5e43422c27",
@@ -6780,6 +6780,18 @@
         "missing_months": 0,
         "can_claim": true
       }
+    },
+    {
+      "rsn": "tradiesaboob",
+      "rsn_key": "tradiesaboob",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-07-02",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
     },
     {
       "rsn": "tristram004",
