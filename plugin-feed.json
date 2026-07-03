@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-03T21:33:06.536Z",
+  "generated_at": "2026-07-03T21:36:08.134Z",
   "broadcasts": [
     {
       "id": "629f957b-0c00-4c87-8206-3a5e43422c27",
@@ -978,26 +978,21 @@
     {
       "rsn": "bravo boogie",
       "rsn_key": "bravoboogie",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2026-03-20 22:12:14.780985+00",
-      "points_total": 335,
-      "points_spent": 100,
-      "points_available": 235,
+      "points_total": 395,
+      "points_spent": 300,
+      "points_available": 95,
       "months_in_clan": 3,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 205,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Emerald",
-        "created_at": "2026-07-03T21:33:04.418Z"
+        "can_claim": false
       }
     },
     {
