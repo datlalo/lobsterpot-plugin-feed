@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-03T05:56:00.176Z",
+  "generated_at": "2026-07-03T05:59:01.787Z",
   "broadcasts": [
     {
       "id": "629f957b-0c00-4c87-8206-3a5e43422c27",
@@ -1221,9 +1221,9 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2025-09-09",
-      "points_total": 447,
+      "points_total": 565,
       "points_spent": 0,
-      "points_available": 447,
+      "points_available": 565,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Ruby",
@@ -1673,16 +1673,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-03-09",
-      "points_total": 366,
+      "points_total": 489,
       "points_spent": 300,
-      "points_available": 66,
+      "points_available": 189,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 234,
+        "missing_points": 111,
         "missing_months": 0,
         "can_claim": false
       }
@@ -3033,18 +3033,18 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-03-18",
-      "points_total": 232,
+      "points_total": 372,
       "points_spent": 100,
-      "points_available": 132,
+      "points_available": 272,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 68,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       }
     },
     {
@@ -4245,9 +4245,9 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2025-11-26",
-      "points_total": 549,
+      "points_total": 667,
       "points_spent": 200,
-      "points_available": 349,
+      "points_available": 467,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Ruby",
@@ -4905,9 +4905,9 @@
       "bot_rank": "Alt",
       "progression_rank": "Alt",
       "join_date": "2026-03-20",
-      "points_total": 365,
+      "points_total": 480,
       "points_spent": 100,
-      "points_available": 265,
+      "points_available": 380,
       "months_in_clan": 3,
       "next_rank": null
     },
