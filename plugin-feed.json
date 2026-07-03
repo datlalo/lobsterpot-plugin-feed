@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-03T15:37:28.541Z",
+  "generated_at": "2026-07-03T16:26:53.320Z",
   "broadcasts": [
     {
       "id": "629f957b-0c00-4c87-8206-3a5e43422c27",
@@ -4905,9 +4905,9 @@
       "bot_rank": "Alt",
       "progression_rank": "Alt",
       "join_date": "2026-03-20",
-      "points_total": 480,
+      "points_total": 490,
       "points_spent": 100,
-      "points_available": 380,
+      "points_available": 390,
       "months_in_clan": 3,
       "next_rank": null
     },
