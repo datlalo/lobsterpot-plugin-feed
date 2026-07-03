@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-03T16:49:11.382Z",
+  "generated_at": "2026-07-03T19:33:00.124Z",
   "broadcasts": [
     {
       "id": "629f957b-0c00-4c87-8206-3a5e43422c27",
@@ -732,6 +732,26 @@
         "requirements": "Barrows Gloves",
         "missing_points": 164,
         "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "BCIYM",
+      "rsn_key": "bciym",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-03",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
         "can_claim": false
       }
     },
@@ -1493,6 +1513,26 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      }
+    },
+    {
+      "rsn": "Dahlhur",
+      "rsn_key": "dahlhur",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-03",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
       }
     },
     {
@@ -4902,14 +4942,22 @@
     {
       "rsn": "Ol ivia",
       "rsn_key": "olivia",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-03-20",
       "points_total": 490,
       "points_spent": 100,
       "points_available": 390,
       "months_in_clan": 3,
-      "next_rank": null
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      }
     },
     {
       "rsn": "Ophelia Vey",
