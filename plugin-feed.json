@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-03T21:36:08.134Z",
+  "generated_at": "2026-07-03T22:07:58.094Z",
   "broadcasts": [
     {
       "id": "629f957b-0c00-4c87-8206-3a5e43422c27",
@@ -1084,7 +1084,7 @@
       "points_total": 60,
       "points_spent": 0,
       "points_available": 60,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -2036,7 +2036,7 @@
       "points_total": 60,
       "points_spent": 0,
       "points_available": 60,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -2545,6 +2545,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Sapphire",
+        "created_at": "2026-07-03T22:07:56.082Z"
       }
     },
     {
@@ -2956,7 +2961,7 @@
       "points_total": 396,
       "points_spent": 100,
       "points_available": 296,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -2976,7 +2981,7 @@
       "points_total": 396,
       "points_spent": 100,
       "points_available": 296,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -3296,7 +3301,7 @@
       "points_total": 60,
       "points_spent": 0,
       "points_available": 60,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -3516,7 +3521,7 @@
       "points_total": 141,
       "points_spent": 0,
       "points_available": 141,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -3536,7 +3541,7 @@
       "points_total": 210,
       "points_spent": 0,
       "points_available": 210,
-      "months_in_clan": 5,
+      "months_in_clan": 6,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -4468,7 +4473,7 @@
       "points_total": 456,
       "points_spent": 100,
       "points_available": 356,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -5588,7 +5593,7 @@
       "points_total": 60,
       "points_spent": 0,
       "points_available": 60,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -5708,7 +5713,7 @@
       "points_total": 302,
       "points_spent": 0,
       "points_available": 302,
-      "months_in_clan": 9,
+      "months_in_clan": 10,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -6188,7 +6193,7 @@
       "points_total": 185,
       "points_spent": 0,
       "points_available": 185,
-      "months_in_clan": 5,
+      "months_in_clan": 6,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -6508,15 +6513,15 @@
       "points_total": 370,
       "points_spent": 100,
       "points_available": 270,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
         "missing_points": 0,
-        "missing_months": 1,
-        "can_claim": false
+        "missing_months": 0,
+        "can_claim": true
       }
     },
     {
@@ -6588,7 +6593,7 @@
       "points_total": 60,
       "points_spent": 0,
       "points_available": 60,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -7540,7 +7545,7 @@
       "points_total": 131,
       "points_spent": 0,
       "points_available": 131,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
