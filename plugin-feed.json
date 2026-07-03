@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-03T13:04:55.989Z",
+  "generated_at": "2026-07-03T13:07:57.663Z",
   "broadcasts": [
     {
       "id": "629f957b-0c00-4c87-8206-3a5e43422c27",
@@ -938,26 +938,21 @@
     {
       "rsn": "Bradley ofc",
       "rsn_key": "bradleyofc",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
       "join_date": "2026-01-20",
       "points_total": 629,
-      "points_spent": 300,
-      "points_available": 329,
+      "points_spent": 600,
+      "points_available": 29,
       "months_in_clan": 5,
       "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 0,
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 371,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Ruby",
-        "created_at": "2026-07-03T13:04:53.898Z"
+        "can_claim": false
       }
     },
     {
@@ -6379,26 +6374,21 @@
     {
       "rsn": "SSJ Bradley",
       "rsn_key": "ssjbradley",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
       "join_date": "2026-01-20",
       "points_total": 629,
-      "points_spent": 300,
-      "points_available": 329,
+      "points_spent": 600,
+      "points_available": 29,
       "months_in_clan": 5,
       "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 0,
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 371,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Ruby",
-        "created_at": "2026-07-03T13:04:53.898Z"
+        "can_claim": false
       }
     },
     {
