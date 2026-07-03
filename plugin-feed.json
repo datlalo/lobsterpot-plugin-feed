@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-03T14:40:45.055Z",
+  "generated_at": "2026-07-03T14:43:46.805Z",
   "broadcasts": [
     {
       "id": "629f957b-0c00-4c87-8206-3a5e43422c27",
@@ -5497,16 +5497,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-09-15",
-      "points_total": 716,
+      "points_total": 731,
       "points_spent": 500,
-      "points_available": 216,
+      "points_available": 231,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 184,
+        "missing_points": 169,
         "missing_months": 0,
         "can_claim": false
       }
