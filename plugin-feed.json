@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-03T06:29:06.297Z",
+  "generated_at": "2026-07-03T06:49:09.670Z",
   "broadcasts": [
     {
       "id": "629f957b-0c00-4c87-8206-3a5e43422c27",
@@ -4128,6 +4128,26 @@
       }
     },
     {
+      "rsn": "mahatmahandi",
+      "rsn_key": "mahatmahandi",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-03",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "marco bizot",
       "rsn_key": "marcobizot",
       "bot_rank": "Gnome",
@@ -4476,26 +4496,6 @@
         "requirements": null,
         "missing_points": 107,
         "missing_months": 0,
-        "can_claim": false
-      }
-    },
-    {
-      "rsn": "myloosh",
-      "rsn_key": "myloosh",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-06-27",
-      "points_total": 6,
-      "points_spent": 0,
-      "points_available": 6,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 94,
-        "missing_months": 1,
         "can_claim": false
       }
     },
@@ -6924,6 +6924,26 @@
       }
     },
     {
+      "rsn": "v0idrogue",
+      "rsn_key": "v0idrogue",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-03",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "V alley",
       "rsn_key": "valley",
       "bot_rank": "Gnome",
@@ -7141,6 +7161,26 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      }
+    },
+    {
+      "rsn": "westvns",
+      "rsn_key": "westvns",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-03",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
       }
     },
     {
