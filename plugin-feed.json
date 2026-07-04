@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-04T11:03:01.766Z",
+  "generated_at": "2026-07-04T11:44:24.228Z",
   "broadcasts": [
     {
       "id": "629f957b-0c00-4c87-8206-3a5e43422c27",
@@ -6537,6 +6537,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Emerald",
+        "created_at": "2026-07-04T11:44:22.075Z"
       }
     },
     {
