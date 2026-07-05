@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-05T10:39:46.123Z",
+  "generated_at": "2026-07-05T10:42:47.892Z",
   "broadcasts": [
     {
       "id": "629f957b-0c00-4c87-8206-3a5e43422c27",
@@ -5320,26 +5320,6 @@
       }
     },
     {
-      "rsn": "Port Wizard",
-      "rsn_key": "portwizard",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-06-07",
-      "points_total": 28,
-      "points_spent": 0,
-      "points_available": 28,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 72,
-        "missing_months": 1,
-        "can_claim": false
-      }
-    },
-    {
       "rsn": "powerman659",
       "rsn_key": "powerman659",
       "bot_rank": "Emerald",
@@ -6882,14 +6862,22 @@
     {
       "rsn": "tradiesaboob",
       "rsn_key": "tradiesaboob",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2026-07-02",
-      "points_total": 3,
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-06-27",
+      "points_total": 8,
       "points_spent": 0,
-      "points_available": 3,
+      "points_available": 8,
       "months_in_clan": 0,
-      "next_rank": null
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 92,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "tristram004",
@@ -7007,6 +6995,26 @@
         "min_months": 1,
         "requirements": null,
         "missing_points": 86,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "undantagen",
+      "rsn_key": "undantagen",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-05",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
         "missing_months": 1,
         "can_claim": false
       }
