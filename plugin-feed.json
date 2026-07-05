@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-05T17:59:28.171Z",
+  "generated_at": "2026-07-05T18:02:29.658Z",
   "broadcasts": [
     {
       "id": "629f957b-0c00-4c87-8206-3a5e43422c27",
@@ -5542,26 +5542,21 @@
     {
       "rsn": "Relye",
       "rsn_key": "relye",
-      "bot_rank": "Diamond",
-      "progression_rank": "Diamond",
+      "bot_rank": "Dragonstone",
+      "progression_rank": "Dragonstone",
       "join_date": "2024-10-26",
       "points_total": 892,
-      "points_spent": 0,
-      "points_available": 892,
+      "points_spent": 500,
+      "points_available": 392,
       "months_in_clan": 20,
       "next_rank": {
-        "name": "Dragonstone",
-        "point_cost": 500,
-        "min_months": 8,
-        "requirements": "Barrows Gloves",
-        "missing_points": 0,
+        "name": "Onyx",
+        "point_cost": 800,
+        "min_months": 12,
+        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "missing_points": 408,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Dragonstone",
-        "created_at": "2026-07-05T17:59:25.985Z"
+        "can_claim": false
       }
     },
     {
@@ -6667,26 +6662,21 @@
     {
       "rsn": "Teorik",
       "rsn_key": "teorik",
-      "bot_rank": "Diamond",
-      "progression_rank": "Diamond",
+      "bot_rank": "Dragonstone",
+      "progression_rank": "Dragonstone",
       "join_date": "2024-10-26",
       "points_total": 892,
-      "points_spent": 0,
-      "points_available": 892,
+      "points_spent": 500,
+      "points_available": 392,
       "months_in_clan": 20,
       "next_rank": {
-        "name": "Dragonstone",
-        "point_cost": 500,
-        "min_months": 8,
-        "requirements": "Barrows Gloves",
-        "missing_points": 0,
+        "name": "Onyx",
+        "point_cost": 800,
+        "min_months": 12,
+        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "missing_points": 408,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Dragonstone",
-        "created_at": "2026-07-05T17:59:25.985Z"
+        "can_claim": false
       }
     },
     {
