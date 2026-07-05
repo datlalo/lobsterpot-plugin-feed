@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-05T10:27:39.678Z",
+  "generated_at": "2026-07-05T10:30:41.291Z",
   "broadcasts": [
     {
       "id": "629f957b-0c00-4c87-8206-3a5e43422c27",
@@ -2553,16 +2553,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-05-01",
-      "points_total": 173,
+      "points_total": 228,
       "points_spent": 100,
-      "points_available": 73,
+      "points_available": 128,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 127,
+        "missing_points": 72,
         "missing_months": 0,
         "can_claim": false
       }
@@ -2853,18 +2853,18 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-01-08",
-      "points_total": 593,
+      "points_total": 653,
       "points_spent": 320,
-      "points_available": 273,
+      "points_available": 333,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 27,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       }
     },
     {
@@ -2993,16 +2993,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-03",
-      "points_total": 945,
+      "points_total": 1020,
       "points_spent": 710,
-      "points_available": 235,
+      "points_available": 310,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 265,
+        "missing_points": 190,
         "missing_months": 0,
         "can_claim": false
       }
@@ -3253,16 +3253,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-02",
-      "points_total": 88,
+      "points_total": 148,
       "points_spent": 0,
-      "points_available": 88,
+      "points_available": 148,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 12,
+        "missing_points": 0,
         "missing_months": 1,
         "can_claim": false
       }
@@ -3513,16 +3513,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-02",
-      "points_total": 88,
+      "points_total": 148,
       "points_spent": 0,
-      "points_available": 88,
+      "points_available": 148,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 12,
+        "missing_points": 0,
         "missing_months": 1,
         "can_claim": false
       }
@@ -4133,16 +4133,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-06-17",
-      "points_total": 33,
+      "points_total": 63,
       "points_spent": 0,
-      "points_available": 33,
+      "points_available": 63,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 67,
+        "missing_points": 37,
         "missing_months": 1,
         "can_claim": false
       }
@@ -5125,16 +5125,16 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-12",
-      "points_total": 1711,
+      "points_total": 1781,
       "points_spent": 1270,
-      "points_available": 441,
+      "points_available": 511,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 359,
+        "missing_points": 289,
         "missing_months": 3,
         "can_claim": false
       }
