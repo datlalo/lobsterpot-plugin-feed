@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-06T07:14:40.401Z",
+  "generated_at": "2026-07-06T10:41:05.543Z",
   "broadcasts": [
     {
       "id": "629f957b-0c00-4c87-8206-3a5e43422c27",
@@ -4400,6 +4400,26 @@
       }
     },
     {
+      "rsn": "Mepsy",
+      "rsn_key": "mepsy",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-06",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "Mikey1569",
       "rsn_key": "mikey1569",
       "bot_rank": "Ruby",
@@ -5576,26 +5596,6 @@
         "requirements": null,
         "missing_points": 48,
         "missing_months": 0,
-        "can_claim": false
-      }
-    },
-    {
-      "rsn": "Reeen",
-      "rsn_key": "reeen",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-06-29",
-      "points_total": 7,
-      "points_spent": 0,
-      "points_available": 7,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 93,
-        "missing_months": 1,
         "can_claim": false
       }
     },
