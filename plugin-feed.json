@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-06T12:41:05.552Z",
+  "generated_at": "2026-07-06T15:50:06.612Z",
   "broadcasts": [
     {
       "id": "629f957b-0c00-4c87-8206-3a5e43422c27",
@@ -2023,9 +2023,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-02-14",
-      "points_total": 807,
+      "points_total": 867,
       "points_spent": 400,
-      "points_available": 407,
+      "points_available": 467,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Diamond",
