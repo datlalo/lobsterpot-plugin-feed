@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-06T11:04:04.293Z",
+  "generated_at": "2026-07-06T11:21:55.464Z",
   "broadcasts": [
     {
       "id": "629f957b-0c00-4c87-8206-3a5e43422c27",
@@ -1071,18 +1071,18 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-05-07",
-      "points_total": 60,
+      "points_total": 100,
       "points_spent": 0,
-      "points_available": 60,
+      "points_available": 100,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 40,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       }
     },
     {
