@@ -1,16 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-07-07T08:40:48.751Z",
-  "broadcasts": [
-    {
-      "id": "629f957b-0c00-4c87-8206-3a5e43422c27",
-      "title": "Make sure you don't miss the Farming SOTW!",
-      "message": "Starts on July 1st!!!",
-      "starts_at": null,
-      "expires_at": null,
-      "updated_at": "2026-07-01T07:48:37.116Z"
-    }
-  ],
+  "generated_at": "2026-07-07T11:11:11.688Z",
+  "broadcasts": [],
   "events": [
     {
       "id": "142587",
