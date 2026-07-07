@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-07T11:14:13.123Z",
+  "generated_at": "2026-07-07T11:55:28.029Z",
   "broadcasts": [
     {
       "id": "cd148871-59d0-4326-8c0b-585f791335b7",
@@ -221,9 +221,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 2118,
+      "points_total": 2123,
       "points_spent": 1230,
-      "points_available": 888,
+      "points_available": 893,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
@@ -1021,16 +1021,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-03-20 22:12:14.780985+00",
-      "points_total": 399,
+      "points_total": 404,
       "points_spent": 300,
-      "points_available": 99,
+      "points_available": 104,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 201,
+        "missing_points": 196,
         "missing_months": 0,
         "can_claim": false
       }
@@ -2673,9 +2673,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 2118,
+      "points_total": 2123,
       "points_spent": 1230,
-      "points_available": 888,
+      "points_available": 893,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
@@ -5325,9 +5325,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 2118,
+      "points_total": 2123,
       "points_spent": 1230,
-      "points_available": 888,
+      "points_available": 893,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
@@ -5565,9 +5565,9 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-05-20",
-      "points_total": 457,
+      "points_total": 462,
       "points_spent": 100,
-      "points_available": 357,
+      "points_available": 362,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Emerald",
@@ -5645,9 +5645,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 2118,
+      "points_total": 2123,
       "points_spent": 1230,
-      "points_available": 888,
+      "points_available": 893,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
@@ -7665,16 +7665,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-05-23 15:00:16.833464+00",
-      "points_total": 225,
+      "points_total": 230,
       "points_spent": 100,
-      "points_available": 125,
+      "points_available": 130,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 75,
+        "missing_points": 70,
         "missing_months": 1,
         "can_claim": false
       }
