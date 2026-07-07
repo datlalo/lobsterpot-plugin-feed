@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-07T21:17:53.098Z",
+  "generated_at": "2026-07-07T21:20:54.840Z",
   "broadcasts": [
     {
       "id": "cd148871-59d0-4326-8c0b-585f791335b7",
@@ -5825,16 +5825,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-09-15",
-      "points_total": 805,
+      "points_total": 865,
       "points_spent": 500,
-      "points_available": 305,
+      "points_available": 365,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 95,
+        "missing_points": 35,
         "missing_months": 0,
         "can_claim": false
       }
@@ -7245,16 +7245,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-05",
-      "points_total": 62,
+      "points_total": 77,
       "points_spent": 0,
-      "points_available": 62,
+      "points_available": 77,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 38,
+        "missing_points": 23,
         "missing_months": 1,
         "can_claim": false
       }
