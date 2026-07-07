@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-07T17:22:45.190Z",
+  "generated_at": "2026-07-07T17:25:47.130Z",
   "broadcasts": [
     {
       "id": "cd148871-59d0-4326-8c0b-585f791335b7",
@@ -681,16 +681,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-07",
-      "points_total": 0,
+      "points_total": 30,
       "points_spent": 0,
-      "points_available": 0,
+      "points_available": 30,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 100,
+        "missing_points": 70,
         "missing_months": 1,
         "can_claim": false
       }
@@ -2013,16 +2013,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-06-24",
-      "points_total": 13,
+      "points_total": 28,
       "points_spent": 0,
-      "points_available": 13,
+      "points_available": 28,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 87,
+        "missing_points": 72,
         "missing_months": 1,
         "can_claim": false
       }
@@ -3850,26 +3850,21 @@
     {
       "rsn": "kaverinn",
       "rsn_key": "kaverinn",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
       "join_date": "2026-01-16",
       "points_total": 667,
-      "points_spent": 330,
-      "points_available": 337,
+      "points_spent": 630,
+      "points_available": 37,
       "months_in_clan": 5,
       "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 0,
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 363,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Ruby",
-        "created_at": "2026-07-07T17:22:43.119Z"
+        "can_claim": false
       }
     },
     {
@@ -5130,18 +5125,18 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-04-29",
-      "points_total": 99,
+      "points_total": 114,
       "points_spent": 0,
-      "points_available": 99,
+      "points_available": 114,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 1,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       }
     },
     {
@@ -6550,16 +6545,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-06-01",
-      "points_total": 126,
+      "points_total": 141,
       "points_spent": 100,
-      "points_available": 26,
+      "points_available": 41,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 174,
+        "missing_points": 159,
         "missing_months": 1,
         "can_claim": false
       }
