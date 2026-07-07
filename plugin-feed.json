@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-07T06:58:22.138Z",
+  "generated_at": "2026-07-07T08:02:05.692Z",
   "broadcasts": [
     {
       "id": "629f957b-0c00-4c87-8206-3a5e43422c27",
@@ -4103,16 +4103,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-08-27",
-      "points_total": 1019,
+      "points_total": 1034,
       "points_spent": 700,
-      "points_available": 319,
+      "points_available": 334,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 181,
+        "missing_points": 166,
         "missing_months": 0,
         "can_claim": false
       }
