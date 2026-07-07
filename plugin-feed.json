@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-07T08:08:09.331Z",
+  "generated_at": "2026-07-07T08:40:48.751Z",
   "broadcasts": [
     {
       "id": "629f957b-0c00-4c87-8206-3a5e43422c27",
@@ -32,6 +32,16 @@
       "ends_at": null,
       "description": "",
       "thread_id": "1523645687382933524"
+    },
+    {
+      "id": "1523972017714626670",
+      "type": "event",
+      "title": "Clue'd Up!",
+      "location": "In-game",
+      "starts_at": "2026-07-10T10:00:00.000Z",
+      "ends_at": "2026-07-13T07:00:00.000Z",
+      "description": "",
+      "thread_id": "1523972017714626670"
     },
     {
       "id": "1517638097402204272",
