@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-07T16:45:17.738Z",
+  "generated_at": "2026-07-07T16:48:19.609Z",
   "broadcasts": [
     {
       "id": "cd148871-59d0-4326-8c0b-585f791335b7",
@@ -4665,16 +4665,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-06-24",
-      "points_total": 68,
+      "points_total": 98,
       "points_spent": 0,
-      "points_available": 68,
+      "points_available": 98,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 32,
+        "missing_points": 2,
         "missing_months": 1,
         "can_claim": false
       }
@@ -4685,16 +4685,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-06-24",
-      "points_total": 68,
+      "points_total": 98,
       "points_spent": 0,
-      "points_available": 68,
+      "points_available": 98,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 32,
+        "missing_points": 2,
         "missing_months": 1,
         "can_claim": false
       }
@@ -6065,16 +6065,16 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-10-11",
-      "points_total": 1683,
+      "points_total": 1713,
       "points_spent": 1400,
-      "points_available": 283,
+      "points_available": 313,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 517,
+        "missing_points": 487,
         "missing_months": 4,
         "can_claim": false
       }
