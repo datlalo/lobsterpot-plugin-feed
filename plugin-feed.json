@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-07T15:20:14.102Z",
+  "generated_at": "2026-07-07T15:23:17.576Z",
   "broadcasts": [
     {
       "id": "cd148871-59d0-4326-8c0b-585f791335b7",
@@ -1318,26 +1318,21 @@
     {
       "rsn": "chef ed up",
       "rsn_key": "chefedup",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
       "join_date": "2025-09-09",
       "points_total": 569,
-      "points_spent": 0,
-      "points_available": 569,
+      "points_spent": 300,
+      "points_available": 269,
       "months_in_clan": 9,
       "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 0,
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 131,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Ruby",
-        "created_at": "2026-07-07T15:20:11.812Z"
+        "can_claim": false
       }
     },
     {
