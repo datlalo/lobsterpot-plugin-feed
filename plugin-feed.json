@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-07-07T11:11:11.688Z",
-  "broadcasts": [],
+  "generated_at": "2026-07-07T11:12:24.170Z",
+  "broadcasts": [
+    {
+      "id": "cd148871-59d0-4326-8c0b-585f791335b7",
+      "title": "Last day for Farming SOTW!",
+      "message": "- Submit your bounties before its too late!",
+      "starts_at": null,
+      "expires_at": "2026-07-08T11:00:00.000Z",
+      "updated_at": "2026-07-07T11:12:01.227Z"
+    }
+  ],
   "events": [
     {
       "id": "142587",
