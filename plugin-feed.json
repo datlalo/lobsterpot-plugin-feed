@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-07T20:01:43.094Z",
+  "generated_at": "2026-07-07T20:04:44.920Z",
   "broadcasts": [
     {
       "id": "cd148871-59d0-4326-8c0b-585f791335b7",
@@ -5242,26 +5242,21 @@
     {
       "rsn": "Ol ivia",
       "rsn_key": "olivia",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2026-03-20",
       "points_total": 494,
-      "points_spent": 100,
-      "points_available": 394,
+      "points_spent": 300,
+      "points_available": 194,
       "months_in_clan": 3,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 106,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Emerald",
-        "created_at": "2026-07-07T20:01:40.929Z"
+        "can_claim": false
       }
     },
     {
