@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-07T12:04:24.698Z",
+  "generated_at": "2026-07-07T12:07:26.375Z",
   "broadcasts": [
     {
       "id": "cd148871-59d0-4326-8c0b-585f791335b7",
@@ -2813,16 +2813,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-03-08",
-      "points_total": 151,
+      "points_total": 156,
       "points_spent": 0,
-      "points_available": 151,
+      "points_available": 156,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 49,
+        "missing_points": 44,
         "missing_months": 0,
         "can_claim": false
       }
@@ -5505,16 +5505,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-30",
-      "points_total": 1173,
+      "points_total": 1178,
       "points_spent": 700,
-      "points_available": 473,
+      "points_available": 478,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 27,
+        "missing_points": 22,
         "missing_months": 0,
         "can_claim": false
       }
@@ -6825,16 +6825,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-03-08",
-      "points_total": 151,
+      "points_total": 156,
       "points_spent": 0,
-      "points_available": 151,
+      "points_available": 156,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 49,
+        "missing_points": 44,
         "missing_months": 0,
         "can_claim": false
       }
