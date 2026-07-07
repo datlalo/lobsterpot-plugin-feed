@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-07T15:30:30.139Z",
+  "generated_at": "2026-07-07T15:41:07.622Z",
   "broadcasts": [
     {
       "id": "cd148871-59d0-4326-8c0b-585f791335b7",
@@ -7035,6 +7035,26 @@
         "min_months": 1,
         "requirements": null,
         "missing_points": 74,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "tinysnowlily",
+      "rsn_key": "tinysnowlily",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-07",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
         "missing_months": 1,
         "can_claim": false
       }
