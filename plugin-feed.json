@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-08T18:31:17.199Z",
+  "generated_at": "2026-07-08T19:04:31.960Z",
   "broadcasts": [
     {
       "id": "8c3bc05d-73b9-46f1-9bf0-a6a47864cf95",
@@ -5264,16 +5264,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-03-20",
-      "points_total": 495,
+      "points_total": 515,
       "points_spent": 300,
-      "points_available": 195,
+      "points_available": 215,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 105,
+        "missing_points": 85,
         "missing_months": 0,
         "can_claim": false
       }
