@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-08T19:04:31.960Z",
+  "generated_at": "2026-07-08T19:07:33.924Z",
   "broadcasts": [
     {
       "id": "8c3bc05d-73b9-46f1-9bf0-a6a47864cf95",
@@ -200,9 +200,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 2124,
+      "points_total": 2134,
       "points_spent": 1230,
-      "points_available": 894,
+      "points_available": 904,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
@@ -1912,16 +1912,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-09-14",
-      "points_total": 477,
+      "points_total": 487,
       "points_spent": 300,
-      "points_available": 177,
+      "points_available": 187,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 223,
+        "missing_points": 213,
         "missing_months": 0,
         "can_claim": false
       }
@@ -2332,16 +2332,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-21",
-      "points_total": 830,
+      "points_total": 840,
       "points_spent": 700,
-      "points_available": 130,
+      "points_available": 140,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 370,
+        "missing_points": 360,
         "missing_months": 0,
         "can_claim": false
       }
@@ -2432,16 +2432,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-21",
-      "points_total": 830,
+      "points_total": 840,
       "points_spent": 700,
-      "points_available": 130,
+      "points_available": 140,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 370,
+        "missing_points": 360,
         "missing_months": 0,
         "can_claim": false
       }
@@ -2712,9 +2712,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 2124,
+      "points_total": 2134,
       "points_spent": 1230,
-      "points_available": 894,
+      "points_available": 904,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
@@ -4212,18 +4212,18 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-05-18",
-      "points_total": 96,
+      "points_total": 106,
       "points_spent": 0,
-      "points_available": 96,
+      "points_available": 106,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 4,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       }
     },
     {
@@ -4624,9 +4624,9 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2025-09-05",
-      "points_total": 1161,
+      "points_total": 1171,
       "points_spent": 350,
-      "points_available": 811,
+      "points_available": 821,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Ruby",
@@ -4704,16 +4704,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-06-24",
-      "points_total": 99,
+      "points_total": 109,
       "points_spent": 0,
-      "points_available": 99,
+      "points_available": 109,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 1,
+        "missing_points": 0,
         "missing_months": 1,
         "can_claim": false
       }
@@ -4724,16 +4724,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-06-24",
-      "points_total": 99,
+      "points_total": 109,
       "points_spent": 0,
-      "points_available": 99,
+      "points_available": 109,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 1,
+        "missing_points": 0,
         "missing_months": 1,
         "can_claim": false
       }
@@ -5264,16 +5264,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-03-20",
-      "points_total": 515,
+      "points_total": 525,
       "points_spent": 300,
-      "points_available": 215,
+      "points_available": 225,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 85,
+        "missing_points": 75,
         "missing_months": 0,
         "can_claim": false
       }
@@ -5444,9 +5444,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 2124,
+      "points_total": 2134,
       "points_spent": 1230,
-      "points_available": 894,
+      "points_available": 904,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
@@ -5564,16 +5564,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-02-03",
-      "points_total": 970,
+      "points_total": 980,
       "points_spent": 650,
-      "points_available": 320,
+      "points_available": 330,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 80,
+        "missing_points": 70,
         "missing_months": 0,
         "can_claim": false
       }
@@ -5624,16 +5624,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-30",
-      "points_total": 1179,
+      "points_total": 1189,
       "points_spent": 700,
-      "points_available": 479,
+      "points_available": 489,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 21,
+        "missing_points": 11,
         "missing_months": 0,
         "can_claim": false
       }
@@ -5784,9 +5784,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 2124,
+      "points_total": 2134,
       "points_spent": 1230,
-      "points_available": 894,
+      "points_available": 904,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
@@ -6104,16 +6104,16 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-10-11",
-      "points_total": 1714,
+      "points_total": 1724,
       "points_spent": 1400,
-      "points_available": 314,
+      "points_available": 324,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 486,
+        "missing_points": 476,
         "missing_months": 4,
         "can_claim": false
       }
@@ -6804,16 +6804,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-06-05",
-      "points_total": 53,
+      "points_total": 63,
       "points_spent": 0,
-      "points_available": 53,
+      "points_available": 63,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 47,
+        "missing_points": 37,
         "missing_months": 0,
         "can_claim": false
       }
@@ -7544,16 +7544,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-02-14",
-      "points_total": 509,
+      "points_total": 519,
       "points_spent": 300,
-      "points_available": 209,
+      "points_available": 219,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 91,
+        "missing_points": 81,
         "missing_months": 0,
         "can_claim": false
       }
