@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-08T11:10:43.624Z",
+  "generated_at": "2026-07-08T11:26:09.958Z",
   "broadcasts": [],
   "events": [
     {
@@ -421,9 +421,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-12-24",
-      "points_total": 1021,
+      "points_total": 1051,
       "points_spent": 610,
-      "points_available": 411,
+      "points_available": 441,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Diamond",
@@ -521,16 +521,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-01-31",
-      "points_total": 1103,
+      "points_total": 1153,
       "points_spent": 1050,
-      "points_available": 53,
+      "points_available": 103,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 447,
+        "missing_points": 397,
         "missing_months": 3,
         "can_claim": false
       }
@@ -5565,16 +5565,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-02-03",
-      "points_total": 920,
+      "points_total": 940,
       "points_spent": 650,
-      "points_available": 270,
+      "points_available": 290,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 130,
+        "missing_points": 110,
         "missing_months": 0,
         "can_claim": false
       }
