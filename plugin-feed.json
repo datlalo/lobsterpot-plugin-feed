@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-08T12:31:40.723Z",
+  "generated_at": "2026-07-08T18:28:15.515Z",
   "broadcasts": [
     {
       "id": "8c3bc05d-73b9-46f1-9bf0-a6a47864cf95",
@@ -12,16 +12,6 @@
     }
   ],
   "events": [
-    {
-      "id": "1523645687382933524",
-      "type": "event",
-      "title": "Volcanic Mine with the Pot",
-      "location": "Volcanic Mine minigame",
-      "starts_at": "2026-07-08T17:00:00.000Z",
-      "ends_at": null,
-      "description": "",
-      "thread_id": "1523645687382933524"
-    },
     {
       "id": "1523972017714626670",
       "type": "event",
