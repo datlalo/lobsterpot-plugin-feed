@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-07T21:20:54.840Z",
+  "generated_at": "2026-07-08T00:13:46.367Z",
   "broadcasts": [
     {
       "id": "cd148871-59d0-4326-8c0b-585f791335b7",
@@ -64,7 +64,7 @@
       "points_total": 597,
       "points_spent": 300,
       "points_available": 297,
-      "months_in_clan": 9,
+      "months_in_clan": 10,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -2256,7 +2256,7 @@
       "points_total": 250,
       "points_spent": 100,
       "points_available": 150,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -2856,7 +2856,7 @@
       "points_total": 156,
       "points_spent": 0,
       "points_available": 156,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -2936,7 +2936,7 @@
       "points_total": 655,
       "points_spent": 620,
       "points_available": 35,
-      "months_in_clan": 5,
+      "months_in_clan": 6,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -4336,7 +4336,7 @@
       "points_total": 302,
       "points_spent": 0,
       "points_available": 302,
-      "months_in_clan": 9,
+      "months_in_clan": 10,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -5157,6 +5157,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Sapphire",
+        "created_at": "2026-07-08T00:13:44.328Z"
       }
     },
     {
@@ -6388,7 +6393,7 @@
       "points_total": 154,
       "points_spent": 0,
       "points_available": 154,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -6848,7 +6853,7 @@
       "points_total": 191,
       "points_spent": 100,
       "points_available": 91,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -6928,7 +6933,7 @@
       "points_total": 90,
       "points_spent": 0,
       "points_available": 90,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -6948,7 +6953,7 @@
       "points_total": 156,
       "points_spent": 0,
       "points_available": 156,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
