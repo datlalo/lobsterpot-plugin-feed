@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-08T12:21:08.541Z",
+  "generated_at": "2026-07-08T12:24:10.355Z",
   "broadcasts": [
     {
       "id": "8c3bc05d-73b9-46f1-9bf0-a6a47864cf95",
@@ -1127,26 +1127,21 @@
     {
       "rsn": "bubbly beer",
       "rsn_key": "bubblybeer",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-05-07",
       "points_total": 102,
-      "points_spent": 0,
-      "points_available": 102,
+      "points_spent": 100,
+      "points_available": 2,
       "months_in_clan": 2,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 198,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-07-08T12:21:06.411Z"
+        "can_claim": false
       }
     },
     {
