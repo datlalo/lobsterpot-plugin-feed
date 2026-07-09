@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-09T20:26:09.026Z",
+  "generated_at": "2026-07-09T22:47:12.108Z",
   "broadcasts": [
     {
       "id": "8c3bc05d-73b9-46f1-9bf0-a6a47864cf95",
@@ -643,7 +643,7 @@
       "points_total": 105,
       "points_spent": 0,
       "points_available": 105,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -1855,7 +1855,7 @@
       "points_total": 311,
       "points_spent": 200,
       "points_available": 111,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -1975,7 +1975,7 @@
       "points_total": 241,
       "points_spent": 0,
       "points_available": 241,
-      "months_in_clan": 7,
+      "months_in_clan": 8,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -4275,7 +4275,7 @@
       "points_total": 90,
       "points_spent": 0,
       "points_available": 90,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -5264,16 +5264,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-03-20",
-      "points_total": 536,
+      "points_total": 556,
       "points_spent": 300,
-      "points_available": 236,
+      "points_available": 256,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 64,
+        "missing_points": 44,
         "missing_months": 0,
         "can_claim": false
       }
@@ -7787,7 +7787,7 @@
       "points_total": 95,
       "points_spent": 0,
       "points_available": 95,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
