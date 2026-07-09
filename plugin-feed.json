@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-09T19:41:11.742Z",
+  "generated_at": "2026-07-09T20:26:09.026Z",
   "broadcasts": [
     {
       "id": "8c3bc05d-73b9-46f1-9bf0-a6a47864cf95",
@@ -1660,9 +1660,9 @@
       "bot_rank": "Owner",
       "progression_rank": "Owner",
       "join_date": "2024-08-01",
-      "points_total": 5558,
+      "points_total": 6249,
       "points_spent": 1140,
-      "points_available": 4418,
+      "points_available": 5109,
       "months_in_clan": 23,
       "next_rank": null
     },
@@ -4512,9 +4512,9 @@
       "bot_rank": "Owner",
       "progression_rank": "Owner",
       "join_date": "2024-08-01",
-      "points_total": 5558,
+      "points_total": 6249,
       "points_spent": 1140,
-      "points_available": 4418,
+      "points_available": 5109,
       "months_in_clan": 23,
       "next_rank": null
     },
@@ -6704,9 +6704,9 @@
       "bot_rank": null,
       "progression_rank": null,
       "join_date": "2024-08-01",
-      "points_total": 1627,
+      "points_total": 2318,
       "points_spent": 0,
-      "points_available": 1627,
+      "points_available": 2318,
       "months_in_clan": 23,
       "next_rank": {
         "name": "Gnome",
