@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-09T15:06:52.979Z",
+  "generated_at": "2026-07-09T15:11:12.116Z",
   "broadcasts": [
     {
       "id": "8c3bc05d-73b9-46f1-9bf0-a6a47864cf95",
@@ -4859,6 +4859,26 @@
       }
     },
     {
+      "rsn": "My Du de",
+      "rsn_key": "mydude",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-09",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "NachoSausage",
       "rsn_key": "nachosausage",
       "bot_rank": "Sapphire",
@@ -6235,6 +6255,26 @@
         "requirements": "Barrows Gloves",
         "missing_points": 258,
         "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "shlauren",
+      "rsn_key": "shlauren",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-09",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
         "can_claim": false
       }
     },
