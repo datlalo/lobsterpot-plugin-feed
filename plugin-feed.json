@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-10T11:31:10.906Z",
+  "generated_at": "2026-07-10T11:41:13.765Z",
   "broadcasts": [
     {
       "id": "8c3bc05d-73b9-46f1-9bf0-a6a47864cf95",
@@ -2365,6 +2365,18 @@
         "missing_months": 0,
         "can_claim": false
       }
+    },
+    {
+      "rsn": "fikosbank",
+      "rsn_key": "fikosbank",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-07-10",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
     },
     {
       "rsn": "finon",
