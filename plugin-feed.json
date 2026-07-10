@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-10T18:41:13.733Z",
+  "generated_at": "2026-07-10T20:11:13.725Z",
   "broadcasts": [
     {
       "id": "d62822c3-ed54-4924-909c-ec9d25799470",
@@ -3704,6 +3704,26 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      }
+    },
+    {
+      "rsn": "iSinthetyk",
+      "rsn_key": "isinthetyk",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-10",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
       }
     },
     {
