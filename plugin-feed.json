@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-10T14:52:03.347Z",
+  "generated_at": "2026-07-10T18:28:17.836Z",
   "broadcasts": [
     {
       "id": "d62822c3-ed54-4924-909c-ec9d25799470",
@@ -2369,14 +2369,22 @@
     {
       "rsn": "fikosbank",
       "rsn_key": "fikosbank",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2026-07-10",
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": null
+      "bot_rank": "Diamond",
+      "progression_rank": "Diamond",
+      "join_date": "2025-09-21",
+      "points_total": 842,
+      "points_spent": 700,
+      "points_available": 142,
+      "months_in_clan": 9,
+      "next_rank": {
+        "name": "Dragonstone",
+        "point_cost": 500,
+        "min_months": 8,
+        "requirements": "Barrows Gloves",
+        "missing_points": 358,
+        "missing_months": 0,
+        "can_claim": false
+      }
     },
     {
       "rsn": "finon",
