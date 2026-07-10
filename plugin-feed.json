@@ -1,16 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-07-10T11:41:13.765Z",
-  "broadcasts": [
-    {
-      "id": "8c3bc05d-73b9-46f1-9bf0-a6a47864cf95",
-      "title": "Congratulations AshenaleFerg",
-      "message": "For winning Farming SOTW!",
-      "starts_at": null,
-      "expires_at": null,
-      "updated_at": "2026-07-08T11:44:38.825Z"
-    }
-  ],
+  "generated_at": "2026-07-10T14:49:01.376Z",
+  "broadcasts": [],
   "events": [
     {
       "id": "1523972017714626670",
