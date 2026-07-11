@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-11T09:11:15.382Z",
+  "generated_at": "2026-07-11T10:42:04.175Z",
   "broadcasts": [
     {
       "id": "d62822c3-ed54-4924-909c-ec9d25799470",
@@ -1844,6 +1844,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Ruby",
+        "created_at": "2026-07-11T10:42:01.992Z"
       }
     },
     {
