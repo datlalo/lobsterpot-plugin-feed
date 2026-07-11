@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-11T03:11:13.921Z",
+  "generated_at": "2026-07-11T09:11:15.382Z",
   "broadcasts": [
     {
       "id": "d62822c3-ed54-4924-909c-ec9d25799470",
@@ -4567,6 +4567,18 @@
       }
     },
     {
+      "rsn": "MainGengar",
+      "rsn_key": "maingengar",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-07-11",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
+    },
+    {
       "rsn": "marco bizot",
       "rsn_key": "marcobizot",
       "bot_rank": "Gnome",
@@ -4674,6 +4686,26 @@
         "min_months": 1,
         "requirements": null,
         "missing_points": 95,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "mfnxkenshin",
+      "rsn_key": "mfnxkenshin",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-11",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
         "missing_months": 1,
         "can_claim": false
       }
@@ -7616,6 +7648,26 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      }
+    },
+    {
+      "rsn": "Vermir",
+      "rsn_key": "vermir",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-11",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
       }
     },
     {
