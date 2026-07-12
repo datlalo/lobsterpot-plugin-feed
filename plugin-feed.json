@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-12T11:22:48.402Z",
+  "generated_at": "2026-07-12T11:26:17.552Z",
   "broadcasts": [
     {
       "id": "d62822c3-ed54-4924-909c-ec9d25799470",
@@ -4287,6 +4287,18 @@
       }
     },
     {
+      "rsn": "Lamp Lite",
+      "rsn_key": "lamplite",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-07-12",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
+    },
+    {
       "rsn": "LazyThom",
       "rsn_key": "lazythom",
       "bot_rank": "Diamond",
@@ -6775,6 +6787,26 @@
         "requirements": null,
         "missing_points": 24,
         "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Slinklekody",
+      "rsn_key": "slinklekody",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-12",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
         "can_claim": false
       }
     },
