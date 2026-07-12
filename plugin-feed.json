@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-12T16:14:19.540Z",
+  "generated_at": "2026-07-12T16:54:52.933Z",
   "broadcasts": [
     {
       "id": "d62822c3-ed54-4924-909c-ec9d25799470",
@@ -39,7 +39,7 @@
       "location": "Callisto",
       "starts_at": "2026-07-17T21:00:00.000Z",
       "ends_at": null,
-      "description": "Lets all go and kill some together Calisto.",
+      "description": "Lets all go and kill some Calisto together.",
       "thread_id": "1525897734853361898"
     },
     {
