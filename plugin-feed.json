@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-12T16:11:17.749Z",
+  "generated_at": "2026-07-12T16:14:19.540Z",
   "broadcasts": [
     {
       "id": "d62822c3-ed54-4924-909c-ec9d25799470",
@@ -31,6 +31,16 @@
       "ends_at": null,
       "description": "Let's all go and train some smithing together at Giants' Foundry.",
       "thread_id": "1525896273629282305"
+    },
+    {
+      "id": "1525897734853361898",
+      "type": "event",
+      "title": "Callisto Clan Bossing",
+      "location": "Callisto",
+      "starts_at": "2026-07-17T21:00:00.000Z",
+      "ends_at": null,
+      "description": "Lets all go and kill some together Calisto.",
+      "thread_id": "1525897734853361898"
     },
     {
       "id": "1517638097402204272",
