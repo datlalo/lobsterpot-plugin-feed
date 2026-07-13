@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-13T14:32:59.714Z",
+  "generated_at": "2026-07-13T14:50:19.001Z",
   "broadcasts": [],
   "events": [],
   "bounties": [
@@ -1674,9 +1674,9 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2024-08-01",
-      "points_total": 6150,
+      "points_total": 6180,
       "points_spent": 2140,
-      "points_available": 4010,
+      "points_available": 4040,
       "months_in_clan": 23,
       "next_rank": {
         "name": "Ruby",
@@ -1686,7 +1686,15 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
-      }
+      },
+      "pending_bounties": [
+        {
+          "bounty_id": "56",
+          "name": "Barrows Chest Bounty",
+          "status": "approved",
+          "created_at": "2026-07-13T14:44:58.965Z"
+        }
+      ]
     },
     {
       "rsn": "davide",
@@ -4626,9 +4634,9 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2024-08-01",
-      "points_total": 6150,
+      "points_total": 6180,
       "points_spent": 2140,
-      "points_available": 4010,
+      "points_available": 4040,
       "months_in_clan": 23,
       "next_rank": {
         "name": "Ruby",
@@ -4638,7 +4646,15 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
-      }
+      },
+      "pending_bounties": [
+        {
+          "bounty_id": "56",
+          "name": "Barrows Chest Bounty",
+          "status": "approved",
+          "created_at": "2026-07-13T14:44:58.965Z"
+        }
+      ]
     },
     {
       "rsn": "mc templeton",
