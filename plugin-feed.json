@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-13T14:53:29.962Z",
+  "generated_at": "2026-07-13T14:56:32.228Z",
   "broadcasts": [
     {
       "id": "412b61ab-9b64-4062-866a-c7a3f253b02c",
@@ -5875,21 +5875,21 @@
     {
       "rsn": "PuzzleDream",
       "rsn_key": "puzzledream",
-      "bot_rank": "Diamond",
-      "progression_rank": "Diamond",
+      "bot_rank": "Dragonstone",
+      "progression_rank": "Dragonstone",
       "join_date": "2025-09-30",
       "points_total": 1209,
-      "points_spent": 700,
-      "points_available": 509,
+      "points_spent": 1200,
+      "points_available": 9,
       "months_in_clan": 9,
       "next_rank": {
-        "name": "Dragonstone",
-        "point_cost": 500,
-        "min_months": 8,
-        "requirements": "Barrows Gloves",
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
+        "name": "Onyx",
+        "point_cost": 800,
+        "min_months": 12,
+        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "missing_points": 791,
+        "missing_months": 3,
+        "can_claim": false
       }
     },
     {
