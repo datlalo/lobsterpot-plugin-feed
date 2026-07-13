@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-13T15:15:07.016Z",
+  "generated_at": "2026-07-13T15:44:34.400Z",
   "broadcasts": [
     {
       "id": "412b61ab-9b64-4062-866a-c7a3f253b02c",
@@ -230,9 +230,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 2194,
+      "points_total": 2224,
       "points_spent": 1230,
-      "points_available": 964,
+      "points_available": 994,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
@@ -3422,9 +3422,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-06-27",
-      "points_total": 196,
+      "points_total": 226,
       "points_spent": 0,
-      "points_available": 196,
+      "points_available": 226,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
@@ -5698,9 +5698,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 2194,
+      "points_total": 2224,
       "points_spent": 1230,
-      "points_available": 964,
+      "points_available": 994,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
