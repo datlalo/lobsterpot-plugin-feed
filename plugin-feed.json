@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-13T18:14:42.617Z",
+  "generated_at": "2026-07-13T18:20:07.092Z",
   "broadcasts": [
     {
       "id": "412b61ab-9b64-4062-866a-c7a3f253b02c",
@@ -45,7 +45,7 @@
   ],
   "bounties": [
     {
-      "id": "40",
+      "id": "41",
       "name": "test",
       "active": true,
       "description": "test\nReward: nada",
