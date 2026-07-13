@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-13T18:20:07.092Z",
+  "generated_at": "2026-07-13T18:33:55.991Z",
   "broadcasts": [
     {
       "id": "412b61ab-9b64-4062-866a-c7a3f253b02c",
@@ -44,13 +44,6 @@
     }
   ],
   "bounties": [
-    {
-      "id": "41",
-      "name": "test",
-      "active": true,
-      "description": "test\nReward: nada",
-      "expires_at": "2026-07-25T00:00:00.000Z"
-    },
     {
       "id": "37",
       "name": "Medium clue Boots",
