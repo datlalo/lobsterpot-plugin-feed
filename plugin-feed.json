@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-13T06:39:15.216Z",
+  "generated_at": "2026-07-13T06:41:55.076Z",
   "broadcasts": [
     {
       "id": "412b61ab-9b64-4062-866a-c7a3f253b02c",
@@ -1495,6 +1495,26 @@
       }
     },
     {
+      "rsn": "cljppy",
+      "rsn_key": "cljppy",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-13",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "cm fireman",
       "rsn_key": "cmfireman",
       "bot_rank": "Gnome",
@@ -2827,26 +2847,6 @@
       }
     },
     {
-      "rsn": "GIM Slothie",
-      "rsn_key": "gimslothie",
-      "bot_rank": "Dragonstone",
-      "progression_rank": "Dragonstone",
-      "join_date": "2025-09-25",
-      "points_total": 2149,
-      "points_spent": 1230,
-      "points_available": 919,
-      "months_in_clan": 9,
-      "next_rank": {
-        "name": "Onyx",
-        "point_cost": 800,
-        "min_months": 12,
-        "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 0,
-        "missing_months": 3,
-        "can_claim": false
-      }
-    },
-    {
       "rsn": "glanqe",
       "rsn_key": "glanqe",
       "bot_rank": "Emerald",
@@ -3124,6 +3124,26 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      }
+    },
+    {
+      "rsn": "gyatHero",
+      "rsn_key": "gyathero",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-13",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
       }
     },
     {
@@ -6003,26 +6023,6 @@
       }
     },
     {
-      "rsn": "reflexsloth",
-      "rsn_key": "reflexsloth",
-      "bot_rank": "Dragonstone",
-      "progression_rank": "Dragonstone",
-      "join_date": "2025-09-25",
-      "points_total": 2149,
-      "points_spent": 1230,
-      "points_available": 919,
-      "months_in_clan": 9,
-      "next_rank": {
-        "name": "Onyx",
-        "point_cost": 800,
-        "min_months": 12,
-        "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 0,
-        "missing_months": 3,
-        "can_claim": false
-      }
-    },
-    {
       "rsn": "Relye",
       "rsn_key": "relye",
       "bot_rank": "Dragonstone",
@@ -6458,6 +6458,26 @@
         "min_months": 2,
         "requirements": null,
         "missing_points": 159,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "sherifftoshi",
+      "rsn_key": "sherifftoshi",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-13",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
         "missing_months": 1,
         "can_claim": false
       }
@@ -6940,26 +6960,6 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
-      }
-    },
-    {
-      "rsn": "Snupy x",
-      "rsn_key": "snupyx",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-05-15",
-      "points_total": 59,
-      "points_spent": 0,
-      "points_available": 59,
-      "months_in_clan": 1,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 41,
-        "missing_months": 0,
-        "can_claim": false
       }
     },
     {
@@ -8260,26 +8260,6 @@
         "missing_points": 73,
         "missing_months": 1,
         "can_claim": false
-      }
-    },
-    {
-      "rsn": "ZorgaRedeem",
-      "rsn_key": "zorgaredeem",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2025-11-03",
-      "points_total": 252,
-      "points_spent": 0,
-      "points_available": 252,
-      "months_in_clan": 8,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
       }
     },
     {
