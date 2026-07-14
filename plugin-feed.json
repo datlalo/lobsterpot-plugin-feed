@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-14T20:19:29.085Z",
+  "generated_at": "2026-07-14T21:03:44.030Z",
   "broadcasts": [
     {
       "id": "412b61ab-9b64-4062-866a-c7a3f253b02c",
@@ -4408,6 +4408,26 @@
         "requirements": null,
         "missing_points": 50,
         "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "legwater",
+      "rsn_key": "legwater",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-14",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
         "can_claim": false
       }
     },
