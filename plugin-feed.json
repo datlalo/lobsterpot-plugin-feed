@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-14T17:18:43.499Z",
+  "generated_at": "2026-07-14T20:07:20.374Z",
   "broadcasts": [
     {
       "id": "412b61ab-9b64-4062-866a-c7a3f253b02c",
@@ -12,6 +12,16 @@
     }
   ],
   "events": [
+    {
+      "id": "1526681510785319084",
+      "type": "event",
+      "title": "Boss of the week - Duke Sucellus",
+      "location": "Ghorrock Prison",
+      "starts_at": "2026-07-15T11:00:00.000Z",
+      "ends_at": "2026-07-22T11:00:00.000Z",
+      "description": "https://wiseoldman.net/competitions/145609",
+      "thread_id": "1526681510785319084"
+    },
     {
       "id": "1525896273629282305",
       "type": "event",
