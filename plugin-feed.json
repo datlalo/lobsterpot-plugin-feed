@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-14T20:07:20.374Z",
+  "generated_at": "2026-07-14T20:10:23.064Z",
   "broadcasts": [
     {
       "id": "412b61ab-9b64-4062-866a-c7a3f253b02c",
@@ -53,15 +53,7 @@
       "thread_id": "1517638097402204272"
     }
   ],
-  "bounties": [
-    {
-      "id": "36",
-      "name": "Mimic kill",
-      "active": true,
-      "points": 10,
-      "description": "Kill one Mimic"
-    }
-  ],
+  "bounties": [],
   "members": [
     {
       "rsn": "0jack black0",
@@ -581,15 +573,7 @@
         "missing_points": 296,
         "missing_months": 3,
         "can_claim": false
-      },
-      "pending_bounties": [
-        {
-          "bounty_id": "36",
-          "name": "Mimic kill",
-          "status": "approved",
-          "created_at": "2026-07-10T17:03:19.987Z"
-        }
-      ]
+      }
     },
     {
       "rsn": "Ashen bun",
@@ -1761,15 +1745,7 @@
       "points_spent": 1140,
       "points_available": 5114,
       "months_in_clan": 23,
-      "next_rank": null,
-      "pending_bounties": [
-        {
-          "bounty_id": "36",
-          "name": "Mimic kill",
-          "status": "rejected",
-          "created_at": "2026-07-14T09:03:48.012Z"
-        }
-      ]
+      "next_rank": null
     },
     {
       "rsn": "davide",
@@ -1929,15 +1905,7 @@
         "missing_points": 320,
         "missing_months": 1,
         "can_claim": false
-      },
-      "pending_bounties": [
-        {
-          "bounty_id": "36",
-          "name": "Mimic kill",
-          "status": "approved",
-          "created_at": "2026-07-10T17:50:25.702Z"
-        }
-      ]
+      }
     },
     {
       "rsn": "dire sloth",
@@ -3397,15 +3365,7 @@
         "missing_points": 300,
         "missing_months": 2,
         "can_claim": false
-      },
-      "pending_bounties": [
-        {
-          "bounty_id": "36",
-          "name": "Mimic kill",
-          "status": "approved",
-          "created_at": "2026-07-12T19:08:51.398Z"
-        }
-      ]
+      }
     },
     {
       "rsn": "HTooTHBTW",
@@ -3605,15 +3565,7 @@
         "missing_points": 0,
         "missing_months": 1,
         "can_claim": false
-      },
-      "pending_bounties": [
-        {
-          "bounty_id": "36",
-          "name": "Mimic kill",
-          "status": "approved",
-          "created_at": "2026-07-10T23:00:28.491Z"
-        }
-      ]
+      }
     },
     {
       "rsn": "iqlw",
@@ -3893,15 +3845,7 @@
         "missing_points": 0,
         "missing_months": 1,
         "can_claim": false
-      },
-      "pending_bounties": [
-        {
-          "bounty_id": "36",
-          "name": "Mimic kill",
-          "status": "approved",
-          "created_at": "2026-07-10T23:00:28.491Z"
-        }
-      ]
+      }
     },
     {
       "rsn": "its kippari",
@@ -4817,15 +4761,7 @@
       "points_spent": 1140,
       "points_available": 5114,
       "months_in_clan": 23,
-      "next_rank": null,
-      "pending_bounties": [
-        {
-          "bounty_id": "36",
-          "name": "Mimic kill",
-          "status": "rejected",
-          "created_at": "2026-07-14T09:03:48.012Z"
-        }
-      ]
+      "next_rank": null
     },
     {
       "rsn": "mc templeton",
@@ -6405,15 +6341,7 @@
         "missing_points": 445,
         "missing_months": 3,
         "can_claim": false
-      },
-      "pending_bounties": [
-        {
-          "bounty_id": "36",
-          "name": "Mimic kill",
-          "status": "approved",
-          "created_at": "2026-07-11T20:21:49.704Z"
-        }
-      ]
+      }
     },
     {
       "rsn": "ScottishBobB",
@@ -7213,15 +7141,7 @@
         "missing_points": 300,
         "missing_months": 2,
         "can_claim": false
-      },
-      "pending_bounties": [
-        {
-          "bounty_id": "36",
-          "name": "Mimic kill",
-          "status": "approved",
-          "created_at": "2026-07-12T19:08:51.398Z"
-        }
-      ]
+      }
     },
     {
       "rsn": "syly",
