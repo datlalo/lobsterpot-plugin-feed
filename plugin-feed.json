@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-14T00:33:42.498Z",
+  "generated_at": "2026-07-14T09:03:49.815Z",
   "broadcasts": [
     {
       "id": "412b61ab-9b64-4062-866a-c7a3f253b02c",
@@ -1751,7 +1751,15 @@
       "points_spent": 1140,
       "points_available": 5114,
       "months_in_clan": 23,
-      "next_rank": null
+      "next_rank": null,
+      "pending_bounties": [
+        {
+          "bounty_id": "36",
+          "name": "Mimic kill",
+          "status": "pending",
+          "created_at": "2026-07-14T09:03:48.012Z"
+        }
+      ]
     },
     {
       "rsn": "davide",
@@ -4799,7 +4807,15 @@
       "points_spent": 1140,
       "points_available": 5114,
       "months_in_clan": 23,
-      "next_rank": null
+      "next_rank": null,
+      "pending_bounties": [
+        {
+          "bounty_id": "36",
+          "name": "Mimic kill",
+          "status": "pending",
+          "created_at": "2026-07-14T09:03:48.012Z"
+        }
+      ]
     },
     {
       "rsn": "mc templeton",
