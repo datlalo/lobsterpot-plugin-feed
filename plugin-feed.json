@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-14T14:21:47.279Z",
+  "generated_at": "2026-07-14T17:18:43.499Z",
   "broadcasts": [
     {
       "id": "412b61ab-9b64-4062-866a-c7a3f253b02c",
@@ -4938,6 +4938,26 @@
       }
     },
     {
+      "rsn": "mochi slayy",
+      "rsn_key": "mochislayy",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-14",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "moeychan",
       "rsn_key": "moeychan",
       "bot_rank": "Sapphire",
@@ -5815,26 +5835,6 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
-      }
-    },
-    {
-      "rsn": "Pigeon XX",
-      "rsn_key": "pigeonxx",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-06-23",
-      "points_total": 31,
-      "points_spent": 0,
-      "points_available": 31,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 69,
-        "missing_months": 1,
-        "can_claim": false
       }
     },
     {
@@ -7574,6 +7574,18 @@
       }
     },
     {
+      "rsn": "TWOSh0rt",
+      "rsn_key": "twosh0rt",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-07-14",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
+    },
+    {
       "rsn": "tyborrs",
       "rsn_key": "tyborrs",
       "bot_rank": "Emerald",
@@ -8130,6 +8142,26 @@
         "requirements": null,
         "missing_points": 66,
         "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "xellerrrrr",
+      "rsn_key": "xellerrrrr",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-14",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
         "can_claim": false
       }
     },
