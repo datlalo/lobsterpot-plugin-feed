@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-15T08:48:42.137Z",
+  "generated_at": "2026-07-15T08:51:44.147Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -3975,26 +3975,21 @@
     {
       "rsn": "JamminJon",
       "rsn_key": "jamminjon",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-03-04 14:15:12.474046+00",
       "points_total": 153,
-      "points_spent": 0,
-      "points_available": 153,
+      "points_spent": 100,
+      "points_available": 53,
       "months_in_clan": 4,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 147,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-07-15T08:48:39.882Z"
+        "can_claim": false
       }
     },
     {
