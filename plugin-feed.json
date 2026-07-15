@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-15T09:38:02.967Z",
+  "generated_at": "2026-07-15T09:41:04.532Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -1791,13 +1791,13 @@
         {
           "bounty_id": "42",
           "name": "Duke Sucellus - Easy",
-          "status": "pending",
+          "status": "rejected",
           "created_at": "2026-07-15T09:38:01.405Z"
         },
         {
           "bounty_id": "46",
           "name": "Duke Sucellus - Master",
-          "status": "pending",
+          "status": "rejected",
           "created_at": "2026-07-15T09:38:01.405Z"
         }
       ]
@@ -4841,13 +4841,13 @@
         {
           "bounty_id": "42",
           "name": "Duke Sucellus - Easy",
-          "status": "pending",
+          "status": "rejected",
           "created_at": "2026-07-15T09:38:01.405Z"
         },
         {
           "bounty_id": "46",
           "name": "Duke Sucellus - Master",
-          "status": "pending",
+          "status": "rejected",
           "created_at": "2026-07-15T09:38:01.405Z"
         }
       ]
