@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-07-15T08:17:10.538Z",
-  "broadcasts": [],
+  "generated_at": "2026-07-15T08:17:38.960Z",
+  "broadcasts": [
+    {
+      "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
+      "title": "Boss of the Week!",
+      "message": "Duke Sucellus",
+      "starts_at": null,
+      "expires_at": null,
+      "updated_at": "2026-07-15T08:17:33.438Z"
+    }
+  ],
   "events": [
     {
       "id": "1526681510785319084",
