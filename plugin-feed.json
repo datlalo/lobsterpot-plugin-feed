@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-15T20:42:26.745Z",
+  "generated_at": "2026-07-15T20:46:05.039Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -8066,16 +8066,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-02-14",
-      "points_total": 541,
+      "points_total": 571,
       "points_spent": 300,
-      "points_available": 241,
+      "points_available": 271,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 59,
+        "missing_points": 29,
         "missing_months": 0,
         "can_claim": false
       },
@@ -8089,7 +8089,7 @@
         {
           "bounty_id": "43",
           "name": "Duke Sucellus - Medium",
-          "status": "pending",
+          "status": "approved",
           "created_at": "2026-07-15T19:32:36.383Z"
         }
       ]
