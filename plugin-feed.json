@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-15T00:33:42.692Z",
+  "generated_at": "2026-07-15T00:48:43.687Z",
   "broadcasts": [
     {
       "id": "412b61ab-9b64-4062-866a-c7a3f253b02c",
@@ -5005,26 +5005,6 @@
       }
     },
     {
-      "rsn": "Monks Frien",
-      "rsn_key": "monksfrien",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-07-05",
-      "points_total": 10,
-      "points_spent": 0,
-      "points_available": 10,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 90,
-        "missing_months": 1,
-        "can_claim": false
-      }
-    },
-    {
       "rsn": "MrA2G",
       "rsn_key": "mra2g",
       "bot_rank": "Gnome",
@@ -5281,6 +5261,26 @@
         "requirements": null,
         "missing_points": 5,
         "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Name Cha nge",
+      "rsn_key": "namechange",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-05",
+      "points_total": 10,
+      "points_spent": 0,
+      "points_available": 10,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 90,
+        "missing_months": 1,
         "can_claim": false
       }
     },
