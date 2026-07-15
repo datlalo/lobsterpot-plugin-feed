@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-15T14:33:41.257Z",
+  "generated_at": "2026-07-15T14:45:33.954Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -4630,9 +4630,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-06-17",
-      "points_total": 103,
+      "points_total": 118,
       "points_spent": 0,
-      "points_available": 103,
+      "points_available": 118,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
@@ -4653,7 +4653,7 @@
         {
           "bounty_id": "42",
           "name": "Duke Sucellus - Easy",
-          "status": "pending",
+          "status": "approved",
           "created_at": "2026-07-15T14:28:44.336Z"
         }
       ]
