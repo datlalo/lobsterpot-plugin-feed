@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-15T16:26:19.134Z",
+  "generated_at": "2026-07-15T18:45:25.956Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -3378,7 +3378,15 @@
         "missing_points": 180,
         "missing_months": 0,
         "can_claim": false
-      }
+      },
+      "pending_bounties": [
+        {
+          "bounty_id": "42",
+          "name": "Duke Sucellus - Easy",
+          "status": "pending",
+          "created_at": "2026-07-15T17:16:28.976Z"
+        }
+      ]
     },
     {
       "rsn": "Hooni GIM",
@@ -6028,6 +6036,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Sapphire",
+        "created_at": "2026-07-15T18:45:23.250Z"
       }
     },
     {
@@ -6048,7 +6061,15 @@
         "missing_points": 789,
         "missing_months": 3,
         "can_claim": false
-      }
+      },
+      "pending_bounties": [
+        {
+          "bounty_id": "42",
+          "name": "Duke Sucellus - Easy",
+          "status": "pending",
+          "created_at": "2026-07-15T16:40:56.530Z"
+        }
+      ]
     },
     {
       "rsn": "quassom",
