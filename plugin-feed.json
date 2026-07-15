@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-15T16:03:36.063Z",
+  "generated_at": "2026-07-15T16:26:19.134Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -5808,19 +5808,27 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-12",
-      "points_total": 1791,
+      "points_total": 1836,
       "points_spent": 1270,
-      "points_available": 521,
+      "points_available": 566,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 279,
+        "missing_points": 234,
         "missing_months": 2,
         "can_claim": false
-      }
+      },
+      "pending_bounties": [
+        {
+          "bounty_id": "44",
+          "name": "Duke Sucellus - Hard",
+          "status": "approved",
+          "created_at": "2026-07-15T16:25:11.172Z"
+        }
+      ]
     },
     {
       "rsn": "peksoleb",
