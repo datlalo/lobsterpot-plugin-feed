@@ -1,16 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-07-15T00:48:43.687Z",
-  "broadcasts": [
-    {
-      "id": "412b61ab-9b64-4062-866a-c7a3f253b02c",
-      "title": "IT'S MOLE MONDAY",
-      "message": "Come get your pet :)",
-      "starts_at": null,
-      "expires_at": null,
-      "updated_at": "2026-07-13T06:39:11.605Z"
-    }
-  ],
+  "generated_at": "2026-07-15T08:17:10.538Z",
+  "broadcasts": [],
   "events": [
     {
       "id": "1526681510785319084",
