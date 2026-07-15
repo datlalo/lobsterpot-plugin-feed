@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-15T22:01:38.941Z",
+  "generated_at": "2026-07-15T23:17:36.430Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -5398,7 +5398,21 @@
         "missing_points": 90,
         "missing_months": 1,
         "can_claim": false
-      }
+      },
+      "pending_bounties": [
+        {
+          "bounty_id": "44",
+          "name": "Duke Sucellus - Hard",
+          "status": "pending",
+          "created_at": "2026-07-15T22:27:44.605Z"
+        },
+        {
+          "bounty_id": "42",
+          "name": "Duke Sucellus - Easy",
+          "status": "pending",
+          "created_at": "2026-07-15T22:59:25.427Z"
+        }
+      ]
     },
     {
       "rsn": "naomhbrid",
@@ -5557,6 +5571,26 @@
         "requirements": null,
         "missing_points": 22,
         "missing_months": 0,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "Nomade Raiz",
+      "rsn_key": "nomaderaiz",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-15",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
         "can_claim": false
       }
     },
@@ -8326,6 +8360,26 @@
         "min_months": 1,
         "requirements": null,
         "missing_points": 77,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "xnegative xp",
+      "rsn_key": "xnegativexp",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-15",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
         "missing_months": 1,
         "can_claim": false
       }
