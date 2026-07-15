@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-15T18:49:17.282Z",
+  "generated_at": "2026-07-15T18:52:19.038Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -3366,16 +3366,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-03",
-      "points_total": 1030,
+      "points_total": 1045,
       "points_spent": 710,
-      "points_available": 320,
+      "points_available": 335,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 180,
+        "missing_points": 165,
         "missing_months": 0,
         "can_claim": false
       },
@@ -3383,7 +3383,7 @@
         {
           "bounty_id": "42",
           "name": "Duke Sucellus - Easy",
-          "status": "pending",
+          "status": "approved",
           "created_at": "2026-07-15T17:16:28.976Z"
         }
       ]
@@ -6044,16 +6044,16 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-30",
-      "points_total": 1211,
+      "points_total": 1226,
       "points_spent": 1200,
-      "points_available": 11,
+      "points_available": 26,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 789,
+        "missing_points": 774,
         "missing_months": 3,
         "can_claim": false
       },
@@ -6061,7 +6061,7 @@
         {
           "bounty_id": "42",
           "name": "Duke Sucellus - Easy",
-          "status": "pending",
+          "status": "approved",
           "created_at": "2026-07-15T16:40:56.530Z"
         }
       ]
@@ -8052,16 +8052,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-02-14",
-      "points_total": 526,
+      "points_total": 541,
       "points_spent": 300,
-      "points_available": 226,
+      "points_available": 241,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 74,
+        "missing_points": 59,
         "missing_months": 0,
         "can_claim": false
       },
@@ -8069,7 +8069,7 @@
         {
           "bounty_id": "42",
           "name": "Duke Sucellus - Easy",
-          "status": "pending",
+          "status": "approved",
           "created_at": "2026-07-15T16:03:34.500Z"
         }
       ]
