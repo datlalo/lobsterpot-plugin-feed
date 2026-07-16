@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-16T23:48:01.073Z",
+  "generated_at": "2026-07-16T23:56:04.738Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -365,6 +365,26 @@
           "balance": 85
         }
       ]
+    },
+    {
+      "rsn": "87134",
+      "rsn_key": "87134",
+      "bot_rank": "Diamond",
+      "progression_rank": "Diamond",
+      "join_date": "2026-07-16",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Dragonstone",
+        "point_cost": 500,
+        "min_months": 8,
+        "requirements": "Barrows Gloves",
+        "missing_points": 500,
+        "missing_months": 8,
+        "can_claim": false
+      }
     },
     {
       "rsn": "98 btw",
@@ -21973,6 +21993,26 @@
           "balance": 102
         }
       ]
+    },
+    {
+      "rsn": "Xesata",
+      "rsn_key": "xesata",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-16",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "xJillzz",
