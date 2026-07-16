@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-16T00:32:35.848Z",
+  "generated_at": "2026-07-16T03:11:43.906Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -282,9 +282,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 2227,
+      "points_total": 2242,
       "points_spent": 1230,
-      "points_available": 997,
+      "points_available": 1012,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
@@ -301,6 +301,12 @@
           "name": "Duke Sucellus - Medium",
           "status": "pending",
           "created_at": "2026-07-15T23:58:53.271Z"
+        },
+        {
+          "bounty_id": "42",
+          "name": "Duke Sucellus - Easy",
+          "status": "approved",
+          "created_at": "2026-07-16T01:21:44.157Z"
         }
       ]
     },
@@ -5956,9 +5962,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 2227,
+      "points_total": 2242,
       "points_spent": 1230,
-      "points_available": 997,
+      "points_available": 1012,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
@@ -5975,6 +5981,12 @@
           "name": "Duke Sucellus - Medium",
           "status": "pending",
           "created_at": "2026-07-15T23:58:53.271Z"
+        },
+        {
+          "bounty_id": "42",
+          "name": "Duke Sucellus - Easy",
+          "status": "approved",
+          "created_at": "2026-07-16T01:21:44.157Z"
         }
       ]
     },
