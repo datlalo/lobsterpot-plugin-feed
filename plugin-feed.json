@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-16T06:07:43.289Z",
+  "generated_at": "2026-07-16T07:11:58.857Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -3448,16 +3448,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-03-16",
-      "points_total": 702,
+      "points_total": 732,
       "points_spent": 600,
-      "points_available": 102,
+      "points_available": 132,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 298,
+        "missing_points": 268,
         "missing_months": 1,
         "can_claim": false
       },
@@ -3471,7 +3471,7 @@
         {
           "bounty_id": "43",
           "name": "Duke Sucellus - Medium",
-          "status": "pending",
+          "status": "approved",
           "created_at": "2026-07-16T05:45:10.529Z"
         }
       ]
@@ -7424,16 +7424,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-03-16",
-      "points_total": 702,
+      "points_total": 732,
       "points_spent": 600,
-      "points_available": 102,
+      "points_available": 132,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 298,
+        "missing_points": 268,
         "missing_months": 1,
         "can_claim": false
       },
@@ -7447,7 +7447,7 @@
         {
           "bounty_id": "43",
           "name": "Duke Sucellus - Medium",
-          "status": "pending",
+          "status": "approved",
           "created_at": "2026-07-16T05:45:10.529Z"
         }
       ]
