@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-16T15:13:51.567Z",
+  "generated_at": "2026-07-16T18:47:39.597Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -2612,7 +2612,15 @@
         "missing_points": 680,
         "missing_months": 2,
         "can_claim": false
-      }
+      },
+      "pending_bounties": [
+        {
+          "bounty_id": "42",
+          "name": "Duke Sucellus - Easy",
+          "status": "pending",
+          "created_at": "2026-07-16T15:25:31.719Z"
+        }
+      ]
     },
     {
       "rsn": "fiskmore",
@@ -2870,26 +2878,6 @@
         "min_months": 2,
         "requirements": null,
         "missing_points": 61,
-        "missing_months": 0,
-        "can_claim": false
-      }
-    },
-    {
-      "rsn": "gimlazyswige",
-      "rsn_key": "gimlazyswige",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2026-01-28",
-      "points_total": 169,
-      "points_spent": 100,
-      "points_available": 69,
-      "months_in_clan": 5,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 131,
         "missing_months": 0,
         "can_claim": false
       }
@@ -4515,6 +4503,26 @@
         "requirements": "Barrows Gloves",
         "missing_points": 106,
         "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "LazySwidge",
+      "rsn_key": "lazyswidge",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-01-28",
+      "points_total": 169,
+      "points_spent": 100,
+      "points_available": 69,
+      "months_in_clan": 5,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 131,
+        "missing_months": 0,
         "can_claim": false
       }
     },
