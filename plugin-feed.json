@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-16T10:59:11.238Z",
+  "generated_at": "2026-07-16T11:02:39.186Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -5086,26 +5086,6 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
-      }
-    },
-    {
-      "rsn": "mochi slayy",
-      "rsn_key": "mochislayy",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-06-27",
-      "points_total": 19,
-      "points_spent": 0,
-      "points_available": 19,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 81,
-        "missing_months": 1,
-        "can_claim": false
       }
     },
     {
