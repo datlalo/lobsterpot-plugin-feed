@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-16T20:17:54.715Z",
+  "generated_at": "2026-07-16T20:21:15.636Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -21152,16 +21152,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-02-14",
-      "points_total": 707,
+      "points_total": 737,
       "points_spent": 600,
-      "points_available": 107,
+      "points_available": 137,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 293,
+        "missing_points": 263,
         "missing_months": 0,
         "can_claim": false
       },
@@ -21269,10 +21269,16 @@
           "balance": -45
         },
         {
+          "timestamp": "2026-07-16T20:21:14.122Z",
+          "delta": 30,
+          "reason": "recruited xesata",
+          "balance": -15
+        },
+        {
           "timestamp": "2026-07-16T00:32:34.099Z",
           "delta": 152,
           "reason": "Tenure points",
-          "balance": 107
+          "balance": 137
         }
       ],
       "pending_bounties": [
