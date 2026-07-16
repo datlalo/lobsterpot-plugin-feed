@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-16T20:40:42.027Z",
+  "generated_at": "2026-07-16T21:13:12.897Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -476,9 +476,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 2272,
+      "points_total": 2292,
       "points_spent": 1230,
-      "points_available": 1042,
+      "points_available": 1062,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
@@ -490,12 +490,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-16T19:33:19.665Z",
-          "delta": 5,
-          "reason": "Discord adjustment",
-          "balance": 430
-        },
         {
           "timestamp": "2026-04-17T16:17:03.270Z",
           "delta": 15,
@@ -641,10 +635,16 @@
           "balance": 748
         },
         {
+          "timestamp": "2026-07-16T21:13:11.378Z",
+          "delta": 20,
+          "reason": "Thanks for joining Giants' Foundry",
+          "balance": 768
+        },
+        {
           "timestamp": "2026-07-16T00:32:34.099Z",
           "delta": 294,
           "reason": "Tenure points",
-          "balance": 1042
+          "balance": 1062
         }
       ],
       "pending_bounties": [
@@ -1304,9 +1304,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-12-24",
-      "points_total": 1109,
+      "points_total": 1129,
       "points_spent": 610,
-      "points_available": 499,
+      "points_available": 519,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Diamond",
@@ -1318,12 +1318,6 @@
         "can_claim": true
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-17T11:06:14.088Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier Bounty",
-          "balance": 15
-        },
         {
           "timestamp": "2026-02-17T11:06:17.515Z",
           "delta": 30,
@@ -1469,10 +1463,16 @@
           "balance": 295
         },
         {
+          "timestamp": "2026-07-16T21:13:11.377Z",
+          "delta": 20,
+          "reason": "Thanks for joining Giants' Foundry",
+          "balance": 315
+        },
+        {
           "timestamp": "2026-07-16T00:32:34.099Z",
           "delta": 204,
           "reason": "Tenure points",
-          "balance": 499
+          "balance": 519
         }
       ]
     },
@@ -3838,25 +3838,31 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-06-24",
-      "points_total": 22,
+      "points_total": 42,
       "points_spent": 0,
-      "points_available": 22,
+      "points_available": 42,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 78,
+        "missing_points": 58,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
         {
+          "timestamp": "2026-07-16T21:13:11.377Z",
+          "delta": 20,
+          "reason": "Thanks for joining Giants' Foundry",
+          "balance": 20
+        },
+        {
           "timestamp": "2026-07-16T00:32:34.099Z",
           "delta": 22,
           "reason": "Tenure points",
-          "balance": 22
+          "balance": 42
         }
       ]
     },
@@ -7400,25 +7406,31 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-06-20",
-      "points_total": 26,
+      "points_total": 46,
       "points_spent": 0,
-      "points_available": 26,
+      "points_available": 46,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 74,
+        "missing_points": 54,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
         {
+          "timestamp": "2026-07-16T21:13:11.376Z",
+          "delta": 20,
+          "reason": "Thanks for joining Giants' Foundry",
+          "balance": 20
+        },
+        {
           "timestamp": "2026-07-16T00:32:34.099Z",
           "delta": 26,
           "reason": "Tenure points",
-          "balance": 26
+          "balance": 46
         }
       ]
     },
@@ -8252,16 +8264,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-01-08",
-      "points_total": 664,
+      "points_total": 684,
       "points_spent": 620,
-      "points_available": 44,
+      "points_available": 64,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 356,
+        "missing_points": 336,
         "missing_months": 0,
         "can_claim": false
       },
@@ -8399,10 +8411,16 @@
           "balance": -145
         },
         {
+          "timestamp": "2026-07-16T21:13:11.377Z",
+          "delta": 20,
+          "reason": "Thanks for joining Giants' Foundry",
+          "balance": -125
+        },
+        {
           "timestamp": "2026-07-16T00:32:34.099Z",
           "delta": 189,
           "reason": "Tenure points",
-          "balance": 44
+          "balance": 64
         }
       ]
     },
@@ -11091,16 +11109,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-01-16",
-      "points_total": 676,
+      "points_total": 696,
       "points_spent": 630,
-      "points_available": 46,
+      "points_available": 66,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 354,
+        "missing_points": 334,
         "missing_months": 0,
         "can_claim": false
       },
@@ -11250,10 +11268,16 @@
           "balance": -135
         },
         {
+          "timestamp": "2026-07-16T21:13:11.375Z",
+          "delta": 20,
+          "reason": "Thanks for joining Giants' Foundry",
+          "balance": -115
+        },
+        {
           "timestamp": "2026-07-16T00:32:34.099Z",
           "delta": 181,
           "reason": "Tenure points",
-          "balance": 46
+          "balance": 66
         }
       ]
     },
@@ -11325,9 +11349,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-04-12",
-      "points_total": 170,
+      "points_total": 190,
       "points_spent": 0,
-      "points_available": 170,
+      "points_available": 190,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
@@ -11358,10 +11382,16 @@
           "balance": 75
         },
         {
+          "timestamp": "2026-07-16T21:13:11.379Z",
+          "delta": 20,
+          "reason": "Thanks for joining Giants' Foundry",
+          "balance": 95
+        },
+        {
           "timestamp": "2026-07-16T00:32:34.099Z",
           "delta": 95,
           "reason": "Tenure points",
-          "balance": 170
+          "balance": 190
         }
       ],
       "pending_bounties": [
@@ -12471,9 +12501,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-06-17",
-      "points_total": 164,
+      "points_total": 184,
       "points_spent": 0,
-      "points_available": 164,
+      "points_available": 184,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
@@ -12516,10 +12546,16 @@
           "balance": 135
         },
         {
+          "timestamp": "2026-07-16T21:13:11.379Z",
+          "delta": 20,
+          "reason": "Thanks for joining Giants' Foundry",
+          "balance": 155
+        },
+        {
           "timestamp": "2026-07-16T00:32:34.099Z",
           "delta": 29,
           "reason": "Tenure points",
-          "balance": 164
+          "balance": 184
         }
       ],
       "pending_bounties": [
@@ -13221,9 +13257,9 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2025-09-05",
-      "points_total": 1179,
+      "points_total": 1199,
       "points_spent": 350,
-      "points_available": 829,
+      "points_available": 849,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Ruby",
@@ -13349,10 +13385,16 @@
           "balance": 515
         },
         {
+          "timestamp": "2026-07-16T21:13:11.378Z",
+          "delta": 20,
+          "reason": "Thanks for joining Giants' Foundry",
+          "balance": 535
+        },
+        {
           "timestamp": "2026-07-16T00:32:34.099Z",
           "delta": 314,
           "reason": "Tenure points",
-          "balance": 829
+          "balance": 849
         }
       ]
     },
@@ -14777,25 +14819,31 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-06-22",
-      "points_total": 24,
+      "points_total": 44,
       "points_spent": 0,
-      "points_available": 24,
+      "points_available": 44,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 76,
+        "missing_points": 56,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
         {
+          "timestamp": "2026-07-16T21:13:11.378Z",
+          "delta": 20,
+          "reason": "Thanks for joining Giants' Foundry",
+          "balance": 20
+        },
+        {
           "timestamp": "2026-07-16T00:32:34.099Z",
           "delta": 24,
           "reason": "Tenure points",
-          "balance": 24
+          "balance": 44
         }
       ]
     },
@@ -15513,9 +15561,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 2272,
+      "points_total": 2292,
       "points_spent": 1230,
-      "points_available": 1042,
+      "points_available": 1062,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
@@ -15527,12 +15575,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-16T19:33:19.665Z",
-          "delta": 5,
-          "reason": "Discord adjustment",
-          "balance": 430
-        },
         {
           "timestamp": "2026-04-17T16:17:03.270Z",
           "delta": 15,
@@ -15678,10 +15720,16 @@
           "balance": 748
         },
         {
+          "timestamp": "2026-07-16T21:13:11.378Z",
+          "delta": 20,
+          "reason": "Thanks for joining Giants' Foundry",
+          "balance": 768
+        },
+        {
           "timestamp": "2026-07-16T00:32:34.099Z",
           "delta": 294,
           "reason": "Tenure points",
-          "balance": 1042
+          "balance": 1062
         }
       ],
       "pending_bounties": [
@@ -21712,16 +21760,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-04-09",
-      "points_total": 268,
+      "points_total": 288,
       "points_spent": 200,
-      "points_available": 68,
+      "points_available": 88,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 232,
+        "missing_points": 212,
         "missing_months": 0,
         "can_claim": false
       },
@@ -21769,10 +21817,16 @@
           "balance": -30
         },
         {
+          "timestamp": "2026-07-16T21:13:11.380Z",
+          "delta": 20,
+          "reason": "Thanks for joining Giants' Foundry",
+          "balance": -10
+        },
+        {
           "timestamp": "2026-07-16T00:32:34.099Z",
           "delta": 98,
           "reason": "Tenure points",
-          "balance": 68
+          "balance": 88
         }
       ]
     },
