@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-17T06:32:27.655Z",
+  "generated_at": "2026-07-17T06:35:29.876Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -4982,13 +4982,6 @@
           "created_at": "2026-07-15T11:57:02.471Z"
         },
         {
-          "bounty_id": "43",
-          "name": "Duke Sucellus - Medium",
-          "status": "rejected",
-          "reason": "test",
-          "created_at": "2026-07-15T11:57:02.471Z"
-        },
-        {
           "bounty_id": "46",
           "name": "Duke Sucellus - Master",
           "status": "rejected",
@@ -5008,6 +5001,13 @@
           "status": "rejected",
           "reason": null,
           "created_at": "2026-07-15T11:57:02.472Z"
+        },
+        {
+          "bounty_id": "43",
+          "name": "Duke Sucellus - Medium",
+          "status": "rejected",
+          "reason": null,
+          "created_at": "2026-07-17T06:34:08.069Z"
         }
       ]
     },
@@ -13002,13 +13002,6 @@
           "created_at": "2026-07-15T11:57:02.471Z"
         },
         {
-          "bounty_id": "43",
-          "name": "Duke Sucellus - Medium",
-          "status": "rejected",
-          "reason": "test",
-          "created_at": "2026-07-15T11:57:02.471Z"
-        },
-        {
           "bounty_id": "46",
           "name": "Duke Sucellus - Master",
           "status": "rejected",
@@ -13028,6 +13021,13 @@
           "status": "rejected",
           "reason": null,
           "created_at": "2026-07-15T11:57:02.472Z"
+        },
+        {
+          "bounty_id": "43",
+          "name": "Duke Sucellus - Medium",
+          "status": "rejected",
+          "reason": null,
+          "created_at": "2026-07-17T06:34:08.069Z"
         }
       ]
     },
@@ -13215,9 +13215,9 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2025-11-26",
-      "points_total": 681,
+      "points_total": 756,
       "points_spent": 200,
-      "points_available": 481,
+      "points_available": 556,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Ruby",
@@ -13272,17 +13272,23 @@
           "balance": 248
         },
         {
+          "timestamp": "2026-07-17T06:32:38.850Z",
+          "delta": 75,
+          "reason": "Bounty: Duke Sucellus - Master",
+          "balance": 323
+        },
+        {
           "timestamp": "2026-07-17T00:56:02.625Z",
           "delta": 233,
           "reason": "Tenure points",
-          "balance": 481
+          "balance": 556
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "46",
           "name": "Duke Sucellus - Master",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-07-16T22:23:12.728Z"
         }
