@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-17T08:25:31.362Z",
+  "generated_at": "2026-07-17T10:05:17.216Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -11456,6 +11456,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-07-16T19:27:49.662Z"
+        },
+        {
+          "bounty_id": "44",
+          "name": "Duke Sucellus - Hard",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-07-17T10:05:15.702Z"
         }
       ]
     },
