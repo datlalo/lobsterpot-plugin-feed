@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-17T13:13:34.034Z",
+  "generated_at": "2026-07-17T13:56:03.578Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -16052,26 +16052,20 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-02-03",
-      "points_total": 1034,
+      "points_total": 1064,
       "points_spent": 650,
-      "points_available": 384,
+      "points_available": 414,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 16,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-16T15:51:07.492Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier Bounty",
-          "balance": 15
-        },
         {
           "timestamp": "2026-02-16T20:33:14.932Z",
           "delta": 30,
@@ -16217,10 +16211,16 @@
           "balance": 220
         },
         {
+          "timestamp": "2026-07-17T13:56:02.061Z",
+          "delta": 30,
+          "reason": "Bounty: Duke Sucellus - Medium",
+          "balance": 250
+        },
+        {
           "timestamp": "2026-07-17T00:56:02.625Z",
           "delta": 164,
           "reason": "Tenure points",
-          "balance": 384
+          "balance": 414
         }
       ],
       "pending_bounties": [
@@ -16234,7 +16234,7 @@
         {
           "bounty_id": "43",
           "name": "Duke Sucellus - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-07-17T13:10:44.460Z"
         }
