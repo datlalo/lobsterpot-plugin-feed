@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-17T12:41:06.507Z",
+  "generated_at": "2026-07-17T13:10:31.659Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -8796,6 +8796,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-07-16T14:03:03.135Z"
+        },
+        {
+          "bounty_id": "46",
+          "name": "Duke Sucellus - Master",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-07-17T13:10:30.145Z"
         }
       ]
     },
