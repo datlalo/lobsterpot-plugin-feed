@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-17T13:56:03.578Z",
+  "generated_at": "2026-07-17T13:59:05.450Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -31,6 +31,16 @@
       "ends_at": null,
       "description": "Lets all go and kill some Calisto together.",
       "thread_id": "1525897734853361898"
+    },
+    {
+      "id": "1527675454905913385",
+      "type": "event",
+      "title": "Freaky friendslop friday",
+      "location": "Your closest airport",
+      "starts_at": "2026-07-24T18:00:00.000Z",
+      "ends_at": "2026-07-24T20:00:00.000Z",
+      "description": "Come join the first Freaky Friendslop Friday where we will embark on a nice chill stroll hike up a mountain (PEAK) and nothing bad will happen, pinky promise",
+      "thread_id": "1527675454905913385"
     },
     {
       "id": "1517638097402204272",
@@ -8744,9 +8754,9 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-05-05",
-      "points_total": 238,
+      "points_total": 313,
       "points_spent": 0,
-      "points_available": 238,
+      "points_available": 313,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
@@ -8783,10 +8793,16 @@
           "balance": 165
         },
         {
+          "timestamp": "2026-07-17T13:56:10.407Z",
+          "delta": 75,
+          "reason": "Bounty: Duke Sucellus - Master",
+          "balance": 240
+        },
+        {
           "timestamp": "2026-07-17T00:56:02.625Z",
           "delta": 73,
           "reason": "Tenure points",
-          "balance": 238
+          "balance": 313
         }
       ],
       "pending_bounties": [
@@ -8800,7 +8816,7 @@
         {
           "bounty_id": "46",
           "name": "Duke Sucellus - Master",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-07-17T13:10:30.145Z"
         }
@@ -9709,16 +9725,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-03-18",
-      "points_total": 461,
+      "points_total": 476,
       "points_spent": 300,
-      "points_available": 161,
+      "points_available": 176,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 139,
+        "missing_points": 124,
         "missing_months": 0,
         "can_claim": false
       },
@@ -9784,17 +9800,23 @@
           "balance": 40
         },
         {
+          "timestamp": "2026-07-17T13:56:48.322Z",
+          "delta": 15,
+          "reason": "Bounty: Duke Sucellus - Easy",
+          "balance": 55
+        },
+        {
           "timestamp": "2026-07-17T00:56:02.625Z",
           "delta": 121,
           "reason": "Tenure points",
-          "balance": 161
+          "balance": 176
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "42",
           "name": "Duke Sucellus - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-07-17T10:15:54.368Z"
         }
@@ -11439,9 +11461,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-04-12",
-      "points_total": 191,
+      "points_total": 236,
       "points_spent": 0,
-      "points_available": 191,
+      "points_available": 236,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
@@ -11478,10 +11500,16 @@
           "balance": 95
         },
         {
+          "timestamp": "2026-07-17T13:56:53.904Z",
+          "delta": 45,
+          "reason": "Bounty: Duke Sucellus - Hard",
+          "balance": 140
+        },
+        {
           "timestamp": "2026-07-17T00:56:02.625Z",
           "delta": 96,
           "reason": "Tenure points",
-          "balance": 191
+          "balance": 236
         }
       ],
       "pending_bounties": [
@@ -11502,7 +11530,7 @@
         {
           "bounty_id": "44",
           "name": "Duke Sucellus - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-07-17T10:05:15.702Z"
         }
@@ -12124,16 +12152,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-12",
-      "points_total": 898,
+      "points_total": 943,
       "points_spent": 700,
-      "points_available": 198,
+      "points_available": 243,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 302,
+        "missing_points": 257,
         "missing_months": 0,
         "can_claim": false
       },
@@ -12253,24 +12281,36 @@
           "balance": -110
         },
         {
+          "timestamp": "2026-07-17T13:56:32.039Z",
+          "delta": 30,
+          "reason": "Bounty: Duke Sucellus - Medium",
+          "balance": -80
+        },
+        {
+          "timestamp": "2026-07-17T13:56:42.040Z",
+          "delta": 15,
+          "reason": "Bounty: Duke Sucellus - Easy",
+          "balance": -65
+        },
+        {
           "timestamp": "2026-07-17T00:56:02.625Z",
           "delta": 308,
           "reason": "Tenure points",
-          "balance": 198
+          "balance": 243
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "42",
           "name": "Duke Sucellus - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-07-17T11:48:21.553Z"
         },
         {
           "bounty_id": "43",
           "name": "Duke Sucellus - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-07-17T11:48:34.606Z"
         }
