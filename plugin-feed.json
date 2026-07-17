@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-17T15:33:08.022Z",
+  "generated_at": "2026-07-17T15:36:10.049Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -2889,26 +2889,21 @@
     {
       "rsn": "biffbcool",
       "rsn_key": "biffbcool",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
       "join_date": "2025-08-15",
       "points_total": 641,
-      "points_spent": 0,
-      "points_available": 641,
+      "points_spent": 300,
+      "points_available": 341,
       "months_in_clan": 11,
       "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 0,
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 59,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Ruby",
-        "created_at": "2026-07-17T15:33:05.771Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -2948,10 +2943,16 @@
           "balance": 305
         },
         {
+          "timestamp": "2026-07-17T15:33:12.157Z",
+          "delta": -300,
+          "reason": "Rank upgrade: Ruby",
+          "balance": 5
+        },
+        {
           "timestamp": "2026-07-17T00:56:02.625Z",
           "delta": 336,
           "reason": "Tenure points",
-          "balance": 641
+          "balance": 341
         }
       ]
     },
