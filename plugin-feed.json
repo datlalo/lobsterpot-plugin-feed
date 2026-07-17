@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-17T06:38:32.399Z",
+  "generated_at": "2026-07-17T06:41:34.745Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -4337,6 +4337,26 @@
           "balance": 23
         }
       ]
+    },
+    {
+      "rsn": "ChinoDawg",
+      "rsn_key": "chinodawg",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-17",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "chip chap1",
