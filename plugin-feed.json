@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-17T11:11:07.784Z",
+  "generated_at": "2026-07-17T11:48:23.058Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -12224,6 +12224,15 @@
           "delta": 308,
           "reason": "Tenure points",
           "balance": 198
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "42",
+          "name": "Duke Sucellus - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-07-17T11:48:21.553Z"
         }
       ]
     },
