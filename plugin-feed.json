@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-17T00:59:27.621Z",
+  "generated_at": "2026-07-17T06:32:27.655Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -16175,26 +16175,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-30",
-      "points_total": 1228,
+      "points_total": 1258,
       "points_spent": 1200,
-      "points_available": 28,
+      "points_available": 58,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 772,
+        "missing_points": 742,
         "missing_months": 3,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-16T16:32:15.349Z",
-          "delta": 15,
-          "reason": "Discord adjustment",
-          "balance": 290
-        },
         {
           "timestamp": "2026-04-16T19:33:18.460Z",
           "delta": 5,
@@ -16340,10 +16334,16 @@
           "balance": -262
         },
         {
+          "timestamp": "2026-07-17T06:32:26.147Z",
+          "delta": 30,
+          "reason": "Bounty: Duke Sucellus - Medium",
+          "balance": -232
+        },
+        {
           "timestamp": "2026-07-17T00:56:02.625Z",
           "delta": 290,
           "reason": "Tenure points",
-          "balance": 28
+          "balance": 58
         }
       ],
       "pending_bounties": [
@@ -16357,7 +16357,7 @@
         {
           "bounty_id": "43",
           "name": "Duke Sucellus - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-07-17T00:59:26.108Z"
         }
