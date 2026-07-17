@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-17T22:57:19.329Z",
+  "generated_at": "2026-07-17T23:00:21.525Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -3496,16 +3496,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-03-20 22:12:14.780985+00",
-      "points_total": 439,
+      "points_total": 459,
       "points_spent": 300,
-      "points_available": 139,
+      "points_available": 159,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 161,
+        "missing_points": 141,
         "missing_months": 0,
         "can_claim": false
       },
@@ -3589,10 +3589,16 @@
           "balance": 20
         },
         {
+          "timestamp": "2026-07-17T22:57:28.993Z",
+          "delta": 20,
+          "reason": "callisto mass",
+          "balance": 40
+        },
+        {
           "timestamp": "2026-07-17T00:56:02.625Z",
           "delta": 119,
           "reason": "Tenure points",
-          "balance": 139
+          "balance": 159
         }
       ]
     },
@@ -12630,9 +12636,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-03-09 21:33:40.503581+00",
-      "points_total": 150,
+      "points_total": 170,
       "points_spent": 0,
-      "points_available": 150,
+      "points_available": 170,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
@@ -12651,10 +12657,16 @@
           "balance": 20
         },
         {
+          "timestamp": "2026-07-17T22:57:28.993Z",
+          "delta": 20,
+          "reason": "callisto mass",
+          "balance": 40
+        },
+        {
           "timestamp": "2026-07-17T00:56:02.625Z",
           "delta": 130,
           "reason": "Tenure points",
-          "balance": 150
+          "balance": 170
         }
       ]
     },
