@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-17T14:16:15.413Z",
+  "generated_at": "2026-07-17T14:19:17.692Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -16089,29 +16089,23 @@
     {
       "rsn": "Porkchaser",
       "rsn_key": "porkchaser",
-      "bot_rank": "Ruby",
-      "progression_rank": "Ruby",
+      "bot_rank": "Diamond",
+      "progression_rank": "Diamond",
       "join_date": "2026-02-03",
       "points_total": 1064,
-      "points_spent": 650,
-      "points_available": 414,
+      "points_spent": 1050,
+      "points_available": 14,
       "months_in_clan": 5,
       "next_rank": {
-        "name": "Diamond",
-        "point_cost": 400,
-        "min_months": 5,
-        "requirements": "Fire Cape",
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
+        "name": "Dragonstone",
+        "point_cost": 500,
+        "min_months": 8,
+        "requirements": "Barrows Gloves",
+        "missing_points": 486,
+        "missing_months": 3,
+        "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-16T20:33:14.932Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier Bounty",
-          "balance": 45
-        },
         {
           "timestamp": "2026-02-17T11:11:50.051Z",
           "delta": 60,
@@ -16257,10 +16251,16 @@
           "balance": 250
         },
         {
+          "timestamp": "2026-07-17T14:16:52.883Z",
+          "delta": -400,
+          "reason": "Rank upgrade: Diamond",
+          "balance": -150
+        },
+        {
           "timestamp": "2026-07-17T00:56:02.625Z",
           "delta": 164,
           "reason": "Tenure points",
-          "balance": 414
+          "balance": 14
         }
       ],
       "pending_bounties": [
