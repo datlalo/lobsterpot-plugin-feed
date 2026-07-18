@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-18T22:36:25.366Z",
+  "generated_at": "2026-07-18T22:39:27.613Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -8948,26 +8948,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-03",
-      "points_total": 1048,
+      "points_total": 1078,
       "points_spent": 710,
-      "points_available": 338,
+      "points_available": 368,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 162,
+        "missing_points": 132,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-01-12T17:19:08.209Z",
-          "delta": 30,
-          "reason": "Bounty reward: January BOTM - Vorkath Medium Tier",
-          "balance": 70
-        },
         {
           "timestamp": "2026-01-12T18:24:25.199Z",
           "delta": 15,
@@ -9113,10 +9107,16 @@
           "balance": 20
         },
         {
+          "timestamp": "2026-07-18T22:37:12.007Z",
+          "delta": 30,
+          "reason": "Bounty: Duke Sucellus - Medium",
+          "balance": 50
+        },
+        {
           "timestamp": "2026-07-18T00:56:04.231Z",
           "delta": 318,
           "reason": "Tenure points",
-          "balance": 338
+          "balance": 368
         }
       ],
       "pending_bounties": [
@@ -9130,7 +9130,7 @@
         {
           "bounty_id": "43",
           "name": "Duke Sucellus - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-07-18T16:37:49.393Z"
         }
@@ -10041,9 +10041,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-02",
-      "points_total": 221,
+      "points_total": 251,
       "points_spent": 0,
-      "points_available": 221,
+      "points_available": 251,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
@@ -10104,10 +10104,16 @@
           "balance": 205
         },
         {
+          "timestamp": "2026-07-18T22:37:31.507Z",
+          "delta": 30,
+          "reason": "Bounty: Duke Sucellus - Medium",
+          "balance": 235
+        },
+        {
           "timestamp": "2026-07-18T00:56:04.231Z",
           "delta": 16,
           "reason": "Tenure points",
-          "balance": 221
+          "balance": 251
         }
       ],
       "pending_bounties": [
@@ -10121,7 +10127,7 @@
         {
           "bounty_id": "43",
           "name": "Duke Sucellus - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-07-18T16:45:25.668Z"
         }
@@ -10778,9 +10784,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-02",
-      "points_total": 221,
+      "points_total": 251,
       "points_spent": 0,
-      "points_available": 221,
+      "points_available": 251,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
@@ -10841,10 +10847,16 @@
           "balance": 205
         },
         {
+          "timestamp": "2026-07-18T22:37:31.507Z",
+          "delta": 30,
+          "reason": "Bounty: Duke Sucellus - Medium",
+          "balance": 235
+        },
+        {
           "timestamp": "2026-07-18T00:56:04.231Z",
           "delta": 16,
           "reason": "Tenure points",
-          "balance": 221
+          "balance": 251
         }
       ],
       "pending_bounties": [
@@ -10858,7 +10870,7 @@
         {
           "bounty_id": "43",
           "name": "Duke Sucellus - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-07-18T16:45:25.668Z"
         }
