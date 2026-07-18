@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-18T16:37:50.907Z",
+  "generated_at": "2026-07-18T16:45:27.189Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -10111,6 +10111,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-07-15T22:01:37.313Z"
+        },
+        {
+          "bounty_id": "43",
+          "name": "Duke Sucellus - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-07-18T16:45:25.668Z"
         }
       ]
     },
@@ -10841,6 +10848,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-07-15T22:01:37.313Z"
+        },
+        {
+          "bounty_id": "43",
+          "name": "Duke Sucellus - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-07-18T16:45:25.668Z"
         }
       ]
     },
