@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-18T11:26:29.010Z",
+  "generated_at": "2026-07-18T11:29:31.289Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -399,26 +399,26 @@
       "rsn_key": "87134",
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
-      "join_date": "2026-07-16",
-      "points_total": 2,
+      "join_date": "2025-08-01",
+      "points_total": 351,
       "points_spent": 0,
-      "points_available": 2,
-      "months_in_clan": 0,
+      "points_available": 351,
+      "months_in_clan": 11,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 498,
-        "missing_months": 8,
+        "missing_points": 149,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
         {
-          "timestamp": "2026-07-18T00:56:04.231Z",
-          "delta": 2,
+          "timestamp": "2026-07-18T11:29:00.141Z",
+          "delta": 351,
           "reason": "Tenure points",
-          "balance": 2
+          "balance": 351
         }
       ]
     },
@@ -2857,7 +2857,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-07-18T00:56:04.231Z",
+          "timestamp": "2026-07-18T11:29:00.141Z",
           "delta": 351,
           "reason": "Tenure points",
           "balance": 351
@@ -5084,7 +5084,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-07-18T00:56:04.231Z",
+          "timestamp": "2026-07-18T11:29:00.141Z",
           "delta": 351,
           "reason": "Tenure points",
           "balance": 351
@@ -22035,22 +22035,108 @@
     {
       "rsn": "WhatTheHekc",
       "rsn_key": "whatthehekc",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-07-18",
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
+      "join_date": "2025-09-22",
+      "points_total": 754,
+      "points_spent": 310,
+      "points_available": 444,
+      "months_in_clan": 9,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 100,
-        "missing_months": 1,
-        "can_claim": false
-      }
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-01-31T12:51:20.471Z",
+          "delta": 100,
+          "reason": "second place bingo",
+          "balance": 250
+        },
+        {
+          "timestamp": "2026-01-31T18:05:53.567Z",
+          "delta": 10,
+          "reason": "Hawks max event/drop party",
+          "balance": 260
+        },
+        {
+          "timestamp": "2026-02-16T03:19:58.778Z",
+          "delta": 10,
+          "reason": "Discord adjustment",
+          "balance": 270
+        },
+        {
+          "timestamp": "2026-02-16T11:54:53.640Z",
+          "delta": 15,
+          "reason": "Bounty reward: Easy Tier Bounty",
+          "balance": 285
+        },
+        {
+          "timestamp": "2026-02-16T11:54:54.839Z",
+          "delta": 30,
+          "reason": "Bounty reward: Medium Tier Bounty",
+          "balance": 315
+        },
+        {
+          "timestamp": "2026-02-16T12:31:27.657Z",
+          "delta": -300,
+          "reason": "Rank upgraded to: Ruby",
+          "balance": 15
+        },
+        {
+          "timestamp": "2026-02-16T13:56:28.229Z",
+          "delta": 40,
+          "reason": "Bounty reward: Hard Tier Bounty",
+          "balance": 55
+        },
+        {
+          "timestamp": "2026-03-04T16:56:23.441Z",
+          "delta": -10,
+          "reason": "Raffle tickets x1",
+          "balance": 45
+        },
+        {
+          "timestamp": "2026-03-17T01:25:47.155Z",
+          "delta": 15,
+          "reason": "Bounty reward: Easy Tier - Woodcutting",
+          "balance": 60
+        },
+        {
+          "timestamp": "2026-03-19T11:37:21.934Z",
+          "delta": 30,
+          "reason": "Bounty reward: Medium Tier - Woodcutting",
+          "balance": 90
+        },
+        {
+          "timestamp": "2026-03-22T19:08:23.464Z",
+          "delta": 40,
+          "reason": "Bounty reward: Hard Tier - Woodcutting",
+          "balance": 130
+        },
+        {
+          "timestamp": "2026-04-05T11:21:06.586Z",
+          "delta": 10,
+          "reason": "Toxic's 99 Slayer event",
+          "balance": 140
+        },
+        {
+          "timestamp": "2026-04-14T19:59:19.802Z",
+          "delta": 5,
+          "reason": "Discord adjustment",
+          "balance": 145
+        },
+        {
+          "timestamp": "2026-07-18T00:56:04.231Z",
+          "delta": 299,
+          "reason": "Tenure points",
+          "balance": 444
+        }
+      ]
     },
     {
       "rsn": "whiskey bobb",
