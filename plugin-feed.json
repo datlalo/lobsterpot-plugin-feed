@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-18T10:27:59.605Z",
+  "generated_at": "2026-07-18T10:31:01.431Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -15405,26 +15405,21 @@
     {
       "rsn": "Ol ivia",
       "rsn_key": "olivia",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
       "join_date": "2026-03-20",
       "points_total": 625,
-      "points_spent": 300,
-      "points_available": 325,
+      "points_spent": 600,
+      "points_available": 25,
       "months_in_clan": 3,
       "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Ruby",
-        "created_at": "2026-07-18T10:27:57.493Z"
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 375,
+        "missing_months": 2,
+        "can_claim": false
       },
       "points_history": [
         {
@@ -15542,10 +15537,16 @@
           "balance": 205
         },
         {
+          "timestamp": "2026-07-18T10:30:22.819Z",
+          "delta": -300,
+          "reason": "Rank upgrade: Ruby",
+          "balance": -95
+        },
+        {
           "timestamp": "2026-07-18T00:56:04.231Z",
           "delta": 120,
           "reason": "Tenure points",
-          "balance": 325
+          "balance": 25
         }
       ]
     },
