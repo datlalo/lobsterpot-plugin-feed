@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-18T06:59:29.012Z",
+  "generated_at": "2026-07-18T09:54:34.787Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -1366,9 +1366,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-12-24",
-      "points_total": 1131,
+      "points_total": 1146,
       "points_spent": 610,
-      "points_available": 521,
+      "points_available": 536,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Diamond",
@@ -1380,12 +1380,6 @@
         "can_claim": true
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-17T11:06:17.515Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier Bounty",
-          "balance": 45
-        },
         {
           "timestamp": "2026-02-17T20:08:25.305Z",
           "delta": 15,
@@ -1531,17 +1525,23 @@
           "balance": 315
         },
         {
+          "timestamp": "2026-07-18T09:54:33.276Z",
+          "delta": 15,
+          "reason": "Bounty: Duke Sucellus - Easy",
+          "balance": 330
+        },
+        {
           "timestamp": "2026-07-18T00:56:04.231Z",
           "delta": 206,
           "reason": "Tenure points",
-          "balance": 521
+          "balance": 536
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "42",
           "name": "Duke Sucellus - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-07-18T06:59:27.492Z"
         }
