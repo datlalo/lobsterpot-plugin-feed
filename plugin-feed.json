@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-18T17:58:59.835Z",
+  "generated_at": "2026-07-18T18:23:21.425Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -8781,26 +8781,21 @@
     {
       "rsn": "Heratarn10",
       "rsn_key": "heratarn10",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2026-05-05",
       "points_total": 314,
-      "points_spent": 0,
-      "points_available": 314,
+      "points_spent": 200,
+      "points_available": 114,
       "months_in_clan": 2,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Emerald",
-        "created_at": "2026-07-18T17:58:57.692Z"
+        "missing_points": 186,
+        "missing_months": 1,
+        "can_claim": false
       },
       "points_history": [
         {
@@ -8834,10 +8829,16 @@
           "balance": 240
         },
         {
+          "timestamp": "2026-07-18T18:23:19.906Z",
+          "delta": -200,
+          "reason": "Rank upgrade: Emerald",
+          "balance": 40
+        },
+        {
           "timestamp": "2026-07-18T00:56:04.231Z",
           "delta": 74,
           "reason": "Tenure points",
-          "balance": 314
+          "balance": 114
         }
       ],
       "pending_bounties": [
