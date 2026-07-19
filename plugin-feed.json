@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-19T11:38:35.948Z",
+  "generated_at": "2026-07-19T12:11:08.622Z",
   "broadcasts": [
     {
       "id": "83f6fd30-4c17-4f0f-a1d4-bff84257fe8a",
@@ -2182,6 +2182,26 @@
           "balance": 164
         }
       ]
+    },
+    {
+      "rsn": "AstroRob",
+      "rsn_key": "astrorob",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-19",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "atrealz",
@@ -7323,6 +7343,26 @@
       ]
     },
     {
+      "rsn": "fishontop",
+      "rsn_key": "fishontop",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-19",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "fiskmore",
       "rsn_key": "fiskmore",
       "bot_rank": "Diamond",
@@ -10021,6 +10061,26 @@
           "balance": 204
         }
       ]
+    },
+    {
+      "rsn": "IM Tey",
+      "rsn_key": "imtey",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-19",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "invader ruhn",
@@ -15537,6 +15597,26 @@
           "created_at": "2026-07-19T11:38:34.432Z"
         }
       ]
+    },
+    {
+      "rsn": "o mais ruim",
+      "rsn_key": "omaisruim",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-19",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "Ophelia Vey",
@@ -21255,34 +21335,6 @@
       ]
     },
     {
-      "rsn": "u n kn own",
-      "rsn_key": "unknown",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-06-07",
-      "points_total": 42,
-      "points_spent": 0,
-      "points_available": 42,
-      "months_in_clan": 1,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 58,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-07-19T00:56:04.417Z",
-          "delta": 42,
-          "reason": "Tenure points",
-          "balance": 42
-        }
-      ]
-    },
-    {
       "rsn": "Use Kebab",
       "rsn_key": "usekebab",
       "bot_rank": "Gnome",
@@ -22224,6 +22276,18 @@
           "balance": 445
         }
       ]
+    },
+    {
+      "rsn": "WhereDraynor",
+      "rsn_key": "wheredraynor",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-07-19",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
     },
     {
       "rsn": "whiskey bobb",
