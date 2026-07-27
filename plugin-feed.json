@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-27T16:49:45.363Z",
+  "generated_at": "2026-07-27T16:52:47.767Z",
   "broadcasts": [
     {
       "id": "c36b556b-d922-4c3e-8e1d-937669558df6",
@@ -10072,26 +10072,38 @@
       "rsn_key": "imbony",
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
-      "join_date": "2026-07-24",
-      "points_total": 3,
-      "points_spent": 0,
-      "points_available": 3,
-      "months_in_clan": 0,
+      "join_date": "2026-04-02",
+      "points_total": 121,
+      "points_spent": 100,
+      "points_available": 21,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 197,
-        "missing_months": 2,
+        "missing_points": 179,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
         {
-          "timestamp": "2026-07-27T16:00:25.690Z",
-          "delta": 3,
+          "timestamp": "2026-04-14T19:59:55.719Z",
+          "delta": 5,
+          "reason": "Discord adjustment",
+          "balance": 5
+        },
+        {
+          "timestamp": "2026-07-16T23:44:57.049Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -95
+        },
+        {
+          "timestamp": "2026-07-27T16:51:20.797Z",
+          "delta": 116,
           "reason": "Tenure points",
-          "balance": 3
+          "balance": 21
         }
       ]
     },
