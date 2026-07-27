@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-27T16:52:47.767Z",
+  "generated_at": "2026-07-27T16:55:49.729Z",
   "broadcasts": [
     {
       "id": "c36b556b-d922-4c3e-8e1d-937669558df6",
@@ -2868,7 +2868,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-07-27T16:01:23.594Z",
+          "timestamp": "2026-07-27T16:53:51.367Z",
           "delta": 24,
           "reason": "Tenure points",
           "balance": 24
@@ -12894,20 +12894,28 @@
     {
       "rsn": "Lotusarv",
       "rsn_key": "lotusarv",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2026-07-21",
-      "points_total": 6,
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-03",
+      "points_total": 24,
       "points_spent": 0,
-      "points_available": 6,
+      "points_available": 24,
       "months_in_clan": 0,
-      "next_rank": null,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 76,
+        "missing_months": 1,
+        "can_claim": false
+      },
       "points_history": [
         {
-          "timestamp": "2026-07-27T16:00:25.683Z",
-          "delta": 6,
+          "timestamp": "2026-07-27T16:53:51.367Z",
+          "delta": 24,
           "reason": "Tenure points",
-          "balance": 6
+          "balance": 24
         }
       ]
     },
