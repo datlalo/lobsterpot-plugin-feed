@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-28T12:36:45.843Z",
+  "generated_at": "2026-07-28T17:02:11.789Z",
   "broadcasts": [
     {
       "id": "c36b556b-d922-4c3e-8e1d-937669558df6",
@@ -7698,34 +7698,6 @@
           "delta": 633,
           "reason": "Tenure points",
           "balance": 633
-        }
-      ]
-    },
-    {
-      "rsn": "flwntr",
-      "rsn_key": "flwntr",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-07-10",
-      "points_total": 18,
-      "points_spent": 0,
-      "points_available": 18,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 82,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-07-28T00:17:08.646Z",
-          "delta": 18,
-          "reason": "Tenure points",
-          "balance": 18
         }
       ]
     },
@@ -22474,6 +22446,34 @@
           "delta": 110,
           "reason": "Tenure points",
           "balance": 100
+        }
+      ]
+    },
+    {
+      "rsn": "wooimboutta",
+      "rsn_key": "wooimboutta",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-10",
+      "points_total": 18,
+      "points_spent": 0,
+      "points_available": 18,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 82,
+        "missing_months": 1,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-07-28T00:17:08.646Z",
+          "delta": 18,
+          "reason": "Tenure points",
+          "balance": 18
         }
       ]
     },
