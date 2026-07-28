@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-28T18:52:12.141Z",
+  "generated_at": "2026-07-28T18:55:36.252Z",
   "broadcasts": [
     {
       "id": "fc00acdf-dccf-45ad-bacc-c7218a0f6cb4",
@@ -471,9 +471,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 2324,
+      "points_total": 2339,
       "points_spent": 1230,
-      "points_available": 1094,
+      "points_available": 1109,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
@@ -485,12 +485,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-19T08:56:45.897Z",
-          "delta": 20,
-          "reason": "Discord adjustment",
-          "balance": 465
-        },
         {
           "timestamp": "2026-04-21T05:23:03.812Z",
           "delta": 20,
@@ -636,10 +630,16 @@
           "balance": 788
         },
         {
+          "timestamp": "2026-07-28T18:55:34.747Z",
+          "delta": 15,
+          "reason": "Freaky frondslop friday (Juli)",
+          "balance": 803
+        },
+        {
           "timestamp": "2026-07-28T00:17:08.646Z",
           "delta": 306,
           "reason": "Tenure points",
-          "balance": 1094
+          "balance": 1109
         }
       ]
     },
@@ -3705,9 +3705,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-09-22",
-      "points_total": 764,
+      "points_total": 779,
       "points_spent": 310,
-      "points_available": 454,
+      "points_available": 469,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Diamond",
@@ -3798,10 +3798,16 @@
           "balance": 145
         },
         {
+          "timestamp": "2026-07-28T18:55:34.747Z",
+          "delta": 15,
+          "reason": "Freaky frondslop friday (Juli)",
+          "balance": 160
+        },
+        {
           "timestamp": "2026-07-28T00:17:08.646Z",
           "delta": 309,
           "reason": "Tenure points",
-          "balance": 454
+          "balance": 469
         }
       ]
     },
@@ -6769,16 +6775,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-21",
-      "points_total": 910,
+      "points_total": 925,
       "points_spent": 700,
-      "points_available": 210,
+      "points_available": 225,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 290,
+        "missing_points": 275,
         "missing_months": 0,
         "can_claim": false
       },
@@ -6898,10 +6904,16 @@
           "balance": -100
         },
         {
+          "timestamp": "2026-07-28T18:55:34.746Z",
+          "delta": 15,
+          "reason": "Freaky frondslop friday (Juli)",
+          "balance": -85
+        },
+        {
           "timestamp": "2026-07-28T00:17:08.646Z",
           "delta": 310,
           "reason": "Tenure points",
-          "balance": 210
+          "balance": 225
         }
       ]
     },
@@ -6911,16 +6923,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-21",
-      "points_total": 910,
+      "points_total": 925,
       "points_spent": 700,
-      "points_available": 210,
+      "points_available": 225,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 290,
+        "missing_points": 275,
         "missing_months": 0,
         "can_claim": false
       },
@@ -7040,10 +7052,16 @@
           "balance": -100
         },
         {
+          "timestamp": "2026-07-28T18:55:34.746Z",
+          "delta": 15,
+          "reason": "Freaky frondslop friday (Juli)",
+          "balance": -85
+        },
+        {
           "timestamp": "2026-07-28T00:17:08.646Z",
           "delta": 310,
           "reason": "Tenure points",
-          "balance": 210
+          "balance": 225
         }
       ]
     },
@@ -7475,16 +7493,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-21",
-      "points_total": 910,
+      "points_total": 925,
       "points_spent": 700,
-      "points_available": 210,
+      "points_available": 225,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 290,
+        "missing_points": 275,
         "missing_months": 0,
         "can_claim": false
       },
@@ -7604,10 +7622,16 @@
           "balance": -100
         },
         {
+          "timestamp": "2026-07-28T18:55:34.746Z",
+          "delta": 15,
+          "reason": "Freaky frondslop friday (Juli)",
+          "balance": -85
+        },
+        {
           "timestamp": "2026-07-28T00:17:08.646Z",
           "delta": 310,
           "reason": "Tenure points",
-          "balance": 210
+          "balance": 225
         }
       ]
     },
@@ -15365,16 +15389,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-03-20",
-      "points_total": 680,
+      "points_total": 695,
       "points_spent": 600,
-      "points_available": 80,
+      "points_available": 95,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 320,
+        "missing_points": 305,
         "missing_months": 1,
         "can_claim": false
       },
@@ -15512,10 +15536,16 @@
           "balance": -50
         },
         {
+          "timestamp": "2026-07-28T18:55:34.747Z",
+          "delta": 15,
+          "reason": "Freaky frondslop friday (Juli)",
+          "balance": -35
+        },
+        {
           "timestamp": "2026-07-28T00:17:08.646Z",
           "delta": 130,
           "reason": "Tenure points",
-          "balance": 80
+          "balance": 95
         }
       ]
     },
@@ -15997,9 +16027,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 2324,
+      "points_total": 2339,
       "points_spent": 1230,
-      "points_available": 1094,
+      "points_available": 1109,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
@@ -16011,12 +16041,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-19T08:56:45.897Z",
-          "delta": 20,
-          "reason": "Discord adjustment",
-          "balance": 465
-        },
         {
           "timestamp": "2026-04-21T05:23:03.812Z",
           "delta": 20,
@@ -16162,10 +16186,16 @@
           "balance": 788
         },
         {
+          "timestamp": "2026-07-28T18:55:34.747Z",
+          "delta": 15,
+          "reason": "Freaky frondslop friday (Juli)",
+          "balance": 803
+        },
+        {
           "timestamp": "2026-07-28T00:17:08.646Z",
           "delta": 306,
           "reason": "Tenure points",
-          "balance": 1094
+          "balance": 1109
         }
       ]
     },
@@ -22115,9 +22145,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-09-22",
-      "points_total": 764,
+      "points_total": 779,
       "points_spent": 310,
-      "points_available": 454,
+      "points_available": 469,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Diamond",
@@ -22208,10 +22238,16 @@
           "balance": 145
         },
         {
+          "timestamp": "2026-07-28T18:55:34.747Z",
+          "delta": 15,
+          "reason": "Freaky frondslop friday (Juli)",
+          "balance": 160
+        },
+        {
           "timestamp": "2026-07-28T00:17:08.646Z",
           "delta": 309,
           "reason": "Tenure points",
-          "balance": 454
+          "balance": 469
         }
       ]
     },
