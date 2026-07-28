@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-28T07:15:33.420Z",
+  "generated_at": "2026-07-28T07:32:11.269Z",
   "broadcasts": [
     {
       "id": "c36b556b-d922-4c3e-8e1d-937669558df6",
@@ -19972,6 +19972,26 @@
           "balance": 77
         }
       ]
+    },
+    {
+      "rsn": "steakcakeplz",
+      "rsn_key": "steakcakeplz",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-28",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "StonedGengar",
