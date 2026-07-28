@@ -1,16 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-07-28T17:02:11.789Z",
-  "broadcasts": [
-    {
-      "id": "c36b556b-d922-4c3e-8e1d-937669558df6",
-      "title": "Discord Bot is back!",
-      "message": "Plugin should work correctly now too :)",
-      "starts_at": null,
-      "expires_at": null,
-      "updated_at": "2026-07-27T16:44:55.581Z"
-    }
-  ],
+  "generated_at": "2026-07-28T18:49:09.949Z",
+  "broadcasts": [],
   "events": [
     {
       "id": "1517638097402204272",
