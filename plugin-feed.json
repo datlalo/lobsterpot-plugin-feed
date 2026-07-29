@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-29T00:17:10.579Z",
+  "generated_at": "2026-07-29T06:47:11.851Z",
   "broadcasts": [
     {
       "id": "fc00acdf-dccf-45ad-bacc-c7218a0f6cb4",
@@ -6400,6 +6400,34 @@
           "delta": 73,
           "reason": "Tenure points",
           "balance": 238
+        }
+      ]
+    },
+    {
+      "rsn": "EngiMaini",
+      "rsn_key": "engimaini",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-17",
+      "points_total": 12,
+      "points_spent": 0,
+      "points_available": 12,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 88,
+        "missing_months": 1,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-07-29T00:17:08.844Z",
+          "delta": 12,
+          "reason": "Tenure points",
+          "balance": 12
         }
       ]
     },
@@ -13402,34 +13430,6 @@
           "delta": 308,
           "reason": "Tenure points",
           "balance": 308
-        }
-      ]
-    },
-    {
-      "rsn": "mayraheppu",
-      "rsn_key": "mayraheppu",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-07-17",
-      "points_total": 12,
-      "points_spent": 0,
-      "points_available": 12,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 88,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-07-29T00:17:08.844Z",
-          "delta": 12,
-          "reason": "Tenure points",
-          "balance": 12
         }
       ]
     },
