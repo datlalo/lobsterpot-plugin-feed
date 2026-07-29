@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-29T19:10:01.482Z",
+  "generated_at": "2026-07-29T19:47:14.459Z",
   "broadcasts": [
     {
       "id": "fc00acdf-dccf-45ad-bacc-c7218a0f6cb4",
@@ -14002,20 +14002,46 @@
       "rsn_key": "moppe2",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
-      "join_date": "2026-07-29",
-      "points_total": 0,
+      "join_date": "2026-06-22",
+      "points_total": 87,
       "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
+      "points_available": 87,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 100,
-        "missing_months": 1,
+        "missing_points": 13,
+        "missing_months": 0,
         "can_claim": false
-      }
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-07-01T21:53:48.954Z",
+          "delta": 10,
+          "reason": "recruited I Pontso I",
+          "balance": 10
+        },
+        {
+          "timestamp": "2026-07-02T08:48:02.830Z",
+          "delta": 20,
+          "reason": "Recruit",
+          "balance": 30
+        },
+        {
+          "timestamp": "2026-07-17T22:54:15.986Z",
+          "delta": 20,
+          "reason": "callisto mass",
+          "balance": 50
+        },
+        {
+          "timestamp": "2026-07-29T00:17:08.844Z",
+          "delta": 37,
+          "reason": "Tenure points",
+          "balance": 87
+        }
+      ]
     },
     {
       "rsn": "MrA2G",
