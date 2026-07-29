@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-29T19:06:59.009Z",
+  "generated_at": "2026-07-29T19:10:01.482Z",
   "broadcasts": [
     {
       "id": "fc00acdf-dccf-45ad-bacc-c7218a0f6cb4",
@@ -705,18 +705,18 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-11-24",
-      "points_total": 1327,
+      "points_total": 1477,
       "points_spent": 900,
-      "points_available": 427,
+      "points_available": 577,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 73,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -858,10 +858,16 @@
           "balance": 180
         },
         {
+          "timestamp": "2026-07-29T19:07:01.407Z",
+          "delta": 150,
+          "reason": "Easy-elite",
+          "balance": 330
+        },
+        {
           "timestamp": "2026-07-29T00:17:08.844Z",
           "delta": 247,
           "reason": "Tenure points",
-          "balance": 427
+          "balance": 577
         }
       ]
     },
@@ -9877,16 +9883,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-06-27",
-      "points_total": 257,
+      "points_total": 287,
       "points_spent": 100,
-      "points_available": 157,
+      "points_available": 187,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 43,
+        "missing_points": 13,
         "missing_months": 1,
         "can_claim": false
       },
@@ -9952,10 +9958,16 @@
           "balance": 125
         },
         {
+          "timestamp": "2026-07-29T19:07:24.661Z",
+          "delta": 30,
+          "reason": "Medium",
+          "balance": 155
+        },
+        {
           "timestamp": "2026-07-29T00:17:08.844Z",
           "delta": 32,
           "reason": "Tenure points",
-          "balance": 157
+          "balance": 187
         }
       ]
     },
@@ -12259,18 +12271,18 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-11-24",
-      "points_total": 1327,
+      "points_total": 1477,
       "points_spent": 900,
-      "points_available": 427,
+      "points_available": 577,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 73,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -12412,10 +12424,16 @@
           "balance": 180
         },
         {
+          "timestamp": "2026-07-29T19:07:01.407Z",
+          "delta": 150,
+          "reason": "Easy-elite",
+          "balance": 330
+        },
+        {
           "timestamp": "2026-07-29T00:17:08.844Z",
           "delta": 247,
           "reason": "Tenure points",
-          "balance": 427
+          "balance": 577
         }
       ]
     },
