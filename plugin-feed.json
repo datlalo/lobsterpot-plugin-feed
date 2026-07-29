@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-29T19:47:14.459Z",
+  "generated_at": "2026-07-29T20:12:35.748Z",
   "broadcasts": [
     {
       "id": "fc00acdf-dccf-45ad-bacc-c7218a0f6cb4",
@@ -21,6 +21,16 @@
       "ends_at": "2026-08-04T05:00:00.000Z",
       "description": "",
       "thread_id": "1517638097402204272"
+    },
+    {
+      "id": "1532118651602206730",
+      "type": "event",
+      "title": "Hide & Seek with UIM Aspect",
+      "location": "World 346",
+      "starts_at": "2026-07-30T14:00:00.000Z",
+      "ends_at": null,
+      "description": "More details from UIM Aspect coming below!",
+      "thread_id": "1532118651602206730"
     }
   ],
   "bounties": [],
