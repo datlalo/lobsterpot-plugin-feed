@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-29T06:47:11.851Z",
+  "generated_at": "2026-07-29T17:47:14.479Z",
   "broadcasts": [
     {
       "id": "fc00acdf-dccf-45ad-bacc-c7218a0f6cb4",
@@ -17320,6 +17320,26 @@
       ]
     },
     {
+      "rsn": "remil200z",
+      "rsn_key": "remil200z",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-29",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "re milia",
       "rsn_key": "remilia",
       "bot_rank": "Sapphire",
@@ -21462,34 +21482,6 @@
           "delta": 258,
           "reason": "Tenure points",
           "balance": 258
-        }
-      ]
-    },
-    {
-      "rsn": "Van Rees",
-      "rsn_key": "vanrees",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-07-08",
-      "points_total": 21,
-      "points_spent": 0,
-      "points_available": 21,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 79,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-07-29T00:17:08.844Z",
-          "delta": 21,
-          "reason": "Tenure points",
-          "balance": 21
         }
       ]
     },
