@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-29T19:00:54.747Z",
+  "generated_at": "2026-07-29T19:03:56.762Z",
   "broadcasts": [
     {
       "id": "fc00acdf-dccf-45ad-bacc-c7218a0f6cb4",
@@ -11080,52 +11080,6 @@
       ]
     },
     {
-      "rsn": "its kippari",
-      "rsn_key": "itskippari",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-06-22",
-      "points_total": 87,
-      "points_spent": 0,
-      "points_available": 87,
-      "months_in_clan": 1,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 13,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-07-01T21:53:48.954Z",
-          "delta": 10,
-          "reason": "recruited I Pontso I",
-          "balance": 10
-        },
-        {
-          "timestamp": "2026-07-02T08:48:02.830Z",
-          "delta": 20,
-          "reason": "Recruit",
-          "balance": 30
-        },
-        {
-          "timestamp": "2026-07-17T22:54:15.986Z",
-          "delta": 20,
-          "reason": "callisto mass",
-          "balance": 50
-        },
-        {
-          "timestamp": "2026-07-29T00:17:08.844Z",
-          "delta": 37,
-          "reason": "Tenure points",
-          "balance": 87
-        }
-      ]
-    },
-    {
       "rsn": "J4ck",
       "rsn_key": "j4ck",
       "bot_rank": "Alt",
@@ -14026,28 +13980,43 @@
       ]
     },
     {
-      "rsn": "MrA2G",
-      "rsn_key": "mra2g",
+      "rsn": "moppe 2",
+      "rsn_key": "moppe2",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
-      "join_date": "2026-06-24",
-      "points_total": 130,
+      "join_date": "2026-07-29",
+      "points_total": 0,
       "points_spent": 0,
-      "points_available": 130,
-      "months_in_clan": 1,
+      "points_available": 0,
+      "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-07-29T19:00:52.511Z"
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "MrA2G",
+      "rsn_key": "mra2g",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-06-24",
+      "points_total": 130,
+      "points_spent": 100,
+      "points_available": 30,
+      "months_in_clan": 1,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 170,
+        "missing_months": 1,
+        "can_claim": false
       },
       "points_history": [
         {
@@ -14075,36 +14044,37 @@
           "balance": 95
         },
         {
+          "timestamp": "2026-07-29T19:01:06.228Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -5
+        },
+        {
           "timestamp": "2026-07-29T00:17:08.844Z",
           "delta": 35,
           "reason": "Tenure points",
-          "balance": 130
+          "balance": 30
         }
       ]
     },
     {
       "rsn": "MrAKG",
       "rsn_key": "mrakg",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-06-24",
       "points_total": 130,
-      "points_spent": 0,
-      "points_available": 130,
+      "points_spent": 100,
+      "points_available": 30,
       "months_in_clan": 1,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-07-29T19:00:52.511Z"
+        "missing_points": 170,
+        "missing_months": 1,
+        "can_claim": false
       },
       "points_history": [
         {
@@ -14132,10 +14102,16 @@
           "balance": 95
         },
         {
+          "timestamp": "2026-07-29T19:01:06.228Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -5
+        },
+        {
           "timestamp": "2026-07-29T00:17:08.844Z",
           "delta": 35,
           "reason": "Tenure points",
-          "balance": 130
+          "balance": 30
         }
       ]
     },
