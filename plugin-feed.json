@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-29T19:03:56.762Z",
+  "generated_at": "2026-07-29T19:06:59.009Z",
   "broadcasts": [
     {
       "id": "fc00acdf-dccf-45ad-bacc-c7218a0f6cb4",
@@ -15773,26 +15773,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-12",
-      "points_total": 1900,
+      "points_total": 1960,
       "points_spent": 1270,
-      "points_available": 630,
+      "points_available": 690,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 170,
+        "missing_points": 110,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-05T11:21:02.695Z",
-          "delta": 10,
-          "reason": "Toxic's 99 Slayer event",
-          "balance": 435
-        },
         {
           "timestamp": "2026-04-08T05:19:30.660Z",
           "delta": 15,
@@ -15938,10 +15932,16 @@
           "balance": 310
         },
         {
+          "timestamp": "2026-07-29T19:05:55.090Z",
+          "delta": 60,
+          "reason": "Elite bounty",
+          "balance": 370
+        },
+        {
           "timestamp": "2026-07-29T00:17:08.844Z",
           "delta": 320,
           "reason": "Tenure points",
-          "balance": 630
+          "balance": 690
         }
       ]
     },
