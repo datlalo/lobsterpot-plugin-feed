@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-29T20:12:35.748Z",
+  "generated_at": "2026-07-29T23:32:15.802Z",
   "broadcasts": [
     {
       "id": "fc00acdf-dccf-45ad-bacc-c7218a0f6cb4",
@@ -2162,7 +2162,7 @@
       "points_total": 796,
       "points_spent": 500,
       "points_available": 296,
-      "months_in_clan": 7,
+      "months_in_clan": 8,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -6528,34 +6528,6 @@
       ]
     },
     {
-      "rsn": "evil boyce",
-      "rsn_key": "evilboyce",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-07-21",
-      "points_total": 8,
-      "points_spent": 0,
-      "points_available": 8,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 92,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-07-29T00:17:08.844Z",
-          "delta": 8,
-          "reason": "Tenure points",
-          "balance": 8
-        }
-      ]
-    },
-    {
       "rsn": "ExGIMbex",
       "rsn_key": "exgimbex",
       "bot_rank": "Gnome",
@@ -7880,7 +7852,7 @@
       "points_total": 668,
       "points_spent": 300,
       "points_available": 368,
-      "months_in_clan": 10,
+      "months_in_clan": 11,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -16248,7 +16220,7 @@
       "points_total": 90,
       "points_spent": 0,
       "points_available": 90,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -16630,14 +16602,14 @@
       "points_total": 1405,
       "points_spent": 1200,
       "points_available": 205,
-      "months_in_clan": 9,
+      "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
         "missing_points": 595,
-        "missing_months": 3,
+        "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
@@ -22008,7 +21980,7 @@
       "points_total": 90,
       "points_spent": 0,
       "points_available": 90,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
