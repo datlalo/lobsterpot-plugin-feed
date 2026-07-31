@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-31T08:47:18.227Z",
+  "generated_at": "2026-07-31T12:52:46.020Z",
   "broadcasts": [
     {
       "id": "fc00acdf-dccf-45ad-bacc-c7218a0f6cb4",
@@ -6049,9 +6049,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-02-14",
-      "points_total": 902,
+      "points_total": 932,
       "points_spent": 400,
-      "points_available": 502,
+      "points_available": 532,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
@@ -6202,10 +6202,16 @@
           "balance": 335
         },
         {
+          "timestamp": "2026-07-31T12:52:44.507Z",
+          "delta": 30,
+          "reason": "Recruit",
+          "balance": 365
+        },
+        {
           "timestamp": "2026-07-31T00:17:12.814Z",
           "delta": 167,
           "reason": "Tenure points",
-          "balance": 502
+          "balance": 532
         }
       ]
     },
