@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-31T00:17:14.552Z",
+  "generated_at": "2026-07-31T08:47:18.227Z",
   "broadcasts": [
     {
       "id": "fc00acdf-dccf-45ad-bacc-c7218a0f6cb4",
@@ -14514,6 +14514,26 @@
       ]
     },
     {
+      "rsn": "mythunior",
+      "rsn_key": "mythunior",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-31",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "Nadyajj",
       "rsn_key": "nadyajj",
       "bot_rank": "Ruby",
@@ -18170,34 +18190,6 @@
           "delta": 165,
           "reason": "Tenure points",
           "balance": 180
-        }
-      ]
-    },
-    {
-      "rsn": "screamvox",
-      "rsn_key": "screamvox",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-07-26",
-      "points_total": 5,
-      "points_spent": 0,
-      "points_available": 5,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 95,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-07-31T00:17:12.814Z",
-          "delta": 5,
-          "reason": "Tenure points",
-          "balance": 5
         }
       ]
     },
