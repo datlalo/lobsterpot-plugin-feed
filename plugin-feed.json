@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-01T12:32:20.749Z",
+  "generated_at": "2026-08-01T15:50:39.776Z",
   "broadcasts": [
     {
       "id": "fc00acdf-dccf-45ad-bacc-c7218a0f6cb4",
@@ -4033,6 +4033,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Emerald",
+        "created_at": "2026-08-01T15:50:37.604Z"
       },
       "points_history": [
         {
@@ -11325,6 +11330,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Emerald",
+        "created_at": "2026-08-01T15:50:37.604Z"
       },
       "points_history": [
         {
