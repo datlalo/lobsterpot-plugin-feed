@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-01T15:53:42.182Z",
+  "generated_at": "2026-08-01T17:17:20.726Z",
   "broadcasts": [
     {
       "id": "fc00acdf-dccf-45ad-bacc-c7218a0f6cb4",
@@ -12154,46 +12154,6 @@
       ]
     },
     {
-      "rsn": "Ko s Penguin",
-      "rsn_key": "kospenguin",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-04-11 19:07:50.743505+00",
-      "points_total": 192,
-      "points_spent": 0,
-      "points_available": 192,
-      "months_in_clan": 3,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-04-14T19:59:37.727Z",
-          "delta": 5,
-          "reason": "Discord adjustment",
-          "balance": 5
-        },
-        {
-          "timestamp": "2026-07-03T06:02:58.099Z",
-          "delta": 75,
-          "reason": "Slayer",
-          "balance": 80
-        },
-        {
-          "timestamp": "2026-08-01T00:17:14.448Z",
-          "delta": 112,
-          "reason": "Tenure points",
-          "balance": 192
-        }
-      ]
-    },
-    {
       "rsn": "kumquat peel",
       "rsn_key": "kumquatpeel",
       "bot_rank": "Gnome",
@@ -20118,6 +20078,26 @@
           "balance": 87
         }
       ]
+    },
+    {
+      "rsn": "strong",
+      "rsn_key": "strong",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-01",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "subtlevalues",
