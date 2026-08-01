@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-01T20:45:25.118Z",
+  "generated_at": "2026-08-01T20:49:15.658Z",
   "broadcasts": [
     {
       "id": "fc00acdf-dccf-45ad-bacc-c7218a0f6cb4",
@@ -15808,26 +15808,21 @@
     {
       "rsn": "parm a jon",
       "rsn_key": "parmajon",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-05-25",
       "points_total": 113,
-      "points_spent": 0,
-      "points_available": 113,
+      "points_spent": 100,
+      "points_available": 13,
       "months_in_clan": 2,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 187,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-08-01T20:45:23.025Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -15843,10 +15838,16 @@
           "balance": 45
         },
         {
+          "timestamp": "2026-08-01T20:49:14.150Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -55
+        },
+        {
           "timestamp": "2026-08-01T00:17:14.448Z",
           "delta": 68,
           "reason": "Tenure points",
-          "balance": 113
+          "balance": 13
         }
       ]
     },
