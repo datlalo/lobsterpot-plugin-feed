@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-02T00:17:17.865Z",
+  "generated_at": "2026-08-02T07:10:51.250Z",
   "broadcasts": [
     {
       "id": "fc00acdf-dccf-45ad-bacc-c7218a0f6cb4",
@@ -10312,6 +10312,11 @@
         "missing_months": 0,
         "can_claim": true
       },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Sapphire",
+        "created_at": "2026-08-02T07:10:48.972Z"
+      },
       "points_history": [
         {
           "timestamp": "2026-07-04T12:14:12.002Z",
@@ -11027,6 +11032,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Sapphire",
+        "created_at": "2026-08-02T07:10:48.972Z"
       },
       "points_history": [
         {
