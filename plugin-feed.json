@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-02T09:00:55.454Z",
+  "generated_at": "2026-08-02T11:52:00.479Z",
   "broadcasts": [
     {
       "id": "fc00acdf-dccf-45ad-bacc-c7218a0f6cb4",
@@ -255,6 +255,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Sapphire",
+        "created_at": "2026-08-02T11:51:58.281Z"
       },
       "points_history": [
         {
