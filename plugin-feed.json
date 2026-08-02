@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-02T17:57:50.628Z",
+  "generated_at": "2026-08-02T18:02:23.383Z",
   "broadcasts": [
     {
       "id": "fc00acdf-dccf-45ad-bacc-c7218a0f6cb4",
@@ -8958,34 +8958,6 @@
       ]
     },
     {
-      "rsn": "Hegelscape",
-      "rsn_key": "hegelscape",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-07-06",
-      "points_total": 27,
-      "points_spent": 0,
-      "points_available": 27,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 73,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-02T00:17:16.043Z",
-          "delta": 27,
-          "reason": "Tenure points",
-          "balance": 27
-        }
-      ]
-    },
-    {
       "rsn": "Heratarn10",
       "rsn_key": "heratarn10",
       "bot_rank": "Emerald",
@@ -17600,34 +17572,6 @@
       ]
     },
     {
-      "rsn": "RodPleaser",
-      "rsn_key": "rodpleaser",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-06-27",
-      "points_total": 36,
-      "points_spent": 0,
-      "points_available": 36,
-      "months_in_clan": 1,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 64,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-02T00:17:16.043Z",
-          "delta": 36,
-          "reason": "Tenure points",
-          "balance": 36
-        }
-      ]
-    },
-    {
       "rsn": "rougerascal",
       "rsn_key": "rougerascal",
       "bot_rank": "Gnome",
@@ -19198,6 +19142,26 @@
           "balance": 56
         }
       ]
+    },
+    {
+      "rsn": "Sir Oozer",
+      "rsn_key": "siroozer",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-02",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "siryanka",
