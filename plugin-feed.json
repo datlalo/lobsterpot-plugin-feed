@@ -1,16 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-08-03T00:20:21.453Z",
-  "broadcasts": [
-    {
-      "id": "fc00acdf-dccf-45ad-bacc-c7218a0f6cb4",
-      "title": "The PVM Map Sweep has started!",
-      "message": ".",
-      "starts_at": null,
-      "expires_at": null,
-      "updated_at": "2026-07-28T18:50:20.862Z"
-    }
-  ],
+  "generated_at": "2026-08-03T07:57:04.756Z",
+  "broadcasts": [],
   "events": [
     {
       "id": "1517638097402204272",
