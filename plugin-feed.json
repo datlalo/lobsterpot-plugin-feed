@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-03T19:38:52.313Z",
+  "generated_at": "2026-08-03T19:45:30.623Z",
   "broadcasts": [],
   "events": [
     {
@@ -9577,26 +9577,21 @@
     {
       "rsn": "iron mosfet",
       "rsn_key": "ironmosfet",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-03-17",
       "points_total": 219,
-      "points_spent": 0,
-      "points_available": 219,
+      "points_spent": 100,
+      "points_available": 119,
       "months_in_clan": 4,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 81,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-08-03T19:38:49.973Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -9618,10 +9613,16 @@
           "balance": 80
         },
         {
+          "timestamp": "2026-08-03T19:45:29.116Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -20
+        },
+        {
           "timestamp": "2026-08-03T00:17:17.639Z",
           "delta": 139,
           "reason": "Tenure points",
-          "balance": 219
+          "balance": 119
         }
       ]
     },
