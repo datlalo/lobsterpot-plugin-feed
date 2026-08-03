@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-03T08:57:48.222Z",
+  "generated_at": "2026-08-03T09:00:50.436Z",
   "broadcasts": [],
   "events": [
     {
@@ -14,15 +14,7 @@
       "thread_id": "1517638097402204272"
     }
   ],
-  "bounties": [
-    {
-      "id": "47",
-      "name": "Fishing SOTW - Easy",
-      "active": true,
-      "points": 15,
-      "description": "100k XP or Soaked Pages drop"
-    }
-  ],
+  "bounties": [],
   "members": [
     {
       "rsn": "0jack black0",
