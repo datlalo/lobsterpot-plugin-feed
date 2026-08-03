@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-03T10:32:38.031Z",
+  "generated_at": "2026-08-03T11:32:24.875Z",
   "broadcasts": [],
   "events": [
     {
@@ -5815,6 +5815,46 @@
           "balance": 132
         }
       ]
+    },
+    {
+      "rsn": "ducksarecool",
+      "rsn_key": "ducksarecool",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-03",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "dum loser",
+      "rsn_key": "dumloser",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-03",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "Dvalini",
@@ -21131,34 +21171,6 @@
           "delta": 306,
           "reason": "Tenure points",
           "balance": 446
-        }
-      ]
-    },
-    {
-      "rsn": "uim aspect",
-      "rsn_key": "uimaspect",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-07-04",
-      "points_total": 30,
-      "points_spent": 0,
-      "points_available": 30,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 70,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-03T00:17:17.639Z",
-          "delta": 30,
-          "reason": "Tenure points",
-          "balance": 30
         }
       ]
     },
