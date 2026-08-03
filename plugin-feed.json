@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-03T00:17:19.482Z",
+  "generated_at": "2026-08-03T00:20:21.453Z",
   "broadcasts": [
     {
       "id": "fc00acdf-dccf-45ad-bacc-c7218a0f6cb4",
@@ -1578,46 +1578,6 @@
           "delta": 362,
           "reason": "Tenure points",
           "balance": 362
-        }
-      ]
-    },
-    {
-      "rsn": "ariangela",
-      "rsn_key": "ariangela",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2025-12-07 18:36:26.273611+00",
-      "points_total": 339,
-      "points_spent": 0,
-      "points_available": 339,
-      "months_in_clan": 7,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-01-31T12:55:53.445Z",
-          "delta": 50,
-          "reason": "bingo participation",
-          "balance": 50
-        },
-        {
-          "timestamp": "2026-03-04T17:28:23.903Z",
-          "delta": 50,
-          "reason": "Jan Donor Raffle Winner",
-          "balance": 100
-        },
-        {
-          "timestamp": "2026-08-03T00:17:17.639Z",
-          "delta": 239,
-          "reason": "Tenure points",
-          "balance": 339
         }
       ]
     },
