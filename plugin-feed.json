@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-04T00:17:55.652Z",
+  "generated_at": "2026-08-04T00:20:57.767Z",
   "broadcasts": [],
   "events": [
     {
@@ -456,9 +456,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 2366,
+      "points_total": 2441,
       "points_spent": 1230,
-      "points_available": 1136,
+      "points_available": 1211,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
@@ -470,12 +470,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-23T18:20:45.049Z",
-          "delta": 10,
-          "reason": "Discord adjustment",
-          "balance": 495
-        },
         {
           "timestamp": "2026-04-25T00:08:37.761Z",
           "delta": 25,
@@ -621,10 +615,16 @@
           "balance": 823
         },
         {
+          "timestamp": "2026-08-04T00:20:41.409Z",
+          "delta": 75,
+          "reason": "2nd place in PVM Map Sweep",
+          "balance": 898
+        },
+        {
           "timestamp": "2026-08-04T00:14:11.283Z",
           "delta": 313,
           "reason": "Tenure points",
-          "balance": 1136
+          "balance": 1211
         }
       ]
     },
@@ -5602,9 +5602,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-02-14",
-      "points_total": 956,
+      "points_total": 1031,
       "points_spent": 400,
-      "points_available": 556,
+      "points_available": 631,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
@@ -5616,12 +5616,6 @@
         "can_claim": true
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-02T15:14:03.360Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier Bounty - Zulrah",
-          "balance": 15
-        },
         {
           "timestamp": "2026-03-02T15:56:24.138Z",
           "delta": 40,
@@ -5767,10 +5761,16 @@
           "balance": 385
         },
         {
+          "timestamp": "2026-08-04T00:20:41.409Z",
+          "delta": 75,
+          "reason": "2nd place in PVM Map Sweep",
+          "balance": 460
+        },
+        {
           "timestamp": "2026-08-04T00:14:11.283Z",
           "delta": 171,
           "reason": "Tenure points",
-          "balance": 556
+          "balance": 631
         }
       ]
     },
@@ -13362,9 +13362,9 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-05-09",
-      "points_total": 300,
+      "points_total": 350,
       "points_spent": 100,
-      "points_available": 200,
+      "points_available": 250,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
@@ -13401,10 +13401,16 @@
           "balance": 113
         },
         {
+          "timestamp": "2026-08-04T00:19:47.002Z",
+          "delta": 50,
+          "reason": "3rd place in PVM Map Sweep event!",
+          "balance": 163
+        },
+        {
           "timestamp": "2026-08-04T00:14:11.283Z",
           "delta": 87,
           "reason": "Tenure points",
-          "balance": 200
+          "balance": 250
         }
       ]
     },
@@ -14370,26 +14376,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-12",
-      "points_total": 1966,
+      "points_total": 2041,
       "points_spent": 1270,
-      "points_available": 696,
+      "points_available": 771,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 104,
+        "missing_points": 29,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-08T05:19:30.660Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier - Giant Mole",
-          "balance": 450
-        },
         {
           "timestamp": "2026-04-09T17:53:23.386Z",
           "delta": -50,
@@ -14535,10 +14535,16 @@
           "balance": 370
         },
         {
+          "timestamp": "2026-08-04T00:20:41.409Z",
+          "delta": 75,
+          "reason": "2nd place in PVM Map Sweep",
+          "balance": 445
+        },
+        {
           "timestamp": "2026-08-04T00:14:11.283Z",
           "delta": 326,
           "reason": "Tenure points",
-          "balance": 696
+          "balance": 771
         }
       ]
     },
@@ -14610,9 +14616,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 2366,
+      "points_total": 2441,
       "points_spent": 1230,
-      "points_available": 1136,
+      "points_available": 1211,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
@@ -14624,12 +14630,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-23T18:20:45.049Z",
-          "delta": 10,
-          "reason": "Discord adjustment",
-          "balance": 495
-        },
         {
           "timestamp": "2026-04-25T00:08:37.761Z",
           "delta": 25,
@@ -14775,10 +14775,16 @@
           "balance": 823
         },
         {
+          "timestamp": "2026-08-04T00:20:41.409Z",
+          "delta": 75,
+          "reason": "2nd place in PVM Map Sweep",
+          "balance": 898
+        },
+        {
           "timestamp": "2026-08-04T00:14:11.283Z",
           "delta": 313,
           "reason": "Tenure points",
-          "balance": 1136
+          "balance": 1211
         }
       ]
     },
@@ -18914,18 +18920,18 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-06-21",
-      "points_total": 79,
+      "points_total": 129,
       "points_spent": 0,
-      "points_available": 79,
+      "points_available": 129,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 21,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -18941,10 +18947,16 @@
           "balance": 35
         },
         {
+          "timestamp": "2026-08-04T00:19:47.002Z",
+          "delta": 50,
+          "reason": "3rd place in PVM Map Sweep event!",
+          "balance": 85
+        },
+        {
           "timestamp": "2026-08-04T00:14:11.283Z",
           "delta": 44,
           "reason": "Tenure points",
-          "balance": 79
+          "balance": 129
         }
       ]
     },
@@ -19656,16 +19668,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-02-14",
-      "points_total": 801,
+      "points_total": 851,
       "points_spent": 600,
-      "points_available": 201,
+      "points_available": 251,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 199,
+        "missing_points": 149,
         "missing_months": 0,
         "can_claim": false
       },
@@ -19785,10 +19797,16 @@
           "balance": 30
         },
         {
+          "timestamp": "2026-08-04T00:19:47.003Z",
+          "delta": 50,
+          "reason": "3rd place in PVM Map Sweep event!",
+          "balance": 80
+        },
+        {
           "timestamp": "2026-08-04T00:14:11.283Z",
           "delta": 171,
           "reason": "Tenure points",
-          "balance": 201
+          "balance": 251
         }
       ]
     },
