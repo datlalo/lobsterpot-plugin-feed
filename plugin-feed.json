@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-04T20:17:40.575Z",
+  "generated_at": "2026-08-04T20:59:15.386Z",
   "broadcasts": [],
   "events": [
     {
@@ -6279,6 +6279,18 @@
           "balance": 18
         }
       ]
+    },
+    {
+      "rsn": "fe evermoree",
+      "rsn_key": "feevermoree",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-08-04",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
     },
     {
       "rsn": "ferrumdea",
@@ -17853,6 +17865,26 @@
       ]
     },
     {
+      "rsn": "snffr",
+      "rsn_key": "snffr",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-04",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "Solrosen",
       "rsn_key": "solrosen",
       "bot_rank": null,
@@ -18367,34 +18399,6 @@
           "delta": 60,
           "reason": "Tenure points",
           "balance": 110
-        }
-      ]
-    },
-    {
-      "rsn": "strong",
-      "rsn_key": "strong",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-08-01",
-      "points_total": 3,
-      "points_spent": 0,
-      "points_available": 3,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 97,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-04T00:14:11.283Z",
-          "delta": 3,
-          "reason": "Tenure points",
-          "balance": 3
         }
       ]
     },
@@ -19013,6 +19017,26 @@
           "balance": 214
         }
       ]
+    },
+    {
+      "rsn": "Thenuzza",
+      "rsn_key": "thenuzza",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-04",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "ThePanj",
