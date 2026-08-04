@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-08-04T00:23:59.823Z",
+  "generated_at": "2026-08-04T07:33:58.630Z",
   "broadcasts": [],
   "events": [
     {
-      "id": "1517638097402204272",
+      "id": "1534102062202355822",
       "type": "event",
-      "title": "Lobster Pot PVM Map Sweep",
-      "location": "Runescape",
-      "starts_at": "2026-07-28T15:00:00.000Z",
-      "ends_at": "2026-08-04T05:00:00.000Z",
+      "title": "Fishing SOTW",
+      "location": "in-game",
+      "starts_at": "2026-08-05T11:00:00.000Z",
+      "ends_at": "2026-08-12T11:00:00.000Z",
       "description": "",
-      "thread_id": "1517638097402204272"
+      "thread_id": "1534102062202355822"
     },
     {
       "id": "1533784639846617209",
