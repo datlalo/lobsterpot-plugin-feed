@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-04T00:20:57.767Z",
+  "generated_at": "2026-08-04T00:23:59.823Z",
   "broadcasts": [],
   "events": [
     {
@@ -3802,18 +3802,18 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-06-24",
-      "points_total": 81,
+      "points_total": 231,
       "points_spent": 0,
-      "points_available": 81,
+      "points_available": 231,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 19,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -3829,10 +3829,16 @@
           "balance": 40
         },
         {
+          "timestamp": "2026-08-04T00:21:57.403Z",
+          "delta": 150,
+          "reason": "1st place in PVM Map Sweep",
+          "balance": 190
+        },
+        {
           "timestamp": "2026-08-04T00:14:11.283Z",
           "delta": 41,
           "reason": "Tenure points",
-          "balance": 81
+          "balance": 231
         }
       ]
     },
@@ -11852,16 +11858,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-06-17",
-      "points_total": 223,
+      "points_total": 373,
       "points_spent": 100,
-      "points_available": 123,
+      "points_available": 273,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 77,
+        "missing_points": 0,
         "missing_months": 1,
         "can_claim": false
       },
@@ -11915,10 +11921,16 @@
           "balance": 75
         },
         {
+          "timestamp": "2026-08-04T00:21:57.403Z",
+          "delta": 150,
+          "reason": "1st place in PVM Map Sweep",
+          "balance": 225
+        },
+        {
           "timestamp": "2026-08-04T00:14:11.283Z",
           "delta": 48,
           "reason": "Tenure points",
-          "balance": 123
+          "balance": 273
         }
       ]
     },
@@ -13234,9 +13246,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-05",
-      "points_total": 165,
+      "points_total": 315,
       "points_spent": 0,
-      "points_available": 165,
+      "points_available": 315,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
@@ -13267,10 +13279,16 @@
           "balance": 135
         },
         {
+          "timestamp": "2026-08-04T00:21:57.402Z",
+          "delta": 150,
+          "reason": "1st place in PVM Map Sweep",
+          "balance": 285
+        },
+        {
           "timestamp": "2026-08-04T00:14:11.283Z",
           "delta": 30,
           "reason": "Tenure points",
-          "balance": 165
+          "balance": 315
         }
       ]
     },
