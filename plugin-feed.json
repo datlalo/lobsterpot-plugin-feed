@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-04T07:33:58.630Z",
+  "generated_at": "2026-08-04T09:59:15.120Z",
   "broadcasts": [],
   "events": [
     {
@@ -3005,6 +3005,18 @@
           "balance": 11
         }
       ]
+    },
+    {
+      "rsn": "BlTCOONEECT",
+      "rsn_key": "bltcooneect",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-08-04",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
     },
     {
       "rsn": "BlzdTim",
@@ -19225,6 +19237,26 @@
           "balance": 447
         }
       ]
+    },
+    {
+      "rsn": "Tyrannomisu",
+      "rsn_key": "tyrannomisu",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-04",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "uios",
