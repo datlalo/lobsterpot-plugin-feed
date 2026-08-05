@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-05T17:29:17.588Z",
+  "generated_at": "2026-08-05T17:44:17.504Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -1183,6 +1183,52 @@
           "delta": 183,
           "reason": "Tenure points",
           "balance": 388
+        }
+      ]
+    },
+    {
+      "rsn": "AltGengar",
+      "rsn_key": "altgengar",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-06-05",
+      "points_total": 111,
+      "points_spent": 0,
+      "points_available": 111,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-07-03T06:10:02.879Z",
+          "delta": 20,
+          "reason": "Slayer",
+          "balance": 20
+        },
+        {
+          "timestamp": "2026-07-08T19:06:16.569Z",
+          "delta": 10,
+          "reason": "Volcanic Mine Event",
+          "balance": 30
+        },
+        {
+          "timestamp": "2026-08-04T15:43:59.534Z",
+          "delta": 20,
+          "reason": "Thank you for participating in PVM Map Sweep event.",
+          "balance": 50
+        },
+        {
+          "timestamp": "2026-08-05T00:14:12.815Z",
+          "delta": 61,
+          "reason": "Tenure points",
+          "balance": 111
         }
       ]
     },
@@ -12243,52 +12289,6 @@
           "delta": 115,
           "reason": "Tenure points",
           "balance": 115
-        }
-      ]
-    },
-    {
-      "rsn": "MainGengar",
-      "rsn_key": "maingengar",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-06-05",
-      "points_total": 111,
-      "points_spent": 0,
-      "points_available": 111,
-      "months_in_clan": 2,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-07-03T06:10:02.879Z",
-          "delta": 20,
-          "reason": "Slayer",
-          "balance": 20
-        },
-        {
-          "timestamp": "2026-07-08T19:06:16.569Z",
-          "delta": 10,
-          "reason": "Volcanic Mine Event",
-          "balance": 30
-        },
-        {
-          "timestamp": "2026-08-04T15:43:59.534Z",
-          "delta": 20,
-          "reason": "Thank you for participating in PVM Map Sweep event.",
-          "balance": 50
-        },
-        {
-          "timestamp": "2026-08-05T00:14:12.815Z",
-          "delta": 61,
-          "reason": "Tenure points",
-          "balance": 111
         }
       ]
     },
