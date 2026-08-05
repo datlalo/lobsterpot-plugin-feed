@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-05T20:07:35.804Z",
+  "generated_at": "2026-08-05T20:10:38.513Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -47,7 +47,7 @@
       "name": "Fishing SOTW - Elite",
       "active": true,
       "points": 60,
-      "description": "1300k XP or Dragon Harpoon or Golden Tench",
+      "description": "1500k XP or Dragon Harpoon or Golden Tench",
       "expires_at": "2026-08-13T00:00:00.000Z"
     },
     {
