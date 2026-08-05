@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-05T21:35:43.962Z",
+  "generated_at": "2026-08-05T22:38:44.240Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -1561,7 +1561,7 @@
       "points_total": 684,
       "points_spent": 300,
       "points_available": 384,
-      "months_in_clan": 11,
+      "months_in_clan": 12,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -2063,7 +2063,7 @@
       "points_total": 272,
       "points_spent": 0,
       "points_available": 272,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -4401,7 +4401,7 @@
       "points_total": 91,
       "points_spent": 0,
       "points_available": 91,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -4615,7 +4615,7 @@
       "points_total": 91,
       "points_spent": 0,
       "points_available": 91,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -5653,7 +5653,7 @@
       "points_total": 422,
       "points_spent": 0,
       "points_available": 422,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -9131,7 +9131,7 @@
       "points_total": 503,
       "points_spent": 200,
       "points_available": 303,
-      "months_in_clan": 9,
+      "months_in_clan": 10,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -10191,7 +10191,7 @@
       "points_total": 91,
       "points_spent": 0,
       "points_available": 91,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -12544,14 +12544,14 @@
       "points_total": 30,
       "points_spent": 0,
       "points_available": 30,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 70,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -13393,6 +13393,15 @@
           "reason": "Tenure points",
           "balance": 126
         }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "47",
+          "name": "Fishing SOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-08-05T22:38:42.719Z"
+        }
       ]
     },
     {
@@ -13460,7 +13469,7 @@
       "points_total": 333,
       "points_spent": 300,
       "points_available": 33,
-      "months_in_clan": 10,
+      "months_in_clan": 11,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -13732,7 +13741,7 @@
       "points_total": 568,
       "points_spent": 300,
       "points_available": 268,
-      "months_in_clan": 10,
+      "months_in_clan": 11,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
