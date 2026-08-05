@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-05T16:34:04.275Z",
+  "generated_at": "2026-08-05T16:37:06.644Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -13762,32 +13762,38 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-30",
-      "points_total": 6,
+      "points_total": 21,
       "points_spent": 0,
-      "points_available": 6,
+      "points_available": 21,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 94,
+        "missing_points": 79,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
         {
+          "timestamp": "2026-08-05T16:34:52.090Z",
+          "delta": 15,
+          "reason": "Bounty: Fishing SOTW - Easy",
+          "balance": 15
+        },
+        {
           "timestamp": "2026-08-05T00:14:12.815Z",
           "delta": 6,
           "reason": "Tenure points",
-          "balance": 6
+          "balance": 21
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "47",
           "name": "Fishing SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-05T16:15:17.434Z"
         }
@@ -15065,26 +15071,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-02-03",
-      "points_total": 1098,
+      "points_total": 1113,
       "points_spent": 1050,
-      "points_available": 48,
+      "points_available": 63,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 452,
+        "missing_points": 437,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-17T17:40:12.967Z",
-          "delta": 40,
-          "reason": "Bounty reward: Hard Tier Bounty",
-          "balance": 145
-        },
         {
           "timestamp": "2026-02-19T01:10:11.747Z",
           "delta": 100,
@@ -15230,17 +15230,23 @@
           "balance": -135
         },
         {
+          "timestamp": "2026-08-05T16:34:41.212Z",
+          "delta": 15,
+          "reason": "Bounty: Fishing SOTW - Easy",
+          "balance": -120
+        },
+        {
           "timestamp": "2026-08-05T00:14:12.815Z",
           "delta": 183,
           "reason": "Tenure points",
-          "balance": 48
+          "balance": 63
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "47",
           "name": "Fishing SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-05T13:58:54.382Z"
         }
@@ -18058,16 +18064,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-22",
-      "points_total": 1042,
+      "points_total": 1057,
       "points_spent": 700,
-      "points_available": 342,
+      "points_available": 357,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 158,
+        "missing_points": 143,
         "missing_months": 0,
         "can_claim": false
       },
@@ -18193,10 +18199,16 @@
           "balance": 25
         },
         {
+          "timestamp": "2026-08-05T16:34:32.716Z",
+          "delta": 15,
+          "reason": "Bounty: Fishing SOTW - Easy",
+          "balance": 40
+        },
+        {
           "timestamp": "2026-08-05T00:14:12.815Z",
           "delta": 317,
           "reason": "Tenure points",
-          "balance": 342
+          "balance": 357
         }
       ],
       "pending_bounties": [
@@ -18210,7 +18222,7 @@
         {
           "bounty_id": "47",
           "name": "Fishing SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-05T13:31:34.347Z"
         }
@@ -20028,16 +20040,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-02-14",
-      "points_total": 872,
+      "points_total": 887,
       "points_spent": 600,
-      "points_available": 272,
+      "points_available": 287,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 128,
+        "missing_points": 113,
         "missing_months": 0,
         "can_claim": false
       },
@@ -20169,17 +20181,23 @@
           "balance": 100
         },
         {
+          "timestamp": "2026-08-05T16:34:47.241Z",
+          "delta": 15,
+          "reason": "Bounty: Fishing SOTW - Easy",
+          "balance": 115
+        },
+        {
           "timestamp": "2026-08-05T00:14:12.815Z",
           "delta": 172,
           "reason": "Tenure points",
-          "balance": 272
+          "balance": 287
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "47",
           "name": "Fishing SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-05T14:50:34.982Z"
         }
@@ -20817,32 +20835,38 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-10",
-      "points_total": 26,
+      "points_total": 41,
       "points_spent": 0,
-      "points_available": 26,
+      "points_available": 41,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 74,
+        "missing_points": 59,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
         {
+          "timestamp": "2026-08-05T16:34:15.302Z",
+          "delta": 15,
+          "reason": "Bounty: Fishing SOTW - Easy",
+          "balance": 15
+        },
+        {
           "timestamp": "2026-08-05T00:14:12.815Z",
           "delta": 26,
           "reason": "Tenure points",
-          "balance": 26
+          "balance": 41
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "47",
           "name": "Fishing SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-05T13:27:25.288Z"
         }
