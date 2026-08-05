@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-08-05T10:19:46.902Z",
-  "broadcasts": [],
+  "generated_at": "2026-08-05T11:36:02.210Z",
+  "broadcasts": [
+    {
+      "id": "7f236f23-2405-4f77-a44f-214f407aa574",
+      "title": "Fishing Skill of the Week",
+      "message": "Head to Tempoross right now or your clan leader will ban u",
+      "starts_at": "2026-08-05T11:00:00.000Z",
+      "expires_at": "2026-08-12T11:00:00.000Z",
+      "updated_at": "2026-08-03T07:58:13.205Z"
+    }
+  ],
   "events": [
     {
       "id": "1534102062202355822",
@@ -3068,20 +3077,46 @@
     {
       "rsn": "BlTCOONEECT",
       "rsn_key": "bltcooneect",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2026-08-04",
-      "points_total": 1,
-      "points_spent": 0,
-      "points_available": 1,
-      "months_in_clan": 0,
-      "next_rank": null,
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-04-29",
+      "points_total": 143,
+      "points_spent": 100,
+      "points_available": 43,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 157,
+        "missing_months": 0,
+        "can_claim": false
+      },
       "points_history": [
         {
-          "timestamp": "2026-08-05T00:14:12.815Z",
-          "delta": 1,
+          "timestamp": "2026-06-25T08:25:06.498Z",
+          "delta": 30,
+          "reason": "Recruit",
+          "balance": 30
+        },
+        {
+          "timestamp": "2026-07-07T17:24:09.087Z",
+          "delta": 15,
+          "reason": "Bounty: Farming - Easy",
+          "balance": 45
+        },
+        {
+          "timestamp": "2026-07-08T00:14:39.668Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -55
+        },
+        {
+          "timestamp": "2026-08-05T11:36:00.696Z",
+          "delta": 98,
           "reason": "Tenure points",
-          "balance": 1
+          "balance": 43
         }
       ]
     },
@@ -14126,7 +14161,7 @@
           "balance": -55
         },
         {
-          "timestamp": "2026-08-05T00:14:12.815Z",
+          "timestamp": "2026-08-05T11:36:00.696Z",
           "delta": 98,
           "reason": "Tenure points",
           "balance": 43
