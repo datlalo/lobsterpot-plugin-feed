@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-06T04:33:28.347Z",
+  "generated_at": "2026-08-06T04:40:05.276Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -1189,26 +1189,21 @@
     {
       "rsn": "AltGengar",
       "rsn_key": "altgengar",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-06-05",
       "points_total": 112,
-      "points_spent": 0,
-      "points_available": 112,
+      "points_spent": 100,
+      "points_available": 12,
       "months_in_clan": 2,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 188,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-08-06T04:33:26.182Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -1230,10 +1225,16 @@
           "balance": 50
         },
         {
+          "timestamp": "2026-08-06T04:40:03.758Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -50
+        },
+        {
           "timestamp": "2026-08-06T00:14:14.434Z",
           "delta": 62,
           "reason": "Tenure points",
-          "balance": 112
+          "balance": 12
         }
       ]
     },
@@ -18659,26 +18660,21 @@
     {
       "rsn": "StonedGengar",
       "rsn_key": "stonedgengar",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-06-05",
       "points_total": 112,
-      "points_spent": 0,
-      "points_available": 112,
+      "points_spent": 100,
+      "points_available": 12,
       "months_in_clan": 2,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 188,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-08-06T04:33:26.182Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -18700,10 +18696,16 @@
           "balance": 50
         },
         {
+          "timestamp": "2026-08-06T04:40:03.758Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -50
+        },
+        {
           "timestamp": "2026-08-06T00:14:14.434Z",
           "delta": 62,
           "reason": "Tenure points",
-          "balance": 112
+          "balance": 12
         }
       ]
     },
