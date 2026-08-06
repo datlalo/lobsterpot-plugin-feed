@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-06T22:44:39.205Z",
+  "generated_at": "2026-08-06T23:35:48.030Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -21245,6 +21245,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-08-06T20:31:58.997Z"
+        },
+        {
+          "bounty_id": "48",
+          "name": "Fishing SOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-08-06T23:35:46.510Z"
         }
       ]
     },
