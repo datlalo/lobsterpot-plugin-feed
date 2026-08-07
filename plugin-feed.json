@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-07T18:38:44.293Z",
+  "generated_at": "2026-08-07T18:41:46.555Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -11495,33 +11495,34 @@
     {
       "rsn": "KillianGrave",
       "rsn_key": "killiangrave",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-02-26",
       "points_total": 162,
-      "points_spent": 0,
-      "points_available": 162,
+      "points_spent": 100,
+      "points_available": 62,
       "months_in_clan": 5,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 138,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-08-07T18:38:42.183Z"
+        "can_claim": false
       },
       "points_history": [
+        {
+          "timestamp": "2026-08-07T18:39:11.664Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -100
+        },
         {
           "timestamp": "2026-08-07T00:14:16.039Z",
           "delta": 162,
           "reason": "Tenure points",
-          "balance": 162
+          "balance": 62
         }
       ]
     },
