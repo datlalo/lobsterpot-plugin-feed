@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-07T09:11:02.744Z",
+  "generated_at": "2026-08-07T10:14:20.286Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -2945,6 +2945,26 @@
           "balance": 57
         }
       ]
+    },
+    {
+      "rsn": "Ben Hollow",
+      "rsn_key": "benhollow",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-07",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "biffbcool",
@@ -9130,34 +9150,6 @@
       ]
     },
     {
-      "rsn": "Holloweenie",
-      "rsn_key": "holloweenie",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-07-24",
-      "points_total": 14,
-      "points_spent": 0,
-      "points_available": 14,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 86,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-07T00:14:16.039Z",
-          "delta": 14,
-          "reason": "Tenure points",
-          "balance": 14
-        }
-      ]
-    },
-    {
       "rsn": "hormuzraider",
       "rsn_key": "hormuzraider",
       "bot_rank": "Gnome",
@@ -13170,50 +13162,24 @@
       ]
     },
     {
-      "rsn": "moppe 2",
-      "rsn_key": "moppe2",
+      "rsn": "moppetti",
+      "rsn_key": "moppetti",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
-      "join_date": "2026-06-22",
-      "points_total": 96,
+      "join_date": "2026-08-07",
+      "points_total": 0,
       "points_spent": 0,
-      "points_available": 96,
-      "months_in_clan": 1,
+      "points_available": 0,
+      "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 4,
-        "missing_months": 0,
+        "missing_points": 100,
+        "missing_months": 1,
         "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-07-01T21:53:48.954Z",
-          "delta": 10,
-          "reason": "recruited I Pontso I",
-          "balance": 10
-        },
-        {
-          "timestamp": "2026-07-02T08:48:02.830Z",
-          "delta": 20,
-          "reason": "Recruit",
-          "balance": 30
-        },
-        {
-          "timestamp": "2026-07-17T22:54:15.986Z",
-          "delta": 20,
-          "reason": "callisto mass",
-          "balance": 50
-        },
-        {
-          "timestamp": "2026-08-07T00:14:16.039Z",
-          "delta": 46,
-          "reason": "Tenure points",
-          "balance": 96
-        }
-      ]
+      }
     },
     {
       "rsn": "MrA2G",
@@ -17243,6 +17209,26 @@
           "balance": 187
         }
       ]
+    },
+    {
+      "rsn": "ScrappyGainz",
+      "rsn_key": "scrappygainz",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-07",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "seaizzme",
