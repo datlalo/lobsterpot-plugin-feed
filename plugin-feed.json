@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-07T20:19:00.977Z",
+  "generated_at": "2026-08-07T20:23:40.978Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -18517,16 +18517,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-08-21",
-      "points_total": 471,
+      "points_total": 486,
       "points_spent": 300,
-      "points_available": 171,
+      "points_available": 186,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 229,
+        "missing_points": 214,
         "missing_months": 0,
         "can_claim": false
       },
@@ -18562,17 +18562,23 @@
           "balance": -180
         },
         {
+          "timestamp": "2026-08-07T20:23:39.462Z",
+          "delta": 15,
+          "reason": "Bounty: Fishing SOTW - Easy",
+          "balance": -165
+        },
+        {
           "timestamp": "2026-08-07T00:14:16.039Z",
           "delta": 351,
           "reason": "Tenure points",
-          "balance": 171
+          "balance": 186
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "47",
           "name": "Fishing SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-07T19:39:05.743Z"
         }
