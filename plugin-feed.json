@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-08T13:15:59.034Z",
+  "generated_at": "2026-08-08T14:34:43.205Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -18057,6 +18057,15 @@
           "delta": 167,
           "reason": "Tenure points",
           "balance": 172
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "47",
+          "name": "Fishing SOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-08-08T14:34:41.685Z"
         }
       ]
     },
