@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-08T05:58:57.035Z",
+  "generated_at": "2026-08-08T12:40:33.110Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -9276,16 +9276,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-03-16",
-      "points_total": 790,
+      "points_total": 820,
       "points_spent": 600,
-      "points_available": 190,
+      "points_available": 220,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 210,
+        "missing_points": 180,
         "missing_months": 1,
         "can_claim": false
       },
@@ -9417,17 +9417,23 @@
           "balance": 45
         },
         {
+          "timestamp": "2026-08-08T12:40:31.597Z",
+          "delta": 30,
+          "reason": "Bounty: Fishing SOTW - Medium",
+          "balance": 75
+        },
+        {
           "timestamp": "2026-08-08T00:14:17.627Z",
           "delta": 145,
           "reason": "Tenure points",
-          "balance": 190
+          "balance": 220
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "48",
           "name": "Fishing SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-08T04:38:02.030Z"
         }
@@ -19428,16 +19434,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-03-16",
-      "points_total": 790,
+      "points_total": 820,
       "points_spent": 600,
-      "points_available": 190,
+      "points_available": 220,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 210,
+        "missing_points": 180,
         "missing_months": 1,
         "can_claim": false
       },
@@ -19569,17 +19575,23 @@
           "balance": 45
         },
         {
+          "timestamp": "2026-08-08T12:40:31.597Z",
+          "delta": 30,
+          "reason": "Bounty: Fishing SOTW - Medium",
+          "balance": 75
+        },
+        {
           "timestamp": "2026-08-08T00:14:17.627Z",
           "delta": 145,
           "reason": "Tenure points",
-          "balance": 190
+          "balance": 220
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "48",
           "name": "Fishing SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-08T04:38:02.030Z"
         }
