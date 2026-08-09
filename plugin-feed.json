@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-09T03:44:29.176Z",
+  "generated_at": "2026-08-09T04:00:08.892Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -18753,16 +18753,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-05-17",
-      "points_total": 104,
+      "points_total": 119,
       "points_spent": 100,
-      "points_available": 4,
+      "points_available": 19,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 196,
+        "missing_points": 181,
         "missing_months": 0,
         "can_claim": false
       },
@@ -18780,17 +18780,23 @@
           "balance": -80
         },
         {
+          "timestamp": "2026-08-09T04:00:07.378Z",
+          "delta": 15,
+          "reason": "Bounty: Fishing SOTW - Easy",
+          "balance": -65
+        },
+        {
           "timestamp": "2026-08-09T00:14:19.207Z",
           "delta": 84,
           "reason": "Tenure points",
-          "balance": 4
+          "balance": 19
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "47",
           "name": "Fishing SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-09T03:17:16.744Z"
         },
