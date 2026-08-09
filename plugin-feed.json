@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-09T22:44:26.639Z",
+  "generated_at": "2026-08-09T23:04:08.316Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -6498,6 +6498,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-08-07T09:11:01.233Z"
+        },
+        {
+          "bounty_id": "50",
+          "name": "Fishing SOTW - Elite",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-08-09T23:04:06.790Z"
         }
       ]
     },
