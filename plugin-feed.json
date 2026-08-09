@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-09T16:41:02.469Z",
+  "generated_at": "2026-08-09T16:53:15.733Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -1423,9 +1423,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-12-24",
-      "points_total": 1233,
+      "points_total": 1238,
       "points_spent": 610,
-      "points_available": 623,
+      "points_available": 628,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Diamond",
@@ -1437,12 +1437,6 @@
         "can_claim": true
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-19T01:09:48.471Z",
-          "delta": 60,
-          "reason": "Bounty reward: Elite Tier Bounty",
-          "balance": 160
-        },
         {
           "timestamp": "2026-02-20T15:36:41.858Z",
           "delta": 75,
@@ -1588,10 +1582,16 @@
           "balance": 395
         },
         {
+          "timestamp": "2026-08-09T16:53:14.220Z",
+          "delta": 5,
+          "reason": "50kc scurrius sunday",
+          "balance": 400
+        },
+        {
           "timestamp": "2026-08-09T00:14:19.207Z",
           "delta": 228,
           "reason": "Tenure points",
-          "balance": 623
+          "balance": 628
         }
       ]
     },
@@ -3777,16 +3777,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-03-20 22:12:14.780985+00",
-      "points_total": 592,
+      "points_total": 597,
       "points_spent": 300,
-      "points_available": 292,
+      "points_available": 297,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 8,
+        "missing_points": 3,
         "missing_months": 0,
         "can_claim": false
       },
@@ -3900,10 +3900,16 @@
           "balance": 150
         },
         {
+          "timestamp": "2026-08-09T16:53:14.222Z",
+          "delta": 5,
+          "reason": "50kc scurrius sunday",
+          "balance": 155
+        },
+        {
           "timestamp": "2026-08-09T00:14:19.207Z",
           "delta": 142,
           "reason": "Tenure points",
-          "balance": 292
+          "balance": 297
         }
       ],
       "pending_bounties": [
@@ -11876,9 +11882,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-08-27",
-      "points_total": 807,
+      "points_total": 812,
       "points_spent": 300,
-      "points_available": 507,
+      "points_available": 512,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Diamond",
@@ -11951,10 +11957,16 @@
           "balance": 160
         },
         {
+          "timestamp": "2026-08-09T16:53:14.222Z",
+          "delta": 5,
+          "reason": "50kc scurrius sunday",
+          "balance": 165
+        },
+        {
           "timestamp": "2026-08-09T00:14:19.207Z",
           "delta": 347,
           "reason": "Tenure points",
-          "balance": 507
+          "balance": 512
         }
       ]
     },
@@ -12660,9 +12672,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-03-09 21:33:40.503581+00",
-      "points_total": 193,
+      "points_total": 198,
       "points_spent": 0,
-      "points_available": 193,
+      "points_available": 198,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Sapphire",
@@ -12687,10 +12699,16 @@
           "balance": 40
         },
         {
+          "timestamp": "2026-08-09T16:53:14.221Z",
+          "delta": 5,
+          "reason": "50kc scurrius sunday",
+          "balance": 45
+        },
+        {
           "timestamp": "2026-08-09T00:14:19.207Z",
           "delta": 153,
           "reason": "Tenure points",
-          "balance": 193
+          "balance": 198
         }
       ]
     },
@@ -14250,9 +14268,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-05",
-      "points_total": 320,
+      "points_total": 325,
       "points_spent": 0,
-      "points_available": 320,
+      "points_available": 325,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
@@ -14289,10 +14307,16 @@
           "balance": 285
         },
         {
+          "timestamp": "2026-08-09T16:53:14.222Z",
+          "delta": 5,
+          "reason": "50kc scurrius sunday",
+          "balance": 290
+        },
+        {
           "timestamp": "2026-08-09T00:14:19.207Z",
           "delta": 35,
           "reason": "Tenure points",
-          "balance": 320
+          "balance": 325
         }
       ]
     },
@@ -18627,9 +18651,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-08-27",
-      "points_total": 807,
+      "points_total": 812,
       "points_spent": 300,
-      "points_available": 507,
+      "points_available": 512,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Diamond",
@@ -18702,10 +18726,16 @@
           "balance": 160
         },
         {
+          "timestamp": "2026-08-09T16:53:14.222Z",
+          "delta": 5,
+          "reason": "50kc scurrius sunday",
+          "balance": 165
+        },
+        {
           "timestamp": "2026-08-09T00:14:19.207Z",
           "delta": 347,
           "reason": "Tenure points",
-          "balance": 507
+          "balance": 512
         }
       ]
     },
@@ -21997,9 +22027,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-24",
-      "points_total": 106,
+      "points_total": 111,
       "points_spent": 0,
-      "points_available": 106,
+      "points_available": 111,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
@@ -22030,10 +22060,16 @@
           "balance": 90
         },
         {
+          "timestamp": "2026-08-09T16:53:14.221Z",
+          "delta": 5,
+          "reason": "50kc scurrius sunday",
+          "balance": 95
+        },
+        {
           "timestamp": "2026-08-09T00:14:19.207Z",
           "delta": 16,
           "reason": "Tenure points",
-          "balance": 106
+          "balance": 111
         }
       ],
       "pending_bounties": [
