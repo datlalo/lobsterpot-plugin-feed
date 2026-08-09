@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-09T18:50:04.072Z",
+  "generated_at": "2026-08-09T21:08:31.925Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -15225,22 +15225,114 @@
     {
       "rsn": "oLAURENo",
       "rsn_key": "olaureno",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-08-09",
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2026-02-26",
+      "points_total": 509,
+      "points_spent": 300,
+      "points_available": 209,
+      "months_in_clan": 5,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 100,
-        "missing_months": 1,
+        "missing_points": 91,
+        "missing_months": 0,
         "can_claim": false
-      }
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-03-22T19:06:32.694Z",
+          "delta": 15,
+          "reason": "Bounty reward: Easy Tier - Woodcutting",
+          "balance": 15
+        },
+        {
+          "timestamp": "2026-03-22T19:06:34.177Z",
+          "delta": 30,
+          "reason": "Bounty reward: Medium Tier - Woodcutting",
+          "balance": 45
+        },
+        {
+          "timestamp": "2026-03-22T19:06:36.055Z",
+          "delta": 40,
+          "reason": "Bounty reward: Hard Tier - Woodcutting",
+          "balance": 85
+        },
+        {
+          "timestamp": "2026-03-22T19:06:37.091Z",
+          "delta": 60,
+          "reason": "Bounty reward: Elite Tier - Woodcutting",
+          "balance": 145
+        },
+        {
+          "timestamp": "2026-03-22T19:10:11.274Z",
+          "delta": 0,
+          "reason": "Account change: Change Join Date to \"2026-02-26\"",
+          "balance": 145
+        },
+        {
+          "timestamp": "2026-03-26T07:37:03.595Z",
+          "delta": -100,
+          "reason": "Rank upgraded to: Sapphire",
+          "balance": 45
+        },
+        {
+          "timestamp": "2026-04-08T14:46:22.607Z",
+          "delta": 15,
+          "reason": "Bounty reward: Easy Tier - Giant Mole",
+          "balance": 60
+        },
+        {
+          "timestamp": "2026-04-08T14:46:23.427Z",
+          "delta": 30,
+          "reason": "Bounty reward: Medium Tier - Giant Mole",
+          "balance": 90
+        },
+        {
+          "timestamp": "2026-04-08T14:46:24.073Z",
+          "delta": 40,
+          "reason": "Bounty reward: Hard Tier - Giant Mole",
+          "balance": 130
+        },
+        {
+          "timestamp": "2026-04-08T14:46:25.474Z",
+          "delta": 60,
+          "reason": "Bounty reward: Elite Tier - Giant Mole",
+          "balance": 190
+        },
+        {
+          "timestamp": "2026-04-13T11:07:45.632Z",
+          "delta": 30,
+          "reason": "BOTM 4th-6th place",
+          "balance": 220
+        },
+        {
+          "timestamp": "2026-04-14T20:06:12.624Z",
+          "delta": 25,
+          "reason": "Discord adjustment",
+          "balance": 245
+        },
+        {
+          "timestamp": "2026-04-22T06:38:56.666Z",
+          "delta": 0,
+          "reason": "Claimed additional RSN: Rakahz",
+          "balance": 245
+        },
+        {
+          "timestamp": "2026-04-27T07:54:08.805Z",
+          "delta": -200,
+          "reason": "Rank upgraded to: Emerald",
+          "balance": 45
+        },
+        {
+          "timestamp": "2026-08-09T00:14:19.207Z",
+          "delta": 164,
+          "reason": "Tenure points",
+          "balance": 209
+        }
+      ]
     },
     {
       "rsn": "Ol ivia",
