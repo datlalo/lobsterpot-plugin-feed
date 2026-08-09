@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-09T16:53:15.733Z",
+  "generated_at": "2026-08-09T16:56:17.890Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -532,9 +532,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 2611,
+      "points_total": 2621,
       "points_spent": 1230,
-      "points_available": 1381,
+      "points_available": 1391,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
@@ -546,12 +546,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-05-25T06:47:53.990Z",
-          "delta": -500,
-          "reason": "Rank upgraded to: Dragonstone",
-          "balance": 210
-        },
         {
           "timestamp": "2026-06-03T06:54:32.212Z",
           "delta": 10,
@@ -697,10 +691,16 @@
           "balance": 1063
         },
         {
+          "timestamp": "2026-08-09T16:55:33.561Z",
+          "delta": 10,
+          "reason": "100kc scurrius sunday",
+          "balance": 1073
+        },
+        {
           "timestamp": "2026-08-09T00:14:19.207Z",
           "delta": 318,
           "reason": "Tenure points",
-          "balance": 1381
+          "balance": 1391
         }
       ],
       "pending_bounties": [
@@ -796,9 +796,9 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-11-24",
-      "points_total": 1488,
+      "points_total": 1498,
       "points_spent": 900,
-      "points_available": 588,
+      "points_available": 598,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Dragonstone",
@@ -955,10 +955,16 @@
           "balance": 330
         },
         {
+          "timestamp": "2026-08-09T16:55:33.561Z",
+          "delta": 10,
+          "reason": "100kc scurrius sunday",
+          "balance": 340
+        },
+        {
           "timestamp": "2026-08-09T00:14:19.207Z",
           "delta": 258,
           "reason": "Tenure points",
-          "balance": 588
+          "balance": 598
         }
       ]
     },
@@ -4224,9 +4230,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-06-24",
-      "points_total": 236,
+      "points_total": 246,
       "points_spent": 0,
-      "points_available": 236,
+      "points_available": 246,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
@@ -4257,10 +4263,16 @@
           "balance": 190
         },
         {
+          "timestamp": "2026-08-09T16:55:33.560Z",
+          "delta": 10,
+          "reason": "100kc scurrius sunday",
+          "balance": 200
+        },
+        {
           "timestamp": "2026-08-09T00:14:19.207Z",
           "delta": 46,
           "reason": "Tenure points",
-          "balance": 236
+          "balance": 246
         }
       ]
     },
@@ -12086,9 +12098,9 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-11-24",
-      "points_total": 1488,
+      "points_total": 1498,
       "points_spent": 900,
-      "points_available": 588,
+      "points_available": 598,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Dragonstone",
@@ -12245,10 +12257,16 @@
           "balance": 330
         },
         {
+          "timestamp": "2026-08-09T16:55:33.561Z",
+          "delta": 10,
+          "reason": "100kc scurrius sunday",
+          "balance": 340
+        },
+        {
           "timestamp": "2026-08-09T00:14:19.207Z",
           "delta": 258,
           "reason": "Tenure points",
-          "balance": 588
+          "balance": 598
         }
       ]
     },
@@ -13360,9 +13378,9 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2025-11-26",
-      "points_total": 779,
+      "points_total": 789,
       "points_spent": 200,
-      "points_available": 579,
+      "points_available": 589,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Ruby",
@@ -13423,10 +13441,16 @@
           "balance": 323
         },
         {
+          "timestamp": "2026-08-09T16:55:33.561Z",
+          "delta": 10,
+          "reason": "100kc scurrius sunday",
+          "balance": 333
+        },
+        {
           "timestamp": "2026-08-09T00:14:19.207Z",
           "delta": 256,
           "reason": "Tenure points",
-          "balance": 579
+          "balance": 589
         }
       ]
     },
@@ -15827,9 +15851,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 2611,
+      "points_total": 2621,
       "points_spent": 1230,
-      "points_available": 1381,
+      "points_available": 1391,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
@@ -15841,12 +15865,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-05-25T06:47:53.990Z",
-          "delta": -500,
-          "reason": "Rank upgraded to: Dragonstone",
-          "balance": 210
-        },
         {
           "timestamp": "2026-06-03T06:54:32.212Z",
           "delta": 10,
@@ -15992,10 +16010,16 @@
           "balance": 1063
         },
         {
+          "timestamp": "2026-08-09T16:55:33.561Z",
+          "delta": 10,
+          "reason": "100kc scurrius sunday",
+          "balance": 1073
+        },
+        {
           "timestamp": "2026-08-09T00:14:19.207Z",
           "delta": 318,
           "reason": "Tenure points",
-          "balance": 1381
+          "balance": 1391
         }
       ],
       "pending_bounties": [
