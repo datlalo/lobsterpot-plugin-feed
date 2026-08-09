@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-09T21:57:56.410Z",
+  "generated_at": "2026-08-09T22:44:26.639Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -2188,6 +2188,18 @@
       ]
     },
     {
+      "rsn": "Atlas_Rise",
+      "rsn_key": "atlasrise",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-08-09",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
+    },
+    {
       "rsn": "atrealz",
       "rsn_key": "atrealz",
       "bot_rank": "Ruby",
@@ -2406,7 +2418,7 @@
       "points_total": 136,
       "points_spent": 0,
       "points_available": 136,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -4939,14 +4951,14 @@
       "points_total": 50,
       "points_spent": 0,
       "points_available": 50,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 50,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -5543,7 +5555,7 @@
       "points_total": 342,
       "points_spent": 200,
       "points_available": 142,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -8126,14 +8138,14 @@
       "points_total": 30,
       "points_spent": 0,
       "points_available": 30,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 70,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -10747,15 +10759,15 @@
       "points_total": 160,
       "points_spent": 0,
       "points_available": 160,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 0,
-        "missing_months": 1,
-        "can_claim": false
+        "missing_months": 0,
+        "can_claim": true
       },
       "points_history": [
         {
@@ -12086,14 +12098,14 @@
       "points_total": 30,
       "points_spent": 0,
       "points_available": 30,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 70,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -21274,6 +21286,26 @@
       ]
     },
     {
+      "rsn": "Underdog",
+      "rsn_key": "underdog",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-09",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "Use Kebab",
       "rsn_key": "usekebab",
       "bot_rank": "Gnome",
@@ -21743,6 +21775,26 @@
           "balance": 297
         }
       ]
+    },
+    {
+      "rsn": "WeavileSlaps",
+      "rsn_key": "weavileslaps",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-09",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "weebles92",
@@ -22360,15 +22412,15 @@
       "points_total": 120,
       "points_spent": 0,
       "points_available": 120,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 0,
-        "missing_months": 1,
-        "can_claim": false
+        "missing_months": 0,
+        "can_claim": true
       },
       "points_history": [
         {
@@ -22419,6 +22471,18 @@
           "created_at": "2026-08-06T17:17:49.035Z"
         }
       ]
+    },
+    {
+      "rsn": "Wuts Updog",
+      "rsn_key": "wutsupdog",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-08-09",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
     },
     {
       "rsn": "xBinks",
@@ -22523,7 +22587,7 @@
       "points_total": 126,
       "points_spent": 0,
       "points_available": 126,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
