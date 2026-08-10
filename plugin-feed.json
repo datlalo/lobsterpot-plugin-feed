@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-10T16:48:08.870Z",
+  "generated_at": "2026-08-10T16:58:09.360Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -405,22 +405,14 @@
     {
       "rsn": "87134",
       "rsn_key": "87134",
-      "bot_rank": null,
-      "progression_rank": null,
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
       "join_date": "2025-08-01",
       "points_total": 374,
       "points_spent": 0,
       "points_available": 374,
       "months_in_clan": 12,
-      "next_rank": {
-        "name": "Gnome",
-        "point_cost": 0,
-        "min_months": 0,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
+      "next_rank": null,
       "points_history": [
         {
           "timestamp": "2026-08-10T00:14:20.800Z",
@@ -3081,22 +3073,14 @@
     {
       "rsn": "b bub",
       "rsn_key": "bbub",
-      "bot_rank": null,
-      "progression_rank": null,
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
       "join_date": "2025-08-01",
       "points_total": 374,
       "points_spent": 0,
       "points_available": 374,
       "months_in_clan": 12,
-      "next_rank": {
-        "name": "Gnome",
-        "point_cost": 0,
-        "min_months": 0,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
+      "next_rank": null,
       "points_history": [
         {
           "timestamp": "2026-08-10T00:14:20.800Z",
@@ -9121,22 +9105,14 @@
     {
       "rsn": "groupskilled",
       "rsn_key": "groupskilled",
-      "bot_rank": null,
-      "progression_rank": null,
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
       "join_date": "2024-10-01",
       "points_total": 678,
       "points_spent": 0,
       "points_available": 678,
       "months_in_clan": 22,
-      "next_rank": {
-        "name": "Gnome",
-        "point_cost": 0,
-        "min_months": 0,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
+      "next_rank": null,
       "points_history": [
         {
           "timestamp": "2026-08-10T00:14:20.800Z",
@@ -17446,22 +17422,14 @@
     {
       "rsn": "Relye",
       "rsn_key": "relye",
-      "bot_rank": null,
-      "progression_rank": null,
+      "bot_rank": "Founder",
+      "progression_rank": "Founder",
       "join_date": "2024-10-26",
       "points_total": 928,
       "points_spent": 500,
       "points_available": 428,
       "months_in_clan": 21,
-      "next_rank": {
-        "name": "Gnome",
-        "point_cost": 0,
-        "min_months": 0,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
+      "next_rank": null,
       "points_history": [
         {
           "timestamp": "2026-01-13T00:11:14.989Z",
@@ -17960,22 +17928,14 @@
     {
       "rsn": "Saint Divahn",
       "rsn_key": "saintdivahn",
-      "bot_rank": null,
-      "progression_rank": null,
+      "bot_rank": "Founder",
+      "progression_rank": "Founder",
       "join_date": "2025-12-07 18:36:19.326276+00",
       "points_total": 496,
       "points_spent": 0,
       "points_available": 496,
       "months_in_clan": 8,
-      "next_rank": {
-        "name": "Gnome",
-        "point_cost": 0,
-        "min_months": 0,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
+      "next_rank": null,
       "points_history": [
         {
           "timestamp": "2026-01-31T12:49:41.484Z",
@@ -20765,22 +20725,14 @@
     {
       "rsn": "Teorik",
       "rsn_key": "teorik",
-      "bot_rank": null,
-      "progression_rank": null,
+      "bot_rank": "Founder",
+      "progression_rank": "Founder",
       "join_date": "2024-10-26",
       "points_total": 928,
       "points_spent": 500,
       "points_available": 428,
       "months_in_clan": 21,
-      "next_rank": {
-        "name": "Gnome",
-        "point_cost": 0,
-        "min_months": 0,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
+      "next_rank": null,
       "points_history": [
         {
           "timestamp": "2026-01-13T00:11:14.989Z",
@@ -23212,22 +23164,14 @@
     {
       "rsn": "zeroskilled",
       "rsn_key": "zeroskilled",
-      "bot_rank": null,
-      "progression_rank": null,
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
       "join_date": "2024-10-01",
       "points_total": 678,
       "points_spent": 0,
       "points_available": 678,
       "months_in_clan": 22,
-      "next_rank": {
-        "name": "Gnome",
-        "point_cost": 0,
-        "min_months": 0,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
+      "next_rank": null,
       "points_history": [
         {
           "timestamp": "2026-08-10T00:14:20.800Z",
