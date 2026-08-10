@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-10T16:58:09.360Z",
+  "generated_at": "2026-08-10T17:58:09.683Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -8141,34 +8141,6 @@
           "delta": 147,
           "reason": "Tenure points",
           "balance": 192
-        }
-      ]
-    },
-    {
-      "rsn": "Franticallis",
-      "rsn_key": "franticallis",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-02-13",
-      "points_total": 178,
-      "points_spent": 0,
-      "points_available": 178,
-      "months_in_clan": 5,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-10T00:14:20.800Z",
-          "delta": 178,
-          "reason": "Tenure points",
-          "balance": 178
         }
       ]
     },
