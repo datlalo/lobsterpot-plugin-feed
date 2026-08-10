@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-10T12:07:04.613Z",
+  "generated_at": "2026-08-10T12:10:06.672Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -1109,7 +1109,7 @@
           "balance": 45
         },
         {
-          "timestamp": "2026-08-10T00:14:20.800Z",
+          "timestamp": "2026-08-10T12:08:35.323Z",
           "delta": 165,
           "reason": "Tenure points",
           "balance": 210
@@ -2198,20 +2198,112 @@
     {
       "rsn": "Atlas_Rise",
       "rsn_key": "atlasrise",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2026-08-09",
-      "points_total": 1,
-      "points_spent": 0,
-      "points_available": 1,
-      "months_in_clan": 0,
-      "next_rank": null,
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2026-02-26",
+      "points_total": 510,
+      "points_spent": 300,
+      "points_available": 210,
+      "months_in_clan": 5,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 90,
+        "missing_months": 0,
+        "can_claim": false
+      },
       "points_history": [
         {
-          "timestamp": "2026-08-10T00:14:20.800Z",
-          "delta": 1,
+          "timestamp": "2026-03-22T19:06:32.694Z",
+          "delta": 15,
+          "reason": "Bounty reward: Easy Tier - Woodcutting",
+          "balance": 15
+        },
+        {
+          "timestamp": "2026-03-22T19:06:34.177Z",
+          "delta": 30,
+          "reason": "Bounty reward: Medium Tier - Woodcutting",
+          "balance": 45
+        },
+        {
+          "timestamp": "2026-03-22T19:06:36.055Z",
+          "delta": 40,
+          "reason": "Bounty reward: Hard Tier - Woodcutting",
+          "balance": 85
+        },
+        {
+          "timestamp": "2026-03-22T19:06:37.091Z",
+          "delta": 60,
+          "reason": "Bounty reward: Elite Tier - Woodcutting",
+          "balance": 145
+        },
+        {
+          "timestamp": "2026-03-22T19:10:11.274Z",
+          "delta": 0,
+          "reason": "Account change: Change Join Date to \"2026-02-26\"",
+          "balance": 145
+        },
+        {
+          "timestamp": "2026-03-26T07:37:03.595Z",
+          "delta": -100,
+          "reason": "Rank upgraded to: Sapphire",
+          "balance": 45
+        },
+        {
+          "timestamp": "2026-04-08T14:46:22.607Z",
+          "delta": 15,
+          "reason": "Bounty reward: Easy Tier - Giant Mole",
+          "balance": 60
+        },
+        {
+          "timestamp": "2026-04-08T14:46:23.427Z",
+          "delta": 30,
+          "reason": "Bounty reward: Medium Tier - Giant Mole",
+          "balance": 90
+        },
+        {
+          "timestamp": "2026-04-08T14:46:24.073Z",
+          "delta": 40,
+          "reason": "Bounty reward: Hard Tier - Giant Mole",
+          "balance": 130
+        },
+        {
+          "timestamp": "2026-04-08T14:46:25.474Z",
+          "delta": 60,
+          "reason": "Bounty reward: Elite Tier - Giant Mole",
+          "balance": 190
+        },
+        {
+          "timestamp": "2026-04-13T11:07:45.632Z",
+          "delta": 30,
+          "reason": "BOTM 4th-6th place",
+          "balance": 220
+        },
+        {
+          "timestamp": "2026-04-14T20:06:12.624Z",
+          "delta": 25,
+          "reason": "Discord adjustment",
+          "balance": 245
+        },
+        {
+          "timestamp": "2026-04-22T06:38:56.666Z",
+          "delta": 0,
+          "reason": "Claimed additional RSN: Rakahz",
+          "balance": 245
+        },
+        {
+          "timestamp": "2026-04-27T07:54:08.805Z",
+          "delta": -200,
+          "reason": "Rank upgraded to: Emerald",
+          "balance": 45
+        },
+        {
+          "timestamp": "2026-08-10T12:08:35.323Z",
+          "delta": 165,
           "reason": "Tenure points",
-          "balance": 1
+          "balance": 210
         }
       ]
     },
@@ -2221,16 +2313,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-11-30",
-      "points_total": 853,
+      "points_total": 898,
       "points_spent": 500,
-      "points_available": 353,
+      "points_available": 398,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 47,
+        "missing_points": 2,
         "missing_months": 0,
         "can_claim": false
       },
@@ -2374,10 +2466,16 @@
           "balance": 100
         },
         {
+          "timestamp": "2026-08-10T12:07:51.945Z",
+          "delta": 45,
+          "reason": "Bounty: Fishing SOTW - Hard",
+          "balance": 145
+        },
+        {
           "timestamp": "2026-08-10T00:14:20.800Z",
           "delta": 253,
           "reason": "Tenure points",
-          "balance": 353
+          "balance": 398
         }
       ],
       "pending_bounties": [
@@ -2398,7 +2496,7 @@
         {
           "bounty_id": "49",
           "name": "Fishing SOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-10T10:34:01.290Z"
         }
@@ -3826,18 +3924,18 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-03-20 22:12:14.780985+00",
-      "points_total": 598,
+      "points_total": 658,
       "points_spent": 300,
-      "points_available": 298,
+      "points_available": 358,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 2,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -3955,10 +4053,16 @@
           "balance": 155
         },
         {
+          "timestamp": "2026-08-10T12:07:21.572Z",
+          "delta": 60,
+          "reason": "Bounty: Fishing SOTW - Elite",
+          "balance": 215
+        },
+        {
           "timestamp": "2026-08-10T00:14:20.800Z",
           "delta": 143,
           "reason": "Tenure points",
-          "balance": 298
+          "balance": 358
         }
       ],
       "pending_bounties": [
@@ -3986,7 +4090,7 @@
         {
           "bounty_id": "50",
           "name": "Fishing SOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-10T09:24:16.961Z"
         }
@@ -6428,9 +6532,9 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-05-17 14:00:07.458542+00",
-      "points_total": 560,
+      "points_total": 620,
       "points_spent": 200,
-      "points_available": 360,
+      "points_available": 420,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Ruby",
@@ -6509,10 +6613,16 @@
           "balance": 275
         },
         {
+          "timestamp": "2026-08-10T12:07:10.176Z",
+          "delta": 60,
+          "reason": "Bounty: Fishing SOTW - Elite",
+          "balance": 335
+        },
+        {
           "timestamp": "2026-08-10T00:14:20.800Z",
           "delta": 85,
           "reason": "Tenure points",
-          "balance": 360
+          "balance": 420
         }
       ],
       "pending_bounties": [
@@ -6540,7 +6650,7 @@
         {
           "bounty_id": "50",
           "name": "Fishing SOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-09T23:04:06.790Z"
         }
@@ -9164,16 +9274,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-05-05",
-      "points_total": 382,
+      "points_total": 427,
       "points_spent": 200,
-      "points_available": 182,
+      "points_available": 227,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 118,
+        "missing_points": 73,
         "missing_months": 0,
         "can_claim": false
       },
@@ -9227,10 +9337,16 @@
           "balance": 85
         },
         {
+          "timestamp": "2026-08-10T12:07:30.365Z",
+          "delta": 45,
+          "reason": "Bounty: Fishing SOTW - Hard",
+          "balance": 130
+        },
+        {
           "timestamp": "2026-08-10T00:14:20.800Z",
           "delta": 97,
           "reason": "Tenure points",
-          "balance": 182
+          "balance": 227
         }
       ],
       "pending_bounties": [
@@ -9251,7 +9367,7 @@
         {
           "bounty_id": "49",
           "name": "Fishing SOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-10T09:34:46.001Z"
         }
@@ -15443,7 +15559,7 @@
           "balance": 45
         },
         {
-          "timestamp": "2026-08-10T00:14:20.800Z",
+          "timestamp": "2026-08-10T12:08:35.323Z",
           "delta": 165,
           "reason": "Tenure points",
           "balance": 210
@@ -15810,9 +15926,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-12",
-      "points_total": 2082,
+      "points_total": 2112,
       "points_spent": 1270,
-      "points_available": 812,
+      "points_available": 842,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
@@ -15824,12 +15940,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-14T20:07:29.528Z",
-          "delta": 35,
-          "reason": "Discord adjustment",
-          "balance": 35
-        },
         {
           "timestamp": "2026-04-16T06:33:56.807Z",
           "delta": 5,
@@ -15975,10 +16085,16 @@
           "balance": 480
         },
         {
+          "timestamp": "2026-08-10T12:07:17.381Z",
+          "delta": 30,
+          "reason": "Bounty: Fishing SOTW - Medium",
+          "balance": 510
+        },
+        {
           "timestamp": "2026-08-10T00:14:20.800Z",
           "delta": 332,
           "reason": "Tenure points",
-          "balance": 812
+          "balance": 842
         }
       ],
       "pending_bounties": [
@@ -15992,7 +16108,7 @@
         {
           "bounty_id": "48",
           "name": "Fishing SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-10T03:32:39.730Z"
         }
@@ -17204,7 +17320,7 @@
           "balance": 45
         },
         {
-          "timestamp": "2026-08-10T00:14:20.800Z",
+          "timestamp": "2026-08-10T12:08:35.323Z",
           "delta": 165,
           "reason": "Tenure points",
           "balance": 210
