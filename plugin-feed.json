@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-10T19:12:34.872Z",
+  "generated_at": "2026-08-10T19:15:37.224Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -18654,26 +18654,21 @@
     {
       "rsn": "Sim Zam Bim",
       "rsn_key": "simzambim",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2026-02-22",
       "points_total": 439,
-      "points_spent": 220,
-      "points_available": 219,
+      "points_spent": 420,
+      "points_available": 19,
       "months_in_clan": 5,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 281,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Emerald",
-        "created_at": "2026-08-10T19:12:32.687Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -18755,10 +18750,16 @@
           "balance": 50
         },
         {
+          "timestamp": "2026-08-10T19:13:16.950Z",
+          "delta": -200,
+          "reason": "Rank upgrade: Emerald",
+          "balance": -150
+        },
+        {
           "timestamp": "2026-08-10T00:14:20.800Z",
           "delta": 169,
           "reason": "Tenure points",
-          "balance": 219
+          "balance": 19
         }
       ],
       "pending_bounties": [
