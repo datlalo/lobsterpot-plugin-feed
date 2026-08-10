@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-10T14:58:04.523Z",
+  "generated_at": "2026-08-10T15:01:06.630Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -801,29 +801,23 @@
     {
       "rsn": "AgilityLamp",
       "rsn_key": "agilitylamp",
-      "bot_rank": "Diamond",
-      "progression_rank": "Diamond",
+      "bot_rank": "Dragonstone",
+      "progression_rank": "Dragonstone",
       "join_date": "2025-11-24",
       "points_total": 1499,
-      "points_spent": 900,
-      "points_available": 599,
+      "points_spent": 1400,
+      "points_available": 99,
       "months_in_clan": 8,
       "next_rank": {
-        "name": "Dragonstone",
-        "point_cost": 500,
-        "min_months": 8,
-        "requirements": "Barrows Gloves",
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
+        "name": "Onyx",
+        "point_cost": 800,
+        "min_months": 12,
+        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "missing_points": 701,
+        "missing_months": 4,
+        "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-01-13T00:03:53.208Z",
-          "delta": 50,
-          "reason": "Discord adjustment",
-          "balance": 130
-        },
         {
           "timestamp": "2026-01-31T12:49:32.956Z",
           "delta": 250,
@@ -969,10 +963,16 @@
           "balance": 340
         },
         {
+          "timestamp": "2026-08-10T14:59:49.148Z",
+          "delta": -500,
+          "reason": "Rank upgrade: Dragonstone",
+          "balance": -160
+        },
+        {
           "timestamp": "2026-08-10T00:14:20.800Z",
           "delta": 259,
           "reason": "Tenure points",
-          "balance": 599
+          "balance": 99
         }
       ]
     },
@@ -12326,29 +12326,23 @@
     {
       "rsn": "Lamp Lite",
       "rsn_key": "lamplite",
-      "bot_rank": "Diamond",
-      "progression_rank": "Diamond",
+      "bot_rank": "Dragonstone",
+      "progression_rank": "Dragonstone",
       "join_date": "2025-11-24",
       "points_total": 1499,
-      "points_spent": 900,
-      "points_available": 599,
+      "points_spent": 1400,
+      "points_available": 99,
       "months_in_clan": 8,
       "next_rank": {
-        "name": "Dragonstone",
-        "point_cost": 500,
-        "min_months": 8,
-        "requirements": "Barrows Gloves",
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
+        "name": "Onyx",
+        "point_cost": 800,
+        "min_months": 12,
+        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "missing_points": 701,
+        "missing_months": 4,
+        "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-01-13T00:03:53.208Z",
-          "delta": 50,
-          "reason": "Discord adjustment",
-          "balance": 130
-        },
         {
           "timestamp": "2026-01-31T12:49:32.956Z",
           "delta": 250,
@@ -12494,10 +12488,16 @@
           "balance": 340
         },
         {
+          "timestamp": "2026-08-10T14:59:49.148Z",
+          "delta": -500,
+          "reason": "Rank upgrade: Dragonstone",
+          "balance": -160
+        },
+        {
           "timestamp": "2026-08-10T00:14:20.800Z",
           "delta": 259,
           "reason": "Tenure points",
-          "balance": 599
+          "balance": 99
         }
       ]
     },
