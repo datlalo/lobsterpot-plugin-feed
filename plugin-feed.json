@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-10T15:11:07.462Z",
+  "generated_at": "2026-08-10T15:25:20.211Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -9509,6 +9509,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Dragonstone",
+        "created_at": "2026-08-10T15:25:18.156Z"
       },
       "points_history": [
         {
