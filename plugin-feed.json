@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-10T12:10:06.672Z",
+  "generated_at": "2026-08-10T12:13:08.873Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -21499,25 +21499,17 @@
     {
       "rsn": "Underdog",
       "rsn_key": "underdog",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
       "join_date": "2026-08-09",
       "points_total": 1,
       "points_spent": 0,
       "points_available": 1,
       "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 99,
-        "missing_months": 1,
-        "can_claim": false
-      },
+      "next_rank": null,
       "points_history": [
         {
-          "timestamp": "2026-08-10T00:14:20.800Z",
+          "timestamp": "2026-08-10T12:10:21.525Z",
           "delta": 1,
           "reason": "Tenure points",
           "balance": 1
@@ -22718,7 +22710,7 @@
       "next_rank": null,
       "points_history": [
         {
-          "timestamp": "2026-08-10T00:14:20.800Z",
+          "timestamp": "2026-08-10T12:10:21.525Z",
           "delta": 1,
           "reason": "Tenure points",
           "balance": 1
