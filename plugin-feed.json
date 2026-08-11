@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-11T00:47:41.782Z",
+  "generated_at": "2026-08-11T01:05:25.089Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -18047,26 +18047,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-10-11",
-      "points_total": 1973,
+      "points_total": 1988,
       "points_spent": 1400,
-      "points_available": 573,
+      "points_available": 588,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 227,
+        "missing_points": 212,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-07T16:46:08.495Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier - Giant Mole",
-          "balance": 340
-        },
         {
           "timestamp": "2026-04-07T16:46:09.894Z",
           "delta": 30,
@@ -18212,17 +18206,23 @@
           "balance": 269
         },
         {
+          "timestamp": "2026-08-11T01:05:23.582Z",
+          "delta": 15,
+          "reason": "Bounty: Fishing SOTW - Easy",
+          "balance": 284
+        },
+        {
           "timestamp": "2026-08-11T00:43:07.083Z",
           "delta": 304,
           "reason": "Tenure points",
-          "balance": 573
+          "balance": 588
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "47",
           "name": "Fishing SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-10T22:20:58.387Z"
         },
