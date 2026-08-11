@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-11T02:28:09.949Z",
+  "generated_at": "2026-08-11T02:31:12.177Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -19285,8 +19285,8 @@
         {
           "bounty_id": "48",
           "name": "Fishing SOTW - Medium",
-          "status": "pending",
-          "reason": null,
+          "status": "rejected",
+          "reason": "Please resubmit with proof, I don't see any recent pic from you in the event channel",
           "created_at": "2026-08-10T19:29:07.052Z"
         }
       ]
