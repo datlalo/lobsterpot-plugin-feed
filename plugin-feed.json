@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-11T14:13:11.622Z",
+  "generated_at": "2026-08-11T14:27:46.581Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -1884,26 +1884,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-01-31",
-      "points_total": 1282,
+      "points_total": 1342,
       "points_spent": 1050,
-      "points_available": 232,
+      "points_available": 292,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 268,
+        "missing_points": 208,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-19T20:13:39.335Z",
-          "delta": 60,
-          "reason": "Bounty reward: Elite Tier - Woodcutting",
-          "balance": 190
-        },
         {
           "timestamp": "2026-03-23T10:20:32.243Z",
           "delta": 30,
@@ -2049,10 +2043,16 @@
           "balance": 40
         },
         {
+          "timestamp": "2026-08-11T14:27:45.069Z",
+          "delta": 60,
+          "reason": "Bounty: Fishing SOTW - Elite",
+          "balance": 100
+        },
+        {
           "timestamp": "2026-08-11T00:43:07.083Z",
           "delta": 192,
           "reason": "Tenure points",
-          "balance": 232
+          "balance": 292
         }
       ],
       "pending_bounties": [
@@ -2080,7 +2080,7 @@
         {
           "bounty_id": "50",
           "name": "Fishing SOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-11T12:23:17.830Z"
         }
