@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-11T10:13:06.287Z",
+  "generated_at": "2026-08-11T12:23:19.339Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -2041,6 +2041,36 @@
           "delta": 192,
           "reason": "Tenure points",
           "balance": 232
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "47",
+          "name": "Fishing SOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-08-11T12:23:17.828Z"
+        },
+        {
+          "bounty_id": "48",
+          "name": "Fishing SOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-08-11T12:23:17.829Z"
+        },
+        {
+          "bounty_id": "49",
+          "name": "Fishing SOTW - Hard",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-08-11T12:23:17.829Z"
+        },
+        {
+          "bounty_id": "50",
+          "name": "Fishing SOTW - Elite",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-08-11T12:23:17.830Z"
         }
       ]
     },
