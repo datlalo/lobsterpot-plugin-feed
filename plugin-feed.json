@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-11T12:23:19.339Z",
+  "generated_at": "2026-08-11T14:13:11.622Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -1334,6 +1334,18 @@
           "balance": 252
         }
       ]
+    },
+    {
+      "rsn": "AodhagaIM",
+      "rsn_key": "aodhagaim",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-08-11",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
     },
     {
       "rsn": "Aodhagan",
