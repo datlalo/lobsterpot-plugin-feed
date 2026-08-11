@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-11T01:38:33.575Z",
+  "generated_at": "2026-08-11T02:22:02.224Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -532,9 +532,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 2623,
+      "points_total": 2683,
       "points_spent": 1230,
-      "points_available": 1393,
+      "points_available": 1453,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
@@ -546,12 +546,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-03T06:54:32.212Z",
-          "delta": 10,
-          "reason": "ty for recommending the clan",
-          "balance": 220
-        },
         {
           "timestamp": "2026-06-23T21:43:12.470Z",
           "delta": 15,
@@ -697,10 +691,16 @@
           "balance": 1073
         },
         {
+          "timestamp": "2026-08-11T02:22:00.716Z",
+          "delta": 60,
+          "reason": "Bounty: Fishing SOTW - Elite",
+          "balance": 1133
+        },
+        {
           "timestamp": "2026-08-11T00:43:07.083Z",
           "delta": 320,
           "reason": "Tenure points",
-          "balance": 1393
+          "balance": 1453
         }
       ],
       "pending_bounties": [
@@ -735,7 +735,7 @@
         {
           "bounty_id": "50",
           "name": "Fishing SOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-11T01:38:32.054Z"
         }
@@ -16217,9 +16217,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 2623,
+      "points_total": 2683,
       "points_spent": 1230,
-      "points_available": 1393,
+      "points_available": 1453,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
@@ -16231,12 +16231,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-03T06:54:32.212Z",
-          "delta": 10,
-          "reason": "ty for recommending the clan",
-          "balance": 220
-        },
         {
           "timestamp": "2026-06-23T21:43:12.470Z",
           "delta": 15,
@@ -16382,10 +16376,16 @@
           "balance": 1073
         },
         {
+          "timestamp": "2026-08-11T02:22:00.716Z",
+          "delta": 60,
+          "reason": "Bounty: Fishing SOTW - Elite",
+          "balance": 1133
+        },
+        {
           "timestamp": "2026-08-11T00:43:07.083Z",
           "delta": 320,
           "reason": "Tenure points",
-          "balance": 1393
+          "balance": 1453
         }
       ],
       "pending_bounties": [
@@ -16420,7 +16420,7 @@
         {
           "bounty_id": "50",
           "name": "Fishing SOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-11T01:38:32.054Z"
         }
