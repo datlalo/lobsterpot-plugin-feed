@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-11T19:29:30.287Z",
+  "generated_at": "2026-08-11T19:54:00.516Z",
   "broadcasts": [
     {
       "id": "7f236f23-2405-4f77-a44f-214f407aa574",
@@ -19497,6 +19497,13 @@
           "status": "rejected",
           "reason": "Please resubmit with proof, I don't see any recent pic from you in the event channel",
           "created_at": "2026-08-10T19:29:07.052Z"
+        },
+        {
+          "bounty_id": "47",
+          "name": "Fishing SOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-08-11T19:53:59.007Z"
         }
       ]
     },
