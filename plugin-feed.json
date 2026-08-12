@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-12T15:29:23.662Z",
+  "generated_at": "2026-08-12T15:32:26.347Z",
   "broadcasts": [],
   "events": [
     {
@@ -8641,26 +8641,21 @@
     {
       "rsn": "Ghost Free",
       "rsn_key": "ghostfree",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2026-05-01",
       "points_total": 311,
-      "points_spent": 100,
-      "points_available": 211,
+      "points_spent": 300,
+      "points_available": 11,
       "months_in_clan": 3,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 289,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Emerald",
-        "created_at": "2026-08-12T15:29:21.336Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -8700,10 +8695,16 @@
           "balance": 108
         },
         {
+          "timestamp": "2026-08-12T15:29:45.856Z",
+          "delta": -200,
+          "reason": "Rank upgrade: Emerald",
+          "balance": -92
+        },
+        {
           "timestamp": "2026-08-12T00:43:08.629Z",
           "delta": 103,
           "reason": "Tenure points",
-          "balance": 211
+          "balance": 11
         }
       ],
       "pending_bounties": [
