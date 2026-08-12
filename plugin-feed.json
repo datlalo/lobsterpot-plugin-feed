@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-12T22:30:02.453Z",
+  "generated_at": "2026-08-12T22:42:17.834Z",
   "broadcasts": [],
   "events": [
     {
@@ -2387,26 +2387,21 @@
     {
       "rsn": "atrealz",
       "rsn_key": "atrealz",
-      "bot_rank": "Ruby",
-      "progression_rank": "Ruby",
+      "bot_rank": "Diamond",
+      "progression_rank": "Diamond",
       "join_date": "2025-11-30",
       "points_total": 900,
-      "points_spent": 500,
-      "points_available": 400,
+      "points_spent": 900,
+      "points_available": 0,
       "months_in_clan": 8,
       "next_rank": {
-        "name": "Diamond",
-        "point_cost": 400,
-        "min_months": 5,
-        "requirements": "Fire Cape",
-        "missing_points": 0,
+        "name": "Dragonstone",
+        "point_cost": 500,
+        "min_months": 8,
+        "requirements": "Barrows Gloves",
+        "missing_points": 500,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Diamond",
-        "created_at": "2026-08-12T22:29:59.796Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -2554,10 +2549,16 @@
           "balance": 145
         },
         {
+          "timestamp": "2026-08-12T22:42:16.314Z",
+          "delta": -400,
+          "reason": "Rank upgrade: Diamond",
+          "balance": -255
+        },
+        {
           "timestamp": "2026-08-12T00:43:08.629Z",
           "delta": 255,
           "reason": "Tenure points",
-          "balance": 400
+          "balance": 0
         }
       ],
       "pending_bounties": [
