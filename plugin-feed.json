@@ -1,27 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-08-12T10:30:52.320Z",
-  "broadcasts": [
-    {
-      "id": "7f236f23-2405-4f77-a44f-214f407aa574",
-      "title": "Fishing Skill of the Week",
-      "message": "Head to Tempoross right now or your clan leader will ban u",
-      "starts_at": "2026-08-05T11:00:00.000Z",
-      "expires_at": "2026-08-12T11:00:00.000Z",
-      "updated_at": "2026-08-03T07:58:13.205Z"
-    }
-  ],
+  "generated_at": "2026-08-12T11:32:21.418Z",
+  "broadcasts": [],
   "events": [
-    {
-      "id": "1534102062202355822",
-      "type": "event",
-      "title": "Fishing SOTW",
-      "location": "in-game",
-      "starts_at": "2026-08-05T11:00:00.000Z",
-      "ends_at": "2026-08-12T11:00:00.000Z",
-      "description": "",
-      "thread_id": "1534102062202355822"
-    },
     {
       "id": "1533784639846617209",
       "type": "event",
@@ -17161,6 +17142,26 @@
       ]
     },
     {
+      "rsn": "pv7x",
+      "rsn_key": "pv7x",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-12",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "quassom",
       "rsn_key": "quassom",
       "bot_rank": "Gnome",
@@ -17978,6 +17979,26 @@
           "created_at": "2026-08-09T14:03:27.633Z"
         }
       ]
+    },
+    {
+      "rsn": "robor 66y",
+      "rsn_key": "robor66y",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-12",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "rougerascal",
