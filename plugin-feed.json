@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T15:15:16.179Z",
+  "generated_at": "2026-08-13T15:18:18.352Z",
   "broadcasts": [],
   "events": [
     {
@@ -1201,6 +1201,84 @@
           "delta": 69,
           "reason": "Tenure points",
           "balance": 19
+        }
+      ]
+    },
+    {
+      "rsn": "am gonna kms",
+      "rsn_key": "amgonnakms",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-13",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
+      "rsn": "ammies",
+      "rsn_key": "ammies",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-03-09",
+      "points_total": 247,
+      "points_spent": 0,
+      "points_available": 247,
+      "months_in_clan": 5,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-03-17T01:26:33.835Z",
+          "delta": 15,
+          "reason": "Bounty reward: Easy Tier - Woodcutting",
+          "balance": 15
+        },
+        {
+          "timestamp": "2026-03-22T19:07:03.581Z",
+          "delta": 30,
+          "reason": "Bounty reward: Medium Tier - Woodcutting",
+          "balance": 45
+        },
+        {
+          "timestamp": "2026-04-14T20:06:56.291Z",
+          "delta": 30,
+          "reason": "Discord adjustment",
+          "balance": 75
+        },
+        {
+          "timestamp": "2026-04-21T05:07:21.651Z",
+          "delta": 15,
+          "reason": "Discord adjustment",
+          "balance": 90
+        },
+        {
+          "timestamp": "2026-04-23T18:20:45.963Z",
+          "delta": 10,
+          "reason": "Discord adjustment",
+          "balance": 100
+        },
+        {
+          "timestamp": "2026-08-03T00:17:17.639Z",
+          "delta": 147,
+          "reason": "Tenure points",
+          "balance": 247
         }
       ]
     },
@@ -6831,6 +6909,26 @@
           "balance": 64
         }
       ]
+    },
+    {
+      "rsn": "ero q",
+      "rsn_key": "eroq",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-13",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "FarmorsPung",
@@ -14263,6 +14361,26 @@
           "balance": 99
         }
       ]
+    },
+    {
+      "rsn": "my pp itchee",
+      "rsn_key": "myppitchee",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-13",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "mythunior",
