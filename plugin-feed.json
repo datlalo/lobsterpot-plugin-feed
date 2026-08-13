@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T15:12:13.444Z",
+  "generated_at": "2026-08-13T15:15:16.179Z",
   "broadcasts": [],
   "events": [
     {
@@ -6481,17 +6481,25 @@
     {
       "rsn": "electrogim",
       "rsn_key": "electrogim",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
       "join_date": "2026-08-12",
       "points_total": 1,
       "points_spent": 0,
       "points_available": 1,
       "months_in_clan": 0,
-      "next_rank": null,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 99,
+        "missing_months": 1,
+        "can_claim": false
+      },
       "points_history": [
         {
-          "timestamp": "2026-08-13T00:02:19.182Z",
+          "timestamp": "2026-08-13T15:12:35.890Z",
           "delta": 1,
           "reason": "Tenure points",
           "balance": 1
@@ -6519,7 +6527,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-08-13T00:02:19.182Z",
+          "timestamp": "2026-08-13T15:12:35.890Z",
           "delta": 1,
           "reason": "Tenure points",
           "balance": 1
@@ -13247,17 +13255,25 @@
     {
       "rsn": "mclovinfe",
       "rsn_key": "mclovinfe",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
       "join_date": "2026-08-12",
       "points_total": 1,
       "points_spent": 0,
       "points_available": 1,
       "months_in_clan": 0,
-      "next_rank": null,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 99,
+        "missing_months": 1,
+        "can_claim": false
+      },
       "points_history": [
         {
-          "timestamp": "2026-08-13T00:02:19.182Z",
+          "timestamp": "2026-08-13T15:12:31.850Z",
           "delta": 1,
           "reason": "Tenure points",
           "balance": 1
@@ -13285,7 +13301,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-08-13T00:02:19.182Z",
+          "timestamp": "2026-08-13T15:12:31.850Z",
           "delta": 1,
           "reason": "Tenure points",
           "balance": 1
