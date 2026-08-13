@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T00:02:21.243Z",
+  "generated_at": "2026-08-13T00:41:20.958Z",
   "broadcasts": [],
   "events": [
     {
@@ -13800,16 +13800,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-06-24",
-      "points_total": 165,
+      "points_total": 180,
       "points_spent": 100,
-      "points_available": 65,
+      "points_available": 80,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 135,
+        "missing_points": 120,
         "missing_months": 1,
         "can_claim": false
       },
@@ -13851,10 +13851,16 @@
           "balance": 15
         },
         {
+          "timestamp": "2026-08-13T00:41:19.439Z",
+          "delta": 15,
+          "reason": "Bounty: Fishing SOTW - Easy",
+          "balance": 30
+        },
+        {
           "timestamp": "2026-08-13T00:02:19.182Z",
           "delta": 50,
           "reason": "Tenure points",
-          "balance": 65
+          "balance": 80
         }
       ]
     },
@@ -13864,16 +13870,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-06-24",
-      "points_total": 165,
+      "points_total": 180,
       "points_spent": 100,
-      "points_available": 65,
+      "points_available": 80,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 135,
+        "missing_points": 120,
         "missing_months": 1,
         "can_claim": false
       },
@@ -13915,10 +13921,16 @@
           "balance": 15
         },
         {
+          "timestamp": "2026-08-13T00:41:19.439Z",
+          "delta": 15,
+          "reason": "Bounty: Fishing SOTW - Easy",
+          "balance": 30
+        },
+        {
           "timestamp": "2026-08-13T00:02:19.182Z",
           "delta": 50,
           "reason": "Tenure points",
-          "balance": 65
+          "balance": 80
         }
       ]
     },
