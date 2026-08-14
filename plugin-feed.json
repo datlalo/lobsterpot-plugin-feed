@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-14T00:02:23.788Z",
+  "generated_at": "2026-08-14T08:47:25.255Z",
   "broadcasts": [],
   "events": [
     {
@@ -8753,6 +8753,26 @@
       ]
     },
     {
+      "rsn": "gnostic jedi",
+      "rsn_key": "gnosticjedi",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-14",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "goat biryani",
       "rsn_key": "goatbiryani",
       "bot_rank": "Gnome",
@@ -16203,6 +16223,26 @@
           "balance": 106
         }
       ]
+    },
+    {
+      "rsn": "PolloSopa",
+      "rsn_key": "pollosopa",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-14",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "Porkchaser",
