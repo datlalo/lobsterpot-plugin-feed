@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-14T18:47:26.915Z",
+  "generated_at": "2026-08-14T19:02:26.958Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -13174,34 +13174,6 @@
           "delta": 355,
           "reason": "Tenure points",
           "balance": 55
-        }
-      ]
-    },
-    {
-      "rsn": "mage hiro",
-      "rsn_key": "magehiro",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-06-19",
-      "points_total": 56,
-      "points_spent": 0,
-      "points_available": 56,
-      "months_in_clan": 1,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 44,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-14T00:02:21.683Z",
-          "delta": 56,
-          "reason": "Tenure points",
-          "balance": 56
         }
       ]
     },
