@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-14T13:17:26.622Z",
+  "generated_at": "2026-08-14T18:47:26.915Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -35,6 +35,18 @@
   ],
   "bounties": [],
   "members": [
+    {
+      "rsn": "0gass",
+      "rsn_key": "0gass",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-08-14",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
+    },
     {
       "rsn": "0jack black0",
       "rsn_key": "0jackblack0",
@@ -12440,38 +12452,24 @@
       ]
     },
     {
-      "rsn": "LazySwidge",
-      "rsn_key": "lazyswidge",
+      "rsn": "lazyswitch",
+      "rsn_key": "lazyswitch",
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
-      "join_date": "2026-01-28",
-      "points_total": 198,
-      "points_spent": 100,
-      "points_available": 98,
-      "months_in_clan": 6,
+      "join_date": "2026-08-14",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 102,
-        "missing_months": 0,
+        "missing_points": 200,
+        "missing_months": 2,
         "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-06-28T17:59:28.091Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": -100
-        },
-        {
-          "timestamp": "2026-08-14T00:02:21.683Z",
-          "delta": 198,
-          "reason": "Tenure points",
-          "balance": 98
-        }
-      ]
+      }
     },
     {
       "rsn": "LazyThom",
