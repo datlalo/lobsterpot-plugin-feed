@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-15T08:02:28.454Z",
+  "generated_at": "2026-08-15T21:02:29.018Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -6202,6 +6202,18 @@
       ]
     },
     {
+      "rsn": "Dufish",
+      "rsn_key": "dufish",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-08-15",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
+    },
+    {
       "rsn": "dum loser",
       "rsn_key": "dumloser",
       "bot_rank": "Gnome",
@@ -8412,34 +8424,6 @@
           "delta": 61,
           "reason": "Tenure points",
           "balance": 91
-        }
-      ]
-    },
-    {
-      "rsn": "Gare1h",
-      "rsn_key": "gare1h",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-07-10",
-      "points_total": 36,
-      "points_spent": 0,
-      "points_available": 36,
-      "months_in_clan": 1,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 64,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-15T00:02:23.210Z",
-          "delta": 36,
-          "reason": "Tenure points",
-          "balance": 36
         }
       ]
     },
