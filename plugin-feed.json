@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-15T00:02:25.303Z",
+  "generated_at": "2026-08-15T05:17:27.436Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -5072,40 +5072,6 @@
           "delta": 204,
           "reason": "Tenure points",
           "balance": 204
-        }
-      ]
-    },
-    {
-      "rsn": "d3athveng",
-      "rsn_key": "d3athveng",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-07-10",
-      "points_total": 56,
-      "points_spent": 0,
-      "points_available": 56,
-      "months_in_clan": 1,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 44,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-07-17T22:54:15.987Z",
-          "delta": 20,
-          "reason": "callisto mass",
-          "balance": 20
-        },
-        {
-          "timestamp": "2026-08-15T00:02:23.210Z",
-          "delta": 36,
-          "reason": "Tenure points",
-          "balance": 56
         }
       ]
     },
