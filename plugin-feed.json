@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-15T05:17:27.436Z",
+  "generated_at": "2026-08-15T08:02:28.454Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -14920,88 +14920,6 @@
           "delta": 16,
           "reason": "Tenure points",
           "balance": 106
-        }
-      ]
-    },
-    {
-      "rsn": "ninyunnini",
-      "rsn_key": "ninyunnini",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
-      "join_date": "2025-10-16",
-      "points_total": 368,
-      "points_spent": 200,
-      "points_available": 168,
-      "months_in_clan": 9,
-      "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 132,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-01-31T18:05:49.716Z",
-          "delta": 10,
-          "reason": "Hawks max event/drop party",
-          "balance": -5
-        },
-        {
-          "timestamp": "2026-04-21T05:20:59.404Z",
-          "delta": 5,
-          "reason": "Discord adjustment",
-          "balance": 0
-        },
-        {
-          "timestamp": "2026-04-25T19:17:51.190Z",
-          "delta": 15,
-          "reason": "Points transferred from unclaimed member on account link",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-04-25T22:50:55.499Z",
-          "delta": 0,
-          "reason": "Claimed additional RSN: Mokkoku",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-04-29T17:47:11.123Z",
-          "delta": 5,
-          "reason": "Discord adjustment",
-          "balance": 20
-        },
-        {
-          "timestamp": "2026-04-29T17:48:46.072Z",
-          "delta": 10,
-          "reason": "Leagues points",
-          "balance": 30
-        },
-        {
-          "timestamp": "2026-07-01T06:51:45.735Z",
-          "delta": -200,
-          "reason": "Rank upgrade: Emerald",
-          "balance": -170
-        },
-        {
-          "timestamp": "2026-07-01T06:53:02.237Z",
-          "delta": 15,
-          "reason": "Bounty: Farming - Easy",
-          "balance": -155
-        },
-        {
-          "timestamp": "2026-08-04T15:43:59.561Z",
-          "delta": 20,
-          "reason": "Thank you for participating in PVM Map Sweep event.",
-          "balance": -135
-        },
-        {
-          "timestamp": "2026-08-15T00:02:23.210Z",
-          "delta": 303,
-          "reason": "Tenure points",
-          "balance": 168
         }
       ]
     },
