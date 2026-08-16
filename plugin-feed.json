@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-16T10:17:30.786Z",
+  "generated_at": "2026-08-16T11:47:30.820Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -20764,6 +20764,26 @@
           "balance": 50
         }
       ]
+    },
+    {
+      "rsn": "trahqz xl",
+      "rsn_key": "trahqzxl",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-16",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "tristram004",
