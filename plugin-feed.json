@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-16T00:02:26.889Z",
+  "generated_at": "2026-08-16T00:29:01.972Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -3227,6 +3227,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Diamond",
+        "created_at": "2026-08-16T00:28:59.895Z"
       },
       "points_history": [
         {
