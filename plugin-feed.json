@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-16T15:08:16.890Z",
+  "generated_at": "2026-08-16T15:11:19.320Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -12436,26 +12436,32 @@
       "rsn_key": "lazyswitch",
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
-      "join_date": "2026-08-14",
-      "points_total": 2,
-      "points_spent": 0,
-      "points_available": 2,
-      "months_in_clan": 0,
+      "join_date": "2026-01-28",
+      "points_total": 200,
+      "points_spent": 100,
+      "points_available": 100,
+      "months_in_clan": 6,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 198,
-        "missing_months": 2,
+        "missing_points": 100,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
         {
+          "timestamp": "2026-06-28T17:59:28.091Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -100
+        },
+        {
           "timestamp": "2026-08-16T00:02:24.778Z",
-          "delta": 2,
+          "delta": 200,
           "reason": "Tenure points",
-          "balance": 2
+          "balance": 100
         }
       ]
     },
