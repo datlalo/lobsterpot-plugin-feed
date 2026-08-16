@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-16T16:58:09.238Z",
+  "generated_at": "2026-08-16T18:17:31.821Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -3390,34 +3390,6 @@
       ]
     },
     {
-      "rsn": "Bitohjoy",
-      "rsn_key": "bitohjoy",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-08-09",
-      "points_total": 7,
-      "points_spent": 0,
-      "points_available": 7,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 93,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-16T00:02:24.778Z",
-          "delta": 7,
-          "reason": "Tenure points",
-          "balance": 7
-        }
-      ]
-    },
-    {
       "rsn": "Bizonix",
       "rsn_key": "bizonix",
       "bot_rank": "Gnome",
@@ -6684,6 +6656,18 @@
           "balance": 84
         }
       ]
+    },
+    {
+      "rsn": "elitegengenn",
+      "rsn_key": "elitegengenn",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-08-16",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
     },
     {
       "rsn": "ellran",
@@ -21432,6 +21416,26 @@
           "balance": 166
         }
       ]
+    },
+    {
+      "rsn": "vipermagi",
+      "rsn_key": "vipermagi",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-16",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "vortexfrost",
