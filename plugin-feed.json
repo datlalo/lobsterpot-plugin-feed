@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-16T16:55:06.958Z",
+  "generated_at": "2026-08-16T16:58:09.238Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -4378,26 +4378,21 @@
     {
       "rsn": "Capt Dabbin",
       "rsn_key": "captdabbin",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-06-24",
       "points_total": 253,
-      "points_spent": 0,
-      "points_available": 253,
+      "points_spent": 100,
+      "points_available": 153,
       "months_in_clan": 1,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-08-16T16:55:04.728Z"
+        "missing_points": 47,
+        "missing_months": 1,
+        "can_claim": false
       },
       "points_history": [
         {
@@ -4425,10 +4420,16 @@
           "balance": 200
         },
         {
+          "timestamp": "2026-08-16T16:56:31.161Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": 100
+        },
+        {
           "timestamp": "2026-08-16T00:02:24.778Z",
           "delta": 53,
           "reason": "Tenure points",
-          "balance": 253
+          "balance": 153
         }
       ]
     },
