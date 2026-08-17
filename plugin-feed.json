@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-17T20:12:20.260Z",
+  "generated_at": "2026-08-17T22:47:33.402Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -2130,7 +2130,7 @@
       "points_total": 347,
       "points_spent": 100,
       "points_available": 247,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -3616,7 +3616,7 @@
       "points_total": 347,
       "points_spent": 100,
       "points_available": 247,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -6080,7 +6080,7 @@
       "points_total": 182,
       "points_spent": 0,
       "points_available": 182,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -10338,7 +10338,7 @@
       "points_total": 547,
       "points_spent": 300,
       "points_available": 247,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -11908,7 +11908,7 @@
       "points_total": 91,
       "points_spent": 0,
       "points_available": 91,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -12718,7 +12718,7 @@
       "points_total": 146,
       "points_spent": 0,
       "points_available": 146,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -12996,7 +12996,7 @@
       "points_total": 91,
       "points_spent": 0,
       "points_available": 91,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -13468,14 +13468,14 @@
       "points_total": 110,
       "points_spent": 0,
       "points_available": 110,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
         "missing_points": 90,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -15338,6 +15338,26 @@
       ]
     },
     {
+      "rsn": "N xK",
+      "rsn_key": "nxk",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-17",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "o Dabz o",
       "rsn_key": "odabzo",
       "bot_rank": "Gnome",
@@ -15410,178 +15430,6 @@
           "delta": 55,
           "reason": "Tenure points",
           "balance": 55
-        }
-      ]
-    },
-    {
-      "rsn": "Ol ivia",
-      "rsn_key": "olivia",
-      "bot_rank": "Ruby",
-      "progression_rank": "Ruby",
-      "join_date": "2026-03-20",
-      "points_total": 735,
-      "points_spent": 600,
-      "points_available": 135,
-      "months_in_clan": 4,
-      "next_rank": {
-        "name": "Diamond",
-        "point_cost": 400,
-        "min_months": 5,
-        "requirements": "Fire Cape",
-        "missing_points": 265,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-04-05T11:21:11.225Z",
-          "delta": 10,
-          "reason": "Toxic's 99 Slayer event",
-          "balance": -5
-        },
-        {
-          "timestamp": "2026-04-14T19:59:42.247Z",
-          "delta": 5,
-          "reason": "Discord adjustment",
-          "balance": 0
-        },
-        {
-          "timestamp": "2026-05-14T17:21:13.872Z",
-          "delta": 15,
-          "reason": "Points transferred from unclaimed member on account link",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-05-14T21:37:59.060Z",
-          "delta": 0,
-          "reason": "Account change: Change Join Date to \"2026-03-20\"",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-05-22T18:38:59.017Z",
-          "delta": 155,
-          "reason": "Discord adjustment",
-          "balance": 170
-        },
-        {
-          "timestamp": "2026-05-24T20:00:09.211Z",
-          "delta": -100,
-          "reason": "Rank upgraded to: Sapphire",
-          "balance": 70
-        },
-        {
-          "timestamp": "2026-06-02T11:08:42.041Z",
-          "delta": 10,
-          "reason": "Ty for recommending the clan",
-          "balance": 80
-        },
-        {
-          "timestamp": "2026-06-06T09:06:30.175Z",
-          "delta": 20,
-          "reason": "Playing Peak with the clan",
-          "balance": 100
-        },
-        {
-          "timestamp": "2026-06-16T19:39:01.879Z",
-          "delta": 30,
-          "reason": "Event Participation",
-          "balance": 130
-        },
-        {
-          "timestamp": "2026-06-25T09:35:16.413Z",
-          "delta": 30,
-          "reason": "Recruit",
-          "balance": 160
-        },
-        {
-          "timestamp": "2026-07-03T05:58:29.904Z",
-          "delta": 115,
-          "reason": "Slayer",
-          "balance": 275
-        },
-        {
-          "timestamp": "2026-07-03T16:26:51.489Z",
-          "delta": 10,
-          "reason": "Recruit",
-          "balance": 285
-        },
-        {
-          "timestamp": "2026-07-07T20:01:50.474Z",
-          "delta": -200,
-          "reason": "Rank upgrade: Emerald",
-          "balance": 85
-        },
-        {
-          "timestamp": "2026-07-08T19:04:30.127Z",
-          "delta": 20,
-          "reason": "Recruit",
-          "balance": 105
-        },
-        {
-          "timestamp": "2026-07-08T19:06:16.569Z",
-          "delta": 10,
-          "reason": "Volcanic Mine Event",
-          "balance": 115
-        },
-        {
-          "timestamp": "2026-07-09T10:26:24.766Z",
-          "delta": 10,
-          "reason": "recruit is 30 points, no? so I added another 10 ontop of the 20 sol gave",
-          "balance": 125
-        },
-        {
-          "timestamp": "2026-07-09T22:47:10.308Z",
-          "delta": 20,
-          "reason": "Recruit",
-          "balance": 145
-        },
-        {
-          "timestamp": "2026-07-16T21:15:32.793Z",
-          "delta": 20,
-          "reason": "Event Participation",
-          "balance": 165
-        },
-        {
-          "timestamp": "2026-07-17T22:55:15.361Z",
-          "delta": 40,
-          "reason": "callisto mass + host + freezer",
-          "balance": 205
-        },
-        {
-          "timestamp": "2026-07-18T10:30:22.819Z",
-          "delta": -300,
-          "reason": "Rank upgrade: Ruby",
-          "balance": -95
-        },
-        {
-          "timestamp": "2026-07-19T13:30:04.391Z",
-          "delta": 15,
-          "reason": "Bounty: Duke Sucellus - Easy",
-          "balance": -80
-        },
-        {
-          "timestamp": "2026-07-19T13:30:06.722Z",
-          "delta": 30,
-          "reason": "Bounty: Duke Sucellus - Medium",
-          "balance": -50
-        },
-        {
-          "timestamp": "2026-07-28T18:55:34.747Z",
-          "delta": 15,
-          "reason": "Freaky frondslop friday (Juli)",
-          "balance": -35
-        },
-        {
-          "timestamp": "2026-08-04T00:17:54.136Z",
-          "delta": 20,
-          "reason": "Thank you for participating in PVM Map Sweep event.",
-          "balance": -15
-        },
-        {
-          "timestamp": "2026-08-17T00:02:26.374Z",
-          "delta": 150,
-          "reason": "Tenure points",
-          "balance": 135
         }
       ]
     },
@@ -22196,7 +22044,7 @@
       "points_total": 200,
       "points_spent": 0,
       "points_available": 200,
-      "months_in_clan": 5,
+      "months_in_clan": 6,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
