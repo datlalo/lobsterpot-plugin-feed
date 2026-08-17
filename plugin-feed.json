@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-17T11:02:31.693Z",
+  "generated_at": "2026-08-17T11:26:52.190Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -3911,16 +3911,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-03-20 22:12:14.780985+00",
-      "points_total": 680,
+      "points_total": 685,
       "points_spent": 600,
-      "points_available": 80,
+      "points_available": 85,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 320,
+        "missing_points": 315,
         "missing_months": 1,
         "can_claim": false
       },
@@ -4058,10 +4058,16 @@
           "balance": -70
         },
         {
+          "timestamp": "2026-08-17T11:26:50.668Z",
+          "delta": 5,
+          "reason": "scurrius sunday 50kc",
+          "balance": -65
+        },
+        {
           "timestamp": "2026-08-17T00:02:26.374Z",
           "delta": 150,
           "reason": "Tenure points",
-          "balance": 80
+          "balance": 85
         }
       ]
     },
