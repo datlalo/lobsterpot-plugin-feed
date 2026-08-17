@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-17T12:00:06.606Z",
+  "generated_at": "2026-08-17T13:17:33.059Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -16650,40 +16650,6 @@
           "delta": 321,
           "reason": "Tenure points",
           "balance": 244
-        }
-      ]
-    },
-    {
-      "rsn": "pv7x",
-      "rsn_key": "pv7x",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-08-12",
-      "points_total": 35,
-      "points_spent": 0,
-      "points_available": 35,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 65,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-12T12:14:04.306Z",
-          "delta": 30,
-          "reason": "recruitment of friend",
-          "balance": 30
-        },
-        {
-          "timestamp": "2026-08-17T00:02:26.374Z",
-          "delta": 5,
-          "reason": "Tenure points",
-          "balance": 35
         }
       ]
     },
