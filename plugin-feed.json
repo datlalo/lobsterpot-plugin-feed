@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-17T11:26:52.190Z",
+  "generated_at": "2026-08-17T11:29:54.568Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -745,26 +745,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-24",
-      "points_total": 1506,
+      "points_total": 1516,
       "points_spent": 1400,
-      "points_available": 106,
+      "points_available": 116,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 694,
+        "missing_points": 684,
         "missing_months": 4,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-01-31T12:49:32.956Z",
-          "delta": 250,
-          "reason": "Discord adjustment",
-          "balance": 380
-        },
         {
           "timestamp": "2026-01-31T16:24:59.105Z",
           "delta": -200,
@@ -910,10 +904,16 @@
           "balance": -160
         },
         {
+          "timestamp": "2026-08-17T11:27:14.469Z",
+          "delta": 10,
+          "reason": "scurrius sunday 100kc",
+          "balance": -150
+        },
+        {
           "timestamp": "2026-08-17T00:02:26.374Z",
           "delta": 266,
           "reason": "Tenure points",
-          "balance": 106
+          "balance": 116
         }
       ]
     },
@@ -12275,26 +12275,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-24",
-      "points_total": 1506,
+      "points_total": 1516,
       "points_spent": 1400,
-      "points_available": 106,
+      "points_available": 116,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 694,
+        "missing_points": 684,
         "missing_months": 4,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-01-31T12:49:32.956Z",
-          "delta": 250,
-          "reason": "Discord adjustment",
-          "balance": 380
-        },
         {
           "timestamp": "2026-01-31T16:24:59.105Z",
           "delta": -200,
@@ -12440,10 +12434,16 @@
           "balance": -160
         },
         {
+          "timestamp": "2026-08-17T11:27:14.469Z",
+          "delta": 10,
+          "reason": "scurrius sunday 100kc",
+          "balance": -150
+        },
+        {
           "timestamp": "2026-08-17T00:02:26.374Z",
           "delta": 266,
           "reason": "Tenure points",
-          "balance": 106
+          "balance": 116
         }
       ]
     },
