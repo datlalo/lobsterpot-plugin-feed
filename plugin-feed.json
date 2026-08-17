@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-17T23:15:35.331Z",
+  "generated_at": "2026-08-17T23:18:37.798Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -6686,33 +6686,34 @@
     {
       "rsn": "ellran",
       "rsn_key": "ellran",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-05-04",
       "points_total": 105,
-      "points_spent": 0,
-      "points_available": 105,
+      "points_spent": 100,
+      "points_available": 5,
       "months_in_clan": 3,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 195,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-08-17T23:15:33.151Z"
+        "can_claim": false
       },
       "points_history": [
+        {
+          "timestamp": "2026-08-17T23:16:52.826Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -100
+        },
         {
           "timestamp": "2026-08-17T00:02:26.374Z",
           "delta": 105,
           "reason": "Tenure points",
-          "balance": 105
+          "balance": 5
         }
       ]
     },
