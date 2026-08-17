@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-17T13:40:28.135Z",
+  "generated_at": "2026-08-17T20:12:20.260Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -7605,9 +7605,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-11-02",
-      "points_total": 1187,
+      "points_total": 1277,
       "points_spent": 500,
-      "points_available": 687,
+      "points_available": 777,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Diamond",
@@ -7758,10 +7758,16 @@
           "balance": 399
         },
         {
+          "timestamp": "2026-08-17T20:12:18.739Z",
+          "delta": 90,
+          "reason": "Oopsied the 100-700k bounties",
+          "balance": 489
+        },
+        {
           "timestamp": "2026-08-17T00:02:26.374Z",
           "delta": 288,
           "reason": "Tenure points",
-          "balance": 687
+          "balance": 777
         }
       ]
     },
@@ -21051,9 +21057,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-11-02",
-      "points_total": 1187,
+      "points_total": 1277,
       "points_spent": 500,
-      "points_available": 687,
+      "points_available": 777,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Diamond",
@@ -21204,10 +21210,16 @@
           "balance": 399
         },
         {
+          "timestamp": "2026-08-17T20:12:18.739Z",
+          "delta": 90,
+          "reason": "Oopsied the 100-700k bounties",
+          "balance": 489
+        },
+        {
           "timestamp": "2026-08-17T00:02:26.374Z",
           "delta": 288,
           "reason": "Tenure points",
-          "balance": 687
+          "balance": 777
         }
       ]
     },
