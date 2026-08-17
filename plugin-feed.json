@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-17T11:29:54.568Z",
+  "generated_at": "2026-08-17T12:00:06.606Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -13034,26 +13034,21 @@
     {
       "rsn": "lynsska",
       "rsn_key": "lynsska",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2026-06-17",
       "points_total": 421,
-      "points_spent": 100,
-      "points_available": 321,
+      "points_spent": 300,
+      "points_available": 121,
       "months_in_clan": 2,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Emerald",
-        "created_at": "2026-08-17T11:02:29.615Z"
+        "missing_points": 179,
+        "missing_months": 1,
+        "can_claim": false
       },
       "points_history": [
         {
@@ -13123,10 +13118,16 @@
           "balance": 260
         },
         {
+          "timestamp": "2026-08-17T12:00:05.086Z",
+          "delta": -200,
+          "reason": "Rank upgrade: Emerald",
+          "balance": 60
+        },
+        {
           "timestamp": "2026-08-17T00:02:26.374Z",
           "delta": 61,
           "reason": "Tenure points",
-          "balance": 321
+          "balance": 121
         }
       ]
     },
