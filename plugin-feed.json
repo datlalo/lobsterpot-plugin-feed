@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-17T22:53:55.439Z",
+  "generated_at": "2026-08-17T22:56:57.499Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -8460,14 +8460,22 @@
     {
       "rsn": "GameOfRng",
       "rsn_key": "gameofrng",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
       "join_date": "2026-08-17",
       "points_total": 0,
       "points_spent": 0,
       "points_available": 0,
       "months_in_clan": 0,
-      "next_rank": null
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "Ghost Free",
