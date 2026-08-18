@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-18T14:17:33.889Z",
+  "generated_at": "2026-08-18T14:20:39.393Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -18332,14 +18332,30 @@
     {
       "rsn": "SilverRizlas",
       "rsn_key": "silverrizlas",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2026-08-18",
-      "points_total": 0,
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-05-24",
+      "points_total": 86,
       "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": null
+      "points_available": 86,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 14,
+        "missing_months": 0,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-08-18T00:02:27.985Z",
+          "delta": 86,
+          "reason": "Tenure points",
+          "balance": 86
+        }
+      ]
     },
     {
       "rsn": "Sim Zam Bim",
