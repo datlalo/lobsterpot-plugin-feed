@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-19T00:02:30.527Z",
+  "generated_at": "2026-08-19T13:17:37.437Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -15315,70 +15315,6 @@
       ]
     },
     {
-      "rsn": "NUGAMOTO",
-      "rsn_key": "nugamoto",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2026-04-29",
-      "points_total": 277,
-      "points_spent": 100,
-      "points_available": 177,
-      "months_in_clan": 3,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 23,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-06-25T08:25:06.498Z",
-          "delta": 30,
-          "reason": "Recruit",
-          "balance": 30
-        },
-        {
-          "timestamp": "2026-07-07T17:24:09.087Z",
-          "delta": 15,
-          "reason": "Bounty: Farming - Easy",
-          "balance": 45
-        },
-        {
-          "timestamp": "2026-07-08T00:14:39.668Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": -55
-        },
-        {
-          "timestamp": "2026-08-07T20:24:23.867Z",
-          "delta": 15,
-          "reason": "Bounty: Fishing SOTW - Easy",
-          "balance": -40
-        },
-        {
-          "timestamp": "2026-08-08T19:52:59.760Z",
-          "delta": 75,
-          "reason": "Bounty: Fishing SOTW - Master",
-          "balance": 35
-        },
-        {
-          "timestamp": "2026-08-11T20:37:59.346Z",
-          "delta": 30,
-          "reason": "Bounty: Fishing SOTW - Medium",
-          "balance": 65
-        },
-        {
-          "timestamp": "2026-08-19T00:02:28.144Z",
-          "delta": 112,
-          "reason": "Tenure points",
-          "balance": 177
-        }
-      ]
-    },
-    {
       "rsn": "nursemitch",
       "rsn_key": "nursemitch",
       "bot_rank": "Gnome",
@@ -20129,6 +20065,70 @@
           "delta": 156,
           "reason": "Tenure points",
           "balance": 246
+        }
+      ]
+    },
+    {
+      "rsn": "Swip3r",
+      "rsn_key": "swip3r",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-04-29",
+      "points_total": 277,
+      "points_spent": 100,
+      "points_available": 177,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 23,
+        "missing_months": 0,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-06-25T08:25:06.498Z",
+          "delta": 30,
+          "reason": "Recruit",
+          "balance": 30
+        },
+        {
+          "timestamp": "2026-07-07T17:24:09.087Z",
+          "delta": 15,
+          "reason": "Bounty: Farming - Easy",
+          "balance": 45
+        },
+        {
+          "timestamp": "2026-07-08T00:14:39.668Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -55
+        },
+        {
+          "timestamp": "2026-08-07T20:24:23.867Z",
+          "delta": 15,
+          "reason": "Bounty: Fishing SOTW - Easy",
+          "balance": -40
+        },
+        {
+          "timestamp": "2026-08-08T19:52:59.760Z",
+          "delta": 75,
+          "reason": "Bounty: Fishing SOTW - Master",
+          "balance": 35
+        },
+        {
+          "timestamp": "2026-08-11T20:37:59.346Z",
+          "delta": 30,
+          "reason": "Bounty: Fishing SOTW - Medium",
+          "balance": 65
+        },
+        {
+          "timestamp": "2026-08-19T00:02:28.144Z",
+          "delta": 112,
+          "reason": "Tenure points",
+          "balance": 177
         }
       ]
     },
