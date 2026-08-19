@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-19T21:45:40.885Z",
+  "generated_at": "2026-08-19T23:51:20.496Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -3913,7 +3913,7 @@
       "points_total": 696,
       "points_spent": 600,
       "points_available": 96,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -4061,14 +4061,14 @@
       "points_total": 687,
       "points_spent": 600,
       "points_available": 87,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
         "missing_points": 313,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -4689,7 +4689,7 @@
       "points_total": 619,
       "points_spent": 0,
       "points_available": 619,
-      "months_in_clan": 11,
+      "months_in_clan": 12,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -8276,7 +8276,7 @@
       "points_total": 95,
       "points_spent": 0,
       "points_available": 95,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -9707,26 +9707,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-03",
-      "points_total": 1295,
+      "points_total": 1310,
       "points_spent": 1210,
-      "points_available": 85,
+      "points_available": 100,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 715,
+        "missing_points": 700,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-16T20:31:48.903Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier Bounty",
-          "balance": 290
-        },
         {
           "timestamp": "2026-02-16T20:31:50.931Z",
           "delta": 30,
@@ -9872,10 +9866,16 @@
           "balance": -265
         },
         {
+          "timestamp": "2026-08-19T23:51:18.974Z",
+          "delta": 15,
+          "reason": "Bounty: Vardorvis BOTW - Easy",
+          "balance": -250
+        },
+        {
           "timestamp": "2026-08-19T00:02:28.144Z",
           "delta": 350,
           "reason": "Tenure points",
-          "balance": 85
+          "balance": 100
         }
       ],
       "pending_bounties": [
@@ -9889,7 +9889,7 @@
         {
           "bounty_id": "52",
           "name": "Vardorvis BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-19T17:27:21.792Z"
         }
@@ -10704,7 +10704,7 @@
       "points_total": 91,
       "points_spent": 0,
       "points_available": 91,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -15548,7 +15548,7 @@
       "points_total": 60,
       "points_spent": 0,
       "points_available": 60,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -15852,7 +15852,7 @@
       "points_total": 216,
       "points_spent": 0,
       "points_available": 216,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -16354,7 +16354,7 @@
       "points_total": 364,
       "points_spent": 0,
       "points_available": 364,
-      "months_in_clan": 11,
+      "months_in_clan": 12,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -16662,14 +16662,14 @@
       "points_total": 555,
       "points_spent": 300,
       "points_available": 255,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
         "missing_points": 45,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -19554,7 +19554,7 @@
       "points_total": 696,
       "points_spent": 600,
       "points_available": 96,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
