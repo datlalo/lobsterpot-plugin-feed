@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-19T13:37:45.998Z",
+  "generated_at": "2026-08-19T14:18:15.187Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -47,7 +47,7 @@
       "name": "Vardorvis BOTW - Elite",
       "active": true,
       "points": 60,
-      "description": "400 KC or Vestige",
+      "description": "400 KC or Vestige or Soul Reaper Axe piece",
       "expires_at": "2026-08-27T00:00:00.000Z"
     },
     {
