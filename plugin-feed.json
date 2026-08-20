@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-20T14:17:01.780Z",
+  "generated_at": "2026-08-20T14:20:04.115Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -13234,16 +13234,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-06-17",
-      "points_total": 424,
+      "points_total": 439,
       "points_spent": 300,
-      "points_available": 124,
+      "points_available": 139,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 176,
+        "missing_points": 161,
         "missing_months": 1,
         "can_claim": false
       },
@@ -13321,17 +13321,23 @@
           "balance": 60
         },
         {
+          "timestamp": "2026-08-20T14:18:15.419Z",
+          "delta": 15,
+          "reason": "Bounty: Vardorvis BOTW - Easy",
+          "balance": 75
+        },
+        {
           "timestamp": "2026-08-20T00:02:30.989Z",
           "delta": 64,
           "reason": "Tenure points",
-          "balance": 124
+          "balance": 139
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "52",
           "name": "Vardorvis BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-20T12:38:54.758Z"
         }
