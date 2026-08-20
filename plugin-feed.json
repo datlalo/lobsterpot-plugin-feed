@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-20T00:02:33.301Z",
+  "generated_at": "2026-08-20T02:02:38.553Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -6698,7 +6698,7 @@
       ]
     },
     {
-      "rsn": "electromain",
+      "rsn": "ElectroMain",
       "rsn_key": "electromain",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
@@ -6718,7 +6718,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-08-20T00:02:30.989Z",
+          "timestamp": "2026-08-20T02:02:37.033Z",
           "delta": 8,
           "reason": "Tenure points",
           "balance": 8
