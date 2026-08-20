@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-20T12:38:56.279Z",
+  "generated_at": "2026-08-20T13:19:10.369Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -13812,26 +13812,21 @@
     {
       "rsn": "Mini Soda",
       "rsn_key": "minisoda",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
       "join_date": "2025-11-26",
       "points_total": 800,
-      "points_spent": 200,
-      "points_available": 600,
+      "points_spent": 500,
+      "points_available": 300,
       "months_in_clan": 8,
       "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 0,
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 100,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Ruby",
-        "created_at": "2026-08-20T12:03:53.525Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -13889,10 +13884,16 @@
           "balance": 333
         },
         {
+          "timestamp": "2026-08-20T13:19:08.858Z",
+          "delta": -300,
+          "reason": "Rank upgrade: Ruby",
+          "balance": 33
+        },
+        {
           "timestamp": "2026-08-20T00:02:30.989Z",
           "delta": 267,
           "reason": "Tenure points",
-          "balance": 600
+          "balance": 300
         }
       ]
     },
