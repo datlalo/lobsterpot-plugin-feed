@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-20T21:10:07.450Z",
+  "generated_at": "2026-08-20T21:56:57.724Z",
   "broadcasts": [
     {
       "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
@@ -21103,14 +21103,30 @@
     {
       "rsn": "turbarnx",
       "rsn_key": "turbarnx",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2026-08-20",
-      "points_total": 0,
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-16",
+      "points_total": 4,
       "points_spent": 0,
-      "points_available": 0,
+      "points_available": 4,
       "months_in_clan": 0,
-      "next_rank": null
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 96,
+        "missing_months": 1,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-08-20T00:02:30.989Z",
+          "delta": 4,
+          "reason": "Tenure points",
+          "balance": 4
+        }
+      ]
     },
     {
       "rsn": "TWOSh0rt",
