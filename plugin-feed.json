@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-20T14:30:12.673Z",
+  "generated_at": "2026-08-20T14:33:15.238Z",
   "broadcasts": [
     {
       "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
@@ -31,16 +31,6 @@
       "ends_at": "2026-08-28T21:59:00.000Z",
       "description": "Grab a drink and join us for some silly friendly fun or just hang out in voice.\nThis time we'll put the game to play up to a vote so drop your suggestions for what should be on the ballot.",
       "thread_id": "1533784639846617209"
-    },
-    {
-      "id": "1533784829843615202",
-      "type": "event",
-      "title": "Sarachnis Sunday",
-      "location": "Discord",
-      "starts_at": "2026-08-22T18:00:00.000Z",
-      "ends_at": "2026-08-24T06:00:00.000Z",
-      "description": "",
-      "thread_id": ""
     }
   ],
   "bounties": [
@@ -21079,6 +21069,18 @@
           "balance": 4
         }
       ]
+    },
+    {
+      "rsn": "turbarnx",
+      "rsn_key": "turbarnx",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-08-20",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
     },
     {
       "rsn": "TWOSh0rt",
