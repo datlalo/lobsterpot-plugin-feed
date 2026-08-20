@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-20T02:26:51.058Z",
+  "generated_at": "2026-08-20T03:08:33.169Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -9929,16 +9929,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-03-16",
-      "points_total": 847,
+      "points_total": 862,
       "points_spent": 600,
-      "points_available": 247,
+      "points_available": 262,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 153,
+        "missing_points": 138,
         "missing_months": 0,
         "can_claim": false
       },
@@ -10082,17 +10082,23 @@
           "balance": 90
         },
         {
+          "timestamp": "2026-08-20T03:08:31.654Z",
+          "delta": 15,
+          "reason": "Bounty: Vardorvis BOTW - Easy",
+          "balance": 105
+        },
+        {
           "timestamp": "2026-08-20T00:02:30.989Z",
           "delta": 157,
           "reason": "Tenure points",
-          "balance": 247
+          "balance": 262
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "52",
           "name": "Vardorvis BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-20T02:26:49.541Z"
         }
@@ -19982,16 +19988,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-03-16",
-      "points_total": 847,
+      "points_total": 862,
       "points_spent": 600,
-      "points_available": 247,
+      "points_available": 262,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 153,
+        "missing_points": 138,
         "missing_months": 0,
         "can_claim": false
       },
@@ -20135,17 +20141,23 @@
           "balance": 90
         },
         {
+          "timestamp": "2026-08-20T03:08:31.654Z",
+          "delta": 15,
+          "reason": "Bounty: Vardorvis BOTW - Easy",
+          "balance": 105
+        },
+        {
           "timestamp": "2026-08-20T00:02:30.989Z",
           "delta": 157,
           "reason": "Tenure points",
-          "balance": 247
+          "balance": 262
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "52",
           "name": "Vardorvis BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-20T02:26:49.541Z"
         }
