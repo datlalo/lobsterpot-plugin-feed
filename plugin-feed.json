@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-20T06:16:37.134Z",
+  "generated_at": "2026-08-20T09:32:38.055Z",
   "broadcasts": [
     {
       "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
@@ -15509,6 +15509,26 @@
       ]
     },
     {
+      "rsn": "officescape",
+      "rsn_key": "officescape",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-20",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "offlinedude",
       "rsn_key": "offlinedude",
       "bot_rank": "Gnome",
@@ -20630,6 +20650,26 @@
           "balance": 30
         }
       ]
+    },
+    {
+      "rsn": "themragony",
+      "rsn_key": "themragony",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-20",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "Thenuzza",
