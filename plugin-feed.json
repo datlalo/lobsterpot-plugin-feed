@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-20T19:17:39.914Z",
+  "generated_at": "2026-08-20T20:47:39.989Z",
   "broadcasts": [
     {
       "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
@@ -10789,118 +10789,6 @@
       ]
     },
     {
-      "rsn": "I Pontso I",
-      "rsn_key": "ipontsoi",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2026-07-02",
-      "points_total": 434,
-      "points_spent": 100,
-      "points_available": 334,
-      "months_in_clan": 1,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-07-04T12:14:12.002Z",
-          "delta": 15,
-          "reason": "Bounty: Farming - Easy",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-07-04T12:14:15.078Z",
-          "delta": 30,
-          "reason": "Bounty: Farming - Medium",
-          "balance": 45
-        },
-        {
-          "timestamp": "2026-07-04T12:14:17.801Z",
-          "delta": 40,
-          "reason": "Bounty: Farming - Hard",
-          "balance": 85
-        },
-        {
-          "timestamp": "2026-07-05T10:28:43.382Z",
-          "delta": 60,
-          "reason": "Bounty: Farming - Elite",
-          "balance": 145
-        },
-        {
-          "timestamp": "2026-07-08T11:43:03.680Z",
-          "delta": 15,
-          "reason": "Farming SOTW 4th-6th place",
-          "balance": 160
-        },
-        {
-          "timestamp": "2026-07-11T10:48:18.826Z",
-          "delta": 10,
-          "reason": "Bounty: Mimic kill",
-          "balance": 170
-        },
-        {
-          "timestamp": "2026-07-16T03:11:54.887Z",
-          "delta": 15,
-          "reason": "Bounty: Duke Sucellus - Easy",
-          "balance": 185
-        },
-        {
-          "timestamp": "2026-07-17T22:54:15.986Z",
-          "delta": 20,
-          "reason": "callisto mass",
-          "balance": 205
-        },
-        {
-          "timestamp": "2026-07-18T22:37:31.507Z",
-          "delta": 30,
-          "reason": "Bounty: Duke Sucellus - Medium",
-          "balance": 235
-        },
-        {
-          "timestamp": "2026-07-27T16:41:07.915Z",
-          "delta": 60,
-          "reason": "Bounty: Duke Sucellus - Elite",
-          "balance": 295
-        },
-        {
-          "timestamp": "2026-07-27T16:42:27.056Z",
-          "delta": 45,
-          "reason": "Bounty: Duke Sucellus - Hard",
-          "balance": 340
-        },
-        {
-          "timestamp": "2026-08-02T09:00:53.941Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": 240
-        },
-        {
-          "timestamp": "2026-08-07T20:23:58.827Z",
-          "delta": 15,
-          "reason": "Bounty: Fishing SOTW - Easy",
-          "balance": 255
-        },
-        {
-          "timestamp": "2026-08-07T20:24:02.094Z",
-          "delta": 30,
-          "reason": "Bounty: Fishing SOTW - Medium",
-          "balance": 285
-        },
-        {
-          "timestamp": "2026-08-20T00:02:30.989Z",
-          "delta": 49,
-          "reason": "Tenure points",
-          "balance": 334
-        }
-      ]
-    },
-    {
       "rsn": "ironafkbob",
       "rsn_key": "ironafkbob",
       "bot_rank": "Gnome",
@@ -21013,6 +20901,118 @@
           "delta": 42,
           "reason": "Tenure points",
           "balance": 42
+        }
+      ]
+    },
+    {
+      "rsn": "Tono II",
+      "rsn_key": "tonoii",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-07-02",
+      "points_total": 434,
+      "points_spent": 100,
+      "points_available": 334,
+      "months_in_clan": 1,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 1,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-07-04T12:14:12.002Z",
+          "delta": 15,
+          "reason": "Bounty: Farming - Easy",
+          "balance": 15
+        },
+        {
+          "timestamp": "2026-07-04T12:14:15.078Z",
+          "delta": 30,
+          "reason": "Bounty: Farming - Medium",
+          "balance": 45
+        },
+        {
+          "timestamp": "2026-07-04T12:14:17.801Z",
+          "delta": 40,
+          "reason": "Bounty: Farming - Hard",
+          "balance": 85
+        },
+        {
+          "timestamp": "2026-07-05T10:28:43.382Z",
+          "delta": 60,
+          "reason": "Bounty: Farming - Elite",
+          "balance": 145
+        },
+        {
+          "timestamp": "2026-07-08T11:43:03.680Z",
+          "delta": 15,
+          "reason": "Farming SOTW 4th-6th place",
+          "balance": 160
+        },
+        {
+          "timestamp": "2026-07-11T10:48:18.826Z",
+          "delta": 10,
+          "reason": "Bounty: Mimic kill",
+          "balance": 170
+        },
+        {
+          "timestamp": "2026-07-16T03:11:54.887Z",
+          "delta": 15,
+          "reason": "Bounty: Duke Sucellus - Easy",
+          "balance": 185
+        },
+        {
+          "timestamp": "2026-07-17T22:54:15.986Z",
+          "delta": 20,
+          "reason": "callisto mass",
+          "balance": 205
+        },
+        {
+          "timestamp": "2026-07-18T22:37:31.507Z",
+          "delta": 30,
+          "reason": "Bounty: Duke Sucellus - Medium",
+          "balance": 235
+        },
+        {
+          "timestamp": "2026-07-27T16:41:07.915Z",
+          "delta": 60,
+          "reason": "Bounty: Duke Sucellus - Elite",
+          "balance": 295
+        },
+        {
+          "timestamp": "2026-07-27T16:42:27.056Z",
+          "delta": 45,
+          "reason": "Bounty: Duke Sucellus - Hard",
+          "balance": 340
+        },
+        {
+          "timestamp": "2026-08-02T09:00:53.941Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": 240
+        },
+        {
+          "timestamp": "2026-08-07T20:23:58.827Z",
+          "delta": 15,
+          "reason": "Bounty: Fishing SOTW - Easy",
+          "balance": 255
+        },
+        {
+          "timestamp": "2026-08-07T20:24:02.094Z",
+          "delta": 30,
+          "reason": "Bounty: Fishing SOTW - Medium",
+          "balance": 285
+        },
+        {
+          "timestamp": "2026-08-20T00:02:30.989Z",
+          "delta": 49,
+          "reason": "Tenure points",
+          "balance": 334
         }
       ]
     },
