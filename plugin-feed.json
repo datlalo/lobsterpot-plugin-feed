@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-08-20T14:27:09.935Z",
+  "generated_at": "2026-08-20T14:28:47.324Z",
   "broadcasts": [
     {
-      "id": "5abb70f8-027d-4f5c-bee3-cfdc5fde5944",
-      "title": "Screenshot Contest is live!",
-      "message": "Submit your screenshot to win bonds and clan points",
+      "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
+      "title": "Vardorvis BOTW has started!",
+      "message": "Will be running until Wednesday 26th",
       "starts_at": null,
       "expires_at": null,
-      "updated_at": "2026-08-14T11:32:32.880Z"
+      "updated_at": "2026-08-20T14:28:45.489Z"
     }
   ],
   "events": [
