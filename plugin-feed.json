@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-21T13:17:41.775Z",
+  "generated_at": "2026-08-21T17:11:58.430Z",
   "broadcasts": [
     {
       "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
@@ -16521,26 +16521,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-30",
-      "points_total": 1493,
+      "points_total": 1538,
       "points_spent": 1200,
-      "points_available": 293,
+      "points_available": 338,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 507,
+        "missing_points": 462,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-29T17:48:22.165Z",
-          "delta": 25,
-          "reason": "Discord adjustment",
-          "balance": 155
-        },
         {
           "timestamp": "2026-04-29T17:52:27.055Z",
           "delta": 25,
@@ -16686,10 +16680,16 @@
           "balance": -32
         },
         {
+          "timestamp": "2026-08-21T17:11:56.916Z",
+          "delta": 45,
+          "reason": "Bounty: Vardorvis BOTW - Hard",
+          "balance": 13
+        },
+        {
           "timestamp": "2026-08-21T00:02:32.755Z",
           "delta": 325,
           "reason": "Tenure points",
-          "balance": 293
+          "balance": 338
         }
       ],
       "pending_bounties": [
@@ -16710,7 +16710,7 @@
         {
           "bounty_id": "54",
           "name": "Vardorvis BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-21T01:09:43.201Z"
         }
