@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-21T17:11:58.430Z",
+  "generated_at": "2026-08-21T17:15:00.624Z",
   "broadcasts": [
     {
       "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
@@ -16198,20 +16198,46 @@
       "rsn_key": "pokkelrobin",
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
-      "join_date": "2026-08-21",
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
+      "join_date": "2026-03-27 23:00:05.170239+00",
+      "points_total": 172,
+      "points_spent": 100,
+      "points_available": 72,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 200,
-        "missing_months": 2,
+        "missing_points": 128,
+        "missing_months": 0,
         "can_claim": false
-      }
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-04-14T20:04:08.600Z",
+          "delta": 15,
+          "reason": "Discord adjustment",
+          "balance": 15
+        },
+        {
+          "timestamp": "2026-06-07T13:53:17.218Z",
+          "delta": 10,
+          "reason": "ty for the recommendation",
+          "balance": 25
+        },
+        {
+          "timestamp": "2026-06-28T19:58:33.790Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -75
+        },
+        {
+          "timestamp": "2026-08-21T00:02:32.755Z",
+          "delta": 147,
+          "reason": "Tenure points",
+          "balance": 72
+        }
+      ]
     },
     {
       "rsn": "PolloSopa",
