@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-21T00:02:35.140Z",
+  "generated_at": "2026-08-21T01:09:44.713Z",
   "broadcasts": [
     {
       "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
@@ -16672,6 +16672,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-08-20T16:01:24.006Z"
+        },
+        {
+          "bounty_id": "54",
+          "name": "Vardorvis BOTW - Hard",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-08-21T01:09:43.201Z"
         }
       ]
     },
