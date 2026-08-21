@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-21T01:20:27.467Z",
+  "generated_at": "2026-08-21T01:23:29.775Z",
   "broadcasts": [
     {
       "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
@@ -2908,16 +2908,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-02-28",
-      "points_total": 664,
+      "points_total": 689,
       "points_spent": 650,
-      "points_available": 14,
+      "points_available": 39,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 386,
+        "missing_points": 361,
         "missing_months": 0,
         "can_claim": false
       },
@@ -3037,10 +3037,16 @@
           "balance": -160
         },
         {
+          "timestamp": "2026-08-21T01:21:55.761Z",
+          "delta": 25,
+          "reason": "Screenshot 3rd place",
+          "balance": -135
+        },
+        {
           "timestamp": "2026-08-21T00:02:32.755Z",
           "delta": 174,
           "reason": "Tenure points",
-          "balance": 14
+          "balance": 39
         }
       ]
     },
@@ -7357,16 +7363,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-21",
-      "points_total": 1014,
+      "points_total": 1064,
       "points_spent": 700,
-      "points_available": 314,
+      "points_available": 364,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 186,
+        "missing_points": 136,
         "missing_months": 0,
         "can_claim": false
       },
@@ -7510,10 +7516,16 @@
           "balance": -20
         },
         {
+          "timestamp": "2026-08-21T01:21:26.474Z",
+          "delta": 50,
+          "reason": "Screenshot 2nd place",
+          "balance": 30
+        },
+        {
           "timestamp": "2026-08-21T00:02:32.755Z",
           "delta": 334,
           "reason": "Tenure points",
-          "balance": 314
+          "balance": 364
         }
       ]
     },
@@ -7523,16 +7535,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-21",
-      "points_total": 1014,
+      "points_total": 1064,
       "points_spent": 700,
-      "points_available": 314,
+      "points_available": 364,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 186,
+        "missing_points": 136,
         "missing_months": 0,
         "can_claim": false
       },
@@ -7676,10 +7688,16 @@
           "balance": -20
         },
         {
+          "timestamp": "2026-08-21T01:21:26.474Z",
+          "delta": 50,
+          "reason": "Screenshot 2nd place",
+          "balance": 30
+        },
+        {
           "timestamp": "2026-08-21T00:02:32.755Z",
           "delta": 334,
           "reason": "Tenure points",
-          "balance": 314
+          "balance": 364
         }
       ]
     },
@@ -8123,16 +8141,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-21",
-      "points_total": 1014,
+      "points_total": 1064,
       "points_spent": 700,
-      "points_available": 314,
+      "points_available": 364,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 186,
+        "missing_points": 136,
         "missing_months": 0,
         "can_claim": false
       },
@@ -8276,10 +8294,16 @@
           "balance": -20
         },
         {
+          "timestamp": "2026-08-21T01:21:26.474Z",
+          "delta": 50,
+          "reason": "Screenshot 2nd place",
+          "balance": 30
+        },
+        {
           "timestamp": "2026-08-21T00:02:32.755Z",
           "delta": 334,
           "reason": "Tenure points",
-          "balance": 314
+          "balance": 364
         }
       ]
     },
