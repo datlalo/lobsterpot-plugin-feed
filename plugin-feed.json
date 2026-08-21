@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-21T01:09:44.713Z",
+  "generated_at": "2026-08-21T01:20:27.467Z",
   "broadcasts": [
     {
       "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
@@ -9979,16 +9979,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-03-16",
-      "points_total": 863,
+      "points_total": 938,
       "points_spent": 600,
-      "points_available": 263,
+      "points_available": 338,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 137,
+        "missing_points": 62,
         "missing_months": 0,
         "can_claim": false
       },
@@ -10138,10 +10138,16 @@
           "balance": 105
         },
         {
+          "timestamp": "2026-08-21T01:20:25.944Z",
+          "delta": 75,
+          "reason": "Screenshot Winner",
+          "balance": 180
+        },
+        {
           "timestamp": "2026-08-21T00:02:32.755Z",
           "delta": 158,
           "reason": "Tenure points",
-          "balance": 263
+          "balance": 338
         }
       ],
       "pending_bounties": [
@@ -20056,16 +20062,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-03-16",
-      "points_total": 863,
+      "points_total": 938,
       "points_spent": 600,
-      "points_available": 263,
+      "points_available": 338,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 137,
+        "missing_points": 62,
         "missing_months": 0,
         "can_claim": false
       },
@@ -20215,10 +20221,16 @@
           "balance": 105
         },
         {
+          "timestamp": "2026-08-21T01:20:25.944Z",
+          "delta": 75,
+          "reason": "Screenshot Winner",
+          "balance": 180
+        },
+        {
           "timestamp": "2026-08-21T00:02:32.755Z",
           "delta": 158,
           "reason": "Tenure points",
-          "balance": 263
+          "balance": 338
         }
       ],
       "pending_bounties": [
