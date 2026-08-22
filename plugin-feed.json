@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-22T22:57:10.217Z",
+  "generated_at": "2026-08-22T23:00:12.295Z",
   "broadcasts": [
     {
       "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
@@ -11154,6 +11154,20 @@
           "status": "pending",
           "reason": null,
           "created_at": "2026-08-22T22:57:08.708Z"
+        },
+        {
+          "bounty_id": "53",
+          "name": "Vardorvis BOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-08-22T22:57:21.167Z"
+        },
+        {
+          "bounty_id": "54",
+          "name": "Vardorvis BOTW - Hard",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-08-22T22:57:29.495Z"
         }
       ]
     },
