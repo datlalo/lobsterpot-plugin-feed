@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-22T12:02:38.114Z",
+  "generated_at": "2026-08-22T14:17:43.840Z",
   "broadcasts": [
     {
       "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
@@ -9232,6 +9232,26 @@
           "balance": 172
         }
       ]
+    },
+    {
+      "rsn": "grimmjay17",
+      "rsn_key": "grimmjay17",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-22",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "Grookshank",
@@ -23263,94 +23283,6 @@
           "delta": 370,
           "reason": "Tenure points",
           "balance": 370
-        }
-      ]
-    },
-    {
-      "rsn": "zealixi",
-      "rsn_key": "zealixi",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2026-05-23 15:00:16.833464+00",
-      "points_total": 296,
-      "points_spent": 100,
-      "points_available": 196,
-      "months_in_clan": 2,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 4,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-06-04T06:42:06.224Z",
-          "delta": 30,
-          "reason": "Recruitment",
-          "balance": 30
-        },
-        {
-          "timestamp": "2026-06-23T03:53:54.296Z",
-          "delta": 30,
-          "reason": "Bounty: Slayer BOTM Medium Bounty",
-          "balance": 60
-        },
-        {
-          "timestamp": "2026-06-25T06:41:19.383Z",
-          "delta": 15,
-          "reason": "Bounty: Slayer BOTM Easy Bounty",
-          "balance": 75
-        },
-        {
-          "timestamp": "2026-06-25T11:49:35.128Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": -25
-        },
-        {
-          "timestamp": "2026-07-02T05:04:12.603Z",
-          "delta": 15,
-          "reason": "Bounty: Farming - Easy",
-          "balance": -10
-        },
-        {
-          "timestamp": "2026-07-03T06:10:02.879Z",
-          "delta": 20,
-          "reason": "Slayer",
-          "balance": 10
-        },
-        {
-          "timestamp": "2026-07-03T14:40:43.192Z",
-          "delta": 40,
-          "reason": "Bounty: Farming - Hard",
-          "balance": 50
-        },
-        {
-          "timestamp": "2026-07-05T16:24:36.979Z",
-          "delta": 30,
-          "reason": "Bounty: Farming - Medium",
-          "balance": 80
-        },
-        {
-          "timestamp": "2026-07-07T11:55:26.258Z",
-          "delta": 5,
-          "reason": "50kc Mole Monday",
-          "balance": 85
-        },
-        {
-          "timestamp": "2026-08-04T15:43:59.536Z",
-          "delta": 20,
-          "reason": "Thank you for participating in PVM Map Sweep event.",
-          "balance": 105
-        },
-        {
-          "timestamp": "2026-08-22T00:02:34.337Z",
-          "delta": 91,
-          "reason": "Tenure points",
-          "balance": 196
         }
       ]
     },
