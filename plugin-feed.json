@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-22T14:17:43.840Z",
+  "generated_at": "2026-08-22T18:13:15.837Z",
   "broadcasts": [
     {
       "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
@@ -15787,9 +15787,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-12",
-      "points_total": 2124,
+      "points_total": 2139,
       "points_spent": 1270,
-      "points_available": 854,
+      "points_available": 869,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
@@ -15801,12 +15801,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-16T06:33:56.807Z",
-          "delta": 5,
-          "reason": "99 Magic",
-          "balance": 40
-        },
         {
           "timestamp": "2026-04-18T22:04:17.897Z",
           "delta": 5,
@@ -15952,17 +15946,23 @@
           "balance": 510
         },
         {
+          "timestamp": "2026-08-22T18:13:14.307Z",
+          "delta": 15,
+          "reason": "Bounty: Vardorvis BOTW - Easy",
+          "balance": 525
+        },
+        {
           "timestamp": "2026-08-22T00:02:34.337Z",
           "delta": 344,
           "reason": "Tenure points",
-          "balance": 854
+          "balance": 869
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "52",
           "name": "Vardorvis BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-21T21:39:39.515Z"
         }
