@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-23T19:31:57.446Z",
+  "generated_at": "2026-08-23T22:18:04.570Z",
   "broadcasts": [
     {
       "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
@@ -925,14 +925,14 @@
       "points_total": 1522,
       "points_spent": 1400,
       "points_available": 122,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
         "missing_points": 678,
-        "missing_months": 4,
+        "missing_months": 3,
         "can_claim": false
       },
       "points_history": [
@@ -1707,14 +1707,14 @@
       "points_total": 30,
       "points_spent": 0,
       "points_available": 30,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 70,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -1735,7 +1735,7 @@
       "points_total": 1252,
       "points_spent": 610,
       "points_available": 642,
-      "months_in_clan": 7,
+      "months_in_clan": 8,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -3657,14 +3657,14 @@
       "points_total": 30,
       "points_spent": 0,
       "points_available": 30,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 70,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -4605,14 +4605,14 @@
       "points_total": 260,
       "points_spent": 100,
       "points_available": 160,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
         "missing_points": 40,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -4923,7 +4923,7 @@
       "points_total": 60,
       "points_spent": 0,
       "points_available": 60,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -6521,7 +6521,7 @@
       "points_total": 95,
       "points_spent": 0,
       "points_available": 95,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -6864,7 +6864,7 @@
       "points_total": 91,
       "points_spent": 0,
       "points_available": 91,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -8743,7 +8743,7 @@
       "points_total": 60,
       "points_spent": 0,
       "points_available": 60,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -9043,14 +9043,14 @@
       "points_total": 105,
       "points_spent": 100,
       "points_available": 5,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
         "missing_points": 195,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -10252,6 +10252,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-08-20T02:26:49.541Z"
+        },
+        {
+          "bounty_id": "53",
+          "name": "Vardorvis BOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-08-23T22:18:03.032Z"
         }
       ]
     },
@@ -12483,7 +12490,7 @@
       "points_total": 91,
       "points_spent": 0,
       "points_available": 91,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -12573,14 +12580,14 @@
       "points_total": 1522,
       "points_spent": 1400,
       "points_available": 122,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
         "missing_points": 678,
-        "missing_months": 4,
+        "missing_months": 3,
         "can_claim": false
       },
       "points_history": [
@@ -13536,7 +13543,7 @@
       "points_total": 364,
       "points_spent": 300,
       "points_available": 64,
-      "months_in_clan": 11,
+      "months_in_clan": 12,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -14338,14 +14345,14 @@
       "points_total": 190,
       "points_spent": 100,
       "points_available": 90,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
         "missing_points": 110,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -14408,14 +14415,14 @@
       "points_total": 190,
       "points_spent": 100,
       "points_available": 90,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
         "missing_points": 110,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -18805,7 +18812,7 @@
       "points_total": 91,
       "points_spent": 0,
       "points_available": 91,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -20588,6 +20595,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-08-20T02:26:49.541Z"
+        },
+        {
+          "bounty_id": "53",
+          "name": "Vardorvis BOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-08-23T22:18:03.032Z"
         }
       ]
     },
@@ -22934,15 +22948,15 @@
       "points_total": 125,
       "points_spent": 0,
       "points_available": 125,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 0,
-        "missing_months": 1,
-        "can_claim": false
+        "missing_months": 0,
+        "can_claim": true
       },
       "points_history": [
         {
