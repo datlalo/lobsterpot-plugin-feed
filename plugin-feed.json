@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-23T16:39:10.083Z",
+  "generated_at": "2026-08-23T19:25:53.057Z",
   "broadcasts": [
     {
       "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
@@ -1091,6 +1091,15 @@
           "delta": 272,
           "reason": "Tenure points",
           "balance": 122
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "52",
+          "name": "Vardorvis BOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-08-23T19:25:51.545Z"
         }
       ]
     },
@@ -12709,6 +12718,15 @@
           "delta": 272,
           "reason": "Tenure points",
           "balance": 122
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "52",
+          "name": "Vardorvis BOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-08-23T19:25:51.545Z"
         }
       ]
     },
