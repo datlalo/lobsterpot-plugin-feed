@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-24T00:02:39.943Z",
+  "generated_at": "2026-08-24T02:32:46.409Z",
   "broadcasts": [
     {
       "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
@@ -10919,6 +10919,100 @@
           "delta": 96,
           "reason": "Tenure points",
           "balance": 96
+        }
+      ]
+    },
+    {
+      "rsn": "Iodak",
+      "rsn_key": "iodak",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-12-02",
+      "points_total": 615,
+      "points_spent": 340,
+      "points_available": 275,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 25,
+        "missing_months": 0,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-01-21T09:43:22.034Z",
+          "delta": 0,
+          "reason": "Account change: Change Join Date to \"2025-12-02\"",
+          "balance": 50
+        },
+        {
+          "timestamp": "2026-01-31T12:55:35.958Z",
+          "delta": 50,
+          "reason": "bingo participation",
+          "balance": 100
+        },
+        {
+          "timestamp": "2026-01-31T13:29:36.419Z",
+          "delta": -100,
+          "reason": "Rank upgraded to: Sapphire",
+          "balance": 0
+        },
+        {
+          "timestamp": "2026-02-17T11:07:23.178Z",
+          "delta": 30,
+          "reason": "Bounty reward: Medium Tier Bounty",
+          "balance": 30
+        },
+        {
+          "timestamp": "2026-02-17T11:07:24.748Z",
+          "delta": 15,
+          "reason": "Bounty reward: Easy Tier Bounty",
+          "balance": 45
+        },
+        {
+          "timestamp": "2026-02-17T13:17:53.592Z",
+          "delta": 40,
+          "reason": "Bounty reward: Hard Tier Bounty",
+          "balance": 85
+        },
+        {
+          "timestamp": "2026-02-17T20:10:14.402Z",
+          "delta": 100,
+          "reason": "Bounty reward: Grandmaster Tier Bounty",
+          "balance": 185
+        },
+        {
+          "timestamp": "2026-02-22T21:16:22.550Z",
+          "delta": 60,
+          "reason": "Bounty reward: Elite Tier Bounty",
+          "balance": 245
+        },
+        {
+          "timestamp": "2026-02-23T07:53:22.108Z",
+          "delta": -200,
+          "reason": "Rank upgraded to: Emerald",
+          "balance": 45
+        },
+        {
+          "timestamp": "2026-03-02T19:20:55.055Z",
+          "delta": -40,
+          "reason": "Raffle tickets x4 (retroactive fix)",
+          "balance": 5
+        },
+        {
+          "timestamp": "2026-04-14T19:59:54.423Z",
+          "delta": 5,
+          "reason": "Discord adjustment",
+          "balance": 10
+        },
+        {
+          "timestamp": "2026-08-24T00:02:37.440Z",
+          "delta": 265,
+          "reason": "Tenure points",
+          "balance": 275
         }
       ]
     },
@@ -23154,100 +23248,6 @@
           "delta": 15,
           "reason": "Tenure points",
           "balance": 15
-        }
-      ]
-    },
-    {
-      "rsn": "xBinks",
-      "rsn_key": "xbinks",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
-      "join_date": "2025-12-02",
-      "points_total": 615,
-      "points_spent": 340,
-      "points_available": 275,
-      "months_in_clan": 8,
-      "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 25,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-01-21T09:43:22.034Z",
-          "delta": 0,
-          "reason": "Account change: Change Join Date to \"2025-12-02\"",
-          "balance": 50
-        },
-        {
-          "timestamp": "2026-01-31T12:55:35.958Z",
-          "delta": 50,
-          "reason": "bingo participation",
-          "balance": 100
-        },
-        {
-          "timestamp": "2026-01-31T13:29:36.419Z",
-          "delta": -100,
-          "reason": "Rank upgraded to: Sapphire",
-          "balance": 0
-        },
-        {
-          "timestamp": "2026-02-17T11:07:23.178Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier Bounty",
-          "balance": 30
-        },
-        {
-          "timestamp": "2026-02-17T11:07:24.748Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier Bounty",
-          "balance": 45
-        },
-        {
-          "timestamp": "2026-02-17T13:17:53.592Z",
-          "delta": 40,
-          "reason": "Bounty reward: Hard Tier Bounty",
-          "balance": 85
-        },
-        {
-          "timestamp": "2026-02-17T20:10:14.402Z",
-          "delta": 100,
-          "reason": "Bounty reward: Grandmaster Tier Bounty",
-          "balance": 185
-        },
-        {
-          "timestamp": "2026-02-22T21:16:22.550Z",
-          "delta": 60,
-          "reason": "Bounty reward: Elite Tier Bounty",
-          "balance": 245
-        },
-        {
-          "timestamp": "2026-02-23T07:53:22.108Z",
-          "delta": -200,
-          "reason": "Rank upgraded to: Emerald",
-          "balance": 45
-        },
-        {
-          "timestamp": "2026-03-02T19:20:55.055Z",
-          "delta": -40,
-          "reason": "Raffle tickets x4 (retroactive fix)",
-          "balance": 5
-        },
-        {
-          "timestamp": "2026-04-14T19:59:54.423Z",
-          "delta": 5,
-          "reason": "Discord adjustment",
-          "balance": 10
-        },
-        {
-          "timestamp": "2026-08-24T00:02:37.440Z",
-          "delta": 265,
-          "reason": "Tenure points",
-          "balance": 275
         }
       ]
     },
