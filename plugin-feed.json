@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-24T23:47:19.965Z",
+  "generated_at": "2026-08-24T23:50:22.171Z",
   "broadcasts": [
     {
       "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
@@ -922,44 +922,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-24",
-      "points_total": 1523,
+      "points_total": 1688,
       "points_spent": 1400,
-      "points_available": 123,
+      "points_available": 288,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 677,
+        "missing_points": 512,
         "missing_months": 3,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-01-31T16:24:59.105Z",
-          "delta": -200,
-          "reason": "Rank upgraded to: Emerald",
-          "balance": 180
-        },
-        {
-          "timestamp": "2026-02-11T13:35:16.615Z",
-          "delta": 15,
-          "reason": "participated in TOA Tuesday",
-          "balance": 195
-        },
-        {
-          "timestamp": "2026-02-17T11:23:33.885Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier Bounty",
-          "balance": 210
-        },
-        {
-          "timestamp": "2026-02-17T11:23:35.092Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier Bounty",
-          "balance": 240
-        },
         {
           "timestamp": "2026-02-17T20:08:22.265Z",
           "delta": 15,
@@ -1087,38 +1063,62 @@
           "balance": -150
         },
         {
+          "timestamp": "2026-08-24T23:48:18.792Z",
+          "delta": 15,
+          "reason": "Bounty: Vardorvis BOTW - Easy",
+          "balance": -135
+        },
+        {
+          "timestamp": "2026-08-24T23:48:20.994Z",
+          "delta": 30,
+          "reason": "Bounty: Vardorvis BOTW - Medium",
+          "balance": -105
+        },
+        {
+          "timestamp": "2026-08-24T23:48:24.612Z",
+          "delta": 45,
+          "reason": "Bounty: Vardorvis BOTW - Hard",
+          "balance": -60
+        },
+        {
+          "timestamp": "2026-08-24T23:48:27.757Z",
+          "delta": 75,
+          "reason": "Bounty: Vardorvis BOTW - Master",
+          "balance": 15
+        },
+        {
           "timestamp": "2026-08-24T00:02:37.440Z",
           "delta": 273,
           "reason": "Tenure points",
-          "balance": 123
+          "balance": 288
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "52",
           "name": "Vardorvis BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-23T19:25:51.545Z"
         },
         {
           "bounty_id": "53",
           "name": "Vardorvis BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-23T19:25:57.502Z"
         },
         {
           "bounty_id": "54",
           "name": "Vardorvis BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-23T19:26:03.754Z"
         },
         {
           "bounty_id": "56",
           "name": "Vardorvis BOTW - Master",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-23T19:30:10.746Z"
         }
@@ -10121,26 +10121,20 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-03-16",
-      "points_total": 941,
+      "points_total": 971,
       "points_spent": 600,
-      "points_available": 341,
+      "points_available": 371,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 59,
+        "missing_points": 29,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-09T07:12:47.079Z",
-          "delta": 60,
-          "reason": "Bounty reward: Elite Tier - Giant Mole",
-          "balance": 60
-        },
         {
           "timestamp": "2026-04-09T07:12:48.198Z",
           "delta": 40,
@@ -10286,10 +10280,16 @@
           "balance": 180
         },
         {
+          "timestamp": "2026-08-24T23:47:40.430Z",
+          "delta": 30,
+          "reason": "Bounty: Vardorvis BOTW - Medium",
+          "balance": 210
+        },
+        {
           "timestamp": "2026-08-24T00:02:37.440Z",
           "delta": 161,
           "reason": "Tenure points",
-          "balance": 341
+          "balance": 371
         }
       ],
       "pending_bounties": [
@@ -10303,7 +10303,7 @@
         {
           "bounty_id": "53",
           "name": "Vardorvis BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-23T22:18:03.032Z"
         }
@@ -12718,44 +12718,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-24",
-      "points_total": 1523,
+      "points_total": 1688,
       "points_spent": 1400,
-      "points_available": 123,
+      "points_available": 288,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 677,
+        "missing_points": 512,
         "missing_months": 3,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-01-31T16:24:59.105Z",
-          "delta": -200,
-          "reason": "Rank upgraded to: Emerald",
-          "balance": 180
-        },
-        {
-          "timestamp": "2026-02-11T13:35:16.615Z",
-          "delta": 15,
-          "reason": "participated in TOA Tuesday",
-          "balance": 195
-        },
-        {
-          "timestamp": "2026-02-17T11:23:33.885Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier Bounty",
-          "balance": 210
-        },
-        {
-          "timestamp": "2026-02-17T11:23:35.092Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier Bounty",
-          "balance": 240
-        },
         {
           "timestamp": "2026-02-17T20:08:22.265Z",
           "delta": 15,
@@ -12883,38 +12859,62 @@
           "balance": -150
         },
         {
+          "timestamp": "2026-08-24T23:48:18.792Z",
+          "delta": 15,
+          "reason": "Bounty: Vardorvis BOTW - Easy",
+          "balance": -135
+        },
+        {
+          "timestamp": "2026-08-24T23:48:20.994Z",
+          "delta": 30,
+          "reason": "Bounty: Vardorvis BOTW - Medium",
+          "balance": -105
+        },
+        {
+          "timestamp": "2026-08-24T23:48:24.612Z",
+          "delta": 45,
+          "reason": "Bounty: Vardorvis BOTW - Hard",
+          "balance": -60
+        },
+        {
+          "timestamp": "2026-08-24T23:48:27.757Z",
+          "delta": 75,
+          "reason": "Bounty: Vardorvis BOTW - Master",
+          "balance": 15
+        },
+        {
           "timestamp": "2026-08-24T00:02:37.440Z",
           "delta": 273,
           "reason": "Tenure points",
-          "balance": 123
+          "balance": 288
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "52",
           "name": "Vardorvis BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-23T19:25:51.545Z"
         },
         {
           "bounty_id": "53",
           "name": "Vardorvis BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-23T19:25:57.502Z"
         },
         {
           "bounty_id": "54",
           "name": "Vardorvis BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-23T19:26:03.754Z"
         },
         {
           "bounty_id": "56",
           "name": "Vardorvis BOTW - Master",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-23T19:30:10.746Z"
         }
@@ -20578,26 +20578,20 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-03-16",
-      "points_total": 941,
+      "points_total": 971,
       "points_spent": 600,
-      "points_available": 341,
+      "points_available": 371,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 59,
+        "missing_points": 29,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-09T07:12:47.079Z",
-          "delta": 60,
-          "reason": "Bounty reward: Elite Tier - Giant Mole",
-          "balance": 60
-        },
         {
           "timestamp": "2026-04-09T07:12:48.198Z",
           "delta": 40,
@@ -20743,10 +20737,16 @@
           "balance": 180
         },
         {
+          "timestamp": "2026-08-24T23:47:40.430Z",
+          "delta": 30,
+          "reason": "Bounty: Vardorvis BOTW - Medium",
+          "balance": 210
+        },
+        {
           "timestamp": "2026-08-24T00:02:37.440Z",
           "delta": 161,
           "reason": "Tenure points",
-          "balance": 341
+          "balance": 371
         }
       ],
       "pending_bounties": [
@@ -20760,7 +20760,7 @@
         {
           "bounty_id": "53",
           "name": "Vardorvis BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-23T22:18:03.032Z"
         }
