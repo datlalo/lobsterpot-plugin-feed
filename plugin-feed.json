@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-25T00:05:09.349Z",
+  "generated_at": "2026-08-25T10:02:50.365Z",
   "broadcasts": [
     {
       "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
@@ -3439,6 +3439,18 @@
           "balance": 75
         }
       ]
+    },
+    {
+      "rsn": "bh0und",
+      "rsn_key": "bh0und",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-08-25",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
     },
     {
       "rsn": "biffbcool",
@@ -18563,34 +18575,6 @@
       ]
     },
     {
-      "rsn": "senpai daddy",
-      "rsn_key": "senpaidaddy",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-08-21",
-      "points_total": 4,
-      "points_spent": 0,
-      "points_available": 4,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 96,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-25T00:02:39.008Z",
-          "delta": 4,
-          "reason": "Tenure points",
-          "balance": 4
-        }
-      ]
-    },
-    {
       "rsn": "Shadow Dream",
       "rsn_key": "shadowdream",
       "bot_rank": "Sapphire",
@@ -21662,34 +21646,6 @@
       ]
     },
     {
-      "rsn": "turbarn",
-      "rsn_key": "turbarn",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-08-16",
-      "points_total": 9,
-      "points_spent": 0,
-      "points_available": 9,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 91,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-25T00:02:39.008Z",
-          "delta": 9,
-          "reason": "Tenure points",
-          "balance": 9
-        }
-      ]
-    },
-    {
       "rsn": "turbarnx",
       "rsn_key": "turbarnx",
       "bot_rank": "Gnome",
@@ -22722,6 +22678,26 @@
           "balance": 31
         }
       ]
+    },
+    {
+      "rsn": "Weddy Woo",
+      "rsn_key": "weddywoo",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-25",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "weebles92",
