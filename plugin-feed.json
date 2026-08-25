@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-25T13:24:13.562Z",
+  "generated_at": "2026-08-25T14:31:26.901Z",
   "broadcasts": [
     {
       "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
@@ -11386,9 +11386,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-08-11",
-      "points_total": 104,
+      "points_total": 164,
       "points_spent": 0,
-      "points_available": 104,
+      "points_available": 164,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
@@ -11419,10 +11419,16 @@
           "balance": 90
         },
         {
+          "timestamp": "2026-08-25T14:31:25.394Z",
+          "delta": 60,
+          "reason": "Bounty: Vardorvis BOTW - Elite",
+          "balance": 150
+        },
+        {
           "timestamp": "2026-08-25T00:02:39.008Z",
           "delta": 14,
           "reason": "Tenure points",
-          "balance": 104
+          "balance": 164
         }
       ],
       "pending_bounties": [
@@ -11450,7 +11456,7 @@
         {
           "bounty_id": "55",
           "name": "Vardorvis BOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-25T00:02:05.633Z"
         }
