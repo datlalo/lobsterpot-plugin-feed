@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-25T18:37:10.794Z",
+  "generated_at": "2026-08-25T22:40:47.953Z",
   "broadcasts": [
     {
       "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
@@ -1161,7 +1161,7 @@
       "points_total": 525,
       "points_spent": 300,
       "points_available": 225,
-      "months_in_clan": 5,
+      "months_in_clan": 6,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -2499,7 +2499,7 @@
       "points_total": 525,
       "points_spent": 300,
       "points_available": 225,
-      "months_in_clan": 5,
+      "months_in_clan": 6,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -4271,7 +4271,7 @@
       "points_total": 333,
       "points_spent": 0,
       "points_available": 333,
-      "months_in_clan": 10,
+      "months_in_clan": 11,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -6065,7 +6065,7 @@
       "points_total": 272,
       "points_spent": 0,
       "points_available": 272,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -7536,6 +7536,15 @@
           "reason": "Tenure points",
           "balance": 368
         }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "52",
+          "name": "Vardorvis BOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-08-25T22:40:46.445Z"
+        }
       ]
     },
     {
@@ -7707,6 +7716,15 @@
           "delta": 338,
           "reason": "Tenure points",
           "balance": 368
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "52",
+          "name": "Vardorvis BOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-08-25T22:40:46.445Z"
         }
       ]
     },
@@ -8365,6 +8383,15 @@
           "delta": 338,
           "reason": "Tenure points",
           "balance": 368
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "52",
+          "name": "Vardorvis BOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-08-25T22:40:46.445Z"
         }
       ]
     },
@@ -12487,7 +12514,7 @@
       "points_total": 180,
       "points_spent": 100,
       "points_available": 80,
-      "months_in_clan": 5,
+      "months_in_clan": 6,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -14146,7 +14173,7 @@
       "points_total": 805,
       "points_spent": 500,
       "points_available": 305,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -17491,7 +17518,7 @@
       "points_total": 525,
       "points_spent": 300,
       "points_available": 225,
-      "months_in_clan": 5,
+      "months_in_clan": 6,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -17665,7 +17692,7 @@
       "points_total": 943,
       "points_spent": 500,
       "points_available": 443,
-      "months_in_clan": 21,
+      "months_in_clan": 22,
       "next_rank": null,
       "points_history": [
         {
@@ -20114,7 +20141,7 @@
       "points_total": 151,
       "points_spent": 0,
       "points_available": 151,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -20970,7 +20997,7 @@
       "points_total": 943,
       "points_spent": 500,
       "points_available": 443,
-      "months_in_clan": 21,
+      "months_in_clan": 22,
       "next_rank": null,
       "points_history": [
         {
@@ -22671,7 +22698,7 @@
       "points_total": 934,
       "points_spent": 300,
       "points_available": 634,
-      "months_in_clan": 11,
+      "months_in_clan": 12,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
