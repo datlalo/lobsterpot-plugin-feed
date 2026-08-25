@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-25T14:34:29.584Z",
+  "generated_at": "2026-08-25T16:17:51.018Z",
   "broadcasts": [
     {
       "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
@@ -3689,70 +3689,6 @@
       ]
     },
     {
-      "rsn": "BlTCOONEECT",
-      "rsn_key": "bltcooneect",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2026-04-29",
-      "points_total": 283,
-      "points_spent": 100,
-      "points_available": 183,
-      "months_in_clan": 3,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 17,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-06-25T08:25:06.498Z",
-          "delta": 30,
-          "reason": "Recruit",
-          "balance": 30
-        },
-        {
-          "timestamp": "2026-07-07T17:24:09.087Z",
-          "delta": 15,
-          "reason": "Bounty: Farming - Easy",
-          "balance": 45
-        },
-        {
-          "timestamp": "2026-07-08T00:14:39.668Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": -55
-        },
-        {
-          "timestamp": "2026-08-07T20:24:23.867Z",
-          "delta": 15,
-          "reason": "Bounty: Fishing SOTW - Easy",
-          "balance": -40
-        },
-        {
-          "timestamp": "2026-08-08T19:52:59.760Z",
-          "delta": 75,
-          "reason": "Bounty: Fishing SOTW - Master",
-          "balance": 35
-        },
-        {
-          "timestamp": "2026-08-11T20:37:59.346Z",
-          "delta": 30,
-          "reason": "Bounty: Fishing SOTW - Medium",
-          "balance": 65
-        },
-        {
-          "timestamp": "2026-08-25T00:02:39.008Z",
-          "delta": 118,
-          "reason": "Tenure points",
-          "balance": 183
-        }
-      ]
-    },
-    {
       "rsn": "BlzdTim",
       "rsn_key": "blzdtim",
       "bot_rank": "Gnome",
@@ -7381,6 +7317,26 @@
           "balance": 360
         }
       ]
+    },
+    {
+      "rsn": "fermiht",
+      "rsn_key": "fermiht",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-25",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "ferrumdea",
@@ -20799,70 +20755,6 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-08-23T22:18:03.032Z"
-        }
-      ]
-    },
-    {
-      "rsn": "Swip3r",
-      "rsn_key": "swip3r",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2026-04-29",
-      "points_total": 283,
-      "points_spent": 100,
-      "points_available": 183,
-      "months_in_clan": 3,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 17,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-06-25T08:25:06.498Z",
-          "delta": 30,
-          "reason": "Recruit",
-          "balance": 30
-        },
-        {
-          "timestamp": "2026-07-07T17:24:09.087Z",
-          "delta": 15,
-          "reason": "Bounty: Farming - Easy",
-          "balance": 45
-        },
-        {
-          "timestamp": "2026-07-08T00:14:39.668Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": -55
-        },
-        {
-          "timestamp": "2026-08-07T20:24:23.867Z",
-          "delta": 15,
-          "reason": "Bounty: Fishing SOTW - Easy",
-          "balance": -40
-        },
-        {
-          "timestamp": "2026-08-08T19:52:59.760Z",
-          "delta": 75,
-          "reason": "Bounty: Fishing SOTW - Master",
-          "balance": 35
-        },
-        {
-          "timestamp": "2026-08-11T20:37:59.346Z",
-          "delta": 30,
-          "reason": "Bounty: Fishing SOTW - Medium",
-          "balance": 65
-        },
-        {
-          "timestamp": "2026-08-25T00:02:39.008Z",
-          "delta": 118,
-          "reason": "Tenure points",
-          "balance": 183
         }
       ]
     },
