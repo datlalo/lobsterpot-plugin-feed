@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-26T14:15:41.226Z",
+  "generated_at": "2026-08-26T14:18:43.737Z",
   "broadcasts": [
     {
       "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
@@ -912,26 +912,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-24",
-      "points_total": 1690,
+      "points_total": 1705,
       "points_spent": 1400,
-      "points_available": 290,
+      "points_available": 305,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 510,
+        "missing_points": 495,
         "missing_months": 3,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-17T20:08:22.265Z",
-          "delta": 15,
-          "reason": "wintertodt and movie",
-          "balance": 255
-        },
         {
           "timestamp": "2026-02-19T01:09:58.738Z",
           "delta": 40,
@@ -1077,10 +1071,16 @@
           "balance": 15
         },
         {
+          "timestamp": "2026-08-26T14:17:17.344Z",
+          "delta": 15,
+          "reason": "Vardorvis BOTW - 4th-6th place",
+          "balance": 30
+        },
+        {
           "timestamp": "2026-08-26T00:02:40.608Z",
           "delta": 275,
           "reason": "Tenure points",
-          "balance": 290
+          "balance": 305
         }
       ],
       "pending_bounties": [
@@ -6524,26 +6524,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-02-14",
-      "points_total": 1248,
+      "points_total": 1298,
       "points_spent": 800,
-      "points_available": 448,
+      "points_available": 498,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 52,
+        "missing_points": 2,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-18T14:18:10.690Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier - Woodcutting",
-          "balance": 145
-        },
         {
           "timestamp": "2026-03-18T14:18:11.893Z",
           "delta": 15,
@@ -6689,10 +6683,16 @@
           "balance": 255
         },
         {
+          "timestamp": "2026-08-26T14:16:05.191Z",
+          "delta": 50,
+          "reason": "Vardorvis BOTW 2nd place",
+          "balance": 305
+        },
+        {
           "timestamp": "2026-08-26T00:02:40.608Z",
           "delta": 193,
           "reason": "Tenure points",
-          "balance": 448
+          "balance": 498
         }
       ],
       "pending_bounties": [
@@ -11419,9 +11419,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-08-11",
-      "points_total": 165,
+      "points_total": 195,
       "points_spent": 0,
-      "points_available": 165,
+      "points_available": 195,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
@@ -11458,10 +11458,16 @@
           "balance": 150
         },
         {
+          "timestamp": "2026-08-26T14:16:30.823Z",
+          "delta": 30,
+          "reason": "Vardorvis BOTW - 3rd place",
+          "balance": 180
+        },
+        {
           "timestamp": "2026-08-26T00:02:40.608Z",
           "delta": 15,
           "reason": "Tenure points",
-          "balance": 165
+          "balance": 195
         }
       ],
       "pending_bounties": [
@@ -12821,26 +12827,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-24",
-      "points_total": 1690,
+      "points_total": 1705,
       "points_spent": 1400,
-      "points_available": 290,
+      "points_available": 305,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 510,
+        "missing_points": 495,
         "missing_months": 3,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-17T20:08:22.265Z",
-          "delta": 15,
-          "reason": "wintertodt and movie",
-          "balance": 255
-        },
         {
           "timestamp": "2026-02-19T01:09:58.738Z",
           "delta": 40,
@@ -12986,10 +12986,16 @@
           "balance": 15
         },
         {
+          "timestamp": "2026-08-26T14:17:17.344Z",
+          "delta": 15,
+          "reason": "Vardorvis BOTW - 4th-6th place",
+          "balance": 30
+        },
+        {
           "timestamp": "2026-08-26T00:02:40.608Z",
           "delta": 275,
           "reason": "Tenure points",
-          "balance": 290
+          "balance": 305
         }
       ],
       "pending_bounties": [
@@ -17032,26 +17038,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-30",
-      "points_total": 1603,
+      "points_total": 1618,
       "points_spent": 1200,
-      "points_available": 403,
+      "points_available": 418,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 397,
+        "missing_points": 382,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-05-05T20:20:45.294Z",
-          "delta": 50,
-          "reason": "Discord adjustment",
-          "balance": 230
-        },
         {
           "timestamp": "2026-06-23T05:05:06.919Z",
           "delta": 15,
@@ -17197,10 +17197,16 @@
           "balance": 73
         },
         {
+          "timestamp": "2026-08-26T14:17:17.343Z",
+          "delta": 15,
+          "reason": "Vardorvis BOTW - 4th-6th place",
+          "balance": 88
+        },
+        {
           "timestamp": "2026-08-26T00:02:40.608Z",
           "delta": 330,
           "reason": "Tenure points",
-          "balance": 403
+          "balance": 418
         }
       ],
       "pending_bounties": [
@@ -18394,26 +18400,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-10-11",
-      "points_total": 2123,
+      "points_total": 2138,
       "points_spent": 1400,
-      "points_available": 723,
+      "points_available": 738,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 77,
+        "missing_points": 62,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-13T11:07:47.708Z",
-          "delta": 30,
-          "reason": "BOTM 4th-6th place",
-          "balance": 100
-        },
         {
           "timestamp": "2026-04-14T20:07:30.366Z",
           "delta": 35,
@@ -18559,10 +18559,16 @@
           "balance": 404
         },
         {
+          "timestamp": "2026-08-26T14:17:17.348Z",
+          "delta": 15,
+          "reason": "Vardorvis BOTW - 4th-6th place",
+          "balance": 419
+        },
+        {
           "timestamp": "2026-08-26T00:02:40.608Z",
           "delta": 319,
           "reason": "Tenure points",
-          "balance": 723
+          "balance": 738
         }
       ],
       "pending_bounties": [
