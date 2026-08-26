@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-26T07:47:51.226Z",
+  "generated_at": "2026-08-26T08:43:57.361Z",
   "broadcasts": [
     {
       "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
@@ -16164,9 +16164,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-12",
-      "points_total": 2148,
+      "points_total": 2178,
       "points_spent": 1270,
-      "points_available": 878,
+      "points_available": 908,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
@@ -16178,12 +16178,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-18T22:19:33.582Z",
-          "delta": 15,
-          "reason": "50m xp in a skill on leagues",
-          "balance": 60
-        },
         {
           "timestamp": "2026-04-21T05:24:14.250Z",
           "delta": 35,
@@ -16329,10 +16323,16 @@
           "balance": 530
         },
         {
+          "timestamp": "2026-08-26T08:43:55.839Z",
+          "delta": 30,
+          "reason": "Bounty: Vardorvis BOTW - Medium",
+          "balance": 560
+        },
+        {
           "timestamp": "2026-08-26T00:02:40.608Z",
           "delta": 348,
           "reason": "Tenure points",
-          "balance": 878
+          "balance": 908
         }
       ],
       "pending_bounties": [
@@ -16346,7 +16346,7 @@
         {
           "bounty_id": "53",
           "name": "Vardorvis BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-25T18:37:09.286Z"
         }
