@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-26T08:47:00.081Z",
+  "generated_at": "2026-08-26T11:17:52.319Z",
   "broadcasts": [
     {
       "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
@@ -12,16 +12,6 @@
     }
   ],
   "events": [
-    {
-      "id": "1539242722282569838",
-      "type": "event",
-      "title": "Vardorvis - Boss of the Week",
-      "location": "Stranglewood Ritual Site",
-      "starts_at": "2026-08-19T11:00:00.000Z",
-      "ends_at": "2026-08-26T11:00:00.000Z",
-      "description": "",
-      "thread_id": "1539242722282569838"
-    },
     {
       "id": "1533784639846617209",
       "type": "event",
@@ -5283,6 +5273,26 @@
           "balance": 215
         }
       ]
+    },
+    {
+      "rsn": "Crystal dag",
+      "rsn_key": "crystaldag",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-26",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "dabz gim",
