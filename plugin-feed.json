@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-26T08:43:57.361Z",
+  "generated_at": "2026-08-26T08:47:00.081Z",
   "broadcasts": [
     {
       "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
@@ -7388,16 +7388,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-21",
-      "points_total": 1069,
+      "points_total": 1084,
       "points_spent": 700,
-      "points_available": 369,
+      "points_available": 384,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 131,
+        "missing_points": 116,
         "missing_months": 0,
         "can_claim": false
       },
@@ -7547,17 +7547,23 @@
           "balance": 30
         },
         {
+          "timestamp": "2026-08-26T08:44:02.932Z",
+          "delta": 15,
+          "reason": "Bounty: Vardorvis BOTW - Easy",
+          "balance": 45
+        },
+        {
           "timestamp": "2026-08-26T00:02:40.608Z",
           "delta": 339,
           "reason": "Tenure points",
-          "balance": 369
+          "balance": 384
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "52",
           "name": "Vardorvis BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-25T22:40:46.445Z"
         }
@@ -7569,16 +7575,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-21",
-      "points_total": 1069,
+      "points_total": 1084,
       "points_spent": 700,
-      "points_available": 369,
+      "points_available": 384,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 131,
+        "missing_points": 116,
         "missing_months": 0,
         "can_claim": false
       },
@@ -7728,17 +7734,23 @@
           "balance": 30
         },
         {
+          "timestamp": "2026-08-26T08:44:02.932Z",
+          "delta": 15,
+          "reason": "Bounty: Vardorvis BOTW - Easy",
+          "balance": 45
+        },
+        {
           "timestamp": "2026-08-26T00:02:40.608Z",
           "delta": 339,
           "reason": "Tenure points",
-          "balance": 369
+          "balance": 384
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "52",
           "name": "Vardorvis BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-25T22:40:46.445Z"
         }
@@ -8236,16 +8248,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-21",
-      "points_total": 1069,
+      "points_total": 1084,
       "points_spent": 700,
-      "points_available": 369,
+      "points_available": 384,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 131,
+        "missing_points": 116,
         "missing_months": 0,
         "can_claim": false
       },
@@ -8395,17 +8407,23 @@
           "balance": 30
         },
         {
+          "timestamp": "2026-08-26T08:44:02.932Z",
+          "delta": 15,
+          "reason": "Bounty: Vardorvis BOTW - Easy",
+          "balance": 45
+        },
+        {
           "timestamp": "2026-08-26T00:02:40.608Z",
           "delta": 339,
           "reason": "Tenure points",
-          "balance": 369
+          "balance": 384
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "52",
           "name": "Vardorvis BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-25T22:40:46.445Z"
         }
@@ -17004,26 +17022,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-30",
-      "points_total": 1543,
+      "points_total": 1603,
       "points_spent": 1200,
-      "points_available": 343,
+      "points_available": 403,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 457,
+        "missing_points": 397,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-29T17:52:27.055Z",
-          "delta": 25,
-          "reason": "Leagues POints",
-          "balance": 180
-        },
         {
           "timestamp": "2026-05-05T20:20:45.294Z",
           "delta": 50,
@@ -17169,10 +17181,16 @@
           "balance": 13
         },
         {
+          "timestamp": "2026-08-26T08:44:00.440Z",
+          "delta": 60,
+          "reason": "Bounty: Vardorvis BOTW - Elite",
+          "balance": 73
+        },
+        {
           "timestamp": "2026-08-26T00:02:40.608Z",
           "delta": 330,
           "reason": "Tenure points",
-          "balance": 343
+          "balance": 403
         }
       ],
       "pending_bounties": [
@@ -17200,7 +17218,7 @@
         {
           "bounty_id": "55",
           "name": "Vardorvis BOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-08-26T02:23:53.481Z"
         }
