@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-27T09:03:20.292Z",
+  "generated_at": "2026-08-27T09:06:22.416Z",
   "broadcasts": [
     {
       "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
@@ -5072,20 +5072,52 @@
     {
       "rsn": "corti sol",
       "rsn_key": "cortisol",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2026-08-22",
-      "points_total": 5,
-      "points_spent": 0,
-      "points_available": 5,
-      "months_in_clan": 0,
-      "next_rank": null,
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-07-10",
+      "points_total": 138,
+      "points_spent": 100,
+      "points_available": 38,
+      "months_in_clan": 1,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 162,
+        "missing_months": 1,
+        "can_claim": false
+      },
       "points_history": [
         {
-          "timestamp": "2026-08-27T00:02:42.186Z",
-          "delta": 5,
+          "timestamp": "2026-08-05T16:34:15.302Z",
+          "delta": 15,
+          "reason": "Bounty: Fishing SOTW - Easy",
+          "balance": 15
+        },
+        {
+          "timestamp": "2026-08-06T05:14:54.522Z",
+          "delta": 30,
+          "reason": "Bounty: Fishing SOTW - Medium",
+          "balance": 45
+        },
+        {
+          "timestamp": "2026-08-06T20:49:58.868Z",
+          "delta": 45,
+          "reason": "Bounty: Fishing SOTW - Hard",
+          "balance": 90
+        },
+        {
+          "timestamp": "2026-08-09T23:26:59.414Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -10
+        },
+        {
+          "timestamp": "2026-08-27T09:05:12.082Z",
+          "delta": 48,
           "reason": "Tenure points",
-          "balance": 5
+          "balance": 38
         }
       ]
     },
@@ -9616,7 +9648,7 @@
           "balance": -65
         },
         {
-          "timestamp": "2026-08-27T00:02:42.186Z",
+          "timestamp": "2026-08-27T09:04:16.345Z",
           "delta": 254,
           "reason": "Tenure points",
           "balance": 189
@@ -21686,20 +21718,118 @@
     {
       "rsn": "Uncharted Rs",
       "rsn_key": "unchartedrs",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2026-08-24",
-      "points_total": 3,
-      "points_spent": 0,
-      "points_available": 3,
-      "months_in_clan": 0,
-      "next_rank": null,
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2025-12-16 18:05:33.310017+00",
+      "points_total": 689,
+      "points_spent": 500,
+      "points_available": 189,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 111,
+        "missing_months": 0,
+        "can_claim": false
+      },
       "points_history": [
         {
-          "timestamp": "2026-08-27T00:02:42.186Z",
-          "delta": 3,
+          "timestamp": "2026-01-31T18:05:51.801Z",
+          "delta": 10,
+          "reason": "Hawks max event/drop party",
+          "balance": 50
+        },
+        {
+          "timestamp": "2026-04-14T19:59:33.861Z",
+          "delta": 5,
+          "reason": "Discord adjustment",
+          "balance": 55
+        },
+        {
+          "timestamp": "2026-06-24T11:54:07.802Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -45
+        },
+        {
+          "timestamp": "2026-06-24T12:08:57.673Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -145
+        },
+        {
+          "timestamp": "2026-06-24T12:11:37.905Z",
+          "delta": 100,
+          "reason": "refund for double sapphire rank claim",
+          "balance": -45
+        },
+        {
+          "timestamp": "2026-06-24T13:02:25.352Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -145
+        },
+        {
+          "timestamp": "2026-06-24T13:10:30.010Z",
+          "delta": 100,
+          "reason": "multi claim bug refund",
+          "balance": -45
+        },
+        {
+          "timestamp": "2026-06-26T22:43:27.967Z",
+          "delta": 15,
+          "reason": "Bounty: Slayer BOTM Easy Bounty",
+          "balance": -30
+        },
+        {
+          "timestamp": "2026-06-27T21:39:25.150Z",
+          "delta": 30,
+          "reason": "Bounty: Slayer BOTM Medium Bounty",
+          "balance": 0
+        },
+        {
+          "timestamp": "2026-07-01T20:49:18.531Z",
+          "delta": 15,
+          "reason": "Bounty: Farming - Easy",
+          "balance": 15
+        },
+        {
+          "timestamp": "2026-07-01T21:43:58.519Z",
+          "delta": -200,
+          "reason": "Rank upgrade: Emerald",
+          "balance": -185
+        },
+        {
+          "timestamp": "2026-07-07T08:06:26.099Z",
+          "delta": 30,
+          "reason": "Bounty: Farming - Medium",
+          "balance": -155
+        },
+        {
+          "timestamp": "2026-08-07T12:41:07.458Z",
+          "delta": 15,
+          "reason": "Bounty: Fishing SOTW - Easy",
+          "balance": -140
+        },
+        {
+          "timestamp": "2026-08-09T07:22:49.349Z",
+          "delta": 30,
+          "reason": "Bounty: Fishing SOTW - Medium",
+          "balance": -110
+        },
+        {
+          "timestamp": "2026-08-11T01:06:03.052Z",
+          "delta": 45,
+          "reason": "Bounty: Fishing SOTW - Hard",
+          "balance": -65
+        },
+        {
+          "timestamp": "2026-08-27T09:04:16.345Z",
+          "delta": 254,
           "reason": "Tenure points",
-          "balance": 3
+          "balance": 189
         }
       ]
     },
@@ -22994,7 +23124,7 @@
           "balance": -10
         },
         {
-          "timestamp": "2026-08-27T00:02:42.186Z",
+          "timestamp": "2026-08-27T09:05:12.082Z",
           "delta": 48,
           "reason": "Tenure points",
           "balance": 38
