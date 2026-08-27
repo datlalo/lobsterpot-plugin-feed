@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-27T09:24:36.743Z",
+  "generated_at": "2026-08-27T13:32:54.746Z",
   "broadcasts": [
     {
       "id": "39f6266d-575a-4f4b-97cb-4027db464956",
@@ -10250,6 +10250,26 @@
           "balance": 325
         }
       ]
+    },
+    {
+      "rsn": "hunklebean",
+      "rsn_key": "hunklebean",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-27",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "I 330",
