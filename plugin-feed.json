@@ -1,16 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-08-27T09:06:22.416Z",
-  "broadcasts": [
-    {
-      "id": "a820ef27-f262-4725-a9e0-6cefb3e58d1a",
-      "title": "Vardorvis BOTW has started!",
-      "message": "Will be running until Wednesday 26th",
-      "starts_at": null,
-      "expires_at": null,
-      "updated_at": "2026-08-20T14:28:45.489Z"
-    }
-  ],
+  "generated_at": "2026-08-27T09:21:34.286Z",
+  "broadcasts": [],
   "events": [
     {
       "id": "1533784639846617209",
