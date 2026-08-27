@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-08-27T09:21:34.286Z",
-  "broadcasts": [],
+  "generated_at": "2026-08-27T09:23:45.526Z",
+  "broadcasts": [
+    {
+      "id": "39f6266d-575a-4f4b-97cb-4027db464956",
+      "title": "Funny Friendslop Friday",
+      "message": "Join Fikos and the gang for some Friendslop games on Friday!",
+      "starts_at": null,
+      "expires_at": null,
+      "updated_at": "2026-08-27T09:23:40.125Z"
+    }
+  ],
   "events": [
     {
       "id": "1533784639846617209",
