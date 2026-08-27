@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-27T15:34:15.858Z",
+  "generated_at": "2026-08-27T16:32:55.166Z",
   "broadcasts": [
     {
       "id": "39f6266d-575a-4f4b-97cb-4027db464956",
@@ -3586,6 +3586,52 @@
       ]
     },
     {
+      "rsn": "Blutz Wavez",
+      "rsn_key": "blutzwavez",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2025-12-07 18:36:23.242706+00",
+      "points_total": 308,
+      "points_spent": 0,
+      "points_available": 308,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-01-10T18:43:13.372Z",
+          "delta": 10,
+          "reason": "Recruitment of GaayOldMan",
+          "balance": 20
+        },
+        {
+          "timestamp": "2026-01-31T18:05:47.659Z",
+          "delta": 10,
+          "reason": "Hawks max event/drop party",
+          "balance": 30
+        },
+        {
+          "timestamp": "2026-04-14T20:04:10.019Z",
+          "delta": 15,
+          "reason": "Discord adjustment",
+          "balance": 45
+        },
+        {
+          "timestamp": "2026-08-27T00:02:42.186Z",
+          "delta": 263,
+          "reason": "Tenure points",
+          "balance": 308
+        }
+      ]
+    },
+    {
       "rsn": "BlzdTim",
       "rsn_key": "blzdtim",
       "bot_rank": "Gnome",
@@ -5852,34 +5898,6 @@
           "delta": 170,
           "reason": "Tenure points",
           "balance": 160
-        }
-      ]
-    },
-    {
-      "rsn": "Dog not cat",
-      "rsn_key": "dognotcat",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-08-11",
-      "points_total": 16,
-      "points_spent": 0,
-      "points_available": 16,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 84,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-27T00:02:42.186Z",
-          "delta": 16,
-          "reason": "Tenure points",
-          "balance": 16
         }
       ]
     },
@@ -18374,52 +18392,6 @@
           "delta": 83,
           "reason": "Tenure points",
           "balance": 83
-        }
-      ]
-    },
-    {
-      "rsn": "Shadow Dream",
-      "rsn_key": "shadowdream",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2025-12-07 18:36:23.242706+00",
-      "points_total": 308,
-      "points_spent": 0,
-      "points_available": 308,
-      "months_in_clan": 8,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-01-10T18:43:13.372Z",
-          "delta": 10,
-          "reason": "Recruitment of GaayOldMan",
-          "balance": 20
-        },
-        {
-          "timestamp": "2026-01-31T18:05:47.659Z",
-          "delta": 10,
-          "reason": "Hawks max event/drop party",
-          "balance": 30
-        },
-        {
-          "timestamp": "2026-04-14T20:04:10.019Z",
-          "delta": 15,
-          "reason": "Discord adjustment",
-          "balance": 45
-        },
-        {
-          "timestamp": "2026-08-27T00:02:42.186Z",
-          "delta": 263,
-          "reason": "Tenure points",
-          "balance": 308
         }
       ]
     },
