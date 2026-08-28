@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-28T21:27:12.582Z",
+  "generated_at": "2026-08-28T21:32:57.428Z",
   "broadcasts": [
     {
       "id": "39f6266d-575a-4f4b-97cb-4027db464956",
@@ -17810,6 +17810,26 @@
           "balance": 582
         }
       ]
+    },
+    {
+      "rsn": "RNGBuss",
+      "rsn_key": "rngbuss",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-28",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "robor 66y",
