@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-28T06:47:55.504Z",
+  "generated_at": "2026-08-28T09:32:57.122Z",
   "broadcasts": [
     {
       "id": "39f6266d-575a-4f4b-97cb-4027db464956",
@@ -8636,7 +8636,7 @@
       ]
     },
     {
-      "rsn": "gesu gesu",
+      "rsn": "GESU GESU",
       "rsn_key": "gesugesu",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
@@ -8656,7 +8656,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-08-28T00:02:43.696Z",
+          "timestamp": "2026-08-28T09:32:55.609Z",
           "delta": 4,
           "reason": "Tenure points",
           "balance": 4
