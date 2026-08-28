@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-28T11:01:09.742Z",
+  "generated_at": "2026-08-28T12:17:57.134Z",
   "broadcasts": [
     {
       "id": "39f6266d-575a-4f4b-97cb-4027db464956",
@@ -7198,34 +7198,6 @@
           "delta": 142,
           "reason": "Tenure points",
           "balance": 202
-        }
-      ]
-    },
-    {
-      "rsn": "fart girly",
-      "rsn_key": "fartgirly",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-07-09",
-      "points_total": 50,
-      "points_spent": 0,
-      "points_available": 50,
-      "months_in_clan": 1,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 50,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-28T00:02:43.696Z",
-          "delta": 50,
-          "reason": "Tenure points",
-          "balance": 50
         }
       ]
     },
@@ -18678,6 +18650,34 @@
           "delta": 362,
           "reason": "Tenure points",
           "balance": 307
+        }
+      ]
+    },
+    {
+      "rsn": "shlauren",
+      "rsn_key": "shlauren",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-09",
+      "points_total": 50,
+      "points_spent": 0,
+      "points_available": 50,
+      "months_in_clan": 1,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 50,
+        "missing_months": 0,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-08-28T00:02:43.696Z",
+          "delta": 50,
+          "reason": "Tenure points",
+          "balance": 50
         }
       ]
     },
