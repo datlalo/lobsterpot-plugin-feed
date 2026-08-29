@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T19:29:54.634Z",
+  "generated_at": "2026-08-29T19:48:00.646Z",
   "broadcasts": [
     {
       "id": "39f6266d-575a-4f4b-97cb-4027db464956",
@@ -7169,6 +7169,18 @@
           "balance": 16
         }
       ]
+    },
+    {
+      "rsn": "F2P_M1TCH",
+      "rsn_key": "f2pm1tch",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-08-29",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
     },
     {
       "rsn": "FarmorsPung",
