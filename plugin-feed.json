@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T23:19:48.053Z",
+  "generated_at": "2026-08-29T23:22:50.302Z",
   "broadcasts": [
     {
       "id": "39f6266d-575a-4f4b-97cb-4027db464956",
@@ -7173,14 +7173,30 @@
     {
       "rsn": "F2P_M1TCH",
       "rsn_key": "f2pm1tch",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2026-08-29",
-      "points_total": 0,
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-06-05",
+      "points_total": 85,
       "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": null
+      "points_available": 85,
+      "months_in_clan": 2,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 15,
+        "missing_months": 0,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-08-29T00:02:45.226Z",
+          "delta": 85,
+          "reason": "Tenure points",
+          "balance": 85
+        }
+      ]
     },
     {
       "rsn": "FarmorsPung",
