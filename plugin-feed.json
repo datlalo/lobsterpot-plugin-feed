@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T17:32:59.366Z",
+  "generated_at": "2026-08-29T19:17:19.690Z",
   "broadcasts": [
     {
       "id": "39f6266d-575a-4f4b-97cb-4027db464956",
@@ -3621,6 +3621,11 @@
         "missing_months": 0,
         "can_claim": true
       },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Emerald",
+        "created_at": "2026-08-29T19:17:17.480Z"
+      },
       "points_history": [
         {
           "timestamp": "2026-01-10T18:43:13.372Z",
@@ -6734,6 +6739,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Sapphire",
+        "created_at": "2026-08-29T19:17:18.801Z"
       },
       "points_history": [
         {
@@ -10820,6 +10830,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Sapphire",
+        "created_at": "2026-08-29T19:17:18.801Z"
       },
       "points_history": [
         {
