@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T17:01:04.655Z",
+  "generated_at": "2026-08-29T17:32:59.366Z",
   "broadcasts": [
     {
       "id": "39f6266d-575a-4f4b-97cb-4027db464956",
@@ -22493,26 +22493,6 @@
           "delta": 196,
           "reason": "Tenure points",
           "balance": 311
-        }
-      ]
-    },
-    {
-      "rsn": "wading123",
-      "rsn_key": "wading123",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2026-08-16",
-      "points_total": 13,
-      "points_spent": 0,
-      "points_available": 13,
-      "months_in_clan": 0,
-      "next_rank": null,
-      "points_history": [
-        {
-          "timestamp": "2026-08-29T00:02:45.226Z",
-          "delta": 13,
-          "reason": "Tenure points",
-          "balance": 13
         }
       ]
     },
