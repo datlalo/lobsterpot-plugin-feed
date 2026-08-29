@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T19:48:00.646Z",
+  "generated_at": "2026-08-29T23:19:48.053Z",
   "broadcasts": [
     {
       "id": "39f6266d-575a-4f4b-97cb-4027db464956",
@@ -2517,7 +2517,7 @@
       "points_total": 917,
       "points_spent": 900,
       "points_available": 17,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
@@ -8615,7 +8615,7 @@
       "points_total": 699,
       "points_spent": 300,
       "points_available": 399,
-      "months_in_clan": 11,
+      "months_in_clan": 12,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -8743,7 +8743,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-08-29T00:02:45.226Z",
+          "timestamp": "2026-08-29T23:19:46.518Z",
           "delta": 5,
           "reason": "Tenure points",
           "balance": 5
@@ -15507,15 +15507,15 @@
       "points_total": 120,
       "points_spent": 0,
       "points_available": 120,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 0,
-        "missing_months": 1,
-        "can_claim": false
+        "missing_months": 0,
+        "can_claim": true
       },
       "points_history": [
         {
@@ -16571,7 +16571,7 @@
       "points_total": 121,
       "points_spent": 0,
       "points_available": 121,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -16947,14 +16947,14 @@
       "points_total": 1621,
       "points_spent": 1200,
       "points_available": 421,
-      "months_in_clan": 10,
+      "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
         "missing_points": 379,
-        "missing_months": 2,
+        "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
@@ -22691,7 +22691,7 @@
       "points_total": 121,
       "points_spent": 0,
       "points_available": 121,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
