@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T00:02:48.560Z",
+  "generated_at": "2026-08-29T17:01:04.655Z",
   "broadcasts": [
     {
       "id": "39f6266d-575a-4f4b-97cb-4027db464956",
@@ -624,9 +624,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 2911,
+      "points_total": 2926,
       "points_spent": 1230,
-      "points_available": 1681,
+      "points_available": 1696,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
@@ -638,12 +638,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-03T05:51:27.364Z",
-          "delta": 208,
-          "reason": "Slayer",
-          "balance": 543
-        },
         {
           "timestamp": "2026-07-04T00:30:53.216Z",
           "delta": 60,
@@ -789,10 +783,16 @@
           "balance": 1343
         },
         {
+          "timestamp": "2026-08-29T17:01:03.128Z",
+          "delta": 15,
+          "reason": "Funny friendslop friday (august) [meccha chameleon]",
+          "balance": 1358
+        },
+        {
           "timestamp": "2026-08-29T00:02:45.226Z",
           "delta": 338,
           "reason": "Tenure points",
-          "balance": 1681
+          "balance": 1696
         }
       ]
     },
@@ -4262,9 +4262,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-09-22",
-      "points_total": 811,
+      "points_total": 826,
       "points_spent": 310,
-      "points_available": 501,
+      "points_available": 516,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Diamond",
@@ -4361,10 +4361,16 @@
           "balance": 160
         },
         {
+          "timestamp": "2026-08-29T17:01:03.132Z",
+          "delta": 15,
+          "reason": "Funny friendslop friday (august) [meccha chameleon]",
+          "balance": 175
+        },
+        {
           "timestamp": "2026-08-29T00:02:45.226Z",
           "delta": 341,
           "reason": "Tenure points",
-          "balance": 501
+          "balance": 516
         }
       ]
     },
@@ -5386,9 +5392,9 @@
       "bot_rank": "Owner",
       "progression_rank": "Owner",
       "join_date": "2024-08-01",
-      "points_total": 6315,
+      "points_total": 6330,
       "points_spent": 1140,
-      "points_available": 5175,
+      "points_available": 5190,
       "months_in_clan": 24,
       "next_rank": null,
       "points_history": [
@@ -5453,10 +5459,16 @@
           "balance": 4417
         },
         {
+          "timestamp": "2026-08-29T17:01:03.126Z",
+          "delta": 15,
+          "reason": "Funny friendslop friday (august) [meccha chameleon]",
+          "balance": 4432
+        },
+        {
           "timestamp": "2026-08-29T00:02:45.226Z",
           "delta": 758,
           "reason": "Tenure points",
-          "balance": 5175
+          "balance": 5190
         }
       ]
     },
@@ -6166,16 +6178,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-09-14",
-      "points_total": 539,
+      "points_total": 554,
       "points_spent": 300,
-      "points_available": 239,
+      "points_available": 254,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 161,
+        "missing_points": 146,
         "missing_months": 0,
         "can_claim": false
       },
@@ -6229,10 +6241,16 @@
           "balance": -110
         },
         {
+          "timestamp": "2026-08-29T17:01:03.128Z",
+          "delta": 15,
+          "reason": "Funny friendslop friday (august) [meccha chameleon]",
+          "balance": -95
+        },
+        {
           "timestamp": "2026-08-29T00:02:45.226Z",
           "delta": 349,
           "reason": "Tenure points",
-          "balance": 239
+          "balance": 254
         }
       ]
     },
@@ -7370,26 +7388,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-21",
-      "points_total": 1087,
+      "points_total": 1102,
       "points_spent": 700,
-      "points_available": 387,
+      "points_available": 402,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 113,
+        "missing_points": 98,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-01-31T12:55:36.856Z",
-          "delta": 50,
-          "reason": "bingo participation",
-          "balance": 280
-        },
         {
           "timestamp": "2026-02-11T13:35:17.548Z",
           "delta": 15,
@@ -7535,10 +7547,16 @@
           "balance": 45
         },
         {
+          "timestamp": "2026-08-29T17:01:03.129Z",
+          "delta": 15,
+          "reason": "Funny friendslop friday (august) [meccha chameleon]",
+          "balance": 60
+        },
+        {
           "timestamp": "2026-08-29T00:02:45.226Z",
           "delta": 342,
           "reason": "Tenure points",
-          "balance": 387
+          "balance": 402
         }
       ]
     },
@@ -7548,26 +7566,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-21",
-      "points_total": 1087,
+      "points_total": 1102,
       "points_spent": 700,
-      "points_available": 387,
+      "points_available": 402,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 113,
+        "missing_points": 98,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-01-31T12:55:36.856Z",
-          "delta": 50,
-          "reason": "bingo participation",
-          "balance": 280
-        },
         {
           "timestamp": "2026-02-11T13:35:17.548Z",
           "delta": 15,
@@ -7713,10 +7725,16 @@
           "balance": 45
         },
         {
+          "timestamp": "2026-08-29T17:01:03.129Z",
+          "delta": 15,
+          "reason": "Funny friendslop friday (august) [meccha chameleon]",
+          "balance": 60
+        },
+        {
           "timestamp": "2026-08-29T00:02:45.226Z",
           "delta": 342,
           "reason": "Tenure points",
-          "balance": 387
+          "balance": 402
         }
       ]
     },
@@ -8194,26 +8212,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-21",
-      "points_total": 1087,
+      "points_total": 1102,
       "points_spent": 700,
-      "points_available": 387,
+      "points_available": 402,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 113,
+        "missing_points": 98,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-01-31T12:55:36.856Z",
-          "delta": 50,
-          "reason": "bingo participation",
-          "balance": 280
-        },
         {
           "timestamp": "2026-02-11T13:35:17.548Z",
           "delta": 15,
@@ -8359,10 +8371,16 @@
           "balance": 45
         },
         {
+          "timestamp": "2026-08-29T17:01:03.129Z",
+          "delta": 15,
+          "reason": "Funny friendslop friday (august) [meccha chameleon]",
+          "balance": 60
+        },
+        {
           "timestamp": "2026-08-29T00:02:45.226Z",
           "delta": 342,
           "reason": "Tenure points",
-          "balance": 387
+          "balance": 402
         }
       ]
     },
@@ -9558,17 +9576,23 @@
       "bot_rank": "Alt",
       "progression_rank": "Alt",
       "join_date": "2024-10-01",
-      "points_total": 697,
+      "points_total": 712,
       "points_spent": 0,
-      "points_available": 697,
+      "points_available": 712,
       "months_in_clan": 22,
       "next_rank": null,
       "points_history": [
         {
+          "timestamp": "2026-08-29T17:01:03.132Z",
+          "delta": 15,
+          "reason": "Funny friendslop friday (august) [meccha chameleon]",
+          "balance": 15
+        },
+        {
           "timestamp": "2026-08-29T00:02:45.226Z",
           "delta": 697,
           "reason": "Tenure points",
-          "balance": 697
+          "balance": 712
         }
       ]
     },
@@ -9896,26 +9920,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-03",
-      "points_total": 1335,
+      "points_total": 1350,
       "points_spent": 1210,
-      "points_available": 125,
+      "points_available": 140,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 675,
+        "missing_points": 660,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-17T11:29:57.392Z",
-          "delta": -300,
-          "reason": "Rank upgraded to: Ruby",
-          "balance": 20
-        },
         {
           "timestamp": "2026-02-17T17:40:29.776Z",
           "delta": 40,
@@ -10061,10 +10079,16 @@
           "balance": -235
         },
         {
+          "timestamp": "2026-08-29T17:01:03.129Z",
+          "delta": 15,
+          "reason": "Funny friendslop friday (august) [meccha chameleon]",
+          "balance": -220
+        },
+        {
           "timestamp": "2026-08-29T00:02:45.226Z",
           "delta": 360,
           "reason": "Tenure points",
-          "balance": 125
+          "balance": 140
         }
       ]
     },
@@ -10320,25 +10344,31 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-08-27",
-      "points_total": 2,
+      "points_total": 17,
       "points_spent": 0,
-      "points_available": 2,
+      "points_available": 17,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 98,
+        "missing_points": 83,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
         {
+          "timestamp": "2026-08-29T17:01:03.129Z",
+          "delta": 15,
+          "reason": "Funny friendslop friday (august) [meccha chameleon]",
+          "balance": 15
+        },
+        {
           "timestamp": "2026-08-29T00:02:45.226Z",
           "delta": 2,
           "reason": "Tenure points",
-          "balance": 2
+          "balance": 17
         }
       ]
     },
@@ -10666,16 +10696,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-03-18",
-      "points_total": 559,
+      "points_total": 574,
       "points_spent": 300,
-      "points_available": 259,
+      "points_available": 274,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 41,
+        "missing_points": 26,
         "missing_months": 0,
         "can_claim": false
       },
@@ -10759,10 +10789,16 @@
           "balance": 95
         },
         {
+          "timestamp": "2026-08-29T17:01:03.129Z",
+          "delta": 15,
+          "reason": "Funny friendslop friday (august) [meccha chameleon]",
+          "balance": 110
+        },
+        {
           "timestamp": "2026-08-29T00:02:45.226Z",
           "delta": 164,
           "reason": "Tenure points",
-          "balance": 259
+          "balance": 274
         }
       ]
     },
@@ -12186,25 +12222,31 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-08-19",
-      "points_total": 10,
+      "points_total": 25,
       "points_spent": 0,
-      "points_available": 10,
+      "points_available": 25,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 90,
+        "missing_points": 75,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
         {
+          "timestamp": "2026-08-29T17:01:03.130Z",
+          "delta": 15,
+          "reason": "Funny friendslop friday (august) [meccha chameleon]",
+          "balance": 15
+        },
+        {
           "timestamp": "2026-08-29T00:02:45.226Z",
           "delta": 10,
           "reason": "Tenure points",
-          "balance": 10
+          "balance": 25
         }
       ]
     },
@@ -13810,9 +13852,9 @@
       "bot_rank": "Owner",
       "progression_rank": "Owner",
       "join_date": "2024-08-01",
-      "points_total": 6315,
+      "points_total": 6330,
       "points_spent": 1140,
-      "points_available": 5175,
+      "points_available": 5190,
       "months_in_clan": 24,
       "next_rank": null,
       "points_history": [
@@ -13877,10 +13919,16 @@
           "balance": 4417
         },
         {
+          "timestamp": "2026-08-29T17:01:03.126Z",
+          "delta": 15,
+          "reason": "Funny friendslop friday (august) [meccha chameleon]",
+          "balance": 4432
+        },
+        {
           "timestamp": "2026-08-29T00:02:45.226Z",
           "delta": 758,
           "reason": "Tenure points",
-          "balance": 5175
+          "balance": 5190
         }
       ]
     },
@@ -14196,9 +14244,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-09-05",
-      "points_total": 1298,
+      "points_total": 1313,
       "points_spent": 650,
-      "points_available": 648,
+      "points_available": 663,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Diamond",
@@ -14349,10 +14397,16 @@
           "balance": 290
         },
         {
+          "timestamp": "2026-08-29T17:01:03.130Z",
+          "delta": 15,
+          "reason": "Funny friendslop friday (august) [meccha chameleon]",
+          "balance": 305
+        },
+        {
           "timestamp": "2026-08-29T00:02:45.226Z",
           "delta": 358,
           "reason": "Tenure points",
-          "balance": 648
+          "balance": 663
         }
       ]
     },
@@ -16306,9 +16360,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 2911,
+      "points_total": 2926,
       "points_spent": 1230,
-      "points_available": 1681,
+      "points_available": 1696,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
@@ -16320,12 +16374,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-03T05:51:27.364Z",
-          "delta": 208,
-          "reason": "Slayer",
-          "balance": 543
-        },
         {
           "timestamp": "2026-07-04T00:30:53.216Z",
           "delta": 60,
@@ -16471,10 +16519,16 @@
           "balance": 1343
         },
         {
+          "timestamp": "2026-08-29T17:01:03.128Z",
+          "delta": 15,
+          "reason": "Funny friendslop friday (august) [meccha chameleon]",
+          "balance": 1358
+        },
+        {
           "timestamp": "2026-08-29T00:02:45.226Z",
           "delta": 338,
           "reason": "Tenure points",
-          "balance": 1681
+          "balance": 1696
         }
       ]
     },
@@ -16586,26 +16640,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-02-03",
-      "points_total": 1332,
+      "points_total": 1347,
       "points_spent": 1050,
-      "points_available": 282,
+      "points_available": 297,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 218,
+        "missing_points": 203,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-20T22:13:40.811Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier - Woodcutting",
-          "balance": 265
-        },
         {
           "timestamp": "2026-03-20T22:13:43.393Z",
           "delta": 15,
@@ -16751,10 +16799,16 @@
           "balance": 75
         },
         {
+          "timestamp": "2026-08-29T17:01:03.130Z",
+          "delta": 15,
+          "reason": "Funny friendslop friday (august) [meccha chameleon]",
+          "balance": 90
+        },
+        {
           "timestamp": "2026-08-29T00:02:45.226Z",
           "delta": 207,
           "reason": "Tenure points",
-          "balance": 282
+          "balance": 297
         }
       ]
     },
@@ -22804,9 +22858,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-09-22",
-      "points_total": 811,
+      "points_total": 826,
       "points_spent": 310,
-      "points_available": 501,
+      "points_available": 516,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Diamond",
@@ -22903,10 +22957,16 @@
           "balance": 160
         },
         {
+          "timestamp": "2026-08-29T17:01:03.132Z",
+          "delta": 15,
+          "reason": "Funny friendslop friday (august) [meccha chameleon]",
+          "balance": 175
+        },
+        {
           "timestamp": "2026-08-29T00:02:45.226Z",
           "delta": 341,
           "reason": "Tenure points",
-          "balance": 501
+          "balance": 516
         }
       ]
     },
@@ -23500,17 +23560,23 @@
       "bot_rank": "Alt",
       "progression_rank": "Alt",
       "join_date": "2024-10-01",
-      "points_total": 697,
+      "points_total": 712,
       "points_spent": 0,
-      "points_available": 697,
+      "points_available": 712,
       "months_in_clan": 22,
       "next_rank": null,
       "points_history": [
         {
+          "timestamp": "2026-08-29T17:01:03.132Z",
+          "delta": 15,
+          "reason": "Funny friendslop friday (august) [meccha chameleon]",
+          "balance": 15
+        },
+        {
           "timestamp": "2026-08-29T00:02:45.226Z",
           "delta": 697,
           "reason": "Tenure points",
-          "balance": 697
+          "balance": 712
         }
       ]
     },
