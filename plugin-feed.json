@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-08-30T10:46:27.686Z",
-  "broadcasts": [],
+  "generated_at": "2026-08-30T10:46:50.946Z",
+  "broadcasts": [
+    {
+      "id": "2d6a7ff6-c85f-4af1-95f3-45c176f0da8b",
+      "title": "Sarachnis Sunday",
+      "message": "EVERY SUNDAY!",
+      "starts_at": null,
+      "expires_at": null,
+      "updated_at": "2026-08-30T10:46:47.888Z"
+    }
+  ],
   "events": [],
   "bounties": [],
   "members": [
