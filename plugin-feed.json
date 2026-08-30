@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-30T10:46:50.946Z",
+  "generated_at": "2026-08-30T10:49:29.868Z",
   "broadcasts": [
     {
       "id": "2d6a7ff6-c85f-4af1-95f3-45c176f0da8b",
@@ -13339,34 +13339,6 @@
       ]
     },
     {
-      "rsn": "luckygoat93",
-      "rsn_key": "luckygoat93",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-07-21",
-      "points_total": 40,
-      "points_spent": 0,
-      "points_available": 40,
-      "months_in_clan": 1,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 60,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-30T00:02:46.826Z",
-          "delta": 40,
-          "reason": "Tenure points",
-          "balance": 40
-        }
-      ]
-    },
-    {
       "rsn": "lynsska",
       "rsn_key": "lynsska",
       "bot_rank": "Emerald",
@@ -20597,34 +20569,6 @@
       ]
     },
     {
-      "rsn": "Teh Shew",
-      "rsn_key": "tehshew",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-05-31",
-      "points_total": 91,
-      "points_spent": 0,
-      "points_available": 91,
-      "months_in_clan": 2,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 9,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-30T00:02:46.826Z",
-          "delta": 91,
-          "reason": "Tenure points",
-          "balance": 91
-        }
-      ]
-    },
-    {
       "rsn": "Teorik",
       "rsn_key": "teorik",
       "bot_rank": "Founder",
@@ -21771,26 +21715,6 @@
           "delta": 56,
           "reason": "Tenure points",
           "balance": 161
-        }
-      ]
-    },
-    {
-      "rsn": "Underdog",
-      "rsn_key": "underdog",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2026-08-09",
-      "points_total": 21,
-      "points_spent": 0,
-      "points_available": 21,
-      "months_in_clan": 0,
-      "next_rank": null,
-      "points_history": [
-        {
-          "timestamp": "2026-08-30T00:02:46.826Z",
-          "delta": 21,
-          "reason": "Tenure points",
-          "balance": 21
         }
       ]
     },
@@ -23003,26 +22927,6 @@
           "delta": 51,
           "reason": "Tenure points",
           "balance": 41
-        }
-      ]
-    },
-    {
-      "rsn": "Wuts Updog",
-      "rsn_key": "wutsupdog",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2026-08-09",
-      "points_total": 21,
-      "points_spent": 0,
-      "points_available": 21,
-      "months_in_clan": 0,
-      "next_rank": null,
-      "points_history": [
-        {
-          "timestamp": "2026-08-30T00:02:46.826Z",
-          "delta": 21,
-          "reason": "Tenure points",
-          "balance": 21
         }
       ]
     },
