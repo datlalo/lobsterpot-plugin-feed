@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-30T10:49:29.868Z",
+  "generated_at": "2026-08-30T20:03:01.586Z",
   "broadcasts": [
     {
       "id": "2d6a7ff6-c85f-4af1-95f3-45c176f0da8b",
@@ -10867,6 +10867,26 @@
       ]
     },
     {
+      "rsn": "IM Stolberg",
+      "rsn_key": "imstolberg",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-30",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "IM Tey",
       "rsn_key": "imtey",
       "bot_rank": "Gnome",
@@ -15529,6 +15549,26 @@
           "balance": 170
         }
       ]
+    },
+    {
+      "rsn": "NorthernGro",
+      "rsn_key": "northerngro",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-08-30",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "notfitz",
