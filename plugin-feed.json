@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-30T20:03:01.586Z",
+  "generated_at": "2026-08-30T21:10:32.781Z",
   "broadcasts": [
     {
       "id": "2d6a7ff6-c85f-4af1-95f3-45c176f0da8b",
@@ -10484,16 +10484,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-06-27",
-      "points_total": 434,
+      "points_total": 464,
       "points_spent": 300,
-      "points_available": 134,
+      "points_available": 164,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 166,
+        "missing_points": 136,
         "missing_months": 1,
         "can_claim": false
       },
@@ -10601,10 +10601,16 @@
           "balance": 70
         },
         {
+          "timestamp": "2026-08-30T21:10:31.255Z",
+          "delta": 30,
+          "reason": "recruitment of friend",
+          "balance": 100
+        },
+        {
           "timestamp": "2026-08-30T00:02:46.826Z",
           "delta": 64,
           "reason": "Tenure points",
-          "balance": 134
+          "balance": 164
         }
       ]
     },
@@ -11082,16 +11088,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-04-03 11:00:04.345627+00",
-      "points_total": 209,
+      "points_total": 239,
       "points_spent": 100,
-      "points_available": 109,
+      "points_available": 139,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 91,
+        "missing_points": 61,
         "missing_months": 0,
         "can_claim": false
       },
@@ -11121,10 +11127,16 @@
           "balance": -40
         },
         {
+          "timestamp": "2026-08-30T21:10:31.266Z",
+          "delta": 30,
+          "reason": "recruitment of friend",
+          "balance": -10
+        },
+        {
           "timestamp": "2026-08-30T00:02:46.826Z",
           "delta": 149,
           "reason": "Tenure points",
-          "balance": 109
+          "balance": 139
         }
       ]
     },
@@ -19148,16 +19160,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-04-03 11:00:04.345627+00",
-      "points_total": 209,
+      "points_total": 239,
       "points_spent": 100,
-      "points_available": 109,
+      "points_available": 139,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 91,
+        "missing_points": 61,
         "missing_months": 0,
         "can_claim": false
       },
@@ -19187,10 +19199,16 @@
           "balance": -40
         },
         {
+          "timestamp": "2026-08-30T21:10:31.266Z",
+          "delta": 30,
+          "reason": "recruitment of friend",
+          "balance": -10
+        },
+        {
           "timestamp": "2026-08-30T00:02:46.826Z",
           "delta": 149,
           "reason": "Tenure points",
-          "balance": 109
+          "balance": 139
         }
       ]
     },
