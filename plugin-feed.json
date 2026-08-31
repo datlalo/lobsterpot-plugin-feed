@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-08-31T15:21:11.312Z",
-  "broadcasts": [],
+  "generated_at": "2026-08-31T15:24:14.123Z",
+  "broadcasts": [
+    {
+      "id": "079d77ad-d83c-4705-8921-097d1025f43e",
+      "title": "Pet Hunt",
+      "message": "Every sunday :)",
+      "starts_at": null,
+      "expires_at": null,
+      "updated_at": "2026-08-31T15:22:00.321Z"
+    }
+  ],
   "events": [],
   "bounties": [],
   "members": [
