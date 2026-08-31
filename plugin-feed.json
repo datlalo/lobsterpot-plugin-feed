@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-31T19:12:52.757Z",
+  "generated_at": "2026-08-31T20:38:54.102Z",
   "broadcasts": [
     {
       "id": "079d77ad-d83c-4705-8921-097d1025f43e",
@@ -7153,26 +7153,21 @@
     {
       "rsn": "FarmorsPung",
       "rsn_key": "farmorspung",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2026-04-08",
       "points_total": 305,
-      "points_spent": 100,
-      "points_available": 205,
+      "points_spent": 300,
+      "points_available": 5,
       "months_in_clan": 4,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 295,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Emerald",
-        "created_at": "2026-08-31T19:12:50.271Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -7242,10 +7237,16 @@
           "balance": 60
         },
         {
+          "timestamp": "2026-08-31T19:13:27.356Z",
+          "delta": -200,
+          "reason": "Rank upgrade: Emerald",
+          "balance": -140
+        },
+        {
           "timestamp": "2026-08-31T00:02:48.401Z",
           "delta": 145,
           "reason": "Tenure points",
-          "balance": 205
+          "balance": 5
         }
       ]
     },
@@ -12257,6 +12258,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Sapphire",
+        "created_at": "2026-08-31T20:38:52.006Z"
       },
       "points_history": [
         {
