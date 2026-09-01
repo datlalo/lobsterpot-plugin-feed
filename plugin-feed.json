@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-01T08:12:55.969Z",
+  "generated_at": "2026-09-01T08:18:03.304Z",
   "broadcasts": [
     {
       "id": "079d77ad-d83c-4705-8921-097d1025f43e",
@@ -11,7 +11,19 @@
       "updated_at": "2026-08-31T15:22:00.321Z"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "id": "153725",
+      "type": "skill_competition",
+      "title": "Crafting - Skill of the Week",
+      "metric": "crafting",
+      "metric_label": "Crafting",
+      "starts_at": "2026-09-02T11:00:00.000Z",
+      "ends_at": "2026-09-09T11:00:00.000Z",
+      "thread_id": "1544260004956348416",
+      "wom_id": 153725
+    }
+  ],
   "bounties": [],
   "members": [
     {
