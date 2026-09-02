@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T06:48:27.663Z",
+  "generated_at": "2026-09-02T06:51:30.138Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -25,6 +25,30 @@
     }
   ],
   "bounties": [
+    {
+      "id": "60",
+      "name": "Crafting SOTW - Elite",
+      "active": true,
+      "points": 60,
+      "description": "3m XP",
+      "expires_at": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "59",
+      "name": "Crafting SOTW - Hard",
+      "active": true,
+      "points": 45,
+      "description": "1.5m XP or Jeweller's Chisel",
+      "expires_at": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "58",
+      "name": "Crafting SOTW - Medium",
+      "active": true,
+      "points": 30,
+      "description": "750k XP",
+      "expires_at": "2026-09-10T00:00:00.000Z"
+    },
     {
       "id": "57",
       "name": "Crafting SOTW - Easy",
