@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T15:47:07.008Z",
+  "generated_at": "2026-09-02T17:48:08.128Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -21083,34 +21083,6 @@
           "delta": 13,
           "reason": "Tenure points",
           "balance": 13
-        }
-      ]
-    },
-    {
-      "rsn": "Thenuzza",
-      "rsn_key": "thenuzza",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-08-04",
-      "points_total": 29,
-      "points_spent": 0,
-      "points_available": 29,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 71,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-09-02T00:02:51.518Z",
-          "delta": 29,
-          "reason": "Tenure points",
-          "balance": 29
         }
       ]
     },
