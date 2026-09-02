@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T21:14:34.585Z",
+  "generated_at": "2026-09-02T22:11:08.794Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -276,7 +276,7 @@
       "points_total": 273,
       "points_spent": 0,
       "points_available": 273,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -1272,7 +1272,7 @@
       "points_total": 526,
       "points_spent": 110,
       "points_available": 416,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -1945,7 +1945,7 @@
       "points_total": 1228,
       "points_spent": 1100,
       "points_available": 128,
-      "months_in_clan": 9,
+      "months_in_clan": 10,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
@@ -3329,7 +3329,7 @@
       "points_total": 81,
       "points_spent": 0,
       "points_available": 81,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -6497,14 +6497,14 @@
       "points_total": 30,
       "points_spent": 0,
       "points_available": 30,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 70,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -10026,14 +10026,14 @@
       "points_total": 1354,
       "points_spent": 1210,
       "points_available": 144,
-      "months_in_clan": 11,
+      "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
         "missing_points": 656,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -11290,7 +11290,7 @@
       "points_total": 242,
       "points_spent": 100,
       "points_available": 142,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -13556,7 +13556,7 @@
       "points_total": 81,
       "points_spent": 0,
       "points_available": 81,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -15606,7 +15606,7 @@
       "points_total": 637,
       "points_spent": 310,
       "points_available": 327,
-      "months_in_clan": 7,
+      "months_in_clan": 8,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -16698,14 +16698,14 @@
       "points_total": 1351,
       "points_spent": 1050,
       "points_available": 301,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
         "missing_points": 199,
-        "missing_months": 2,
+        "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
@@ -18026,7 +18026,7 @@
       "points_total": 208,
       "points_spent": 100,
       "points_available": 108,
-      "months_in_clan": 5,
+      "months_in_clan": 6,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -19431,7 +19431,7 @@
       "points_total": 242,
       "points_spent": 100,
       "points_available": 142,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -19938,26 +19938,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-22",
-      "points_total": 1205,
+      "points_total": 1220,
       "points_spent": 1200,
-      "points_available": 5,
+      "points_available": 20,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 795,
+        "missing_points": 780,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-01-31T18:05:56.908Z",
-          "delta": 10,
-          "reason": "Hawks max event/drop party",
-          "balance": 150
-        },
         {
           "timestamp": "2026-02-11T06:44:38.539Z",
           "delta": 10,
@@ -20103,17 +20097,23 @@
           "balance": -340
         },
         {
+          "timestamp": "2026-09-02T22:11:07.285Z",
+          "delta": 15,
+          "reason": "Bounty: Crafting SOTW - Easy",
+          "balance": -325
+        },
+        {
           "timestamp": "2026-09-02T00:02:51.518Z",
           "delta": 345,
           "reason": "Tenure points",
-          "balance": 5
+          "balance": 20
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "57",
           "name": "Crafting SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-02T15:10:28.548Z"
         }
@@ -22136,7 +22136,7 @@
       "points_total": 61,
       "points_spent": 0,
       "points_available": 61,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -22254,7 +22254,7 @@
       "points_total": 183,
       "points_spent": 0,
       "points_available": 183,
-      "months_in_clan": 5,
+      "months_in_clan": 6,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -22806,7 +22806,7 @@
       "points_total": 61,
       "points_spent": 0,
       "points_available": 61,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
