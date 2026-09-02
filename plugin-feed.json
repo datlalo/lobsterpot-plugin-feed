@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T00:02:54.152Z",
+  "generated_at": "2026-09-02T06:48:27.663Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -24,7 +24,16 @@
       "wom_id": 153725
     }
   ],
-  "bounties": [],
+  "bounties": [
+    {
+      "id": "57",
+      "name": "Crafting SOTW - Easy",
+      "active": true,
+      "points": 15,
+      "description": "250k XP or Craft a Crab Claw",
+      "expires_at": "2026-09-10T00:00:00.000Z"
+    }
+  ],
   "members": [
     {
       "rsn": "0gass",
