@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-03T16:14:23.398Z",
+  "generated_at": "2026-09-03T18:39:10.900Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -23471,6 +23471,15 @@
           "delta": 147,
           "reason": "Tenure points",
           "balance": 227
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "57",
+          "name": "Crafting SOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-03T18:39:09.381Z"
         }
       ]
     },
