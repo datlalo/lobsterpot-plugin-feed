@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T00:18:21.726Z",
+  "generated_at": "2026-09-04T00:21:23.954Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -21626,8 +21626,8 @@
         {
           "bounty_id": "57",
           "name": "Crafting SOTW - Easy",
-          "status": "pending",
-          "reason": null,
+          "status": "rejected",
+          "reason": "I don't see any xp on wom or pics in the channel",
           "created_at": "2026-09-03T12:12:05.744Z"
         }
       ]
