@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T19:21:35.276Z",
+  "generated_at": "2026-09-04T20:20:51.935Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -11146,9 +11146,9 @@
         {
           "bounty_id": "57",
           "name": "Crafting SOTW - Easy",
-          "status": "rejected",
-          "reason": "Please make sure you have logged out for Wise Old Man to update your XP counter.\nIf you are claiming the Crab Claw or Jewellers Chisel, Please mention it in the bounty claim so we can check screenshots for confirmation :)",
-          "created_at": "2026-09-04T02:15:12.291Z"
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-04T20:20:50.418Z"
         }
       ]
     },
