@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T13:13:24.912Z",
+  "generated_at": "2026-09-04T13:16:27.029Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -16701,9 +16701,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-12",
-      "points_total": 2187,
+      "points_total": 2337,
       "points_spent": 1270,
-      "points_available": 917,
+      "points_available": 1067,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
@@ -16715,30 +16715,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-21T05:24:14.250Z",
-          "delta": 35,
-          "reason": "Discord adjustment",
-          "balance": 95
-        },
-        {
-          "timestamp": "2026-04-25T00:08:50.459Z",
-          "delta": 55,
-          "reason": "Leagues Points",
-          "balance": 150
-        },
-        {
-          "timestamp": "2026-04-29T17:46:58.734Z",
-          "delta": 5,
-          "reason": "Discord adjustment",
-          "balance": 155
-        },
-        {
-          "timestamp": "2026-04-29T17:50:19.994Z",
-          "delta": 15,
-          "reason": "Leagues POints",
-          "balance": 170
-        },
         {
           "timestamp": "2026-05-05T20:19:11.121Z",
           "delta": 15,
@@ -16866,38 +16842,62 @@
           "balance": 560
         },
         {
+          "timestamp": "2026-09-04T13:14:26.896Z",
+          "delta": 30,
+          "reason": "Bounty: Crafting SOTW - Medium",
+          "balance": 590
+        },
+        {
+          "timestamp": "2026-09-04T13:14:34.415Z",
+          "delta": 15,
+          "reason": "Bounty: Crafting SOTW - Easy",
+          "balance": 605
+        },
+        {
+          "timestamp": "2026-09-04T13:14:36.836Z",
+          "delta": 45,
+          "reason": "Bounty: Crafting SOTW - Hard",
+          "balance": 650
+        },
+        {
+          "timestamp": "2026-09-04T13:14:38.915Z",
+          "delta": 60,
+          "reason": "Bounty: Crafting SOTW - Elite",
+          "balance": 710
+        },
+        {
           "timestamp": "2026-09-04T00:02:54.588Z",
           "delta": 357,
           "reason": "Tenure points",
-          "balance": 917
+          "balance": 1067
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "57",
           "name": "Crafting SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-04T13:10:21.182Z"
         },
         {
           "bounty_id": "58",
           "name": "Crafting SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-04T13:10:27.053Z"
         },
         {
           "bounty_id": "59",
           "name": "Crafting SOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-04T13:10:33.735Z"
         },
         {
           "bounty_id": "60",
           "name": "Crafting SOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-04T13:10:39.183Z"
         }
