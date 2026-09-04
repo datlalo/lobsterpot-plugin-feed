@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T15:48:12.583Z",
+  "generated_at": "2026-09-04T16:03:11.780Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -23153,6 +23153,58 @@
       ]
     },
     {
+      "rsn": "watdatmeen",
+      "rsn_key": "watdatmeen",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-07-10",
+      "points_total": 146,
+      "points_spent": 100,
+      "points_available": 46,
+      "months_in_clan": 1,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 154,
+        "missing_months": 1,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-08-05T16:34:15.302Z",
+          "delta": 15,
+          "reason": "Bounty: Fishing SOTW - Easy",
+          "balance": 15
+        },
+        {
+          "timestamp": "2026-08-06T05:14:54.522Z",
+          "delta": 30,
+          "reason": "Bounty: Fishing SOTW - Medium",
+          "balance": 45
+        },
+        {
+          "timestamp": "2026-08-06T20:49:58.868Z",
+          "delta": 45,
+          "reason": "Bounty: Fishing SOTW - Hard",
+          "balance": 90
+        },
+        {
+          "timestamp": "2026-08-09T23:26:59.414Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -10
+        },
+        {
+          "timestamp": "2026-09-04T00:02:54.588Z",
+          "delta": 56,
+          "reason": "Tenure points",
+          "balance": 46
+        }
+      ]
+    },
+    {
       "rsn": "WeavileSlaps",
       "rsn_key": "weavileslaps",
       "bot_rank": "Gnome",
@@ -23806,58 +23858,6 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-09-03T18:39:09.381Z"
-        }
-      ]
-    },
-    {
-      "rsn": "wooimboutta",
-      "rsn_key": "wooimboutta",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2026-07-10",
-      "points_total": 146,
-      "points_spent": 100,
-      "points_available": 46,
-      "months_in_clan": 1,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 154,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-05T16:34:15.302Z",
-          "delta": 15,
-          "reason": "Bounty: Fishing SOTW - Easy",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-08-06T05:14:54.522Z",
-          "delta": 30,
-          "reason": "Bounty: Fishing SOTW - Medium",
-          "balance": 45
-        },
-        {
-          "timestamp": "2026-08-06T20:49:58.868Z",
-          "delta": 45,
-          "reason": "Bounty: Fishing SOTW - Hard",
-          "balance": 90
-        },
-        {
-          "timestamp": "2026-08-09T23:26:59.414Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": -10
-        },
-        {
-          "timestamp": "2026-09-04T00:02:54.588Z",
-          "delta": 56,
-          "reason": "Tenure points",
-          "balance": 46
         }
       ]
     },
