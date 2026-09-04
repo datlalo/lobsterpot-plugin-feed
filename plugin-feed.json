@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T19:16:58.031Z",
+  "generated_at": "2026-09-04T19:21:35.276Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -13560,6 +13560,34 @@
           "delta": 373,
           "reason": "Tenure points",
           "balance": 483
+        }
+      ]
+    },
+    {
+      "rsn": "lone hobo iv",
+      "rsn_key": "lonehoboiv",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-03-09",
+      "points_total": 179,
+      "points_spent": 0,
+      "points_available": 179,
+      "months_in_clan": 5,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 21,
+        "missing_months": 0,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-09-04T19:21:33.762Z",
+          "delta": 179,
+          "reason": "Tenure points",
+          "balance": 179
         }
       ]
     },
