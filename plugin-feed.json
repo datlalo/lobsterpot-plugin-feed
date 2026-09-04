@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T04:00:54.308Z",
+  "generated_at": "2026-09-04T04:03:56.619Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -16025,6 +16025,11 @@
         "missing_months": 0,
         "can_claim": true
       },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Ruby",
+        "created_at": "2026-09-04T04:02:15.583Z"
+      },
       "points_history": [
         {
           "timestamp": "2026-01-16T03:43:26.228Z",
@@ -16142,6 +16147,13 @@
           "status": "pending",
           "reason": null,
           "created_at": "2026-09-04T04:00:52.788Z"
+        },
+        {
+          "bounty_id": "58",
+          "name": "Crafting SOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-04T04:01:23.711Z"
         }
       ]
     },
