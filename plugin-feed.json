@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T18:28:08.597Z",
+  "generated_at": "2026-09-04T18:31:22.698Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -15417,6 +15417,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-09-03T20:40:09.625Z"
+        },
+        {
+          "bounty_id": "58",
+          "name": "Crafting SOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-04T18:31:21.168Z"
         }
       ]
     },
