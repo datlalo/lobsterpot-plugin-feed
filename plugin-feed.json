@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T18:31:22.698Z",
+  "generated_at": "2026-09-04T18:39:20.601Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -3809,7 +3809,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-09-04T00:02:54.588Z",
+          "timestamp": "2026-09-04T18:39:19.073Z",
           "delta": 42,
           "reason": "Tenure points",
           "balance": 42
@@ -3873,10 +3873,10 @@
       "rsn_key": "blzdtim",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
-      "join_date": "2026-01-11",
-      "points_total": 286,
+      "join_date": "2026-01-12",
+      "points_total": 235,
       "points_spent": 0,
-      "points_available": 286,
+      "points_available": 235,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Sapphire",
@@ -3889,16 +3889,10 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-01-31T12:55:44.474Z",
-          "delta": 50,
-          "reason": "bingo participation",
-          "balance": 50
-        },
-        {
-          "timestamp": "2026-09-04T00:02:54.588Z",
-          "delta": 236,
+          "timestamp": "2026-09-04T18:39:19.091Z",
+          "delta": 235,
           "reason": "Tenure points",
-          "balance": 286
+          "balance": 235
         }
       ]
     },
@@ -5320,7 +5314,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-09-04T00:02:54.588Z",
+          "timestamp": "2026-09-04T18:39:19.078Z",
           "delta": 100,
           "reason": "Tenure points",
           "balance": 100
@@ -7448,10 +7442,10 @@
       "rsn_key": "epicdeath15",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
-      "join_date": "2026-02-25 01:20:41.846786+00",
-      "points_total": 196,
+      "join_date": "2026-02-22",
+      "points_total": 194,
       "points_spent": 0,
-      "points_available": 196,
+      "points_available": 194,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Sapphire",
@@ -7464,16 +7458,10 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-04-14T19:59:29.580Z",
-          "delta": 5,
-          "reason": "Discord adjustment",
-          "balance": 5
-        },
-        {
-          "timestamp": "2026-09-04T00:02:54.588Z",
-          "delta": 191,
+          "timestamp": "2026-09-04T18:39:19.075Z",
+          "delta": 194,
           "reason": "Tenure points",
-          "balance": 196
+          "balance": 194
         }
       ]
     },
@@ -9328,7 +9316,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-09-04T00:02:54.588Z",
+          "timestamp": "2026-09-04T18:39:19.083Z",
           "delta": 62,
           "reason": "Tenure points",
           "balance": 62
@@ -10255,7 +10243,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-09-04T00:02:54.588Z",
+          "timestamp": "2026-09-04T18:39:19.093Z",
           "delta": 59,
           "reason": "Tenure points",
           "balance": 59
@@ -11407,31 +11395,25 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-19",
-      "points_total": 62,
+      "points_total": 47,
       "points_spent": 0,
-      "points_available": 62,
+      "points_available": 47,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 38,
+        "missing_points": 53,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
         {
-          "timestamp": "2026-07-27T16:42:40.226Z",
-          "delta": 15,
-          "reason": "Bounty: Duke Sucellus - Easy",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-09-04T00:02:54.588Z",
+          "timestamp": "2026-09-04T18:39:19.070Z",
           "delta": 47,
           "reason": "Tenure points",
-          "balance": 62
+          "balance": 47
         }
       ]
     },
@@ -12777,7 +12759,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-09-04T00:02:54.588Z",
+          "timestamp": "2026-09-04T18:39:19.080Z",
           "delta": 29,
           "reason": "Tenure points",
           "balance": 29
@@ -13797,50 +13779,26 @@
       "rsn_key": "lonehoboiv",
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
-      "join_date": "2026-03-09 21:33:40.503581+00",
-      "points_total": 224,
-      "points_spent": 100,
-      "points_available": 124,
+      "join_date": "2026-03-09",
+      "points_total": 179,
+      "points_spent": 0,
+      "points_available": 179,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 76,
+        "missing_points": 21,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
         {
-          "timestamp": "2026-04-14T20:05:23.273Z",
-          "delta": 20,
-          "reason": "Discord adjustment",
-          "balance": 20
-        },
-        {
-          "timestamp": "2026-07-17T22:57:28.993Z",
-          "delta": 20,
-          "reason": "callisto mass",
-          "balance": 40
-        },
-        {
-          "timestamp": "2026-08-09T16:53:14.221Z",
-          "delta": 5,
-          "reason": "50kc scurrius sunday",
-          "balance": 45
-        },
-        {
-          "timestamp": "2026-08-11T20:44:32.779Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": -55
-        },
-        {
-          "timestamp": "2026-09-04T00:02:54.588Z",
+          "timestamp": "2026-09-04T18:39:19.067Z",
           "delta": 179,
           "reason": "Tenure points",
-          "balance": 124
+          "balance": 179
         }
       ]
     },
@@ -17901,6 +17859,26 @@
       ]
     },
     {
+      "rsn": "RaccoonCEO",
+      "rsn_key": "raccoonceo",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-09-04",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "Radicafire",
       "rsn_key": "radicafire",
       "bot_rank": "Ruby",
@@ -18234,7 +18212,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-09-04T00:02:54.588Z",
+          "timestamp": "2026-09-04T18:39:19.085Z",
           "delta": 41,
           "reason": "Tenure points",
           "balance": 41
@@ -22119,28 +22097,20 @@
     {
       "rsn": "turbarnx",
       "rsn_key": "turbarnx",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-08-16",
-      "points_total": 19,
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-08-20",
+      "points_total": 15,
       "points_spent": 0,
-      "points_available": 19,
+      "points_available": 15,
       "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 81,
-        "missing_months": 1,
-        "can_claim": false
-      },
+      "next_rank": null,
       "points_history": [
         {
-          "timestamp": "2026-09-04T00:02:54.588Z",
-          "delta": 19,
+          "timestamp": "2026-09-04T18:39:19.095Z",
+          "delta": 15,
           "reason": "Tenure points",
-          "balance": 19
+          "balance": 15
         }
       ]
     },
@@ -24000,7 +23970,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-09-04T00:02:54.588Z",
+          "timestamp": "2026-09-04T18:39:19.088Z",
           "delta": 74,
           "reason": "Tenure points",
           "balance": 74
@@ -24118,6 +24088,26 @@
           "balance": 383
         }
       ]
+    },
+    {
+      "rsn": "Zak iron",
+      "rsn_key": "zakiron",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-09-04",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "zerozebo",
