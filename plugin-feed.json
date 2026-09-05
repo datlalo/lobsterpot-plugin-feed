@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-05T11:53:09.757Z",
+  "generated_at": "2026-09-05T13:06:53.103Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -6416,6 +6416,13 @@
           "status": "pending",
           "reason": null,
           "created_at": "2026-09-05T11:53:08.238Z"
+        },
+        {
+          "bounty_id": "57",
+          "name": "Crafting SOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-05T13:06:51.593Z"
         }
       ]
     },
