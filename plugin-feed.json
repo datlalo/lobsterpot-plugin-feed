@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-05T22:00:12.668Z",
+  "generated_at": "2026-09-05T22:13:54.067Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -5581,6 +5581,26 @@
           "balance": 69
         }
       ]
+    },
+    {
+      "rsn": "DCed By Gf",
+      "rsn_key": "dcedbygf",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-09-05",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 200,
+        "missing_months": 2,
+        "can_claim": false
+      }
     },
     {
       "rsn": "demo183",
