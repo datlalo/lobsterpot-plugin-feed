@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-05T22:36:04.109Z",
+  "generated_at": "2026-09-05T22:39:06.410Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -23866,6 +23866,13 @@
           "status": "pending",
           "reason": null,
           "created_at": "2026-09-05T22:36:02.596Z"
+        },
+        {
+          "bounty_id": "59",
+          "name": "Crafting SOTW - Hard",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-05T22:39:00.197Z"
         }
       ]
     },
