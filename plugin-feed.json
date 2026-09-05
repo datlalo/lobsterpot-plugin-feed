@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-05T10:02:48.603Z",
+  "generated_at": "2026-09-05T10:05:50.449Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -28,7 +28,7 @@
       "type": "event",
       "title": "Moxxy M’Sunday",
       "location": null,
-      "starts_at": "2026-09-07T04:00:00.000Z",
+      "starts_at": "2026-09-05T16:00:00.000Z",
       "ends_at": "2026-09-07T04:00:00.000Z",
       "description": "",
       "thread_id": "1522561512089194536"
