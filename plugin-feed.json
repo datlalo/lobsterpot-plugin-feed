@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T16:55:17.927Z",
+  "generated_at": "2026-09-06T16:58:20.243Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -306,8 +306,8 @@
         {
           "bounty_id": "59",
           "name": "Crafting SOTW - Hard",
-          "status": "pending",
-          "reason": null,
+          "status": "rejected",
+          "reason": "according to wise old man, you are still at 1227k gained. If you received the jewellers chisel, remember to post a screenshot :)",
           "created_at": "2026-09-06T07:52:08.145Z"
         }
       ]
@@ -5613,20 +5613,20 @@
     {
       "rsn": "DCed By Gf",
       "rsn_key": "dcedbygf",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
       "join_date": "2026-09-05",
       "points_total": 1,
       "points_spent": 0,
       "points_available": 1,
       "months_in_clan": 0,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
         "requirements": null,
-        "missing_points": 199,
-        "missing_months": 2,
+        "missing_points": 99,
+        "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
