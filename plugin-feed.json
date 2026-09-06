@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T15:13:55.854Z",
+  "generated_at": "2026-09-06T15:16:57.977Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -734,9 +734,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 3024,
+      "points_total": 3034,
       "points_spent": 1230,
-      "points_available": 1794,
+      "points_available": 1804,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
@@ -748,12 +748,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-12T01:20:14.899Z",
-          "delta": 10,
-          "reason": "Bounty: Medium clue Boots",
-          "balance": 628
-        },
         {
           "timestamp": "2026-07-13T14:59:15.604Z",
           "delta": 45,
@@ -899,10 +893,16 @@
           "balance": 1448
         },
         {
+          "timestamp": "2026-09-06T15:15:31.714Z",
+          "delta": 10,
+          "reason": "100kc sarachnis sunday",
+          "balance": 1458
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 346,
           "reason": "Tenure points",
-          "balance": 1794
+          "balance": 1804
         }
       ],
       "pending_bounties": [
@@ -4253,26 +4253,20 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-03-20 22:12:14.780985+00",
-      "points_total": 740,
+      "points_total": 745,
       "points_spent": 600,
-      "points_available": 140,
+      "points_available": 145,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 260,
+        "missing_points": 255,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-25T00:39:42.354Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": -85
-        },
         {
           "timestamp": "2026-06-25T06:41:13.493Z",
           "delta": 15,
@@ -4418,10 +4412,16 @@
           "balance": -30
         },
         {
+          "timestamp": "2026-09-06T15:14:45.558Z",
+          "delta": 5,
+          "reason": "50kc sarachnis sunday",
+          "balance": -25
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 170,
           "reason": "Tenure points",
-          "balance": 140
+          "balance": 145
         }
       ],
       "pending_bounties": [
@@ -5496,9 +5496,9 @@
       "bot_rank": "Owner",
       "progression_rank": "Owner",
       "join_date": "2024-08-01",
-      "points_total": 6338,
+      "points_total": 6343,
       "points_spent": 1140,
-      "points_available": 5198,
+      "points_available": 5203,
       "months_in_clan": 25,
       "next_rank": null,
       "points_history": [
@@ -5569,10 +5569,16 @@
           "balance": 4432
         },
         {
+          "timestamp": "2026-09-06T15:14:45.557Z",
+          "delta": 5,
+          "reason": "50kc sarachnis sunday",
+          "balance": 4437
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 766,
           "reason": "Tenure points",
-          "balance": 5198
+          "balance": 5203
         }
       ]
     },
@@ -6310,16 +6316,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-09-14",
-      "points_total": 652,
+      "points_total": 657,
       "points_spent": 300,
-      "points_available": 352,
+      "points_available": 357,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 48,
+        "missing_points": 43,
         "missing_months": 0,
         "can_claim": false
       },
@@ -6397,10 +6403,16 @@
           "balance": -5
         },
         {
+          "timestamp": "2026-09-06T15:14:45.557Z",
+          "delta": 5,
+          "reason": "50kc sarachnis sunday",
+          "balance": 0
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 357,
           "reason": "Tenure points",
-          "balance": 352
+          "balance": 357
         }
       ],
       "pending_bounties": [
@@ -10484,26 +10496,20 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-03-16",
-      "points_total": 984,
+      "points_total": 994,
       "points_spent": 600,
-      "points_available": 384,
+      "points_available": 394,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 16,
+        "missing_points": 6,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-09T07:12:48.198Z",
-          "delta": 40,
-          "reason": "Bounty reward: Hard Tier - Giant Mole",
-          "balance": 100
-        },
         {
           "timestamp": "2026-04-09T07:12:49.448Z",
           "delta": 30,
@@ -10649,10 +10655,16 @@
           "balance": 210
         },
         {
+          "timestamp": "2026-09-06T15:15:31.714Z",
+          "delta": 10,
+          "reason": "100kc sarachnis sunday",
+          "balance": 220
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 174,
           "reason": "Tenure points",
-          "balance": 384
+          "balance": 394
         }
       ]
     },
@@ -11788,9 +11800,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-08-11",
-      "points_total": 251,
+      "points_total": 261,
       "points_spent": 0,
-      "points_available": 251,
+      "points_available": 261,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
@@ -11839,10 +11851,16 @@
           "balance": 225
         },
         {
+          "timestamp": "2026-09-06T15:15:31.715Z",
+          "delta": 10,
+          "reason": "100kc sarachnis sunday",
+          "balance": 235
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 26,
           "reason": "Tenure points",
-          "balance": 251
+          "balance": 261
         }
       ],
       "pending_bounties": [
@@ -14169,9 +14187,9 @@
       "bot_rank": "Owner",
       "progression_rank": "Owner",
       "join_date": "2024-08-01",
-      "points_total": 6338,
+      "points_total": 6343,
       "points_spent": 1140,
-      "points_available": 5198,
+      "points_available": 5203,
       "months_in_clan": 25,
       "next_rank": null,
       "points_history": [
@@ -14242,10 +14260,16 @@
           "balance": 4432
         },
         {
+          "timestamp": "2026-09-06T15:14:45.557Z",
+          "delta": 5,
+          "reason": "50kc sarachnis sunday",
+          "balance": 4437
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 766,
           "reason": "Tenure points",
-          "balance": 5198
+          "balance": 5203
         }
       ]
     },
@@ -15630,16 +15654,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-05-09",
-      "points_total": 428,
+      "points_total": 438,
       "points_spent": 300,
-      "points_available": 128,
+      "points_available": 138,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 172,
+        "missing_points": 162,
         "missing_months": 0,
         "can_claim": false
       },
@@ -15693,10 +15717,16 @@
           "balance": 8
         },
         {
+          "timestamp": "2026-09-06T15:15:31.715Z",
+          "delta": 10,
+          "reason": "100kc sarachnis sunday",
+          "balance": 18
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 120,
           "reason": "Tenure points",
-          "balance": 128
+          "balance": 138
         }
       ],
       "pending_bounties": [
@@ -16941,9 +16971,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 3024,
+      "points_total": 3034,
       "points_spent": 1230,
-      "points_available": 1794,
+      "points_available": 1804,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
@@ -16955,12 +16985,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-12T01:20:14.899Z",
-          "delta": 10,
-          "reason": "Bounty: Medium clue Boots",
-          "balance": 628
-        },
         {
           "timestamp": "2026-07-13T14:59:15.604Z",
           "delta": 45,
@@ -17106,10 +17130,16 @@
           "balance": 1448
         },
         {
+          "timestamp": "2026-09-06T15:15:31.714Z",
+          "delta": 10,
+          "reason": "100kc sarachnis sunday",
+          "balance": 1458
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 346,
           "reason": "Tenure points",
-          "balance": 1794
+          "balance": 1804
         }
       ],
       "pending_bounties": [
@@ -17478,26 +17508,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-30",
-      "points_total": 1674,
+      "points_total": 1679,
       "points_spent": 1200,
-      "points_available": 474,
+      "points_available": 479,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 326,
+        "missing_points": 321,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-24T12:09:02.715Z",
-          "delta": -400,
-          "reason": "Rank upgrade: Diamond",
-          "balance": -125
-        },
         {
           "timestamp": "2026-06-24T14:06:45.414Z",
           "delta": 10,
@@ -17643,10 +17667,16 @@
           "balance": 133
         },
         {
+          "timestamp": "2026-09-06T15:14:45.558Z",
+          "delta": 5,
+          "reason": "50kc sarachnis sunday",
+          "balance": 138
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 341,
           "reason": "Tenure points",
-          "balance": 474
+          "balance": 479
         }
       ],
       "pending_bounties": [
@@ -20218,16 +20248,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-05-17",
-      "points_total": 192,
+      "points_total": 197,
       "points_spent": 100,
-      "points_available": 92,
+      "points_available": 97,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 108,
+        "missing_points": 103,
         "missing_months": 0,
         "can_claim": false
       },
@@ -20263,10 +20293,16 @@
           "balance": -20
         },
         {
+          "timestamp": "2026-09-06T15:14:45.547Z",
+          "delta": 5,
+          "reason": "50kc sarachnis sunday",
+          "balance": -15
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 112,
           "reason": "Tenure points",
-          "balance": 92
+          "balance": 97
         }
       ],
       "pending_bounties": [
@@ -20387,16 +20423,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-08-21",
-      "points_total": 546,
+      "points_total": 551,
       "points_spent": 300,
-      "points_available": 246,
+      "points_available": 251,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 154,
+        "missing_points": 149,
         "missing_months": 0,
         "can_claim": false
       },
@@ -20444,10 +20480,16 @@
           "balance": -135
         },
         {
+          "timestamp": "2026-09-06T15:14:45.558Z",
+          "delta": 5,
+          "reason": "50kc sarachnis sunday",
+          "balance": -130
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 381,
           "reason": "Tenure points",
-          "balance": 246
+          "balance": 251
         }
       ]
     },
@@ -21250,26 +21292,20 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-03-16",
-      "points_total": 984,
+      "points_total": 994,
       "points_spent": 600,
-      "points_available": 384,
+      "points_available": 394,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 16,
+        "missing_points": 6,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-09T07:12:48.198Z",
-          "delta": 40,
-          "reason": "Bounty reward: Hard Tier - Giant Mole",
-          "balance": 100
-        },
         {
           "timestamp": "2026-04-09T07:12:49.448Z",
           "delta": 30,
@@ -21415,10 +21451,16 @@
           "balance": 210
         },
         {
+          "timestamp": "2026-09-06T15:15:31.714Z",
+          "delta": 10,
+          "reason": "100kc sarachnis sunday",
+          "balance": 220
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 174,
           "reason": "Tenure points",
-          "balance": 384
+          "balance": 394
         }
       ]
     },
