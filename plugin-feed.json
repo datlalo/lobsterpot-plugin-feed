@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T18:38:07.223Z",
+  "generated_at": "2026-09-06T18:56:07.348Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -306,9 +306,9 @@
         {
           "bounty_id": "59",
           "name": "Crafting SOTW - Hard",
-          "status": "rejected",
-          "reason": "according to wise old man, you are still at 1227k gained. If you received the jewellers chisel, remember to post a screenshot :)",
-          "created_at": "2026-09-06T07:52:08.145Z"
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-06T18:56:05.835Z"
         }
       ]
     },
