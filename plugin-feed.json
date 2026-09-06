@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T18:56:07.348Z",
+  "generated_at": "2026-09-06T19:36:50.941Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -243,9 +243,9 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2025-12-07 18:36:22.184125+00",
-      "points_total": 323,
+      "points_total": 368,
       "points_spent": 100,
-      "points_available": 223,
+      "points_available": 268,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Emerald",
@@ -282,10 +282,16 @@
           "balance": -50
         },
         {
+          "timestamp": "2026-09-06T19:36:49.435Z",
+          "delta": 45,
+          "reason": "Bounty: Crafting SOTW - Hard",
+          "balance": -5
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 273,
           "reason": "Tenure points",
-          "balance": 223
+          "balance": 268
         }
       ],
       "pending_bounties": [
@@ -306,7 +312,7 @@
         {
           "bounty_id": "59",
           "name": "Crafting SOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-06T18:56:05.835Z"
         }
