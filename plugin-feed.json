@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T18:17:29.761Z",
+  "generated_at": "2026-09-06T18:20:31.971Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -734,9 +734,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 3034,
+      "points_total": 3094,
       "points_spent": 1230,
-      "points_available": 1804,
+      "points_available": 1864,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
@@ -748,12 +748,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-13T14:59:15.604Z",
-          "delta": 45,
-          "reason": "win + 15 caskets",
-          "balance": 673
-        },
         {
           "timestamp": "2026-07-13T15:44:32.629Z",
           "delta": 30,
@@ -899,10 +893,16 @@
           "balance": 1458
         },
         {
+          "timestamp": "2026-09-06T18:17:51.562Z",
+          "delta": 60,
+          "reason": "Bounty: Crafting SOTW - Elite",
+          "balance": 1518
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 346,
           "reason": "Tenure points",
-          "balance": 1804
+          "balance": 1864
         }
       ],
       "pending_bounties": [
@@ -930,7 +930,7 @@
         {
           "bounty_id": "60",
           "name": "Crafting SOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-06T18:17:28.248Z"
         }
@@ -17003,9 +17003,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 3034,
+      "points_total": 3094,
       "points_spent": 1230,
-      "points_available": 1804,
+      "points_available": 1864,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
@@ -17017,12 +17017,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-13T14:59:15.604Z",
-          "delta": 45,
-          "reason": "win + 15 caskets",
-          "balance": 673
-        },
         {
           "timestamp": "2026-07-13T15:44:32.629Z",
           "delta": 30,
@@ -17168,10 +17162,16 @@
           "balance": 1458
         },
         {
+          "timestamp": "2026-09-06T18:17:51.562Z",
+          "delta": 60,
+          "reason": "Bounty: Crafting SOTW - Elite",
+          "balance": 1518
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 346,
           "reason": "Tenure points",
-          "balance": 1804
+          "balance": 1864
         }
       ],
       "pending_bounties": [
@@ -17199,7 +17199,7 @@
         {
           "bounty_id": "60",
           "name": "Crafting SOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-06T18:17:28.248Z"
         }
