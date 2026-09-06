@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T09:06:24.057Z",
+  "generated_at": "2026-09-06T09:39:28.993Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -23901,26 +23901,21 @@
     {
       "rsn": "Woofle Boi",
       "rsn_key": "woofleboi",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
       "join_date": "2026-04-09",
       "points_total": 520,
-      "points_spent": 200,
-      "points_available": 320,
+      "points_spent": 500,
+      "points_available": 20,
       "months_in_clan": 4,
       "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Ruby",
-        "created_at": "2026-09-06T09:06:21.905Z"
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 380,
+        "missing_months": 1,
+        "can_claim": false
       },
       "points_history": [
         {
@@ -24008,10 +24003,16 @@
           "balance": 170
         },
         {
+          "timestamp": "2026-09-06T09:39:27.484Z",
+          "delta": -300,
+          "reason": "Rank upgrade: Ruby",
+          "balance": -130
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 150,
           "reason": "Tenure points",
-          "balance": 320
+          "balance": 20
         }
       ],
       "pending_bounties": [
