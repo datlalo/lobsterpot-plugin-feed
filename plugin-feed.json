@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T03:52:36.639Z",
+  "generated_at": "2026-09-06T03:58:54.973Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -7666,26 +7666,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-21",
-      "points_total": 1110,
+      "points_total": 1125,
       "points_spent": 700,
-      "points_available": 410,
+      "points_available": 425,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 90,
+        "missing_points": 75,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-11T13:35:17.548Z",
-          "delta": 15,
-          "reason": "participated in TOA Tuesday",
-          "balance": 295
-        },
         {
           "timestamp": "2026-02-23T13:23:38.562Z",
           "delta": 0,
@@ -7831,17 +7825,23 @@
           "balance": 60
         },
         {
+          "timestamp": "2026-09-06T03:58:53.459Z",
+          "delta": 15,
+          "reason": "Bounty: Crafting SOTW - Easy",
+          "balance": 75
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 350,
           "reason": "Tenure points",
-          "balance": 410
+          "balance": 425
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "57",
           "name": "Crafting SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-05T22:59:17.413Z"
         },
@@ -7860,26 +7860,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-21",
-      "points_total": 1110,
+      "points_total": 1125,
       "points_spent": 700,
-      "points_available": 410,
+      "points_available": 425,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 90,
+        "missing_points": 75,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-11T13:35:17.548Z",
-          "delta": 15,
-          "reason": "participated in TOA Tuesday",
-          "balance": 295
-        },
         {
           "timestamp": "2026-02-23T13:23:38.562Z",
           "delta": 0,
@@ -8025,17 +8019,23 @@
           "balance": 60
         },
         {
+          "timestamp": "2026-09-06T03:58:53.459Z",
+          "delta": 15,
+          "reason": "Bounty: Crafting SOTW - Easy",
+          "balance": 75
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 350,
           "reason": "Tenure points",
-          "balance": 410
+          "balance": 425
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "57",
           "name": "Crafting SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-05T22:59:17.413Z"
         },
@@ -8494,26 +8494,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-21",
-      "points_total": 1110,
+      "points_total": 1125,
       "points_spent": 700,
-      "points_available": 410,
+      "points_available": 425,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 90,
+        "missing_points": 75,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-11T13:35:17.548Z",
-          "delta": 15,
-          "reason": "participated in TOA Tuesday",
-          "balance": 295
-        },
         {
           "timestamp": "2026-02-23T13:23:38.562Z",
           "delta": 0,
@@ -8659,17 +8653,23 @@
           "balance": 60
         },
         {
+          "timestamp": "2026-09-06T03:58:53.459Z",
+          "delta": 15,
+          "reason": "Bounty: Crafting SOTW - Easy",
+          "balance": 75
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 350,
           "reason": "Tenure points",
-          "balance": 410
+          "balance": 425
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "57",
           "name": "Crafting SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-05T22:59:17.413Z"
         },
