@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T03:58:54.973Z",
+  "generated_at": "2026-09-06T04:01:56.916Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -4083,16 +4083,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-01-20",
-      "points_total": 714,
+      "points_total": 759,
       "points_spent": 600,
-      "points_available": 114,
+      "points_available": 159,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 286,
+        "missing_points": 241,
         "missing_months": 0,
         "can_claim": false
       },
@@ -4218,17 +4218,23 @@
           "balance": -115
         },
         {
+          "timestamp": "2026-09-06T03:59:54.684Z",
+          "delta": 45,
+          "reason": "Bounty: Crafting SOTW - Hard",
+          "balance": -70
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 229,
           "reason": "Tenure points",
-          "balance": 114
+          "balance": 159
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "59",
           "name": "Crafting SOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-06T01:47:14.012Z"
         }
@@ -7666,26 +7672,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-21",
-      "points_total": 1125,
+      "points_total": 1155,
       "points_spent": 700,
-      "points_available": 425,
+      "points_available": 455,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 75,
+        "missing_points": 45,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-23T13:23:38.562Z",
-          "delta": 0,
-          "reason": "Claimed additional RSN: fiskmore",
-          "balance": 295
-        },
         {
           "timestamp": "2026-03-03T07:46:13.048Z",
           "delta": 40,
@@ -7831,10 +7831,16 @@
           "balance": 75
         },
         {
+          "timestamp": "2026-09-06T03:58:57.646Z",
+          "delta": 30,
+          "reason": "Bounty: Crafting SOTW - Medium",
+          "balance": 105
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 350,
           "reason": "Tenure points",
-          "balance": 425
+          "balance": 455
         }
       ],
       "pending_bounties": [
@@ -7848,7 +7854,7 @@
         {
           "bounty_id": "58",
           "name": "Crafting SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-05T22:59:23.452Z"
         }
@@ -7860,26 +7866,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-21",
-      "points_total": 1125,
+      "points_total": 1155,
       "points_spent": 700,
-      "points_available": 425,
+      "points_available": 455,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 75,
+        "missing_points": 45,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-23T13:23:38.562Z",
-          "delta": 0,
-          "reason": "Claimed additional RSN: fiskmore",
-          "balance": 295
-        },
         {
           "timestamp": "2026-03-03T07:46:13.048Z",
           "delta": 40,
@@ -8025,10 +8025,16 @@
           "balance": 75
         },
         {
+          "timestamp": "2026-09-06T03:58:57.646Z",
+          "delta": 30,
+          "reason": "Bounty: Crafting SOTW - Medium",
+          "balance": 105
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 350,
           "reason": "Tenure points",
-          "balance": 425
+          "balance": 455
         }
       ],
       "pending_bounties": [
@@ -8042,7 +8048,7 @@
         {
           "bounty_id": "58",
           "name": "Crafting SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-05T22:59:23.452Z"
         }
@@ -8494,26 +8500,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-21",
-      "points_total": 1125,
+      "points_total": 1155,
       "points_spent": 700,
-      "points_available": 425,
+      "points_available": 455,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 75,
+        "missing_points": 45,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-23T13:23:38.562Z",
-          "delta": 0,
-          "reason": "Claimed additional RSN: fiskmore",
-          "balance": 295
-        },
         {
           "timestamp": "2026-03-03T07:46:13.048Z",
           "delta": 40,
@@ -8659,10 +8659,16 @@
           "balance": 75
         },
         {
+          "timestamp": "2026-09-06T03:58:57.646Z",
+          "delta": 30,
+          "reason": "Bounty: Crafting SOTW - Medium",
+          "balance": 105
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 350,
           "reason": "Tenure points",
-          "balance": 425
+          "balance": 455
         }
       ],
       "pending_bounties": [
@@ -8676,7 +8682,7 @@
         {
           "bounty_id": "58",
           "name": "Crafting SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-05T22:59:23.452Z"
         }
@@ -18850,38 +18856,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-10-11",
-      "points_total": 2149,
+      "points_total": 2239,
       "points_spent": 1400,
-      "points_available": 749,
+      "points_available": 839,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 51,
+        "missing_points": 0,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-14T20:07:30.366Z",
-          "delta": 35,
-          "reason": "Discord adjustment",
-          "balance": 135
-        },
-        {
-          "timestamp": "2026-06-02T11:30:38.716Z",
-          "delta": 10,
-          "reason": "Ty for recommending the clan bro",
-          "balance": 145
-        },
-        {
-          "timestamp": "2026-06-28T17:59:15.348Z",
-          "delta": 40,
-          "reason": "Bounty: Slayer BOTM Hard Bounty",
-          "balance": 185
-        },
         {
           "timestamp": "2026-07-01T21:05:56.183Z",
           "delta": 15,
@@ -19015,31 +19003,49 @@
           "balance": 419
         },
         {
+          "timestamp": "2026-09-06T03:59:29.509Z",
+          "delta": 15,
+          "reason": "Bounty: Crafting SOTW - Easy",
+          "balance": 434
+        },
+        {
+          "timestamp": "2026-09-06T03:59:31.896Z",
+          "delta": 30,
+          "reason": "Bounty: Crafting SOTW - Medium",
+          "balance": 464
+        },
+        {
+          "timestamp": "2026-09-06T03:59:52.293Z",
+          "delta": 45,
+          "reason": "Bounty: Crafting SOTW - Hard",
+          "balance": 509
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 330,
           "reason": "Tenure points",
-          "balance": 749
+          "balance": 839
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "57",
           "name": "Crafting SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-05T23:46:50.425Z"
         },
         {
           "bounty_id": "58",
           "name": "Crafting SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-05T23:47:24.941Z"
         },
         {
           "bounty_id": "59",
           "name": "Crafting SOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-05T23:47:30.629Z"
         }
@@ -20766,16 +20772,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-01-20",
-      "points_total": 714,
+      "points_total": 759,
       "points_spent": 600,
-      "points_available": 114,
+      "points_available": 159,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 286,
+        "missing_points": 241,
         "missing_months": 0,
         "can_claim": false
       },
@@ -20901,17 +20907,23 @@
           "balance": -115
         },
         {
+          "timestamp": "2026-09-06T03:59:54.684Z",
+          "delta": 45,
+          "reason": "Bounty: Crafting SOTW - Hard",
+          "balance": -70
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 229,
           "reason": "Tenure points",
-          "balance": 114
+          "balance": 159
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "59",
           "name": "Crafting SOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-06T01:47:14.012Z"
         }
@@ -23862,18 +23874,18 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-04-09",
-      "points_total": 445,
+      "points_total": 520,
       "points_spent": 200,
-      "points_available": 245,
+      "points_available": 320,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 55,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -23949,10 +23961,22 @@
           "balance": 95
         },
         {
+          "timestamp": "2026-09-06T03:59:16.304Z",
+          "delta": 30,
+          "reason": "Bounty: Crafting SOTW - Medium",
+          "balance": 125
+        },
+        {
+          "timestamp": "2026-09-06T04:00:07.391Z",
+          "delta": 45,
+          "reason": "Bounty: Crafting SOTW - Hard",
+          "balance": 170
+        },
+        {
           "timestamp": "2026-09-06T00:28:50.694Z",
           "delta": 150,
           "reason": "Tenure points",
-          "balance": 245
+          "balance": 320
         }
       ],
       "pending_bounties": [
@@ -23966,14 +23990,14 @@
         {
           "bounty_id": "58",
           "name": "Crafting SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-05T22:36:02.596Z"
         },
         {
           "bounty_id": "59",
           "name": "Crafting SOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-05T22:39:00.197Z"
         }
