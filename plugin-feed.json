@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T13:34:08.460Z",
+  "generated_at": "2026-09-07T13:37:10.449Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -21798,14 +21798,203 @@
     {
       "rsn": "tah knee",
       "rsn_key": "tahknee",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2026-09-07",
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": null
+      "bot_rank": "Dragonstone",
+      "progression_rank": "Dragonstone",
+      "join_date": "2025-09-30",
+      "points_total": 1725,
+      "points_spent": 1200,
+      "points_available": 525,
+      "months_in_clan": 11,
+      "next_rank": {
+        "name": "Onyx",
+        "point_cost": 800,
+        "min_months": 12,
+        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "missing_points": 275,
+        "missing_months": 1,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-06-25T08:14:10.011Z",
+          "delta": 10,
+          "reason": "slayer event",
+          "balance": -105
+        },
+        {
+          "timestamp": "2026-07-01T20:53:02.977Z",
+          "delta": 15,
+          "reason": "Bounty: Farming - Easy",
+          "balance": -90
+        },
+        {
+          "timestamp": "2026-07-01T21:34:43.596Z",
+          "delta": 30,
+          "reason": "Bounty: Farming - Medium",
+          "balance": -60
+        },
+        {
+          "timestamp": "2026-07-02T21:15:01.934Z",
+          "delta": 40,
+          "reason": "Bounty: Farming - Hard",
+          "balance": -20
+        },
+        {
+          "timestamp": "2026-07-03T05:55:02.365Z",
+          "delta": 153,
+          "reason": "Slayer",
+          "balance": 133
+        },
+        {
+          "timestamp": "2026-07-03T16:45:00.962Z",
+          "delta": 60,
+          "reason": "Bounty: Farming - Elite",
+          "balance": 193
+        },
+        {
+          "timestamp": "2026-07-07T12:05:36.995Z",
+          "delta": 5,
+          "reason": "Mole Monday",
+          "balance": 198
+        },
+        {
+          "timestamp": "2026-07-08T19:06:16.568Z",
+          "delta": 10,
+          "reason": "Volcanic Mine Event",
+          "balance": 208
+        },
+        {
+          "timestamp": "2026-07-13T14:53:28.147Z",
+          "delta": 15,
+          "reason": "Did 15 clues",
+          "balance": 223
+        },
+        {
+          "timestamp": "2026-07-13T14:54:59.344Z",
+          "delta": -500,
+          "reason": "Rank upgrade: Dragonstone",
+          "balance": -277
+        },
+        {
+          "timestamp": "2026-07-15T18:50:27.299Z",
+          "delta": 15,
+          "reason": "Bounty: Duke Sucellus - Easy",
+          "balance": -262
+        },
+        {
+          "timestamp": "2026-07-17T06:32:26.147Z",
+          "delta": 30,
+          "reason": "Bounty: Duke Sucellus - Medium",
+          "balance": -232
+        },
+        {
+          "timestamp": "2026-07-17T22:54:47.056Z",
+          "delta": 30,
+          "reason": "callisto mass + freezer",
+          "balance": -202
+        },
+        {
+          "timestamp": "2026-07-18T03:54:26.972Z",
+          "delta": 45,
+          "reason": "Bounty: Duke Sucellus - Hard",
+          "balance": -157
+        },
+        {
+          "timestamp": "2026-07-27T16:41:02.137Z",
+          "delta": 60,
+          "reason": "Bounty: Duke Sucellus - Elite",
+          "balance": -97
+        },
+        {
+          "timestamp": "2026-08-04T00:17:54.187Z",
+          "delta": 20,
+          "reason": "Thank you for participating in PVM Map Sweep event.",
+          "balance": -77
+        },
+        {
+          "timestamp": "2026-08-20T21:07:03.639Z",
+          "delta": 30,
+          "reason": "Bounty: Vardorvis BOTW - Medium",
+          "balance": -47
+        },
+        {
+          "timestamp": "2026-08-20T21:07:05.976Z",
+          "delta": 15,
+          "reason": "Bounty: Vardorvis BOTW - Easy",
+          "balance": -32
+        },
+        {
+          "timestamp": "2026-08-21T17:11:56.916Z",
+          "delta": 45,
+          "reason": "Bounty: Vardorvis BOTW - Hard",
+          "balance": 13
+        },
+        {
+          "timestamp": "2026-08-26T08:44:00.440Z",
+          "delta": 60,
+          "reason": "Bounty: Vardorvis BOTW - Elite",
+          "balance": 73
+        },
+        {
+          "timestamp": "2026-08-26T14:17:17.343Z",
+          "delta": 15,
+          "reason": "Vardorvis BOTW - 4th-6th place",
+          "balance": 88
+        },
+        {
+          "timestamp": "2026-09-04T17:13:43.300Z",
+          "delta": 30,
+          "reason": "Bounty: Crafting SOTW - Medium",
+          "balance": 118
+        },
+        {
+          "timestamp": "2026-09-04T17:14:23.899Z",
+          "delta": 15,
+          "reason": "Bounty: Crafting SOTW - Easy",
+          "balance": 133
+        },
+        {
+          "timestamp": "2026-09-06T15:14:45.558Z",
+          "delta": 5,
+          "reason": "50kc sarachnis sunday",
+          "balance": 138
+        },
+        {
+          "timestamp": "2026-09-07T02:02:17.577Z",
+          "delta": 45,
+          "reason": "Bounty: Crafting SOTW - Hard",
+          "balance": 183
+        },
+        {
+          "timestamp": "2026-09-07T00:38:03.425Z",
+          "delta": 342,
+          "reason": "Tenure points",
+          "balance": 525
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "57",
+          "name": "Crafting SOTW - Easy",
+          "status": "approved",
+          "reason": null,
+          "created_at": "2026-09-04T16:08:26.198Z"
+        },
+        {
+          "bounty_id": "58",
+          "name": "Crafting SOTW - Medium",
+          "status": "approved",
+          "reason": null,
+          "created_at": "2026-09-04T16:08:35.130Z"
+        },
+        {
+          "bounty_id": "59",
+          "name": "Crafting SOTW - Hard",
+          "status": "approved",
+          "reason": null,
+          "created_at": "2026-09-07T01:56:08.908Z"
+        }
+      ]
     },
     {
       "rsn": "tandynz",
