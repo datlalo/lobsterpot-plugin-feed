@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T17:08:08.383Z",
+  "generated_at": "2026-09-07T17:34:55.547Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -17967,6 +17967,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-09-07T01:56:08.908Z"
+        },
+        {
+          "bounty_id": "60",
+          "name": "Crafting SOTW - Elite",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-07T17:34:54.025Z"
         }
       ]
     },
@@ -22027,6 +22034,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-09-07T01:56:08.908Z"
+        },
+        {
+          "bounty_id": "60",
+          "name": "Crafting SOTW - Elite",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-07T17:34:54.025Z"
         }
       ]
     },
