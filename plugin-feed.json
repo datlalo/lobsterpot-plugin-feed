@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T13:37:10.449Z",
+  "generated_at": "2026-09-07T14:58:09.271Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -21050,6 +21050,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-09-03T21:00:31.712Z"
+        },
+        {
+          "bounty_id": "60",
+          "name": "Crafting SOTW - Elite",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-07T14:58:07.761Z"
         }
       ]
     },
