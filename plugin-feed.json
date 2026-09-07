@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T09:09:20.336Z",
+  "generated_at": "2026-09-07T10:23:08.128Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -5440,6 +5440,26 @@
       ]
     },
     {
+      "rsn": "cronuss",
+      "rsn_key": "cronuss",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-09-07",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "dabz gim",
       "rsn_key": "dabzgim",
       "bot_rank": "Gnome",
@@ -7486,34 +7506,6 @@
           "delta": 25,
           "reason": "Tenure points",
           "balance": 25
-        }
-      ]
-    },
-    {
-      "rsn": "F2P_M1TCH",
-      "rsn_key": "f2pm1tch",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-06-05",
-      "points_total": 94,
-      "points_spent": 0,
-      "points_available": 94,
-      "months_in_clan": 3,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 6,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-09-07T00:38:03.425Z",
-          "delta": 94,
-          "reason": "Tenure points",
-          "balance": 94
         }
       ]
     },
@@ -11308,6 +11300,26 @@
       ]
     },
     {
+      "rsn": "ichibanwhit",
+      "rsn_key": "ichibanwhit",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-09-07",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "if stupid",
       "rsn_key": "ifstupid",
       "bot_rank": "Sapphire",
@@ -14167,6 +14179,18 @@
           "balance": 79
         }
       ]
+    },
+    {
+      "rsn": "m 1 t ch",
+      "rsn_key": "m1tch",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-09-07",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
     },
     {
       "rsn": "magickstick",
@@ -19270,6 +19294,26 @@
       ]
     },
     {
+      "rsn": "Scoo_ba",
+      "rsn_key": "scooba",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-09-07",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "ScottishBobB",
       "rsn_key": "scottishbobb",
       "bot_rank": "Gnome",
@@ -21697,6 +21741,18 @@
           "balance": 163
         }
       ]
+    },
+    {
+      "rsn": "tah knee",
+      "rsn_key": "tahknee",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-09-07",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
     },
     {
       "rsn": "tandynz",
