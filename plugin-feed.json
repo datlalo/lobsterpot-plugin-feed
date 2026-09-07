@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T12:37:05.255Z",
+  "generated_at": "2026-09-07T13:26:33.958Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -22,6 +22,16 @@
       "ends_at": "2026-09-09T11:00:00.000Z",
       "thread_id": "1544260004956348416",
       "wom_id": 153725
+    },
+    {
+      "id": "b75613a1-157f-4841-a8d2-2f34e109c127",
+      "type": "event",
+      "title": "Callisto Mass",
+      "location": "Wilderness!",
+      "starts_at": "2026-09-09T19:00:00.000Z",
+      "ends_at": null,
+      "description": "We are gonna go as a  clan to hunt BEAR\n\nBring low risk items as well as freezes if you can!",
+      "thread_id": "1546511976794951750"
     },
     {
       "id": "154736",
