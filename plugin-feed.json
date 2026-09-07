@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T17:34:55.547Z",
+  "generated_at": "2026-09-07T18:10:41.608Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -17775,26 +17775,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-30",
-      "points_total": 1725,
+      "points_total": 1785,
       "points_spent": 1200,
-      "points_available": 525,
+      "points_available": 585,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 275,
+        "missing_points": 215,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-25T08:14:10.011Z",
-          "delta": 10,
-          "reason": "slayer event",
-          "balance": -105
-        },
         {
           "timestamp": "2026-07-01T20:53:02.977Z",
           "delta": 15,
@@ -17940,10 +17934,16 @@
           "balance": 183
         },
         {
+          "timestamp": "2026-09-07T18:10:40.089Z",
+          "delta": 60,
+          "reason": "Bounty: Crafting SOTW - Elite",
+          "balance": 243
+        },
+        {
           "timestamp": "2026-09-07T00:38:03.425Z",
           "delta": 342,
           "reason": "Tenure points",
-          "balance": 525
+          "balance": 585
         }
       ],
       "pending_bounties": [
@@ -17971,7 +17971,7 @@
         {
           "bounty_id": "60",
           "name": "Crafting SOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-07T17:34:54.025Z"
         }
@@ -21842,26 +21842,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-30",
-      "points_total": 1725,
+      "points_total": 1785,
       "points_spent": 1200,
-      "points_available": 525,
+      "points_available": 585,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 275,
+        "missing_points": 215,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-25T08:14:10.011Z",
-          "delta": 10,
-          "reason": "slayer event",
-          "balance": -105
-        },
         {
           "timestamp": "2026-07-01T20:53:02.977Z",
           "delta": 15,
@@ -22007,10 +22001,16 @@
           "balance": 183
         },
         {
+          "timestamp": "2026-09-07T18:10:40.089Z",
+          "delta": 60,
+          "reason": "Bounty: Crafting SOTW - Elite",
+          "balance": 243
+        },
+        {
           "timestamp": "2026-09-07T00:38:03.425Z",
           "delta": 342,
           "reason": "Tenure points",
-          "balance": 525
+          "balance": 585
         }
       ],
       "pending_bounties": [
@@ -22038,7 +22038,7 @@
         {
           "bounty_id": "60",
           "name": "Crafting SOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-07T17:34:54.025Z"
         }
