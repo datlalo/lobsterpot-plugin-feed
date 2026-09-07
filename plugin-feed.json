@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T13:26:33.958Z",
+  "generated_at": "2026-09-07T13:34:08.460Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -14220,14 +14220,30 @@
     {
       "rsn": "m 1 t ch",
       "rsn_key": "m1tch",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2026-09-07",
-      "points_total": 0,
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-06-05",
+      "points_total": 94,
       "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": null
+      "points_available": 94,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 6,
+        "missing_months": 0,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-09-07T00:38:03.425Z",
+          "delta": 94,
+          "reason": "Tenure points",
+          "balance": 94
+        }
+      ]
     },
     {
       "rsn": "magickstick",
