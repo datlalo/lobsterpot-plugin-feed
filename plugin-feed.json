@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T18:10:41.608Z",
+  "generated_at": "2026-09-07T18:13:44.152Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -16462,9 +16462,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-06-11",
-      "points_total": 268,
+      "points_total": 328,
       "points_spent": 0,
-      "points_available": 268,
+      "points_available": 328,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
@@ -16513,10 +16513,16 @@
           "balance": 180
         },
         {
+          "timestamp": "2026-09-07T18:11:17.531Z",
+          "delta": 60,
+          "reason": "Bounty: Crafting SOTW - Elite",
+          "balance": 240
+        },
+        {
           "timestamp": "2026-09-07T00:38:03.425Z",
           "delta": 88,
           "reason": "Tenure points",
-          "balance": 268
+          "balance": 328
         }
       ],
       "pending_bounties": [
@@ -16544,7 +16550,7 @@
         {
           "bounty_id": "60",
           "name": "Crafting SOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-07T15:01:16.802Z"
         }
@@ -20892,26 +20898,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-22",
-      "points_total": 1300,
+      "points_total": 1360,
       "points_spent": 1200,
-      "points_available": 100,
+      "points_available": 160,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 700,
+        "missing_points": 640,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-17T11:06:20.551Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier Bounty",
-          "balance": 205
-        },
         {
           "timestamp": "2026-02-17T11:08:09.984Z",
           "delta": 60,
@@ -21057,10 +21057,16 @@
           "balance": -250
         },
         {
+          "timestamp": "2026-09-07T18:11:21.870Z",
+          "delta": 60,
+          "reason": "Bounty: Crafting SOTW - Elite",
+          "balance": -190
+        },
+        {
           "timestamp": "2026-09-07T00:38:03.425Z",
           "delta": 350,
           "reason": "Tenure points",
-          "balance": 100
+          "balance": 160
         }
       ],
       "pending_bounties": [
@@ -21088,7 +21094,7 @@
         {
           "bounty_id": "60",
           "name": "Crafting SOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-07T14:58:07.761Z"
         }
@@ -24697,32 +24703,38 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-06-22",
-      "points_total": 77,
+      "points_total": 122,
       "points_spent": 0,
-      "points_available": 77,
+      "points_available": 122,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 23,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
+        {
+          "timestamp": "2026-09-07T18:11:11.643Z",
+          "delta": 45,
+          "reason": "Bounty: Crafting SOTW - Hard",
+          "balance": 45
+        },
         {
           "timestamp": "2026-09-07T00:38:03.425Z",
           "delta": 77,
           "reason": "Tenure points",
-          "balance": 77
+          "balance": 122
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "59",
           "name": "Crafting SOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-07T16:22:28.021Z"
         }
