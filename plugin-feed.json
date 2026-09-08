@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-08T07:57:49.452Z",
+  "generated_at": "2026-09-08T11:38:10.233Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -2642,6 +2642,26 @@
           "balance": 306
         }
       ]
+    },
+    {
+      "rsn": "Aslangel93",
+      "rsn_key": "aslangel93",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-09-08",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "AstroRob",
@@ -7490,34 +7510,6 @@
           "delta": 11,
           "reason": "Tenure points",
           "balance": 11
-        }
-      ]
-    },
-    {
-      "rsn": "endoscopic",
-      "rsn_key": "endoscopic",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-09-01",
-      "points_total": 7,
-      "points_spent": 0,
-      "points_available": 7,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 93,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-09-08T00:38:05.032Z",
-          "delta": 7,
-          "reason": "Tenure points",
-          "balance": 7
         }
       ]
     },
