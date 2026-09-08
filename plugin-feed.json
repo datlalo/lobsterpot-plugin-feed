@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-08T07:53:03.653Z",
+  "generated_at": "2026-09-08T07:57:49.452Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -22232,18 +22232,18 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-03-08",
-      "points_total": 289,
+      "points_total": 304,
       "points_spent": 100,
-      "points_available": 189,
+      "points_available": 204,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 11,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -22289,17 +22289,23 @@
           "balance": 5
         },
         {
+          "timestamp": "2026-09-08T07:57:47.939Z",
+          "delta": 15,
+          "reason": "Bounty: Crafting SOTW - Easy",
+          "balance": 20
+        },
+        {
           "timestamp": "2026-09-08T00:38:05.032Z",
           "delta": 184,
           "reason": "Tenure points",
-          "balance": 189
+          "balance": 204
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "57",
           "name": "Crafting SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-08T07:39:24.286Z"
         }
