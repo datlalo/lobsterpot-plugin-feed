@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-08T15:32:07.059Z",
+  "generated_at": "2026-09-08T17:53:10.750Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -1567,34 +1567,6 @@
           "delta": 95,
           "reason": "Tenure points",
           "balance": 60
-        }
-      ]
-    },
-    {
-      "rsn": "am gonna kms",
-      "rsn_key": "amgonnakms",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-08-13",
-      "points_total": 26,
-      "points_spent": 0,
-      "points_available": 26,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 74,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-09-08T00:38:05.032Z",
-          "delta": 26,
-          "reason": "Tenure points",
-          "balance": 26
         }
       ]
     },
@@ -23825,6 +23797,26 @@
           "balance": 23
         }
       ]
+    },
+    {
+      "rsn": "vitolf",
+      "rsn_key": "vitolf",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-09-08",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "vortexfrost",
