@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T20:44:06.254Z",
+  "generated_at": "2026-09-08T00:32:00.766Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -109,7 +109,7 @@
       "points_total": 679,
       "points_spent": 300,
       "points_available": 379,
-      "months_in_clan": 11,
+      "months_in_clan": 12,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -3088,7 +3088,7 @@
       "points_total": 61,
       "points_spent": 0,
       "points_available": 61,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -7578,7 +7578,7 @@
       "points_total": 312,
       "points_spent": 300,
       "points_available": 12,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -9519,7 +9519,7 @@
       "points_total": 61,
       "points_spent": 0,
       "points_available": 61,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -9621,7 +9621,7 @@
       "points_total": 248,
       "points_spent": 200,
       "points_available": 48,
-      "months_in_clan": 5,
+      "months_in_clan": 6,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -9827,7 +9827,7 @@
       "points_total": 827,
       "points_spent": 620,
       "points_available": 207,
-      "months_in_clan": 7,
+      "months_in_clan": 8,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -14223,7 +14223,7 @@
       "points_total": 364,
       "points_spent": 0,
       "points_available": 364,
-      "months_in_clan": 11,
+      "months_in_clan": 12,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -18904,6 +18904,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-09-04T01:22:39.746Z"
+        },
+        {
+          "bounty_id": "60",
+          "name": "Crafting SOTW - Elite",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-08T00:31:59.259Z"
         }
       ]
     },
@@ -19861,7 +19868,7 @@
       "points_total": 61,
       "points_spent": 0,
       "points_available": 61,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -20255,7 +20262,7 @@
       "points_total": 216,
       "points_spent": 0,
       "points_available": 216,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -22136,7 +22143,7 @@
       "points_total": 288,
       "points_spent": 100,
       "points_available": 188,
-      "months_in_clan": 5,
+      "months_in_clan": 6,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -22302,7 +22309,7 @@
       "points_total": 152,
       "points_spent": 0,
       "points_available": 152,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -22330,7 +22337,7 @@
       "points_total": 248,
       "points_spent": 200,
       "points_available": 48,
-      "months_in_clan": 5,
+      "months_in_clan": 6,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -24392,7 +24399,7 @@
       "points_total": 81,
       "points_spent": 0,
       "points_available": 81,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
