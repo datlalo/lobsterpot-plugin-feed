@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-08T22:55:40.695Z",
+  "generated_at": "2026-09-08T22:58:42.791Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -22253,26 +22253,21 @@
     {
       "rsn": "tandynz",
       "rsn_key": "tandynz",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2026-03-08",
       "points_total": 304,
-      "points_spent": 100,
-      "points_available": 204,
+      "points_spent": 300,
+      "points_available": 4,
       "months_in_clan": 6,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 296,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Emerald",
-        "created_at": "2026-09-08T22:55:38.499Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -22324,10 +22319,16 @@
           "balance": 20
         },
         {
+          "timestamp": "2026-09-08T22:55:50.422Z",
+          "delta": -200,
+          "reason": "Rank upgrade: Emerald",
+          "balance": -180
+        },
+        {
           "timestamp": "2026-09-08T00:38:05.032Z",
           "delta": 184,
           "reason": "Tenure points",
-          "balance": 204
+          "balance": 4
         }
       ],
       "pending_bounties": [
