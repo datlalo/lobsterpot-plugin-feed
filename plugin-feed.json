@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-08T13:08:07.388Z",
+  "generated_at": "2026-09-08T14:08:10.552Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -12454,7 +12454,7 @@
       ]
     },
     {
-      "rsn": "Joyful_Life",
+      "rsn": "Joyful Life",
       "rsn_key": "joyfullife",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
