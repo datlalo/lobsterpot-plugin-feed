@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T09:17:39.597Z",
+  "generated_at": "2026-09-09T09:31:26.046Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -11814,6 +11814,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-09-08T07:18:24.172Z"
+        },
+        {
+          "bounty_id": "58",
+          "name": "Crafting SOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-09T09:31:24.525Z"
         }
       ]
     },
@@ -20648,6 +20655,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-09-08T07:18:24.172Z"
+        },
+        {
+          "bounty_id": "58",
+          "name": "Crafting SOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-09T09:31:24.525Z"
         }
       ]
     },
