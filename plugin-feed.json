@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T23:11:24.726Z",
+  "generated_at": "2026-09-09T23:14:26.792Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -16037,26 +16037,21 @@
     {
       "rsn": "NaturalSwag",
       "rsn_key": "naturalswag",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
       "join_date": "2026-05-09",
       "points_total": 641,
-      "points_spent": 300,
-      "points_available": 341,
+      "points_spent": 600,
+      "points_available": 41,
       "months_in_clan": 4,
       "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Ruby",
-        "created_at": "2026-09-09T22:39:01.660Z"
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 359,
+        "missing_months": 1,
+        "can_claim": false
       },
       "points_history": [
         {
@@ -16144,10 +16139,16 @@
           "balance": 218
         },
         {
+          "timestamp": "2026-09-09T23:11:53.823Z",
+          "delta": -300,
+          "reason": "Rank upgrade: Ruby",
+          "balance": -82
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 123,
           "reason": "Tenure points",
-          "balance": 341
+          "balance": 41
         }
       ],
       "pending_bounties": [
@@ -18000,26 +18001,21 @@
     {
       "rsn": "Pulsations",
       "rsn_key": "pulsations",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2026-04-07 19:00:03.50805+00",
       "points_total": 330,
-      "points_spent": 100,
-      "points_available": 230,
+      "points_spent": 300,
+      "points_available": 30,
       "months_in_clan": 5,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 270,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Emerald",
-        "created_at": "2026-09-09T22:06:13.162Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -18053,10 +18049,16 @@
           "balance": 75
         },
         {
+          "timestamp": "2026-09-09T23:11:41.368Z",
+          "delta": -200,
+          "reason": "Rank upgrade: Emerald",
+          "balance": -125
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 155,
           "reason": "Tenure points",
-          "balance": 230
+          "balance": 30
         }
       ],
       "pending_bounties": [
