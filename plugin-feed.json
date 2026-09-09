@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T19:47:20.402Z",
+  "generated_at": "2026-09-09T19:50:23.125Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -4881,6 +4881,26 @@
       ]
     },
     {
+      "rsn": "cgim double",
+      "rsn_key": "cgimdouble",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-09-09",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "chadwardenog",
       "rsn_key": "chadwardenog",
       "bot_rank": "Sapphire",
@@ -6576,58 +6596,6 @@
           "delta": 175,
           "reason": "Tenure points",
           "balance": 205
-        }
-      ]
-    },
-    {
-      "rsn": "dublsoul",
-      "rsn_key": "dublsoul",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-06-17",
-      "points_total": 189,
-      "points_spent": 0,
-      "points_available": 189,
-      "months_in_clan": 2,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-07-02T14:27:24.620Z",
-          "delta": 15,
-          "reason": "Bounty: Farming - Easy",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-07-02T14:27:26.640Z",
-          "delta": 30,
-          "reason": "Bounty: Farming - Medium",
-          "balance": 45
-        },
-        {
-          "timestamp": "2026-07-03T15:37:26.610Z",
-          "delta": 40,
-          "reason": "Bounty: Farming - Hard",
-          "balance": 85
-        },
-        {
-          "timestamp": "2026-08-04T00:17:54.137Z",
-          "delta": 20,
-          "reason": "Thank you for participating in PVM Map Sweep event.",
-          "balance": 105
-        },
-        {
-          "timestamp": "2026-09-09T00:38:06.590Z",
-          "delta": 84,
-          "reason": "Tenure points",
-          "balance": 189
         }
       ]
     },
