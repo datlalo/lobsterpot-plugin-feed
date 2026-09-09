@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T11:02:23.318Z",
+  "generated_at": "2026-09-09T11:32:25.979Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -15977,16 +15977,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-05-09",
-      "points_total": 546,
+      "points_total": 576,
       "points_spent": 300,
-      "points_available": 246,
+      "points_available": 276,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 54,
+        "missing_points": 24,
         "missing_months": 0,
         "can_claim": false
       },
@@ -16058,10 +16058,16 @@
           "balance": 123
         },
         {
+          "timestamp": "2026-09-09T11:32:24.457Z",
+          "delta": 30,
+          "reason": "Crafting - Skill of the Week — 2nd place",
+          "balance": 153
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 123,
           "reason": "Tenure points",
-          "balance": 246
+          "balance": 276
         }
       ],
       "pending_bounties": [
@@ -17130,9 +17136,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-12",
-      "points_total": 2342,
+      "points_total": 2362,
       "points_spent": 1270,
-      "points_available": 1072,
+      "points_available": 1092,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
@@ -17144,12 +17150,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-05-05T20:19:11.121Z",
-          "delta": 15,
-          "reason": "Discord adjustment",
-          "balance": 185
-        },
         {
           "timestamp": "2026-06-22T17:41:50.478Z",
           "delta": 30,
@@ -17295,10 +17295,16 @@
           "balance": 710
         },
         {
+          "timestamp": "2026-09-09T11:32:24.457Z",
+          "delta": 20,
+          "reason": "Crafting - Skill of the Week — 3rd place",
+          "balance": 730
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 362,
           "reason": "Tenure points",
-          "balance": 1072
+          "balance": 1092
         }
       ],
       "pending_bounties": [
@@ -17911,16 +17917,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-04-07 19:00:03.50805+00",
-      "points_total": 160,
+      "points_total": 210,
       "points_spent": 100,
-      "points_available": 60,
+      "points_available": 110,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 140,
+        "missing_points": 90,
         "missing_months": 0,
         "can_claim": false
       },
@@ -17938,10 +17944,16 @@
           "balance": -95
         },
         {
+          "timestamp": "2026-09-09T11:32:24.457Z",
+          "delta": 50,
+          "reason": "Crafting - Skill of the Week — 1st place",
+          "balance": -45
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 155,
           "reason": "Tenure points",
-          "balance": 60
+          "balance": 110
         }
       ]
     },
