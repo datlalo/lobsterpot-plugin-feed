@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T08:11:23.961Z",
+  "generated_at": "2026-09-09T09:14:36.783Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -17651,26 +17651,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-02-03",
-      "points_total": 1418,
+      "points_total": 1448,
       "points_spent": 1050,
-      "points_available": 368,
+      "points_available": 398,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 132,
+        "missing_points": 102,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-05T09:36:31.359Z",
-          "delta": -200,
-          "reason": "Rank upgraded to: Emerald",
-          "balance": 30
-        },
         {
           "timestamp": "2026-04-14T20:01:37.207Z",
           "delta": 10,
@@ -17816,10 +17810,16 @@
           "balance": 150
         },
         {
+          "timestamp": "2026-09-09T09:14:35.278Z",
+          "delta": 30,
+          "reason": "Bounty: Crafting SOTW - Medium",
+          "balance": 180
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 218,
           "reason": "Tenure points",
-          "balance": 368
+          "balance": 398
         }
       ],
       "pending_bounties": [
@@ -17840,7 +17840,7 @@
         {
           "bounty_id": "58",
           "name": "Crafting SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-09T08:11:22.443Z"
         }
