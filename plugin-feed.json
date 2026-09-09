@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T04:16:03.238Z",
+  "generated_at": "2026-09-09T04:23:16.426Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -12999,26 +12999,21 @@
     {
       "rsn": "Kethrim",
       "rsn_key": "kethrim",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
       "join_date": "2025-12-07 18:36:25.17162+00",
       "points_total": 531,
-      "points_spent": 200,
-      "points_available": 331,
+      "points_spent": 500,
+      "points_available": 31,
       "months_in_clan": 9,
       "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 0,
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 369,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Ruby",
-        "created_at": "2026-09-09T04:16:00.933Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -13040,10 +13035,16 @@
           "balance": 55
         },
         {
+          "timestamp": "2026-09-09T04:23:14.916Z",
+          "delta": -300,
+          "reason": "Rank upgrade: Ruby",
+          "balance": -245
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 276,
           "reason": "Tenure points",
-          "balance": 331
+          "balance": 31
         }
       ]
     },
