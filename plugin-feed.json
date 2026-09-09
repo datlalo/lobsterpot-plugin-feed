@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T19:53:25.692Z",
+  "generated_at": "2026-09-09T19:56:28.340Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -9173,16 +9173,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-05-01",
-      "points_total": 429,
+      "points_total": 489,
       "points_spent": 300,
-      "points_available": 129,
+      "points_available": 189,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 171,
+        "missing_points": 111,
         "missing_months": 0,
         "can_claim": false
       },
@@ -9248,10 +9248,16 @@
           "balance": -2
         },
         {
+          "timestamp": "2026-09-09T19:55:01.395Z",
+          "delta": 60,
+          "reason": "Bounty: Crafting SOTW - Elite",
+          "balance": 58
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 131,
           "reason": "Tenure points",
-          "balance": 129
+          "balance": 189
         }
       ],
       "pending_bounties": [
@@ -9279,7 +9285,7 @@
         {
           "bounty_id": "60",
           "name": "Crafting SOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-09T14:29:00.373Z"
         }
@@ -10797,16 +10803,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-10-06",
-      "points_total": 538,
+      "points_total": 568,
       "points_spent": 500,
-      "points_available": 38,
+      "points_available": 68,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 362,
+        "missing_points": 332,
         "missing_months": 0,
         "can_claim": false
       },
@@ -10830,10 +10836,16 @@
           "balance": -300
         },
         {
+          "timestamp": "2026-09-09T19:54:55.946Z",
+          "delta": 30,
+          "reason": "Bounty: Crafting SOTW - Medium",
+          "balance": -270
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 338,
           "reason": "Tenure points",
-          "balance": 38
+          "balance": 68
         }
       ],
       "pending_bounties": [
@@ -10847,7 +10859,7 @@
         {
           "bounty_id": "58",
           "name": "Crafting SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-09T10:49:17.589Z"
         }
@@ -11811,8 +11823,8 @@
         {
           "bounty_id": "58",
           "name": "Crafting SOTW - Medium",
-          "status": "pending",
-          "reason": null,
+          "status": "rejected",
+          "reason": "Unfortunately only 540k xp recorded. If you are sure you received 750k, please install and set up the XP Updater plugin and make sure you log in before the event finishes for WOM to sync your XP",
           "created_at": "2026-09-09T09:31:24.525Z"
         }
       ]
@@ -17926,18 +17938,18 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-04-07 19:00:03.50805+00",
-      "points_total": 270,
+      "points_total": 330,
       "points_spent": 100,
-      "points_available": 170,
+      "points_available": 230,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 30,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -17965,17 +17977,23 @@
           "balance": 15
         },
         {
+          "timestamp": "2026-09-09T19:55:05.158Z",
+          "delta": 60,
+          "reason": "Bounty: Crafting SOTW - Elite",
+          "balance": 75
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 155,
           "reason": "Tenure points",
-          "balance": 170
+          "balance": 230
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "60",
           "name": "Crafting SOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-09T17:19:15.145Z"
         }
@@ -20691,8 +20709,8 @@
         {
           "bounty_id": "58",
           "name": "Crafting SOTW - Medium",
-          "status": "pending",
-          "reason": null,
+          "status": "rejected",
+          "reason": "Unfortunately only 540k xp recorded. If you are sure you received 750k, please install and set up the XP Updater plugin and make sure you log in before the event finishes for WOM to sync your XP",
           "created_at": "2026-09-09T09:31:24.525Z"
         }
       ]
