@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T17:19:16.652Z",
+  "generated_at": "2026-09-09T19:38:12.809Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -12,16 +12,6 @@
     }
   ],
   "events": [
-    {
-      "id": "b75613a1-157f-4841-a8d2-2f34e109c127",
-      "type": "event",
-      "title": "Callisto Mass",
-      "location": "Wilderness!",
-      "starts_at": "2026-09-09T19:00:00.000Z",
-      "ends_at": null,
-      "description": "We are gonna go as a  clan to hunt BEAR\n\nBring low risk items as well as freezes if you can!",
-      "thread_id": "1546511976794951750"
-    },
     {
       "id": "154736",
       "type": "boss_competition",
@@ -17916,16 +17906,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-04-07 19:00:03.50805+00",
-      "points_total": 210,
+      "points_total": 270,
       "points_spent": 100,
-      "points_available": 110,
+      "points_available": 170,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 90,
+        "missing_points": 30,
         "missing_months": 0,
         "can_claim": false
       },
@@ -17949,10 +17939,16 @@
           "balance": -45
         },
         {
+          "timestamp": "2026-09-09T19:38:11.288Z",
+          "delta": 60,
+          "reason": "crafting sotw 1st place",
+          "balance": 15
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 155,
           "reason": "Tenure points",
-          "balance": 110
+          "balance": 170
         }
       ],
       "pending_bounties": [
