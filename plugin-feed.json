@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T21:04:18.160Z",
+  "generated_at": "2026-09-09T21:07:20.843Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -730,9 +730,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 3112,
+      "points_total": 3127,
       "points_spent": 1230,
-      "points_available": 1882,
+      "points_available": 1897,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
@@ -744,12 +744,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-16T03:11:42.395Z",
-          "delta": 15,
-          "reason": "Bounty: Duke Sucellus - Easy",
-          "balance": 718
-        },
         {
           "timestamp": "2026-07-16T03:11:44.822Z",
           "delta": 30,
@@ -895,10 +889,16 @@
           "balance": 1533
         },
         {
+          "timestamp": "2026-09-09T21:05:26.258Z",
+          "delta": 15,
+          "reason": "callisto mass",
+          "balance": 1548
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 349,
           "reason": "Tenure points",
-          "balance": 1882
+          "balance": 1897
         }
       ],
       "pending_bounties": [
@@ -994,26 +994,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-24",
-      "points_total": 1809,
+      "points_total": 1824,
       "points_spent": 1400,
-      "points_available": 409,
+      "points_available": 424,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 391,
+        "missing_points": 376,
         "missing_months": 3,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-25T07:29:44.765Z",
-          "delta": 15,
-          "reason": "Discord adjustment",
-          "balance": 70
-        },
         {
           "timestamp": "2026-03-03T07:46:59.208Z",
           "delta": 30,
@@ -1159,10 +1153,16 @@
           "balance": 120
         },
         {
+          "timestamp": "2026-09-09T21:05:26.259Z",
+          "delta": 15,
+          "reason": "callisto mass",
+          "balance": 135
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 289,
           "reason": "Tenure points",
-          "balance": 409
+          "balance": 424
         }
       ],
       "pending_bounties": [
@@ -4325,26 +4325,20 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-03-20 22:12:14.780985+00",
-      "points_total": 748,
+      "points_total": 763,
       "points_spent": 600,
-      "points_available": 148,
+      "points_available": 163,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 252,
+        "missing_points": 237,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-25T06:41:13.493Z",
-          "delta": 15,
-          "reason": "Bounty: Slayer BOTM Easy Bounty",
-          "balance": -70
-        },
         {
           "timestamp": "2026-06-25T11:34:21.857Z",
           "delta": 60,
@@ -4490,10 +4484,16 @@
           "balance": -25
         },
         {
+          "timestamp": "2026-09-09T21:05:26.259Z",
+          "delta": 15,
+          "reason": "callisto mass",
+          "balance": -10
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 173,
           "reason": "Tenure points",
-          "balance": 148
+          "balance": 163
         }
       ],
       "pending_bounties": [
@@ -6468,16 +6468,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-09-14",
-      "points_total": 660,
+      "points_total": 675,
       "points_spent": 300,
-      "points_available": 360,
+      "points_available": 375,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 40,
+        "missing_points": 25,
         "missing_months": 0,
         "can_claim": false
       },
@@ -6561,10 +6561,16 @@
           "balance": 0
         },
         {
+          "timestamp": "2026-09-09T21:05:26.259Z",
+          "delta": 15,
+          "reason": "callisto mass",
+          "balance": 15
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 360,
           "reason": "Tenure points",
-          "balance": 360
+          "balance": 375
         }
       ],
       "pending_bounties": [
@@ -7304,16 +7310,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-05-17 14:00:07.458542+00",
-      "points_total": 770,
+      "points_total": 785,
       "points_spent": 500,
-      "points_available": 270,
+      "points_available": 285,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 130,
+        "missing_points": 115,
         "missing_months": 2,
         "can_claim": false
       },
@@ -7421,10 +7427,16 @@
           "balance": 155
         },
         {
+          "timestamp": "2026-09-09T21:05:26.259Z",
+          "delta": 15,
+          "reason": "callisto mass",
+          "balance": 170
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 115,
           "reason": "Tenure points",
-          "balance": 270
+          "balance": 285
         }
       ],
       "pending_bounties": [
@@ -9803,26 +9815,20 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-01-08",
-      "points_total": 829,
+      "points_total": 844,
       "points_spent": 620,
-      "points_available": 209,
+      "points_available": 224,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 191,
+        "missing_points": 176,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-16T03:19:57.197Z",
-          "delta": 10,
-          "reason": "Discord adjustment",
-          "balance": 20
-        },
         {
           "timestamp": "2026-02-16T20:33:54.697Z",
           "delta": 60,
@@ -9968,10 +9974,16 @@
           "balance": -35
         },
         {
+          "timestamp": "2026-09-09T21:05:26.259Z",
+          "delta": 15,
+          "reason": "callisto mass",
+          "balance": -20
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 244,
           "reason": "Tenure points",
-          "balance": 209
+          "balance": 224
         }
       ],
       "pending_bounties": [
@@ -10389,26 +10401,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-03",
-      "points_total": 1526,
+      "points_total": 1541,
       "points_spent": 1210,
-      "points_available": 316,
+      "points_available": 331,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 484,
+        "missing_points": 469,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-03T22:21:05.355Z",
-          "delta": 60,
-          "reason": "Bounty reward: Elite Tier bounty - Zulrah",
-          "balance": 240
-        },
         {
           "timestamp": "2026-03-04T11:27:02.601Z",
           "delta": -10,
@@ -10554,10 +10560,16 @@
           "balance": -55
         },
         {
+          "timestamp": "2026-09-09T21:05:26.260Z",
+          "delta": 15,
+          "reason": "callisto mass",
+          "balance": -40
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 371,
           "reason": "Tenure points",
-          "balance": 316
+          "balance": 331
         }
       ],
       "pending_bounties": [
@@ -11761,16 +11773,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-04-03 11:00:04.345627+00",
-      "points_total": 264,
+      "points_total": 279,
       "points_spent": 100,
-      "points_available": 164,
+      "points_available": 179,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 36,
+        "missing_points": 21,
         "missing_months": 0,
         "can_claim": false
       },
@@ -11812,10 +11824,16 @@
           "balance": 5
         },
         {
+          "timestamp": "2026-09-09T21:05:26.260Z",
+          "delta": 15,
+          "reason": "callisto mass",
+          "balance": 20
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 159,
           "reason": "Tenure points",
-          "balance": 164
+          "balance": 179
         }
       ],
       "pending_bounties": [
@@ -13395,26 +13413,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-24",
-      "points_total": 1809,
+      "points_total": 1824,
       "points_spent": 1400,
-      "points_available": 409,
+      "points_available": 424,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 391,
+        "missing_points": 376,
         "missing_months": 3,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-25T07:29:44.765Z",
-          "delta": 15,
-          "reason": "Discord adjustment",
-          "balance": 70
-        },
         {
           "timestamp": "2026-03-03T07:46:59.208Z",
           "delta": 30,
@@ -13560,10 +13572,16 @@
           "balance": 120
         },
         {
+          "timestamp": "2026-09-09T21:05:26.259Z",
+          "delta": 15,
+          "reason": "callisto mass",
+          "balance": 135
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 289,
           "reason": "Tenure points",
-          "balance": 409
+          "balance": 424
         }
       ],
       "pending_bounties": [
@@ -14701,16 +14719,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-06",
-      "points_total": 80,
+      "points_total": 95,
       "points_spent": 0,
-      "points_available": 80,
+      "points_available": 95,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 20,
+        "missing_points": 5,
         "missing_months": 0,
         "can_claim": false
       },
@@ -14722,10 +14740,16 @@
           "balance": 15
         },
         {
+          "timestamp": "2026-09-09T21:05:26.260Z",
+          "delta": 15,
+          "reason": "callisto mass",
+          "balance": 30
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 65,
           "reason": "Tenure points",
-          "balance": 80
+          "balance": 95
         }
       ]
     },
@@ -16004,9 +16028,9 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-05-09",
-      "points_total": 626,
+      "points_total": 641,
       "points_spent": 300,
-      "points_available": 326,
+      "points_available": 341,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Ruby",
@@ -16097,10 +16121,16 @@
           "balance": 203
         },
         {
+          "timestamp": "2026-09-09T21:05:26.260Z",
+          "delta": 15,
+          "reason": "callisto mass",
+          "balance": 218
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 123,
           "reason": "Tenure points",
-          "balance": 326
+          "balance": 341
         }
       ],
       "pending_bounties": [
@@ -17445,9 +17475,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 3112,
+      "points_total": 3127,
       "points_spent": 1230,
-      "points_available": 1882,
+      "points_available": 1897,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
@@ -17459,12 +17489,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-16T03:11:42.395Z",
-          "delta": 15,
-          "reason": "Bounty: Duke Sucellus - Easy",
-          "balance": 718
-        },
         {
           "timestamp": "2026-07-16T03:11:44.822Z",
           "delta": 30,
@@ -17610,10 +17634,16 @@
           "balance": 1533
         },
         {
+          "timestamp": "2026-09-09T21:05:26.258Z",
+          "delta": 15,
+          "reason": "callisto mass",
+          "balance": 1548
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 349,
           "reason": "Tenure points",
-          "balance": 1882
+          "balance": 1897
         }
       ],
       "pending_bounties": [
@@ -18836,25 +18866,31 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-29",
-      "points_total": 42,
+      "points_total": 57,
       "points_spent": 0,
-      "points_available": 42,
+      "points_available": 57,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 58,
+        "missing_points": 43,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
         {
+          "timestamp": "2026-09-09T21:05:26.260Z",
+          "delta": 15,
+          "reason": "callisto mass",
+          "balance": 15
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 42,
           "reason": "Tenure points",
-          "balance": 42
+          "balance": 57
         }
       ]
     },
@@ -20659,16 +20695,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-04-03 11:00:04.345627+00",
-      "points_total": 264,
+      "points_total": 279,
       "points_spent": 100,
-      "points_available": 164,
+      "points_available": 179,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 36,
+        "missing_points": 21,
         "missing_months": 0,
         "can_claim": false
       },
@@ -20710,10 +20746,16 @@
           "balance": 5
         },
         {
+          "timestamp": "2026-09-09T21:05:26.260Z",
+          "delta": 15,
+          "reason": "callisto mass",
+          "balance": 20
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 159,
           "reason": "Tenure points",
-          "balance": 164
+          "balance": 179
         }
       ],
       "pending_bounties": [
@@ -21265,26 +21307,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-22",
-      "points_total": 1362,
+      "points_total": 1377,
       "points_spent": 1200,
-      "points_available": 162,
+      "points_available": 177,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 638,
+        "missing_points": 623,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-17T11:08:09.984Z",
-          "delta": 60,
-          "reason": "Bounty reward: Elite Tier Bounty",
-          "balance": 265
-        },
         {
           "timestamp": "2026-02-17T11:17:00.125Z",
           "delta": 40,
@@ -21430,10 +21466,16 @@
           "balance": -190
         },
         {
+          "timestamp": "2026-09-09T21:05:26.260Z",
+          "delta": 15,
+          "reason": "callisto mass",
+          "balance": -175
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 352,
           "reason": "Tenure points",
-          "balance": 162
+          "balance": 177
         }
       ],
       "pending_bounties": [
@@ -23690,16 +23732,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-07-05",
-      "points_total": 171,
+      "points_total": 186,
       "points_spent": 100,
-      "points_available": 71,
+      "points_available": 86,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 129,
+        "missing_points": 114,
         "missing_months": 0,
         "can_claim": false
       },
@@ -23735,10 +23777,16 @@
           "balance": 5
         },
         {
+          "timestamp": "2026-09-09T21:05:26.260Z",
+          "delta": 15,
+          "reason": "callisto mass",
+          "balance": 20
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 66,
           "reason": "Tenure points",
-          "balance": 71
+          "balance": 86
         }
       ]
     },
@@ -25125,16 +25173,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-06-22",
-      "points_total": 124,
+      "points_total": 139,
       "points_spent": 100,
-      "points_available": 24,
+      "points_available": 39,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 176,
+        "missing_points": 161,
         "missing_months": 0,
         "can_claim": false
       },
@@ -25152,10 +25200,16 @@
           "balance": -55
         },
         {
+          "timestamp": "2026-09-09T21:05:26.260Z",
+          "delta": 15,
+          "reason": "callisto mass",
+          "balance": -40
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 79,
           "reason": "Tenure points",
-          "balance": 24
+          "balance": 39
         }
       ],
       "pending_bounties": [
