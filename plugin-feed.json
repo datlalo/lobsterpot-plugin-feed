@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T19:41:15.542Z",
+  "generated_at": "2026-09-09T19:44:17.462Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -20726,26 +20726,21 @@
     {
       "rsn": "Sir Oozer",
       "rsn_key": "siroozer",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-08-02",
       "points_total": 173,
-      "points_spent": 0,
-      "points_available": 173,
+      "points_spent": 100,
+      "points_available": 73,
       "months_in_clan": 1,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-09-09T07:19:32.379Z"
+        "missing_points": 127,
+        "missing_months": 1,
+        "can_claim": false
       },
       "points_history": [
         {
@@ -20779,10 +20774,16 @@
           "balance": 135
         },
         {
+          "timestamp": "2026-09-09T19:42:36.205Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": 35
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 38,
           "reason": "Tenure points",
-          "balance": 173
+          "balance": 73
         }
       ],
       "pending_bounties": [
