@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T21:07:20.843Z",
+  "generated_at": "2026-09-09T21:10:23.188Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -14975,9 +14975,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-09-05",
-      "points_total": 1324,
+      "points_total": 1344,
       "points_spent": 650,
-      "points_available": 674,
+      "points_available": 694,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Diamond",
@@ -15134,10 +15134,16 @@
           "balance": 305
         },
         {
+          "timestamp": "2026-09-09T21:07:44.586Z",
+          "delta": 20,
+          "reason": "callisto mass helper",
+          "balance": 325
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 369,
           "reason": "Tenure points",
-          "balance": 674
+          "balance": 694
         }
       ]
     },
