@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T00:38:09.046Z",
+  "generated_at": "2026-09-09T02:36:29.969Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -6850,9 +6850,9 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-02-14",
-      "points_total": 1357,
+      "points_total": 1402,
       "points_spent": 800,
-      "points_available": 557,
+      "points_available": 602,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Dragonstone",
@@ -6864,12 +6864,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-23T10:20:36.107Z",
-          "delta": 30,
-          "reason": "3rd to 6th place SOTM",
-          "balance": 250
-        },
         {
           "timestamp": "2026-04-14T20:04:04.589Z",
           "delta": 15,
@@ -7015,10 +7009,16 @@
           "balance": 350
         },
         {
+          "timestamp": "2026-09-09T02:36:28.441Z",
+          "delta": 45,
+          "reason": "Bounty: Crafting SOTW - Hard",
+          "balance": 395
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 207,
           "reason": "Tenure points",
-          "balance": 557
+          "balance": 602
         }
       ],
       "pending_bounties": [
@@ -7039,7 +7039,7 @@
         {
           "bounty_id": "59",
           "name": "Crafting SOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-08T18:40:26.991Z"
         }
