@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T19:38:12.809Z",
+  "generated_at": "2026-09-09T19:41:15.542Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -730,9 +730,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 3097,
+      "points_total": 3112,
       "points_spent": 1230,
-      "points_available": 1867,
+      "points_available": 1882,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
@@ -744,12 +744,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-13T15:44:32.629Z",
-          "delta": 30,
-          "reason": "biggest caskets",
-          "balance": 703
-        },
         {
           "timestamp": "2026-07-16T03:11:42.395Z",
           "delta": 15,
@@ -895,10 +889,16 @@
           "balance": 1518
         },
         {
+          "timestamp": "2026-09-09T19:40:59.112Z",
+          "delta": 15,
+          "reason": "crafting sotw 4th-6th place",
+          "balance": 1533
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 349,
           "reason": "Tenure points",
-          "balance": 1867
+          "balance": 1882
         }
       ],
       "pending_bounties": [
@@ -10383,26 +10383,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-03",
-      "points_total": 1511,
+      "points_total": 1526,
       "points_spent": 1210,
-      "points_available": 301,
+      "points_available": 316,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 499,
+        "missing_points": 484,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-03T17:06:45.830Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier Bounty - Zulrah",
-          "balance": 180
-        },
         {
           "timestamp": "2026-03-03T22:21:05.355Z",
           "delta": 60,
@@ -10548,10 +10542,16 @@
           "balance": -70
         },
         {
+          "timestamp": "2026-09-09T19:40:59.113Z",
+          "delta": 15,
+          "reason": "crafting sotw 4th-6th place",
+          "balance": -55
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 371,
           "reason": "Tenure points",
-          "balance": 301
+          "balance": 316
         }
       ],
       "pending_bounties": [
@@ -15966,18 +15966,18 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-05-09",
-      "points_total": 576,
+      "points_total": 626,
       "points_spent": 300,
-      "points_available": 276,
+      "points_available": 326,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 24,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -16053,10 +16053,16 @@
           "balance": 153
         },
         {
+          "timestamp": "2026-09-09T19:40:01.365Z",
+          "delta": 50,
+          "reason": "crafting sotw 2nd place",
+          "balance": 203
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 123,
           "reason": "Tenure points",
-          "balance": 276
+          "balance": 326
         }
       ],
       "pending_bounties": [
@@ -16607,9 +16613,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-06-11",
-      "points_total": 330,
+      "points_total": 345,
       "points_spent": 0,
-      "points_available": 330,
+      "points_available": 345,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
@@ -16664,10 +16670,16 @@
           "balance": 240
         },
         {
+          "timestamp": "2026-09-09T19:40:59.113Z",
+          "delta": 15,
+          "reason": "crafting sotw 4th-6th place",
+          "balance": 255
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 90,
           "reason": "Tenure points",
-          "balance": 330
+          "balance": 345
         }
       ],
       "pending_bounties": [
@@ -17125,9 +17137,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-12",
-      "points_total": 2362,
+      "points_total": 2392,
       "points_spent": 1270,
-      "points_available": 1092,
+      "points_available": 1122,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
@@ -17139,12 +17151,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-22T17:41:50.478Z",
-          "delta": 30,
-          "reason": "Bounty: Slayer BOTM Medium Bounty",
-          "balance": 215
-        },
         {
           "timestamp": "2026-06-23T18:23:34.433Z",
           "delta": 60,
@@ -17290,10 +17296,16 @@
           "balance": 730
         },
         {
+          "timestamp": "2026-09-09T19:40:26.382Z",
+          "delta": 30,
+          "reason": "crafting sotw 3rd place",
+          "balance": 760
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 362,
           "reason": "Tenure points",
-          "balance": 1092
+          "balance": 1122
         }
       ],
       "pending_bounties": [
@@ -17395,9 +17407,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 3097,
+      "points_total": 3112,
       "points_spent": 1230,
-      "points_available": 1867,
+      "points_available": 1882,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
@@ -17409,12 +17421,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-13T15:44:32.629Z",
-          "delta": 30,
-          "reason": "biggest caskets",
-          "balance": 703
-        },
         {
           "timestamp": "2026-07-16T03:11:42.395Z",
           "delta": 15,
@@ -17560,10 +17566,16 @@
           "balance": 1518
         },
         {
+          "timestamp": "2026-09-09T19:40:59.112Z",
+          "delta": 15,
+          "reason": "crafting sotw 4th-6th place",
+          "balance": 1533
+        },
+        {
           "timestamp": "2026-09-09T00:38:06.590Z",
           "delta": 349,
           "reason": "Tenure points",
-          "balance": 1867
+          "balance": 1882
         }
       ],
       "pending_bounties": [
