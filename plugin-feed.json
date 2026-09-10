@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T23:14:26.792Z",
+  "generated_at": "2026-09-10T00:02:24.692Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -24,40 +24,7 @@
       "wom_id": 154736
     }
   ],
-  "bounties": [
-    {
-      "id": "60",
-      "name": "Crafting SOTW - Elite",
-      "active": true,
-      "points": 60,
-      "description": "3m XP",
-      "expires_at": "2026-09-10T00:00:00.000Z"
-    },
-    {
-      "id": "59",
-      "name": "Crafting SOTW - Hard",
-      "active": true,
-      "points": 45,
-      "description": "1.5m XP or Jeweller's Chisel",
-      "expires_at": "2026-09-10T00:00:00.000Z"
-    },
-    {
-      "id": "58",
-      "name": "Crafting SOTW - Medium",
-      "active": true,
-      "points": 30,
-      "description": "750k XP",
-      "expires_at": "2026-09-10T00:00:00.000Z"
-    },
-    {
-      "id": "57",
-      "name": "Crafting SOTW - Easy",
-      "active": true,
-      "points": 15,
-      "description": "250k XP or Craft a Crab Claw",
-      "expires_at": "2026-09-10T00:00:00.000Z"
-    }
-  ],
+  "bounties": [],
   "members": [
     {
       "rsn": "0gass",
@@ -282,29 +249,6 @@
           "delta": 276,
           "reason": "Tenure points",
           "balance": 271
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T14:59:19.504Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-05T06:35:55.073Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-06T18:56:05.835Z"
         }
       ]
     },
@@ -900,36 +844,6 @@
           "reason": "Tenure points",
           "balance": 1897
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T00:02:11.220Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T00:02:11.527Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T00:02:11.527Z"
-        },
-        {
-          "bounty_id": "60",
-          "name": "Crafting SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-06T18:17:28.248Z"
-        }
       ]
     },
     {
@@ -1164,29 +1078,6 @@
           "reason": "Tenure points",
           "balance": 424
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T01:35:02.745Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T01:35:11.118Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T01:35:17.233Z"
-        }
       ]
     },
     {
@@ -1366,22 +1257,6 @@
           "delta": 89,
           "reason": "Tenure points",
           "balance": 34
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "rejected",
-          "reason": "Not enough xp, check discord for XP targets",
-          "created_at": "2026-09-03T01:53:59.490Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T02:04:12.213Z"
         }
       ]
     },
@@ -1715,22 +1590,6 @@
           "reason": "Tenure points",
           "balance": 248
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T04:06:49.582Z"
-        },
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T19:25:44.876Z"
-        }
       ]
     },
     {
@@ -1800,22 +1659,6 @@
           "delta": 143,
           "reason": "Tenure points",
           "balance": 248
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T04:06:49.582Z"
-        },
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T19:25:44.876Z"
         }
       ]
     },
@@ -2022,29 +1865,6 @@
           "delta": 259,
           "reason": "Tenure points",
           "balance": 349
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-02T13:07:45.909Z"
-        },
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T15:19:18.157Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T09:09:18.807Z"
         }
       ]
     },
@@ -2453,22 +2273,6 @@
           "delta": 221,
           "reason": "Tenure points",
           "balance": 471
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-02T15:27:52.765Z"
-        },
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-02T15:28:24.039Z"
         }
       ]
     },
@@ -2937,22 +2741,6 @@
           "delta": 283,
           "reason": "Tenure points",
           "balance": 73
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T20:12:19.165Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T20:12:19.166Z"
         }
       ]
     },
@@ -3526,29 +3314,6 @@
           "reason": "Tenure points",
           "balance": 326
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T20:00:19.048Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T20:00:19.049Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T20:00:19.050Z"
-        }
       ]
     },
     {
@@ -3878,15 +3643,6 @@
           "delta": 74,
           "reason": "Tenure points",
           "balance": 89
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-02T19:52:57.124Z"
         }
       ]
     },
@@ -4308,15 +4064,6 @@
           "reason": "Tenure points",
           "balance": 162
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-06T01:47:14.012Z"
-        }
       ]
     },
     {
@@ -4494,15 +4241,6 @@
           "delta": 173,
           "reason": "Tenure points",
           "balance": 163
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-02T21:14:33.060Z"
         }
       ]
     },
@@ -6572,29 +6310,6 @@
           "reason": "Tenure points",
           "balance": 375
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-05T11:53:08.238Z"
-        },
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-05T13:06:51.593Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-05T13:06:58.664Z"
-        }
       ]
     },
     {
@@ -7005,29 +6720,6 @@
           "reason": "Tenure points",
           "balance": 602
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-06T12:40:24.900Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-06T12:40:33.111Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-08T18:40:26.991Z"
-        }
       ]
     },
     {
@@ -7067,22 +6759,6 @@
           "delta": 8,
           "reason": "Tenure points",
           "balance": 68
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-02T18:57:52.933Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-06T07:19:56.501Z"
         }
       ]
     },
@@ -7437,29 +7113,6 @@
           "delta": 115,
           "reason": "Tenure points",
           "balance": 285
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-02T23:09:16.412Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T23:05:01.192Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T23:07:58.541Z"
         }
       ]
     },
@@ -7953,22 +7606,6 @@
           "reason": "Tenure points",
           "balance": 458
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-05T22:59:17.413Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-05T22:59:23.452Z"
-        }
       ]
     },
     {
@@ -8146,22 +7783,6 @@
           "delta": 353,
           "reason": "Tenure points",
           "balance": 458
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-05T22:59:17.413Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-05T22:59:23.452Z"
         }
       ]
     },
@@ -8397,22 +8018,6 @@
           "reason": "Tenure points",
           "balance": 860
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T10:44:14.561Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T10:44:14.562Z"
-        }
       ]
     },
     {
@@ -8590,22 +8195,6 @@
           "delta": 380,
           "reason": "Tenure points",
           "balance": 345
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-06T04:06:41.499Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-06T04:07:03.571Z"
         }
       ]
     },
@@ -8812,22 +8401,6 @@
           "delta": 353,
           "reason": "Tenure points",
           "balance": 458
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-05T22:59:17.413Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-05T22:59:23.452Z"
         }
       ]
     },
@@ -9270,36 +8843,6 @@
           "delta": 131,
           "reason": "Tenure points",
           "balance": 189
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T01:56:55.103Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T21:46:10.583Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-06T18:12:29.705Z"
-        },
-        {
-          "bounty_id": "60",
-          "name": "Crafting SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-09T14:29:00.373Z"
         }
       ]
     },
@@ -9985,29 +9528,6 @@
           "reason": "Tenure points",
           "balance": 224
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T20:46:02.120Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T20:46:14.550Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T20:47:24.112Z"
-        }
       ]
     },
     {
@@ -10225,29 +9745,6 @@
           "delta": 267,
           "reason": "Tenure points",
           "balance": 292
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T00:01:48.181Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T16:37:36.266Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T19:04:13.935Z"
         }
       ]
     },
@@ -10571,36 +10068,6 @@
           "reason": "Tenure points",
           "balance": 331
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-06T20:11:54.185Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-06T20:12:00.405Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-06T20:12:07.273Z"
-        },
-        {
-          "bounty_id": "60",
-          "name": "Crafting SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-06T20:12:12.820Z"
-        }
       ]
     },
     {
@@ -10858,22 +10325,6 @@
           "delta": 338,
           "reason": "Tenure points",
           "balance": 68
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "rejected",
-          "reason": "Missing 27k xp according to Wise Old Man. Make sure you've logged out so it gets updated!",
-          "created_at": "2026-09-09T07:03:20.403Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-09T10:49:17.589Z"
         }
       ]
     },
@@ -11251,29 +10702,6 @@
           "reason": "Tenure points",
           "balance": 264
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T23:57:17.432Z"
-        },
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T23:58:24.861Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-05T11:38:11.887Z"
-        }
       ]
     },
     {
@@ -11523,15 +10951,6 @@
           "delta": 160,
           "reason": "Tenure points",
           "balance": 80
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T20:20:50.418Z"
         }
       ]
     },
@@ -11841,22 +11260,6 @@
           "reason": "Tenure points",
           "balance": 179
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-08T07:18:24.172Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "rejected",
-          "reason": "Unfortunately only 540k xp recorded. If you are sure you received 750k, please install and set up the XP Updater plugin and make sure you log in before the event finishes for WOM to sync your XP",
-          "created_at": "2026-09-09T09:31:24.525Z"
-        }
       ]
     },
     {
@@ -12098,22 +11501,6 @@
           "delta": 29,
           "reason": "Tenure points",
           "balance": 279
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T00:18:36.121Z"
-        },
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-08T12:11:27.797Z"
         }
       ]
     },
@@ -13589,29 +12976,6 @@
           "reason": "Tenure points",
           "balance": 424
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T01:35:02.745Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T01:35:11.118Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T01:35:17.233Z"
-        }
       ]
     },
     {
@@ -13941,15 +13305,6 @@
           "delta": 114,
           "reason": "Tenure points",
           "balance": 184
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-08T12:26:39.017Z"
         }
       ]
     },
@@ -14869,22 +14224,6 @@
           "reason": "Tenure points",
           "balance": 23
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T06:48:52.761Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T09:37:45.968Z"
-        }
       ]
     },
     {
@@ -15693,29 +15032,6 @@
           "reason": "Tenure points",
           "balance": 216
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T16:14:21.881Z"
-        },
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T20:40:09.625Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T18:31:21.168Z"
-        }
       ]
     },
     {
@@ -16016,22 +15332,6 @@
           "reason": "Tenure points",
           "balance": 23
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T06:48:52.761Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T09:37:45.968Z"
-        }
       ]
     },
     {
@@ -16149,36 +15449,6 @@
           "delta": 123,
           "reason": "Tenure points",
           "balance": 41
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T20:10:26.266Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T20:11:06.520Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T01:31:08.221Z"
-        },
-        {
-          "bounty_id": "60",
-          "name": "Crafting SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T01:31:22.599Z"
         }
       ]
     },
@@ -16416,29 +15686,6 @@
           "reason": "Tenure points",
           "balance": 121
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T20:41:02.523Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T20:41:13.676Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T20:41:23.319Z"
-        }
       ]
     },
     {
@@ -16599,36 +15846,6 @@
           "reason": "Tenure points",
           "balance": 184
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T04:00:52.788Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T04:01:23.711Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T21:33:57.803Z"
-        },
-        {
-          "bounty_id": "60",
-          "name": "Crafting SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-05T06:07:10.187Z"
-        }
       ]
     },
     {
@@ -16767,36 +15984,6 @@
           "reason": "Tenure points",
           "balance": 345
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T03:52:00.509Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T11:58:05.657Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-06T18:38:05.711Z"
-        },
-        {
-          "bounty_id": "60",
-          "name": "Crafting SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T15:01:16.802Z"
-        }
       ]
     },
     {
@@ -16932,22 +16119,6 @@
           "delta": 23,
           "reason": "Tenure points",
           "balance": 68
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-05T18:15:01.997Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-08T23:12:32.958Z"
         }
       ]
     },
@@ -17393,36 +16564,6 @@
           "reason": "Tenure points",
           "balance": 1122
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T13:10:21.182Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T13:10:27.053Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T13:10:33.735Z"
-        },
-        {
-          "bounty_id": "60",
-          "name": "Crafting SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T13:10:39.183Z"
-        }
       ]
     },
     {
@@ -17663,36 +16804,6 @@
           "reason": "Tenure points",
           "balance": 1897
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T00:02:11.220Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T00:02:11.527Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T00:02:11.527Z"
-        },
-        {
-          "bounty_id": "60",
-          "name": "Crafting SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-06T18:17:28.248Z"
-        }
       ]
     },
     {
@@ -17917,29 +17028,6 @@
           "reason": "Tenure points",
           "balance": 398
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T09:09:38.521Z"
-        },
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T14:02:45.843Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-09T08:11:22.443Z"
-        }
       ]
     },
     {
@@ -18059,15 +17147,6 @@
           "delta": 155,
           "reason": "Tenure points",
           "balance": 30
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "60",
-          "name": "Crafting SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-09T17:19:15.145Z"
         }
       ]
     },
@@ -18246,36 +17325,6 @@
           "delta": 344,
           "reason": "Tenure points",
           "balance": 607
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T16:08:26.198Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T16:08:35.130Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T01:56:08.908Z"
-        },
-        {
-          "bounty_id": "60",
-          "name": "Crafting SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T17:34:54.025Z"
         }
       ]
     },
@@ -18650,29 +17699,6 @@
           "delta": 182,
           "reason": "Tenure points",
           "balance": 272
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T02:45:52.658Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T02:48:04.341Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T02:11:32.151Z"
         }
       ]
     },
@@ -19128,36 +18154,6 @@
           "reason": "Tenure points",
           "balance": 344
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T01:22:24.868Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T01:22:32.721Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T01:22:39.746Z"
-        },
-        {
-          "bounty_id": "60",
-          "name": "Crafting SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-08T00:31:59.259Z"
-        }
       ]
     },
     {
@@ -19311,22 +18307,6 @@
           "delta": 69,
           "reason": "Tenure points",
           "balance": 114
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-08T15:29:03.229Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-08T15:29:19.315Z"
         }
       ]
     },
@@ -19703,36 +18683,6 @@
           "delta": 333,
           "reason": "Tenure points",
           "balance": 902
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-05T23:46:50.425Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-05T23:47:24.941Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-05T23:47:30.629Z"
-        },
-        {
-          "bounty_id": "60",
-          "name": "Crafting SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-08T14:14:13.649Z"
         }
       ]
     },
@@ -20702,15 +19652,6 @@
           "reason": "Tenure points",
           "balance": 31
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-02T15:47:05.486Z"
-        }
       ]
     },
     {
@@ -20780,22 +19721,6 @@
           "delta": 159,
           "reason": "Tenure points",
           "balance": 179
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-08T07:18:24.172Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "rejected",
-          "reason": "Unfortunately only 540k xp recorded. If you are sure you received 750k, please install and set up the XP Updater plugin and make sure you log in before the event finishes for WOM to sync your XP",
-          "created_at": "2026-09-09T09:31:24.525Z"
         }
       ]
     },
@@ -20894,29 +19819,6 @@
           "delta": 38,
           "reason": "Tenure points",
           "balance": 73
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T19:19:26.917Z"
-        },
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-08T11:49:24.446Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-08T11:49:32.714Z"
         }
       ]
     },
@@ -21043,15 +19945,6 @@
           "delta": 115,
           "reason": "Tenure points",
           "balance": 100
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T19:57:09.333Z"
         }
       ]
     },
@@ -21501,36 +20394,6 @@
           "reason": "Tenure points",
           "balance": 177
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-02T15:10:28.548Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T10:48:55.642Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T21:00:31.712Z"
-        },
-        {
-          "bounty_id": "60",
-          "name": "Crafting SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T14:58:07.761Z"
-        }
       ]
     },
     {
@@ -21724,15 +20587,6 @@
           "delta": 232,
           "reason": "Tenure points",
           "balance": 162
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-06T01:47:14.012Z"
         }
       ]
     },
@@ -22007,29 +20861,6 @@
           "delta": 128,
           "reason": "Tenure points",
           "balance": 168
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T11:03:18.917Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T15:48:11.064Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T18:28:07.067Z"
         }
       ]
     },
@@ -22451,36 +21282,6 @@
           "reason": "Tenure points",
           "balance": 607
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T16:08:26.198Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T16:08:35.130Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T01:56:08.908Z"
-        },
-        {
-          "bounty_id": "60",
-          "name": "Crafting SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T17:34:54.025Z"
-        }
       ]
     },
     {
@@ -22562,15 +21363,6 @@
           "delta": 185,
           "reason": "Tenure points",
           "balance": 5
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-08T07:39:24.286Z"
         }
       ]
     },
@@ -22821,15 +21613,6 @@
           "delta": 103,
           "reason": "Tenure points",
           "balance": 113
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "rejected",
-          "reason": "I don't see any xp on wom or pics in the channel",
-          "created_at": "2026-09-03T12:12:05.744Z"
         }
       ]
     },
@@ -23573,22 +22356,6 @@
           "reason": "Tenure points",
           "balance": 860
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T10:44:14.561Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T10:44:14.562Z"
-        }
       ]
     },
     {
@@ -23724,29 +22491,6 @@
           "delta": 267,
           "reason": "Tenure points",
           "balance": 292
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T00:01:48.181Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T16:37:36.266Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-04T19:04:13.935Z"
         }
       ]
     },
@@ -25076,29 +23820,6 @@
           "reason": "Tenure points",
           "balance": 23
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "57",
-          "name": "Crafting SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-03T18:39:09.381Z"
-        },
-        {
-          "bounty_id": "58",
-          "name": "Crafting SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-05T22:36:02.596Z"
-        },
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-05T22:39:00.197Z"
-        }
       ]
     },
     {
@@ -25234,15 +23955,6 @@
           "delta": 79,
           "reason": "Tenure points",
           "balance": 39
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "59",
-          "name": "Crafting SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-07T16:22:28.021Z"
         }
       ]
     },
