@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-10T04:23:02.396Z",
+  "generated_at": "2026-09-10T20:24:17.025Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -12,6 +12,16 @@
     }
   ],
   "events": [
+    {
+      "id": "44b2c600-aa3b-4e9d-aca4-a655639817f5",
+      "type": "event",
+      "title": "Wait that’s not what I wanted",
+      "location": "By AcuteSloth",
+      "starts_at": "2026-09-11T19:00:00.000Z",
+      "ends_at": null,
+      "description": "",
+      "thread_id": "1545546195915645019"
+    },
     {
       "id": "154736",
       "type": "boss_competition",
