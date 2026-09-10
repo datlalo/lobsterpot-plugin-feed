@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-10T01:49:01.857Z",
+  "generated_at": "2026-09-10T02:48:35.783Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -1541,6 +1541,11 @@
         "missing_months": 0,
         "can_claim": true
       },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Emerald",
+        "created_at": "2026-09-10T02:48:33.654Z"
+      },
       "points_history": [
         {
           "timestamp": "2026-04-14T19:59:17.010Z",
@@ -1610,6 +1615,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Emerald",
+        "created_at": "2026-09-10T02:48:33.654Z"
       },
       "points_history": [
         {
