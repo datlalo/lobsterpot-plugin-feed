@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-10T20:24:17.025Z",
+  "generated_at": "2026-09-10T20:27:19.393Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -18,7 +18,7 @@
       "title": "Wait that’s not what I wanted",
       "location": "By AcuteSloth",
       "starts_at": "2026-09-11T19:00:00.000Z",
-      "ends_at": null,
+      "ends_at": "2026-09-14T23:00:00.000Z",
       "description": "",
       "thread_id": "1545546195915645019"
     },
