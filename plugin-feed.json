@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-11T00:32:25.489Z",
+  "generated_at": "2026-09-11T12:17:28.983Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -5343,34 +5343,6 @@
           "delta": 25,
           "reason": "Tenure points",
           "balance": 25
-        }
-      ]
-    },
-    {
-      "rsn": "Dalek Groot",
-      "rsn_key": "dalekgroot",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-08-28",
-      "points_total": 14,
-      "points_spent": 0,
-      "points_available": 14,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 86,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-09-11T00:32:23.001Z",
-          "delta": 14,
-          "reason": "Tenure points",
-          "balance": 14
         }
       ]
     },
@@ -16257,6 +16229,26 @@
       ]
     },
     {
+      "rsn": "onlyasock",
+      "rsn_key": "onlyasock",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-09-11",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "oops sry",
       "rsn_key": "oopssry",
       "bot_rank": "Gnome",
@@ -22587,6 +22579,26 @@
       ]
     },
     {
+      "rsn": "unicornhorn0",
+      "rsn_key": "unicornhorn0",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-09-11",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "u n kn own",
       "rsn_key": "unknown",
       "bot_rank": "Gnome",
@@ -23939,6 +23951,26 @@
           "balance": 58
         }
       ]
+    },
+    {
+      "rsn": "xXJaberwock",
+      "rsn_key": "xxjaberwock",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-09-11",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "xzeloss",
