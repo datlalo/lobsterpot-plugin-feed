@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-12T15:42:19.699Z",
+  "generated_at": "2026-09-12T16:20:46.923Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -16419,34 +16419,23 @@
     {
       "rsn": "part e pat",
       "rsn_key": "partepat",
-      "bot_rank": "Dragonstone",
-      "progression_rank": "Dragonstone",
+      "bot_rank": "Onyx",
+      "progression_rank": "Onyx",
       "join_date": "2025-09-12",
       "points_total": 2395,
-      "points_spent": 1270,
-      "points_available": 1125,
+      "points_spent": 2070,
+      "points_available": 325,
       "months_in_clan": 12,
       "next_rank": {
-        "name": "Onyx",
-        "point_cost": 800,
-        "min_months": 12,
-        "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Onyx",
-        "created_at": "2026-09-12T15:42:17.471Z"
+        "name": "Zenyte",
+        "point_cost": 1000,
+        "min_months": 16,
+        "requirements": "Trimmed QC, 2000 Total, or Elite CA",
+        "missing_points": 675,
+        "missing_months": 4,
+        "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-23T18:23:34.433Z",
-          "delta": 60,
-          "reason": "Bounty: Slayer BOTM Elite Bounty",
-          "balance": 275
-        },
         {
           "timestamp": "2026-06-24T13:29:10.526Z",
           "delta": -500,
@@ -16592,10 +16581,16 @@
           "balance": 760
         },
         {
+          "timestamp": "2026-09-12T16:20:45.413Z",
+          "delta": -800,
+          "reason": "Rank upgrade: Onyx",
+          "balance": -40
+        },
+        {
           "timestamp": "2026-09-12T00:32:24.436Z",
           "delta": 365,
           "reason": "Tenure points",
-          "balance": 1125
+          "balance": 325
         }
       ]
     },
