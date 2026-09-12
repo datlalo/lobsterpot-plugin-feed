@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-12T17:55:57.993Z",
+  "generated_at": "2026-09-12T18:09:09.706Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -10101,34 +10101,23 @@
     {
       "rsn": "hotcuparamen",
       "rsn_key": "hotcuparamen",
-      "bot_rank": "Ruby",
-      "progression_rank": "Ruby",
+      "bot_rank": "Diamond",
+      "progression_rank": "Diamond",
       "join_date": "2026-03-16",
       "points_total": 1000,
-      "points_spent": 600,
-      "points_available": 400,
+      "points_spent": 1000,
+      "points_available": 0,
       "months_in_clan": 5,
       "next_rank": {
-        "name": "Diamond",
-        "point_cost": 400,
-        "min_months": 5,
-        "requirements": "Fire Cape",
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Diamond",
-        "created_at": "2026-09-12T17:55:55.917Z"
+        "name": "Dragonstone",
+        "point_cost": 500,
+        "min_months": 8,
+        "requirements": "Barrows Gloves",
+        "missing_points": 500,
+        "missing_months": 3,
+        "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-09T07:12:49.448Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier - Giant Mole",
-          "balance": 130
-        },
         {
           "timestamp": "2026-04-09T07:12:50.179Z",
           "delta": 15,
@@ -10274,10 +10263,16 @@
           "balance": 220
         },
         {
+          "timestamp": "2026-09-12T18:09:08.197Z",
+          "delta": -400,
+          "reason": "Rank upgrade: Diamond",
+          "balance": -180
+        },
+        {
           "timestamp": "2026-09-12T00:32:24.436Z",
           "delta": 180,
           "reason": "Tenure points",
-          "balance": 400
+          "balance": 0
         }
       ]
     },
@@ -20906,34 +20901,23 @@
     {
       "rsn": "SuperRamen",
       "rsn_key": "superramen",
-      "bot_rank": "Ruby",
-      "progression_rank": "Ruby",
+      "bot_rank": "Diamond",
+      "progression_rank": "Diamond",
       "join_date": "2026-03-16",
       "points_total": 1000,
-      "points_spent": 600,
-      "points_available": 400,
+      "points_spent": 1000,
+      "points_available": 0,
       "months_in_clan": 5,
       "next_rank": {
-        "name": "Diamond",
-        "point_cost": 400,
-        "min_months": 5,
-        "requirements": "Fire Cape",
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Diamond",
-        "created_at": "2026-09-12T17:55:55.917Z"
+        "name": "Dragonstone",
+        "point_cost": 500,
+        "min_months": 8,
+        "requirements": "Barrows Gloves",
+        "missing_points": 500,
+        "missing_months": 3,
+        "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-09T07:12:49.448Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier - Giant Mole",
-          "balance": 130
-        },
         {
           "timestamp": "2026-04-09T07:12:50.179Z",
           "delta": 15,
@@ -21079,10 +21063,16 @@
           "balance": 220
         },
         {
+          "timestamp": "2026-09-12T18:09:08.197Z",
+          "delta": -400,
+          "reason": "Rank upgrade: Diamond",
+          "balance": -180
+        },
+        {
           "timestamp": "2026-09-12T00:32:24.436Z",
           "delta": 180,
           "reason": "Tenure points",
-          "balance": 400
+          "balance": 0
         }
       ]
     },
