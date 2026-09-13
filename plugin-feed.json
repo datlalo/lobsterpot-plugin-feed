@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-13T05:17:31.707Z",
+  "generated_at": "2026-09-13T17:47:33.666Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -6543,6 +6543,18 @@
           "balance": 116
         }
       ]
+    },
+    {
+      "rsn": "dywwa",
+      "rsn_key": "dywwa",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-09-13",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
     },
     {
       "rsn": "Ecterunn",
@@ -15591,34 +15603,6 @@
       ]
     },
     {
-      "rsn": "Nexenax",
-      "rsn_key": "nexenax",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-08-12",
-      "points_total": 32,
-      "points_spent": 0,
-      "points_available": 32,
-      "months_in_clan": 1,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 68,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-09-13T00:32:26.060Z",
-          "delta": 32,
-          "reason": "Tenure points",
-          "balance": 32
-        }
-      ]
-    },
-    {
       "rsn": "nihtfire824",
       "rsn_key": "nihtfire824",
       "bot_rank": "Sapphire",
@@ -21959,6 +21943,18 @@
           "balance": 158
         }
       ]
+    },
+    {
+      "rsn": "Tony Lark IM",
+      "rsn_key": "tonylarkim",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-09-13",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
     },
     {
       "rsn": "tradiesaboob",
