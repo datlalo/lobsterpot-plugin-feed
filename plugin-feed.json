@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-13T18:07:58.101Z",
+  "generated_at": "2026-09-13T18:11:00.571Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -21359,14 +21359,180 @@
     {
       "rsn": "tarba kynas",
       "rsn_key": "tarbakynas",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2026-09-13",
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
-      "next_rank": null
+      "bot_rank": "Dragonstone",
+      "progression_rank": "Dragonstone",
+      "join_date": "2025-09-03",
+      "points_total": 1545,
+      "points_spent": 1210,
+      "points_available": 335,
+      "months_in_clan": 12,
+      "next_rank": {
+        "name": "Onyx",
+        "point_cost": 800,
+        "min_months": 12,
+        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "missing_points": 465,
+        "missing_months": 0,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-03-04T11:27:02.601Z",
+          "delta": -10,
+          "reason": "Raffle tickets x1",
+          "balance": 230
+        },
+        {
+          "timestamp": "2026-03-04T15:26:22.323Z",
+          "delta": 40,
+          "reason": "Bounty reward: Hard Tier Bounty - Zulrah",
+          "balance": 270
+        },
+        {
+          "timestamp": "2026-03-04T15:26:26.158Z",
+          "delta": 15,
+          "reason": "Bounty reward: Easy Tier Bounty - Zulrah",
+          "balance": 285
+        },
+        {
+          "timestamp": "2026-03-17T14:42:58.595Z",
+          "delta": 15,
+          "reason": "Bounty reward: Easy Tier - Woodcutting",
+          "balance": 300
+        },
+        {
+          "timestamp": "2026-03-17T14:43:07.583Z",
+          "delta": 30,
+          "reason": "Bounty reward: Medium Tier - Woodcutting",
+          "balance": 330
+        },
+        {
+          "timestamp": "2026-07-02T13:45:43.272Z",
+          "delta": -400,
+          "reason": "Rank upgrade: Diamond",
+          "balance": -70
+        },
+        {
+          "timestamp": "2026-07-05T10:27:48.831Z",
+          "delta": 60,
+          "reason": "Bounty: Farming - Elite",
+          "balance": -10
+        },
+        {
+          "timestamp": "2026-07-05T10:27:52.360Z",
+          "delta": 15,
+          "reason": "Bounty: Farming - Easy",
+          "balance": 5
+        },
+        {
+          "timestamp": "2026-07-15T18:50:30.363Z",
+          "delta": 15,
+          "reason": "Bounty: Duke Sucellus - Easy",
+          "balance": 20
+        },
+        {
+          "timestamp": "2026-07-18T22:37:12.007Z",
+          "delta": 30,
+          "reason": "Bounty: Duke Sucellus - Medium",
+          "balance": 50
+        },
+        {
+          "timestamp": "2026-08-04T00:17:54.185Z",
+          "delta": 20,
+          "reason": "Thank you for participating in PVM Map Sweep event.",
+          "balance": 70
+        },
+        {
+          "timestamp": "2026-08-08T19:52:35.709Z",
+          "delta": 15,
+          "reason": "Bounty: Fishing SOTW - Easy",
+          "balance": 85
+        },
+        {
+          "timestamp": "2026-08-08T19:52:38.259Z",
+          "delta": 30,
+          "reason": "Bounty: Fishing SOTW - Medium",
+          "balance": 115
+        },
+        {
+          "timestamp": "2026-08-08T19:52:41.160Z",
+          "delta": 45,
+          "reason": "Bounty: Fishing SOTW - Hard",
+          "balance": 160
+        },
+        {
+          "timestamp": "2026-08-10T15:25:40.065Z",
+          "delta": -500,
+          "reason": "Rank upgrade: Dragonstone",
+          "balance": -340
+        },
+        {
+          "timestamp": "2026-08-19T14:59:42.081Z",
+          "delta": 75,
+          "reason": "Bounty: Vardorvis BOTW - Master",
+          "balance": -265
+        },
+        {
+          "timestamp": "2026-08-19T23:51:18.974Z",
+          "delta": 15,
+          "reason": "Bounty: Vardorvis BOTW - Easy",
+          "balance": -250
+        },
+        {
+          "timestamp": "2026-08-21T01:23:37.503Z",
+          "delta": 15,
+          "reason": "Screenshot participation",
+          "balance": -235
+        },
+        {
+          "timestamp": "2026-08-29T17:01:03.129Z",
+          "delta": 15,
+          "reason": "Funny friendslop friday (august) [meccha chameleon]",
+          "balance": -220
+        },
+        {
+          "timestamp": "2026-09-07T02:01:22.504Z",
+          "delta": 15,
+          "reason": "Bounty: Crafting SOTW - Easy",
+          "balance": -205
+        },
+        {
+          "timestamp": "2026-09-07T02:01:25.816Z",
+          "delta": 30,
+          "reason": "Bounty: Crafting SOTW - Medium",
+          "balance": -175
+        },
+        {
+          "timestamp": "2026-09-07T02:01:28.096Z",
+          "delta": 45,
+          "reason": "Bounty: Crafting SOTW - Hard",
+          "balance": -130
+        },
+        {
+          "timestamp": "2026-09-07T02:01:30.466Z",
+          "delta": 60,
+          "reason": "Bounty: Crafting SOTW - Elite",
+          "balance": -70
+        },
+        {
+          "timestamp": "2026-09-09T19:40:59.113Z",
+          "delta": 15,
+          "reason": "crafting sotw 4th-6th place",
+          "balance": -55
+        },
+        {
+          "timestamp": "2026-09-09T21:05:26.260Z",
+          "delta": 15,
+          "reason": "callisto mass",
+          "balance": -40
+        },
+        {
+          "timestamp": "2026-09-13T00:32:26.060Z",
+          "delta": 375,
+          "reason": "Tenure points",
+          "balance": 335
+        }
+      ]
     },
     {
       "rsn": "tawutiso",
