@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-14T00:32:30.204Z",
+  "generated_at": "2026-09-14T04:32:33.869Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -21,17 +21,6 @@
       "ends_at": "2026-09-14T23:00:00.000Z",
       "description": "",
       "thread_id": "1545546195915645019"
-    },
-    {
-      "id": "154736",
-      "type": "boss_competition",
-      "title": "Moxxy M'Sunday",
-      "metric": "amoxliatl",
-      "metric_label": "Amoxliatl",
-      "starts_at": "2026-09-12T16:00:00.000Z",
-      "ends_at": "2026-09-14T04:00:00.000Z",
-      "thread_id": "1522561512089194536",
-      "wom_id": 154736
     }
   ],
   "bounties": [],
@@ -3344,18 +3333,18 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-03",
-      "points_total": 93,
+      "points_total": 143,
       "points_spent": 0,
-      "points_available": 93,
+      "points_available": 143,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 7,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -3365,10 +3354,16 @@
           "balance": 20
         },
         {
+          "timestamp": "2026-09-14T04:32:32.350Z",
+          "delta": 50,
+          "reason": "Moxxy M'Sunday — 1st place",
+          "balance": 70
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 73,
           "reason": "Tenure points",
-          "balance": 93
+          "balance": 143
         }
       ]
     },
@@ -13508,18 +13503,18 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-03",
-      "points_total": 93,
+      "points_total": 143,
       "points_spent": 0,
-      "points_available": 93,
+      "points_available": 143,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 7,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -13529,10 +13524,16 @@
           "balance": 20
         },
         {
+          "timestamp": "2026-09-14T04:32:32.350Z",
+          "delta": 50,
+          "reason": "Moxxy M'Sunday — 1st place",
+          "balance": 70
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 73,
           "reason": "Tenure points",
-          "balance": 93
+          "balance": 143
         }
       ]
     },
@@ -15360,16 +15361,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-05-09",
-      "points_total": 646,
+      "points_total": 676,
       "points_spent": 600,
-      "points_available": 46,
+      "points_available": 76,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 354,
+        "missing_points": 324,
         "missing_months": 1,
         "can_claim": false
       },
@@ -15465,10 +15466,16 @@
           "balance": -82
         },
         {
+          "timestamp": "2026-09-14T04:32:32.351Z",
+          "delta": 30,
+          "reason": "Moxxy M'Sunday — 2nd place",
+          "balance": -52
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 128,
           "reason": "Tenure points",
-          "balance": 46
+          "balance": 76
         }
       ]
     },
@@ -24212,16 +24219,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-06-22",
-      "points_total": 144,
+      "points_total": 164,
       "points_spent": 100,
-      "points_available": 44,
+      "points_available": 64,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 156,
+        "missing_points": 136,
         "missing_months": 0,
         "can_claim": false
       },
@@ -24245,10 +24252,16 @@
           "balance": -40
         },
         {
+          "timestamp": "2026-09-14T04:32:32.352Z",
+          "delta": 20,
+          "reason": "Moxxy M'Sunday — 3rd place",
+          "balance": -20
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 84,
           "reason": "Tenure points",
-          "balance": 44
+          "balance": 64
         }
       ]
     },
