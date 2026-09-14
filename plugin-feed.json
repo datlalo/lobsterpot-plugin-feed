@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-14T16:49:21.489Z",
+  "generated_at": "2026-09-14T16:52:24.264Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -17147,16 +17147,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-04-07 19:00:03.50805+00",
-      "points_total": 335,
+      "points_total": 285,
       "points_spent": 300,
-      "points_available": 35,
+      "points_available": -15,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 265,
+        "missing_points": 315,
         "missing_months": 0,
         "can_claim": false
       },
@@ -17198,10 +17198,16 @@
           "balance": -125
         },
         {
+          "timestamp": "2026-09-14T16:52:17.717Z",
+          "delta": -50,
+          "reason": "reverting double points from crafting sotw",
+          "balance": -175
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 160,
           "reason": "Tenure points",
-          "balance": 35
+          "balance": -15
         }
       ]
     },
@@ -24253,16 +24259,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-06-22",
-      "points_total": 164,
+      "points_total": 144,
       "points_spent": 100,
-      "points_available": 64,
+      "points_available": 44,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 136,
+        "missing_points": 156,
         "missing_months": 0,
         "can_claim": false
       },
@@ -24292,10 +24298,16 @@
           "balance": -20
         },
         {
+          "timestamp": "2026-09-14T16:50:17.573Z",
+          "delta": -20,
+          "reason": "reverting points given out by bot by accident",
+          "balance": -40
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 84,
           "reason": "Tenure points",
-          "balance": 64
+          "balance": 44
         }
       ]
     },
