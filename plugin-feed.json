@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-14T18:57:51.504Z",
+  "generated_at": "2026-09-14T23:54:37.892Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -12,16 +12,6 @@
     }
   ],
   "events": [
-    {
-      "id": "44b2c600-aa3b-4e9d-aca4-a655639817f5",
-      "type": "event",
-      "title": "Wait that’s not what I wanted",
-      "location": "By AcuteSloth",
-      "starts_at": "2026-09-11T19:00:00.000Z",
-      "ends_at": "2026-09-14T23:00:00.000Z",
-      "description": "",
-      "thread_id": "1545546195915645019"
-    },
     {
       "id": "3792fc20-14b9-48c2-9b1a-1d26d04fcbda",
       "type": "event",
@@ -3165,26 +3155,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-08-29",
-      "points_total": 1531,
+      "points_total": 1606,
       "points_spent": 1200,
-      "points_available": 331,
+      "points_available": 406,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 469,
+        "missing_points": 394,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-01-13T05:03:46.283Z",
-          "delta": 40,
-          "reason": "Bounty reward: January BOTM - Vorkath Hard Tier",
-          "balance": 290
-        },
         {
           "timestamp": "2026-01-13T06:03:06.869Z",
           "delta": 30,
@@ -3330,10 +3314,16 @@
           "balance": -50
         },
         {
+          "timestamp": "2026-09-14T23:54:36.372Z",
+          "delta": 75,
+          "reason": "Zammy bad rng",
+          "balance": 25
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 381,
           "reason": "Tenure points",
-          "balance": 331
+          "balance": 406
         }
       ]
     },
@@ -3343,18 +3333,18 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-03",
-      "points_total": 93,
+      "points_total": 168,
       "points_spent": 0,
-      "points_available": 93,
+      "points_available": 168,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 7,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -3376,10 +3366,16 @@
           "balance": 20
         },
         {
+          "timestamp": "2026-09-14T23:54:36.373Z",
+          "delta": 75,
+          "reason": "Zammy bad rng",
+          "balance": 95
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 73,
           "reason": "Tenure points",
-          "balance": 93
+          "balance": 168
         }
       ]
     },
@@ -3474,7 +3470,7 @@
       "points_total": 745,
       "points_spent": 700,
       "points_available": 45,
-      "months_in_clan": 12,
+      "months_in_clan": 13,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
@@ -3685,16 +3681,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2025-12-07 18:36:23.242706+00",
-      "points_total": 326,
+      "points_total": 401,
       "points_spent": 200,
-      "points_available": 126,
+      "points_available": 201,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 174,
+        "missing_points": 99,
         "missing_months": 0,
         "can_claim": false
       },
@@ -3724,10 +3720,16 @@
           "balance": -155
         },
         {
+          "timestamp": "2026-09-14T23:54:36.392Z",
+          "delta": 75,
+          "reason": "Zammy bad rng",
+          "balance": -80
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 281,
           "reason": "Tenure points",
-          "balance": 126
+          "balance": 201
         }
       ]
     },
@@ -3740,7 +3742,7 @@
       "points_total": 468,
       "points_spent": 0,
       "points_available": 468,
-      "months_in_clan": 9,
+      "months_in_clan": 10,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -4105,26 +4107,20 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-03-20 22:12:14.780985+00",
-      "points_total": 768,
+      "points_total": 843,
       "points_spent": 600,
-      "points_available": 168,
+      "points_available": 243,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 232,
+        "missing_points": 157,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-25T11:34:21.857Z",
-          "delta": 60,
-          "reason": "Bounty: Slayer BOTM Elite Bounty",
-          "balance": -10
-        },
         {
           "timestamp": "2026-07-02T06:57:30.354Z",
           "delta": 15,
@@ -4270,10 +4266,16 @@
           "balance": -10
         },
         {
+          "timestamp": "2026-09-14T23:54:36.384Z",
+          "delta": 75,
+          "reason": "Zammy bad rng",
+          "balance": 65
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 178,
           "reason": "Tenure points",
-          "balance": 168
+          "balance": 243
         }
       ]
     },
@@ -5588,7 +5590,7 @@
       "points_total": 152,
       "points_spent": 0,
       "points_available": 152,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -6192,7 +6194,7 @@
       "points_total": 91,
       "points_spent": 0,
       "points_available": 91,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -6400,7 +6402,7 @@
       "points_total": 30,
       "points_spent": 0,
       "points_available": 30,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": null,
       "points_history": [
         {
@@ -6799,18 +6801,18 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-02-15 19:07:31.438617+00",
-      "points_total": 266,
+      "points_total": 341,
       "points_spent": 100,
-      "points_available": 166,
-      "months_in_clan": 6,
+      "points_available": 241,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 34,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -6838,10 +6840,16 @@
           "balance": -45
         },
         {
+          "timestamp": "2026-09-14T23:54:36.388Z",
+          "delta": 75,
+          "reason": "Zammy bad rng",
+          "balance": 30
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 211,
           "reason": "Tenure points",
-          "balance": 166
+          "balance": 241
         }
       ]
     },
@@ -7017,16 +7025,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-05-17 14:00:07.458542+00",
-      "points_total": 790,
+      "points_total": 865,
       "points_spent": 500,
-      "points_available": 290,
+      "points_available": 365,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 110,
+        "missing_points": 35,
         "missing_months": 2,
         "can_claim": false
       },
@@ -7140,10 +7148,16 @@
           "balance": 170
         },
         {
+          "timestamp": "2026-09-14T23:54:36.386Z",
+          "delta": 75,
+          "reason": "Zammy bad rng",
+          "balance": 245
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 120,
           "reason": "Tenure points",
-          "balance": 290
+          "balance": 365
         }
       ]
     },
@@ -7879,9 +7893,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-11-02",
-      "points_total": 1365,
+      "points_total": 1440,
       "points_spent": 500,
-      "points_available": 865,
+      "points_available": 940,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Diamond",
@@ -7893,12 +7907,6 @@
         "can_claim": true
       },
       "points_history": [
-        {
-          "timestamp": "2026-01-18T10:03:07.201Z",
-          "delta": 30,
-          "reason": "Bounty reward: January BOTM - Vorkath Medium Tier",
-          "balance": 115
-        },
         {
           "timestamp": "2026-01-31T12:55:43.589Z",
           "delta": 50,
@@ -8044,10 +8052,16 @@
           "balance": 549
         },
         {
+          "timestamp": "2026-09-14T23:54:36.391Z",
+          "delta": 75,
+          "reason": "Zammy bad rng",
+          "balance": 624
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 316,
           "reason": "Tenure points",
-          "balance": 865
+          "balance": 940
         }
       ]
     },
@@ -8444,7 +8458,7 @@
       "points_total": 91,
       "points_spent": 0,
       "points_available": 91,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -8730,7 +8744,7 @@
       "points_total": 121,
       "points_spent": 0,
       "points_available": 121,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -9305,25 +9319,31 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-06-07",
-      "points_total": 99,
+      "points_total": 174,
       "points_spent": 0,
-      "points_available": 99,
+      "points_available": 174,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 1,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
+        {
+          "timestamp": "2026-09-14T23:54:36.390Z",
+          "delta": 75,
+          "reason": "Zammy bad rng",
+          "balance": 75
+        },
         {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 99,
           "reason": "Tenure points",
-          "balance": 99
+          "balance": 174
         }
       ]
     },
@@ -9389,26 +9409,20 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-01-08",
-      "points_total": 849,
+      "points_total": 924,
       "points_spent": 620,
-      "points_available": 229,
+      "points_available": 304,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 171,
+        "missing_points": 96,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-16T20:33:54.697Z",
-          "delta": 60,
-          "reason": "Bounty reward: Elite Tier Bounty",
-          "balance": 80
-        },
         {
           "timestamp": "2026-02-16T20:34:01.342Z",
           "delta": 40,
@@ -9554,10 +9568,16 @@
           "balance": -20
         },
         {
+          "timestamp": "2026-09-14T23:54:36.387Z",
+          "delta": 75,
+          "reason": "Zammy bad rng",
+          "balance": 55
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 249,
           "reason": "Tenure points",
-          "balance": 229
+          "balance": 304
         }
       ]
     },
@@ -10741,16 +10761,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-03-18",
-      "points_total": 610,
+      "points_total": 685,
       "points_spent": 600,
-      "points_available": 10,
+      "points_available": 85,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 390,
+        "missing_points": 315,
         "missing_months": 0,
         "can_claim": false
       },
@@ -10852,10 +10872,16 @@
           "balance": -170
         },
         {
+          "timestamp": "2026-09-14T23:54:36.392Z",
+          "delta": 75,
+          "reason": "Zammy bad rng",
+          "balance": -95
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 180,
           "reason": "Tenure points",
-          "balance": 10
+          "balance": 85
         }
       ]
     },
@@ -10893,18 +10919,18 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-02-15 19:07:31.438617+00",
-      "points_total": 266,
+      "points_total": 341,
       "points_spent": 100,
-      "points_available": 166,
-      "months_in_clan": 6,
+      "points_available": 241,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 34,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -10932,10 +10958,16 @@
           "balance": -45
         },
         {
+          "timestamp": "2026-09-14T23:54:36.388Z",
+          "delta": 75,
+          "reason": "Zammy bad rng",
+          "balance": 30
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 211,
           "reason": "Tenure points",
-          "balance": 166
+          "balance": 241
         }
       ]
     },
@@ -11025,17 +11057,23 @@
       "bot_rank": "Alt",
       "progression_rank": "Alt",
       "join_date": "2026-08-22",
-      "points_total": 23,
+      "points_total": 98,
       "points_spent": 0,
-      "points_available": 23,
+      "points_available": 98,
       "months_in_clan": 0,
       "next_rank": null,
       "points_history": [
         {
+          "timestamp": "2026-09-14T23:54:36.389Z",
+          "delta": 75,
+          "reason": "Zammy bad rng",
+          "balance": 75
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 23,
           "reason": "Tenure points",
-          "balance": 23
+          "balance": 98
         }
       ]
     },
@@ -11198,7 +11236,7 @@
       "points_total": 226,
       "points_spent": 0,
       "points_available": 226,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -13525,18 +13563,18 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-03",
-      "points_total": 93,
+      "points_total": 168,
       "points_spent": 0,
-      "points_available": 93,
+      "points_available": 168,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 7,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -13558,10 +13596,16 @@
           "balance": 20
         },
         {
+          "timestamp": "2026-09-14T23:54:36.373Z",
+          "delta": 75,
+          "reason": "Zammy bad rng",
+          "balance": 95
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 73,
           "reason": "Tenure points",
-          "balance": 93
+          "balance": 168
         }
       ]
     },
@@ -13627,16 +13671,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-06-17",
-      "points_total": 464,
+      "points_total": 539,
       "points_spent": 300,
-      "points_available": 164,
+      "points_available": 239,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 136,
+        "missing_points": 61,
         "missing_months": 1,
         "can_claim": false
       },
@@ -13720,10 +13764,16 @@
           "balance": 75
         },
         {
+          "timestamp": "2026-09-14T23:54:36.389Z",
+          "delta": 75,
+          "reason": "Zammy bad rng",
+          "balance": 150
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 89,
           "reason": "Tenure points",
-          "balance": 164
+          "balance": 239
         }
       ]
     },
@@ -15213,9 +15263,9 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-07-05",
-      "points_total": 361,
+      "points_total": 436,
       "points_spent": 100,
-      "points_available": 261,
+      "points_available": 336,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
@@ -15264,10 +15314,16 @@
           "balance": 190
         },
         {
+          "timestamp": "2026-09-14T23:54:36.390Z",
+          "delta": 75,
+          "reason": "Zammy bad rng",
+          "balance": 265
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 71,
           "reason": "Tenure points",
-          "balance": 261
+          "balance": 336
         }
       ]
     },
@@ -15389,16 +15445,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-05-09",
-      "points_total": 616,
+      "points_total": 691,
       "points_spent": 600,
-      "points_available": 16,
+      "points_available": 91,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 384,
+        "missing_points": 309,
         "missing_months": 1,
         "can_claim": false
       },
@@ -15512,10 +15568,16 @@
           "balance": -112
         },
         {
+          "timestamp": "2026-09-14T23:54:36.390Z",
+          "delta": 75,
+          "reason": "Zammy bad rng",
+          "balance": -37
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 128,
           "reason": "Tenure points",
-          "balance": 16
+          "balance": 91
         }
       ]
     },
@@ -15896,7 +15958,7 @@
       "points_total": 61,
       "points_spent": 0,
       "points_available": 61,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -16127,16 +16189,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-08-17",
-      "points_total": 73,
+      "points_total": 148,
       "points_spent": 0,
-      "points_available": 73,
+      "points_available": 148,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 27,
+        "missing_points": 0,
         "missing_months": 1,
         "can_claim": false
       },
@@ -16154,10 +16216,16 @@
           "balance": 45
         },
         {
+          "timestamp": "2026-09-14T23:54:36.390Z",
+          "delta": 75,
+          "reason": "Zammy bad rng",
+          "balance": 120
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 28,
           "reason": "Tenure points",
-          "balance": 73
+          "balance": 148
         }
       ]
     },
@@ -18090,7 +18158,7 @@
       "points_total": 1249,
       "points_spent": 900,
       "points_available": 349,
-      "months_in_clan": 11,
+      "months_in_clan": 12,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
@@ -22477,9 +22545,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-11-02",
-      "points_total": 1365,
+      "points_total": 1440,
       "points_spent": 500,
-      "points_available": 865,
+      "points_available": 940,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Diamond",
@@ -22491,12 +22559,6 @@
         "can_claim": true
       },
       "points_history": [
-        {
-          "timestamp": "2026-01-18T10:03:07.201Z",
-          "delta": 30,
-          "reason": "Bounty reward: January BOTM - Vorkath Medium Tier",
-          "balance": 115
-        },
         {
           "timestamp": "2026-01-31T12:55:43.589Z",
           "delta": 50,
@@ -22642,10 +22704,16 @@
           "balance": 549
         },
         {
+          "timestamp": "2026-09-14T23:54:36.391Z",
+          "delta": 75,
+          "reason": "Zammy bad rng",
+          "balance": 624
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 316,
           "reason": "Tenure points",
-          "balance": 865
+          "balance": 940
         }
       ]
     },
@@ -24218,7 +24286,7 @@
       "points_total": 61,
       "points_spent": 0,
       "points_available": 61,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -24271,16 +24339,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-06-22",
-      "points_total": 144,
+      "points_total": 219,
       "points_spent": 100,
-      "points_available": 44,
+      "points_available": 119,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 156,
+        "missing_points": 81,
         "missing_months": 0,
         "can_claim": false
       },
@@ -24316,10 +24384,16 @@
           "balance": -40
         },
         {
+          "timestamp": "2026-09-14T23:54:36.391Z",
+          "delta": 75,
+          "reason": "Zammy bad rng",
+          "balance": 35
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 84,
           "reason": "Tenure points",
-          "balance": 44
+          "balance": 119
         }
       ]
     },
