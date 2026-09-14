@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-14T23:54:37.892Z",
+  "generated_at": "2026-09-14T23:57:39.923Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -4573,18 +4573,18 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-06-24",
-      "points_total": 282,
+      "points_total": 332,
       "points_spent": 100,
-      "points_available": 182,
+      "points_available": 232,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 18,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -4618,10 +4618,16 @@
           "balance": 100
         },
         {
+          "timestamp": "2026-09-14T23:56:10.134Z",
+          "delta": 50,
+          "reason": "Saradomin Mid rng",
+          "balance": 150
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 82,
           "reason": "Tenure points",
-          "balance": 182
+          "balance": 232
         }
       ]
     },
@@ -6219,18 +6225,18 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-09-14",
-      "points_total": 680,
+      "points_total": 730,
       "points_spent": 300,
-      "points_available": 380,
+      "points_available": 430,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 20,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -6318,10 +6324,16 @@
           "balance": 15
         },
         {
+          "timestamp": "2026-09-14T23:56:10.138Z",
+          "delta": 50,
+          "reason": "Saradomin Mid rng",
+          "balance": 65
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 365,
           "reason": "Tenure points",
-          "balance": 380
+          "balance": 430
         }
       ]
     },
@@ -9641,25 +9653,31 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-13",
-      "points_total": 63,
+      "points_total": 113,
       "points_spent": 0,
-      "points_available": 63,
+      "points_available": 113,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 37,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
+        {
+          "timestamp": "2026-09-14T23:56:10.137Z",
+          "delta": 50,
+          "reason": "Saradomin Mid rng",
+          "balance": 50
+        },
         {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 63,
           "reason": "Tenure points",
-          "balance": 63
+          "balance": 113
         }
       ]
     },
@@ -9949,26 +9967,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-03",
-      "points_total": 1546,
+      "points_total": 1596,
       "points_spent": 1210,
-      "points_available": 336,
+      "points_available": 386,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 464,
+        "missing_points": 414,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-04T11:27:02.601Z",
-          "delta": -10,
-          "reason": "Raffle tickets x1",
-          "balance": 230
-        },
         {
           "timestamp": "2026-03-04T15:26:22.323Z",
           "delta": 40,
@@ -10114,10 +10126,16 @@
           "balance": -40
         },
         {
+          "timestamp": "2026-09-14T23:56:10.136Z",
+          "delta": 50,
+          "reason": "Saradomin Mid rng",
+          "balance": 10
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 376,
           "reason": "Tenure points",
-          "balance": 336
+          "balance": 386
         }
       ]
     },
@@ -10155,26 +10173,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-16",
-      "points_total": 1002,
+      "points_total": 1052,
       "points_spent": 1000,
-      "points_available": 2,
+      "points_available": 52,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 498,
+        "missing_points": 448,
         "missing_months": 3,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-09T07:12:50.179Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier - Giant Mole",
-          "balance": 145
-        },
         {
           "timestamp": "2026-04-13T11:06:23.177Z",
           "delta": 60,
@@ -10320,10 +10332,16 @@
           "balance": -180
         },
         {
+          "timestamp": "2026-09-14T23:56:10.137Z",
+          "delta": 50,
+          "reason": "Saradomin Mid rng",
+          "balance": -130
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 182,
           "reason": "Tenure points",
-          "balance": 2
+          "balance": 52
         }
       ]
     },
@@ -12337,16 +12355,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-08-19",
-      "points_total": 41,
+      "points_total": 91,
       "points_spent": 0,
-      "points_available": 41,
+      "points_available": 91,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 59,
+        "missing_points": 9,
         "missing_months": 1,
         "can_claim": false
       },
@@ -12358,10 +12376,16 @@
           "balance": 15
         },
         {
+          "timestamp": "2026-09-14T23:56:10.138Z",
+          "delta": 50,
+          "reason": "Saradomin Mid rng",
+          "balance": 65
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 26,
           "reason": "Tenure points",
-          "balance": 41
+          "balance": 91
         }
       ]
     },
@@ -16529,26 +16553,20 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-09-12",
-      "points_total": 2377,
+      "points_total": 2427,
       "points_spent": 2070,
-      "points_available": 307,
+      "points_available": 357,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
         "requirements": "Trimmed QC, 2000 Total, or Elite CA",
-        "missing_points": 693,
+        "missing_points": 643,
         "missing_months": 4,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-30T05:00:02.745Z",
-          "delta": 15,
-          "reason": "Event Participation",
-          "balance": -210
-        },
         {
           "timestamp": "2026-07-01T17:40:09.849Z",
           "delta": 15,
@@ -16694,10 +16712,16 @@
           "balance": -60
         },
         {
+          "timestamp": "2026-09-14T23:56:10.134Z",
+          "delta": 50,
+          "reason": "Saradomin Mid rng",
+          "balance": -10
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 367,
           "reason": "Tenure points",
-          "balance": 307
+          "balance": 357
         }
       ]
     },
@@ -17671,26 +17695,20 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-03-11",
-      "points_total": 907,
+      "points_total": 957,
       "points_spent": 630,
-      "points_available": 277,
+      "points_available": 327,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 123,
+        "missing_points": 73,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-22T19:06:25.053Z",
-          "delta": 60,
-          "reason": "Bounty reward: Elite Tier - Woodcutting",
-          "balance": 145
-        },
         {
           "timestamp": "2026-04-02T15:07:52.026Z",
           "delta": -30,
@@ -17836,10 +17854,16 @@
           "balance": 90
         },
         {
+          "timestamp": "2026-09-14T23:56:10.137Z",
+          "delta": 50,
+          "reason": "Saradomin Mid rng",
+          "balance": 140
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 187,
           "reason": "Tenure points",
-          "balance": 277
+          "balance": 327
         }
       ]
     },
@@ -17995,9 +18019,9 @@
       "bot_rank": "Founder",
       "progression_rank": "Founder",
       "join_date": "2024-10-26",
-      "points_total": 963,
+      "points_total": 1013,
       "points_spent": 500,
-      "points_available": 463,
+      "points_available": 513,
       "months_in_clan": 22,
       "next_rank": null,
       "points_history": [
@@ -18044,10 +18068,16 @@
           "balance": -225
         },
         {
+          "timestamp": "2026-09-14T23:56:10.136Z",
+          "delta": 50,
+          "reason": "Saradomin Mid rng",
+          "balance": -175
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 688,
           "reason": "Tenure points",
-          "balance": 463
+          "balance": 513
         }
       ]
     },
@@ -21017,26 +21047,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-16",
-      "points_total": 1002,
+      "points_total": 1052,
       "points_spent": 1000,
-      "points_available": 2,
+      "points_available": 52,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 498,
+        "missing_points": 448,
         "missing_months": 3,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-09T07:12:50.179Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier - Giant Mole",
-          "balance": 145
-        },
         {
           "timestamp": "2026-04-13T11:06:23.177Z",
           "delta": 60,
@@ -21182,10 +21206,16 @@
           "balance": -180
         },
         {
+          "timestamp": "2026-09-14T23:56:10.137Z",
+          "delta": 50,
+          "reason": "Saradomin Mid rng",
+          "balance": -130
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 182,
           "reason": "Tenure points",
-          "balance": 2
+          "balance": 52
         }
       ]
     },
@@ -21519,26 +21549,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-03",
-      "points_total": 1546,
+      "points_total": 1596,
       "points_spent": 1210,
-      "points_available": 336,
+      "points_available": 386,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 464,
+        "missing_points": 414,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-04T11:27:02.601Z",
-          "delta": -10,
-          "reason": "Raffle tickets x1",
-          "balance": 230
-        },
         {
           "timestamp": "2026-03-04T15:26:22.323Z",
           "delta": 40,
@@ -21684,10 +21708,16 @@
           "balance": -40
         },
         {
+          "timestamp": "2026-09-14T23:56:10.136Z",
+          "delta": 50,
+          "reason": "Saradomin Mid rng",
+          "balance": 10
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 376,
           "reason": "Tenure points",
-          "balance": 336
+          "balance": 386
         }
       ]
     },
@@ -21731,9 +21761,9 @@
       "bot_rank": "Founder",
       "progression_rank": "Founder",
       "join_date": "2024-10-26",
-      "points_total": 963,
+      "points_total": 1013,
       "points_spent": 500,
-      "points_available": 463,
+      "points_available": 513,
       "months_in_clan": 22,
       "next_rank": null,
       "points_history": [
@@ -21780,10 +21810,16 @@
           "balance": -225
         },
         {
+          "timestamp": "2026-09-14T23:56:10.136Z",
+          "delta": 50,
+          "reason": "Saradomin Mid rng",
+          "balance": -175
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 688,
           "reason": "Tenure points",
-          "balance": 463
+          "balance": 513
         }
       ]
     },
@@ -22263,9 +22299,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-03-09",
-      "points_total": 189,
+      "points_total": 239,
       "points_spent": 0,
-      "points_available": 189,
+      "points_available": 239,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Sapphire",
@@ -22278,10 +22314,16 @@
       },
       "points_history": [
         {
+          "timestamp": "2026-09-14T23:56:10.124Z",
+          "delta": 50,
+          "reason": "Saradomin Mid rng",
+          "balance": 50
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 189,
           "reason": "Tenure points",
-          "balance": 189
+          "balance": 239
         }
       ]
     },
@@ -23583,25 +23625,31 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-08-25",
-      "points_total": 20,
+      "points_total": 70,
       "points_spent": 0,
-      "points_available": 20,
+      "points_available": 70,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 80,
+        "missing_points": 30,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
         {
+          "timestamp": "2026-09-14T23:56:10.136Z",
+          "delta": 50,
+          "reason": "Saradomin Mid rng",
+          "balance": 50
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 20,
           "reason": "Tenure points",
-          "balance": 20
+          "balance": 70
         }
       ]
     },
@@ -24311,9 +24359,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-03-09",
-      "points_total": 189,
+      "points_total": 239,
       "points_spent": 0,
-      "points_available": 189,
+      "points_available": 239,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Sapphire",
@@ -24326,10 +24374,16 @@
       },
       "points_history": [
         {
+          "timestamp": "2026-09-14T23:56:10.124Z",
+          "delta": 50,
+          "reason": "Saradomin Mid rng",
+          "balance": 50
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 189,
           "reason": "Tenure points",
-          "balance": 189
+          "balance": 239
         }
       ]
     },
