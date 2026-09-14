@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-14T16:52:24.264Z",
+  "generated_at": "2026-09-14T16:55:27.203Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -15383,16 +15383,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-05-09",
-      "points_total": 646,
+      "points_total": 616,
       "points_spent": 600,
-      "points_available": 46,
+      "points_available": 16,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 354,
+        "missing_points": 384,
         "missing_months": 1,
         "can_claim": false
       },
@@ -15500,10 +15500,16 @@
           "balance": -82
         },
         {
+          "timestamp": "2026-09-14T16:52:44.148Z",
+          "delta": -30,
+          "reason": "reverting double points from crafting sotw",
+          "balance": -112
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 128,
           "reason": "Tenure points",
-          "balance": 46
+          "balance": 16
         }
       ]
     },
@@ -16449,26 +16455,20 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-09-12",
-      "points_total": 2397,
+      "points_total": 2377,
       "points_spent": 2070,
-      "points_available": 327,
+      "points_available": 307,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
         "requirements": "Trimmed QC, 2000 Total, or Elite CA",
-        "missing_points": 673,
+        "missing_points": 693,
         "missing_months": 4,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-24T13:29:10.526Z",
-          "delta": -500,
-          "reason": "Rank upgrade: Dragonstone",
-          "balance": -225
-        },
         {
           "timestamp": "2026-06-30T05:00:02.745Z",
           "delta": 15,
@@ -16614,10 +16614,16 @@
           "balance": -40
         },
         {
+          "timestamp": "2026-09-14T16:53:19.053Z",
+          "delta": -20,
+          "reason": "crafting sotw reverting double points",
+          "balance": -60
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 367,
           "reason": "Tenure points",
-          "balance": 327
+          "balance": 307
         }
       ]
     },
