@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-14T16:46:13.177Z",
+  "generated_at": "2026-09-14T16:49:21.489Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -15383,16 +15383,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-05-09",
-      "points_total": 676,
+      "points_total": 646,
       "points_spent": 600,
-      "points_available": 76,
+      "points_available": 46,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 324,
+        "missing_points": 354,
         "missing_months": 1,
         "can_claim": false
       },
@@ -15494,10 +15494,16 @@
           "balance": -52
         },
         {
+          "timestamp": "2026-09-14T16:49:19.973Z",
+          "delta": -30,
+          "reason": "reverting points given out by bot by accident",
+          "balance": -82
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 128,
           "reason": "Tenure points",
-          "balance": 76
+          "balance": 46
         }
       ]
     },
