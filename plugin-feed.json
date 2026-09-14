@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-14T18:54:48.605Z",
+  "generated_at": "2026-09-14T18:57:51.504Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -11462,26 +11462,21 @@
     {
       "rsn": "IronTheGalch",
       "rsn_key": "ironthegalch",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-08-11",
       "points_total": 284,
-      "points_spent": 0,
-      "points_available": 284,
+      "points_spent": 100,
+      "points_available": 184,
       "months_in_clan": 1,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-09-14T18:54:46.441Z"
+        "missing_points": 16,
+        "missing_months": 1,
+        "can_claim": false
       },
       "points_history": [
         {
@@ -11533,10 +11528,16 @@
           "balance": 250
         },
         {
+          "timestamp": "2026-09-14T18:55:35.962Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": 150
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 34,
           "reason": "Tenure points",
-          "balance": 284
+          "balance": 184
         }
       ]
     },
