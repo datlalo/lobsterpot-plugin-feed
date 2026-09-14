@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-09-14T17:10:03.213Z",
-  "broadcasts": [],
+  "generated_at": "2026-09-14T17:10:53.497Z",
+  "broadcasts": [
+    {
+      "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
+      "title": "Boss of the Week between 16th to 23rd",
+      "message": "Mad Angel",
+      "starts_at": null,
+      "expires_at": null,
+      "updated_at": "2026-09-14T17:10:50.068Z"
+    }
+  ],
   "events": [
     {
       "id": "44b2c600-aa3b-4e9d-aca4-a655639817f5",
