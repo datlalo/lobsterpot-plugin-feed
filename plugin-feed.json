@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-14T09:02:03.187Z",
+  "generated_at": "2026-09-14T16:46:13.177Z",
   "broadcasts": [
     {
       "id": "845b3a3c-5698-4aca-a6ee-de31f102ec56",
@@ -3343,18 +3343,18 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-03",
-      "points_total": 143,
+      "points_total": 93,
       "points_spent": 0,
-      "points_available": 143,
+      "points_available": 93,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 7,
         "missing_months": 0,
-        "can_claim": true
+        "can_claim": false
       },
       "points_history": [
         {
@@ -3370,10 +3370,16 @@
           "balance": 70
         },
         {
+          "timestamp": "2026-09-14T16:46:11.648Z",
+          "delta": -50,
+          "reason": "reverting points accidentally given out by bot",
+          "balance": 20
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 73,
           "reason": "Tenure points",
-          "balance": 143
+          "balance": 93
         }
       ]
     },
@@ -13513,18 +13519,18 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-03",
-      "points_total": 143,
+      "points_total": 93,
       "points_spent": 0,
-      "points_available": 143,
+      "points_available": 93,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 7,
         "missing_months": 0,
-        "can_claim": true
+        "can_claim": false
       },
       "points_history": [
         {
@@ -13540,10 +13546,16 @@
           "balance": 70
         },
         {
+          "timestamp": "2026-09-14T16:46:11.648Z",
+          "delta": -50,
+          "reason": "reverting points accidentally given out by bot",
+          "balance": 20
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 73,
           "reason": "Tenure points",
-          "balance": 143
+          "balance": 93
         }
       ]
     },
