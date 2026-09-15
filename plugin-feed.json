@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-15T13:26:43.515Z",
+  "generated_at": "2026-09-15T15:08:33.486Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -33,7 +33,16 @@
       "thread_id": "1522561512089194536"
     }
   ],
-  "bounties": [],
+  "bounties": [
+    {
+      "id": "61",
+      "name": "Mad Angel BOTW - Easy",
+      "active": true,
+      "points": 15,
+      "description": "50kc",
+      "expires_at": "2026-09-24T00:00:00.000Z"
+    }
+  ],
   "members": [
     {
       "rsn": "0gass",
