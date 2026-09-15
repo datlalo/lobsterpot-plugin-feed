@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-15T11:42:40.466Z",
+  "generated_at": "2026-09-15T12:49:22.741Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -12,6 +12,16 @@
     }
   ],
   "events": [
+    {
+      "id": "ae2da1ad-9312-401a-9643-3d8b592703d2",
+      "type": "event",
+      "title": "BOTW - Mad Angel",
+      "location": "Wyrmscraig",
+      "starts_at": "2026-09-16T11:00:00.000Z",
+      "ends_at": "2026-09-23T11:00:00.000Z",
+      "description": "",
+      "thread_id": "1549401723720831157"
+    },
     {
       "id": "3792fc20-14b9-48c2-9b1a-1d26d04fcbda",
       "type": "event",
