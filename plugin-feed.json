@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-15T16:07:08.436Z",
+  "generated_at": "2026-09-15T16:31:22.112Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -5603,34 +5603,6 @@
           "delta": 79,
           "reason": "Tenure points",
           "balance": 79
-        }
-      ]
-    },
-    {
-      "rsn": "DCed By Gf",
-      "rsn_key": "dcedbygf",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2026-09-05",
-      "points_total": 10,
-      "points_spent": 0,
-      "points_available": 10,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 190,
-        "missing_months": 2,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-09-15T00:31:16.021Z",
-          "delta": 10,
-          "reason": "Tenure points",
-          "balance": 10
         }
       ]
     },
@@ -13809,34 +13781,6 @@
       ]
     },
     {
-      "rsn": "lujarauta",
-      "rsn_key": "lujarauta",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-07-17",
-      "points_total": 60,
-      "points_spent": 0,
-      "points_available": 60,
-      "months_in_clan": 1,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 40,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-09-15T00:31:16.021Z",
-          "delta": 60,
-          "reason": "Tenure points",
-          "balance": 60
-        }
-      ]
-    },
-    {
       "rsn": "lynsska",
       "rsn_key": "lynsska",
       "bot_rank": "Emerald",
@@ -21437,6 +21381,26 @@
           "balance": 83
         }
       ]
+    },
+    {
+      "rsn": "sutured soul",
+      "rsn_key": "suturedsoul",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-09-15",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 200,
+        "missing_months": 2,
+        "can_claim": false
+      }
     },
     {
       "rsn": "syly",
