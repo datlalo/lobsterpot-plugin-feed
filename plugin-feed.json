@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-14T23:57:39.923Z",
+  "generated_at": "2026-09-15T00:00:42.220Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -673,9 +673,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 3132,
+      "points_total": 3207,
       "points_spent": 1230,
-      "points_available": 1902,
+      "points_available": 1977,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
@@ -687,12 +687,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-16T03:11:44.822Z",
-          "delta": 30,
-          "reason": "Bounty: Duke Sucellus - Medium",
-          "balance": 748
-        },
         {
           "timestamp": "2026-07-16T21:13:11.378Z",
           "delta": 20,
@@ -838,10 +832,16 @@
           "balance": 1548
         },
         {
+          "timestamp": "2026-09-14T23:59:46.771Z",
+          "delta": 75,
+          "reason": "Bad rng host",
+          "balance": 1623
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 354,
           "reason": "Tenure points",
-          "balance": 1902
+          "balance": 1977
         }
       ]
     },
@@ -1707,26 +1707,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-12-24",
-      "points_total": 1364,
+      "points_total": 1389,
       "points_spent": 1010,
-      "points_available": 354,
+      "points_available": 379,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 146,
+        "missing_points": 121,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-17T01:26:18.419Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier - Woodcutting",
-          "balance": 185
-        },
         {
           "timestamp": "2026-03-17T01:26:22.492Z",
           "delta": 15,
@@ -1872,10 +1866,16 @@
           "balance": 90
         },
         {
+          "timestamp": "2026-09-14T23:57:46.047Z",
+          "delta": 25,
+          "reason": "Guthix too lucky",
+          "balance": 115
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 264,
           "reason": "Tenure points",
-          "balance": 354
+          "balance": 379
         }
       ]
     },
@@ -3953,16 +3953,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-01-20",
-      "points_total": 767,
+      "points_total": 792,
       "points_spent": 600,
-      "points_available": 167,
+      "points_available": 192,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 233,
+        "missing_points": 208,
         "missing_months": 0,
         "can_claim": false
       },
@@ -4094,10 +4094,16 @@
           "balance": -70
         },
         {
+          "timestamp": "2026-09-14T23:57:46.051Z",
+          "delta": 25,
+          "reason": "Guthix too lucky",
+          "balance": -45
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 237,
           "reason": "Tenure points",
-          "balance": 167
+          "balance": 192
         }
       ]
     },
@@ -5405,9 +5411,9 @@
       "bot_rank": "Owner",
       "progression_rank": "Owner",
       "join_date": "2024-08-01",
-      "points_total": 6351,
+      "points_total": 6376,
       "points_spent": 1140,
-      "points_available": 5211,
+      "points_available": 5236,
       "months_in_clan": 25,
       "next_rank": null,
       "points_history": [
@@ -5484,10 +5490,16 @@
           "balance": 4437
         },
         {
+          "timestamp": "2026-09-14T23:57:46.048Z",
+          "delta": 25,
+          "reason": "Guthix too lucky",
+          "balance": 4462
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 774,
           "reason": "Tenure points",
-          "balance": 5211
+          "balance": 5236
         }
       ]
     },
@@ -6535,9 +6547,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-06-24",
-      "points_total": 117,
+      "points_total": 142,
       "points_spent": 0,
-      "points_available": 117,
+      "points_available": 142,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
@@ -6562,10 +6574,16 @@
           "balance": 35
         },
         {
+          "timestamp": "2026-09-14T23:57:46.051Z",
+          "delta": 25,
+          "reason": "Guthix too lucky",
+          "balance": 60
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 82,
           "reason": "Tenure points",
-          "balance": 117
+          "balance": 142
         }
       ]
     },
@@ -8815,16 +8833,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-05-01",
-      "points_total": 494,
+      "points_total": 519,
       "points_spent": 300,
-      "points_available": 194,
+      "points_available": 219,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 106,
+        "missing_points": 81,
         "missing_months": 0,
         "can_claim": false
       },
@@ -8896,10 +8914,16 @@
           "balance": 58
         },
         {
+          "timestamp": "2026-09-14T23:57:46.048Z",
+          "delta": 25,
+          "reason": "Guthix too lucky",
+          "balance": 83
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 136,
           "reason": "Tenure points",
-          "balance": 194
+          "balance": 219
         }
       ]
     },
@@ -9687,18 +9711,18 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2025-12-16 18:05:33.310017+00",
-      "points_total": 797,
+      "points_total": 822,
       "points_spent": 500,
-      "points_available": 297,
+      "points_available": 322,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 3,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -9810,10 +9834,16 @@
           "balance": 25
         },
         {
+          "timestamp": "2026-09-14T23:57:46.049Z",
+          "delta": 25,
+          "reason": "Guthix too lucky",
+          "balance": 50
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 272,
           "reason": "Tenure points",
-          "balance": 297
+          "balance": 322
         }
       ]
     },
@@ -10625,16 +10655,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-06-27",
-      "points_total": 569,
+      "points_total": 594,
       "points_spent": 300,
-      "points_available": 269,
+      "points_available": 294,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 31,
+        "missing_points": 6,
         "missing_months": 1,
         "can_claim": false
       },
@@ -10766,10 +10796,16 @@
           "balance": 190
         },
         {
+          "timestamp": "2026-09-14T23:57:46.036Z",
+          "delta": 25,
+          "reason": "Guthix too lucky",
+          "balance": 215
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 79,
           "reason": "Tenure points",
-          "balance": 269
+          "balance": 294
         }
       ]
     },
@@ -14015,9 +14051,9 @@
       "bot_rank": "Owner",
       "progression_rank": "Owner",
       "join_date": "2024-08-01",
-      "points_total": 6351,
+      "points_total": 6376,
       "points_spent": 1140,
-      "points_available": 5211,
+      "points_available": 5236,
       "months_in_clan": 25,
       "next_rank": null,
       "points_history": [
@@ -14094,10 +14130,16 @@
           "balance": 4437
         },
         {
+          "timestamp": "2026-09-14T23:57:46.048Z",
+          "delta": 25,
+          "reason": "Guthix too lucky",
+          "balance": 4462
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 774,
           "reason": "Tenure points",
-          "balance": 5211
+          "balance": 5236
         }
       ]
     },
@@ -14243,16 +14285,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-16",
-      "points_total": 728,
+      "points_total": 753,
       "points_spent": 700,
-      "points_available": 28,
+      "points_available": 53,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 472,
+        "missing_points": 447,
         "missing_months": 0,
         "can_claim": false
       },
@@ -14342,10 +14384,16 @@
           "balance": -335
         },
         {
+          "timestamp": "2026-09-14T23:57:46.052Z",
+          "delta": 25,
+          "reason": "Guthix too lucky",
+          "balance": -310
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 363,
           "reason": "Tenure points",
-          "balance": 28
+          "balance": 53
         }
       ]
     },
@@ -14355,16 +14403,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-11-26",
-      "points_total": 825,
+      "points_total": 850,
       "points_spent": 500,
-      "points_available": 325,
+      "points_available": 350,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 75,
+        "missing_points": 50,
         "missing_months": 0,
         "can_claim": false
       },
@@ -14430,10 +14478,16 @@
           "balance": 33
         },
         {
+          "timestamp": "2026-09-14T23:57:46.049Z",
+          "delta": 25,
+          "reason": "Guthix too lucky",
+          "balance": 58
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 292,
           "reason": "Tenure points",
-          "balance": 325
+          "balance": 350
         }
       ]
     },
@@ -15357,16 +15411,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-16",
-      "points_total": 728,
+      "points_total": 753,
       "points_spent": 700,
-      "points_available": 28,
+      "points_available": 53,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 472,
+        "missing_points": 447,
         "missing_months": 0,
         "can_claim": false
       },
@@ -15456,10 +15510,16 @@
           "balance": -335
         },
         {
+          "timestamp": "2026-09-14T23:57:46.052Z",
+          "delta": 25,
+          "reason": "Guthix too lucky",
+          "balance": -310
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 363,
           "reason": "Tenure points",
-          "balance": 28
+          "balance": 53
         }
       ]
     },
@@ -16793,9 +16853,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 3132,
+      "points_total": 3207,
       "points_spent": 1230,
-      "points_available": 1902,
+      "points_available": 1977,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
@@ -16807,12 +16867,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-16T03:11:44.822Z",
-          "delta": 30,
-          "reason": "Bounty: Duke Sucellus - Medium",
-          "balance": 748
-        },
         {
           "timestamp": "2026-07-16T21:13:11.378Z",
           "delta": 20,
@@ -16958,10 +17012,16 @@
           "balance": 1548
         },
         {
+          "timestamp": "2026-09-14T23:59:46.771Z",
+          "delta": 75,
+          "reason": "Bad rng host",
+          "balance": 1623
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 354,
           "reason": "Tenure points",
-          "balance": 1902
+          "balance": 1977
         }
       ]
     },
@@ -17321,26 +17381,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-30",
-      "points_total": 1812,
+      "points_total": 1837,
       "points_spent": 1200,
-      "points_available": 612,
+      "points_available": 637,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 188,
+        "missing_points": 163,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-01T21:34:43.596Z",
-          "delta": 30,
-          "reason": "Bounty: Farming - Medium",
-          "balance": -60
-        },
         {
           "timestamp": "2026-07-02T21:15:01.934Z",
           "delta": 40,
@@ -17486,10 +17540,16 @@
           "balance": 263
         },
         {
+          "timestamp": "2026-09-14T23:57:46.050Z",
+          "delta": 25,
+          "reason": "Guthix too lucky",
+          "balance": 288
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 349,
           "reason": "Tenure points",
-          "balance": 612
+          "balance": 637
         }
       ]
     },
@@ -18691,9 +18751,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-10-11",
-      "points_total": 2307,
+      "points_total": 2332,
       "points_spent": 1400,
-      "points_available": 907,
+      "points_available": 932,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
@@ -18705,12 +18765,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-01T21:05:58.512Z",
-          "delta": 40,
-          "reason": "Bounty: Farming - Hard",
-          "balance": 240
-        },
         {
           "timestamp": "2026-07-01T21:12:43.991Z",
           "delta": -500,
@@ -18856,10 +18910,16 @@
           "balance": 569
         },
         {
+          "timestamp": "2026-09-14T23:57:46.050Z",
+          "delta": 25,
+          "reason": "Guthix too lucky",
+          "balance": 594
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 338,
           "reason": "Tenure points",
-          "balance": 907
+          "balance": 932
         }
       ]
     },
@@ -20619,16 +20679,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-01-20",
-      "points_total": 767,
+      "points_total": 792,
       "points_spent": 600,
-      "points_available": 167,
+      "points_available": 192,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 233,
+        "missing_points": 208,
         "missing_months": 0,
         "can_claim": false
       },
@@ -20760,10 +20820,16 @@
           "balance": -70
         },
         {
+          "timestamp": "2026-09-14T23:57:46.051Z",
+          "delta": 25,
+          "reason": "Guthix too lucky",
+          "balance": -45
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 237,
           "reason": "Tenure points",
-          "balance": 167
+          "balance": 192
         }
       ]
     },
@@ -20899,16 +20965,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-05-04",
-      "points_total": 773,
+      "points_total": 798,
       "points_spent": 600,
-      "points_available": 173,
+      "points_available": 198,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 227,
+        "missing_points": 202,
         "missing_months": 1,
         "can_claim": false
       },
@@ -21034,10 +21100,16 @@
           "balance": 40
         },
         {
+          "timestamp": "2026-09-14T23:57:46.050Z",
+          "delta": 25,
+          "reason": "Guthix too lucky",
+          "balance": 65
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 133,
           "reason": "Tenure points",
-          "balance": 173
+          "balance": 198
         }
       ]
     },
@@ -21289,26 +21361,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-30",
-      "points_total": 1812,
+      "points_total": 1837,
       "points_spent": 1200,
-      "points_available": 612,
+      "points_available": 637,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 188,
+        "missing_points": 163,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-01T21:34:43.596Z",
-          "delta": 30,
-          "reason": "Bounty: Farming - Medium",
-          "balance": -60
-        },
         {
           "timestamp": "2026-07-02T21:15:01.934Z",
           "delta": 40,
@@ -21454,10 +21520,16 @@
           "balance": 263
         },
         {
+          "timestamp": "2026-09-14T23:57:46.050Z",
+          "delta": 25,
+          "reason": "Guthix too lucky",
+          "balance": 288
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 349,
           "reason": "Tenure points",
-          "balance": 612
+          "balance": 637
         }
       ]
     },
@@ -21467,16 +21539,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-03-08",
-      "points_total": 310,
+      "points_total": 335,
       "points_spent": 300,
-      "points_available": 10,
+      "points_available": 35,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 290,
+        "missing_points": 265,
         "missing_months": 0,
         "can_claim": false
       },
@@ -21536,10 +21608,16 @@
           "balance": -180
         },
         {
+          "timestamp": "2026-09-14T23:57:46.052Z",
+          "delta": 25,
+          "reason": "Guthix too lucky",
+          "balance": -155
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 190,
           "reason": "Tenure points",
-          "balance": 10
+          "balance": 35
         }
       ]
     },
@@ -22765,18 +22843,18 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2025-12-16 18:05:33.310017+00",
-      "points_total": 797,
+      "points_total": 822,
       "points_spent": 500,
-      "points_available": 297,
+      "points_available": 322,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 3,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -22888,10 +22966,16 @@
           "balance": 25
         },
         {
+          "timestamp": "2026-09-14T23:57:46.049Z",
+          "delta": 25,
+          "reason": "Guthix too lucky",
+          "balance": 50
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 272,
           "reason": "Tenure points",
-          "balance": 297
+          "balance": 322
         }
       ]
     },
@@ -23985,18 +24069,18 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-08",
-      "points_total": 88,
+      "points_total": 113,
       "points_spent": 0,
-      "points_available": 88,
+      "points_available": 113,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 12,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -24006,10 +24090,16 @@
           "balance": 20
         },
         {
+          "timestamp": "2026-09-14T23:57:46.051Z",
+          "delta": 25,
+          "reason": "Guthix too lucky",
+          "balance": 45
+        },
+        {
           "timestamp": "2026-09-14T00:32:27.609Z",
           "delta": 68,
           "reason": "Tenure points",
-          "balance": 88
+          "balance": 113
         }
       ]
     },
