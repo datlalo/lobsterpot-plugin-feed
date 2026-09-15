@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-15T02:44:12.191Z",
+  "generated_at": "2026-09-15T02:47:15.108Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -10227,32 +10227,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-16",
-      "points_total": 1063,
+      "points_total": 1083,
       "points_spent": 1000,
-      "points_available": 63,
+      "points_available": 83,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 437,
+        "missing_points": 417,
         "missing_months": 3,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-14T20:04:11.560Z",
-          "delta": 15,
-          "reason": "Discord adjustment",
-          "balance": 220
-        },
-        {
-          "timestamp": "2026-05-25T13:33:43.148Z",
-          "delta": -100,
-          "reason": "Rank upgraded to: Sapphire",
-          "balance": 120
-        },
         {
           "timestamp": "2026-06-23T03:53:58.009Z",
           "delta": 30,
@@ -10392,10 +10380,22 @@
           "balance": -120
         },
         {
+          "timestamp": "2026-09-15T02:44:48.472Z",
+          "delta": 10,
+          "reason": "Held 2 tiles",
+          "balance": -110
+        },
+        {
+          "timestamp": "2026-09-15T02:45:18.058Z",
+          "delta": 10,
+          "reason": "Held 3 tiles",
+          "balance": -100
+        },
+        {
           "timestamp": "2026-09-15T00:31:16.021Z",
           "delta": 183,
           "reason": "Tenure points",
-          "balance": 63
+          "balance": 83
         }
       ]
     },
@@ -15571,16 +15571,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-05-09",
-      "points_total": 702,
+      "points_total": 712,
       "points_spent": 600,
-      "points_available": 102,
+      "points_available": 112,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 298,
+        "missing_points": 288,
         "missing_months": 1,
         "can_claim": false
       },
@@ -15706,10 +15706,16 @@
           "balance": -27
         },
         {
+          "timestamp": "2026-09-15T02:44:48.472Z",
+          "delta": 10,
+          "reason": "Held 2 tiles",
+          "balance": -17
+        },
+        {
           "timestamp": "2026-09-15T00:31:16.021Z",
           "delta": 129,
           "reason": "Tenure points",
-          "balance": 102
+          "balance": 112
         }
       ]
     },
@@ -21179,32 +21185,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-16",
-      "points_total": 1063,
+      "points_total": 1083,
       "points_spent": 1000,
-      "points_available": 63,
+      "points_available": 83,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 437,
+        "missing_points": 417,
         "missing_months": 3,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-14T20:04:11.560Z",
-          "delta": 15,
-          "reason": "Discord adjustment",
-          "balance": 220
-        },
-        {
-          "timestamp": "2026-05-25T13:33:43.148Z",
-          "delta": -100,
-          "reason": "Rank upgraded to: Sapphire",
-          "balance": 120
-        },
         {
           "timestamp": "2026-06-23T03:53:58.009Z",
           "delta": 30,
@@ -21344,10 +21338,22 @@
           "balance": -120
         },
         {
+          "timestamp": "2026-09-15T02:44:48.472Z",
+          "delta": 10,
+          "reason": "Held 2 tiles",
+          "balance": -110
+        },
+        {
+          "timestamp": "2026-09-15T02:45:18.058Z",
+          "delta": 10,
+          "reason": "Held 3 tiles",
+          "balance": -100
+        },
+        {
           "timestamp": "2026-09-15T00:31:16.021Z",
           "delta": 183,
           "reason": "Tenure points",
-          "balance": 63
+          "balance": 83
         }
       ]
     },
@@ -24555,16 +24561,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-06-22",
-      "points_total": 230,
+      "points_total": 240,
       "points_spent": 100,
-      "points_available": 130,
+      "points_available": 140,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 70,
+        "missing_points": 60,
         "missing_months": 0,
         "can_claim": false
       },
@@ -24612,10 +24618,16 @@
           "balance": 45
         },
         {
+          "timestamp": "2026-09-15T02:44:48.472Z",
+          "delta": 10,
+          "reason": "Held 2 tiles",
+          "balance": 55
+        },
+        {
           "timestamp": "2026-09-15T00:31:16.021Z",
           "delta": 85,
           "reason": "Tenure points",
-          "balance": 130
+          "balance": 140
         }
       ]
     },
