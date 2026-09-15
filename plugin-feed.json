@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-15T15:08:33.486Z",
+  "generated_at": "2026-09-15T15:11:36.514Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -34,6 +34,38 @@
     }
   ],
   "bounties": [
+    {
+      "id": "65",
+      "name": "Mad Angel BOTW - Master",
+      "active": true,
+      "points": 75,
+      "description": "Aggy Pet Drop",
+      "expires_at": "2026-09-24T00:00:00.000Z"
+    },
+    {
+      "id": "64",
+      "name": "Mad Angel BOTW - Elite",
+      "active": true,
+      "points": 60,
+      "description": "600kc or Jar of Light",
+      "expires_at": "2026-09-24T00:00:00.000Z"
+    },
+    {
+      "id": "63",
+      "name": "Mad Angel BOTW - Hard",
+      "active": true,
+      "points": 45,
+      "description": "375kc or \"This is madness!\" Combat Achievement",
+      "expires_at": "2026-09-24T00:00:00.000Z"
+    },
+    {
+      "id": "62",
+      "name": "Mad Angel BOTW - Medium",
+      "active": true,
+      "points": 30,
+      "description": "175kc or Hallowfell",
+      "expires_at": "2026-09-24T00:00:00.000Z"
+    },
     {
       "id": "61",
       "name": "Mad Angel BOTW - Easy",
