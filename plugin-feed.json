@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-16T12:41:20.530Z",
+  "generated_at": "2026-09-16T17:46:24.240Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -511,40 +511,6 @@
           "delta": 411,
           "reason": "Tenure points",
           "balance": 411
-        }
-      ]
-    },
-    {
-      "rsn": "98 btw",
-      "rsn_key": "98btw",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-07-12",
-      "points_total": 81,
-      "points_spent": 0,
-      "points_available": 81,
-      "months_in_clan": 2,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 19,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-21T01:23:37.506Z",
-          "delta": 15,
-          "reason": "Screenshot participation",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-09-16T00:31:18.062Z",
-          "delta": 66,
-          "reason": "Tenure points",
-          "balance": 81
         }
       ]
     },
@@ -6249,6 +6215,26 @@
           "balance": 42
         }
       ]
+    },
+    {
+      "rsn": "dopamemes69",
+      "rsn_key": "dopamemes69",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-09-16",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "Dori_v2",
