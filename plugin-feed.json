@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T20:34:23.679Z",
+  "generated_at": "2026-09-17T20:53:56.646Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -9833,6 +9833,15 @@
           "delta": 252,
           "reason": "Tenure points",
           "balance": 307
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "61",
+          "name": "Mad Angel BOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-17T20:53:55.125Z"
         }
       ]
     },
