@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T20:56:58.806Z",
+  "generated_at": "2026-09-17T21:16:55.124Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -9664,26 +9664,20 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-01-08",
-      "points_total": 927,
+      "points_total": 987,
       "points_spent": 620,
-      "points_available": 307,
+      "points_available": 367,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 93,
+        "missing_points": 33,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-16T20:34:01.342Z",
-          "delta": 40,
-          "reason": "Bounty reward: Hard Tier Bounty",
-          "balance": 120
-        },
         {
           "timestamp": "2026-02-17T11:05:51.454Z",
           "delta": 30,
@@ -9829,10 +9823,16 @@
           "balance": 55
         },
         {
+          "timestamp": "2026-09-17T21:16:53.612Z",
+          "delta": 60,
+          "reason": "Bounty: Mad Angel BOTW - Elite",
+          "balance": 115
+        },
+        {
           "timestamp": "2026-09-17T00:31:19.674Z",
           "delta": 252,
           "reason": "Tenure points",
-          "balance": 307
+          "balance": 367
         }
       ],
       "pending_bounties": [
@@ -9853,7 +9853,7 @@
         {
           "bounty_id": "64",
           "name": "Mad Angel BOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-17T20:55:25.723Z"
         }
