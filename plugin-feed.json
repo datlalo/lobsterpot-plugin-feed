@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T19:33:49.963Z",
+  "generated_at": "2026-09-17T19:36:52.624Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -690,9 +690,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 3240,
+      "points_total": 3300,
       "points_spent": 1230,
-      "points_available": 2010,
+      "points_available": 2070,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
@@ -704,18 +704,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-17T22:54:15.985Z",
-          "delta": 20,
-          "reason": "callisto mass",
-          "balance": 788
-        },
-        {
-          "timestamp": "2026-07-28T18:55:34.747Z",
-          "delta": 15,
-          "reason": "Freaky frondslop friday (Juli)",
-          "balance": 803
-        },
         {
           "timestamp": "2026-08-04T00:17:54.136Z",
           "delta": 20,
@@ -855,17 +843,29 @@
           "balance": 1653
         },
         {
+          "timestamp": "2026-09-17T19:34:16.620Z",
+          "delta": 45,
+          "reason": "Bounty: Mad Angel BOTW - Hard",
+          "balance": 1698
+        },
+        {
+          "timestamp": "2026-09-17T19:34:31.020Z",
+          "delta": 15,
+          "reason": "Bounty: Mad Angel BOTW - Easy",
+          "balance": 1713
+        },
+        {
           "timestamp": "2026-09-17T00:31:19.674Z",
           "delta": 357,
           "reason": "Tenure points",
-          "balance": 2010
+          "balance": 2070
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "61",
           "name": "Mad Angel BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-17T17:41:34.246Z"
         },
@@ -879,7 +879,7 @@
         {
           "bounty_id": "63",
           "name": "Mad Angel BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-17T17:41:57.755Z"
         }
@@ -1756,26 +1756,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-12-24",
-      "points_total": 1452,
+      "points_total": 1482,
       "points_spent": 1010,
-      "points_available": 442,
+      "points_available": 472,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 58,
+        "missing_points": 28,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-19T14:08:36.702Z",
-          "delta": -200,
-          "reason": "Rank upgraded to: Emerald",
-          "balance": 40
-        },
         {
           "timestamp": "2026-03-20T14:45:42.166Z",
           "delta": 60,
@@ -1921,10 +1915,16 @@
           "balance": 175
         },
         {
+          "timestamp": "2026-09-17T19:34:12.506Z",
+          "delta": 30,
+          "reason": "Bounty: Mad Angel BOTW - Medium",
+          "balance": 205
+        },
+        {
           "timestamp": "2026-09-17T00:31:19.674Z",
           "delta": 267,
           "reason": "Tenure points",
-          "balance": 442
+          "balance": 472
         }
       ],
       "pending_bounties": [
@@ -1945,7 +1945,7 @@
         {
           "bounty_id": "62",
           "name": "Mad Angel BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-17T18:36:23.784Z"
         }
@@ -11773,9 +11773,9 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-08-11",
-      "points_total": 332,
+      "points_total": 362,
       "points_spent": 100,
-      "points_available": 232,
+      "points_available": 262,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Emerald",
@@ -11848,10 +11848,16 @@
           "balance": 195
         },
         {
+          "timestamp": "2026-09-17T19:34:55.503Z",
+          "delta": 30,
+          "reason": "Bounty: Mad Angel BOTW - Medium",
+          "balance": 225
+        },
+        {
           "timestamp": "2026-09-17T00:31:19.674Z",
           "delta": 37,
           "reason": "Tenure points",
-          "balance": 232
+          "balance": 262
         }
       ],
       "pending_bounties": [
@@ -11865,7 +11871,7 @@
         {
           "bounty_id": "62",
           "name": "Mad Angel BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-17T17:15:56.064Z"
         }
@@ -17184,9 +17190,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 3240,
+      "points_total": 3300,
       "points_spent": 1230,
-      "points_available": 2010,
+      "points_available": 2070,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
@@ -17198,18 +17204,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-17T22:54:15.985Z",
-          "delta": 20,
-          "reason": "callisto mass",
-          "balance": 788
-        },
-        {
-          "timestamp": "2026-07-28T18:55:34.747Z",
-          "delta": 15,
-          "reason": "Freaky frondslop friday (Juli)",
-          "balance": 803
-        },
         {
           "timestamp": "2026-08-04T00:17:54.136Z",
           "delta": 20,
@@ -17349,17 +17343,29 @@
           "balance": 1653
         },
         {
+          "timestamp": "2026-09-17T19:34:16.620Z",
+          "delta": 45,
+          "reason": "Bounty: Mad Angel BOTW - Hard",
+          "balance": 1698
+        },
+        {
+          "timestamp": "2026-09-17T19:34:31.020Z",
+          "delta": 15,
+          "reason": "Bounty: Mad Angel BOTW - Easy",
+          "balance": 1713
+        },
+        {
           "timestamp": "2026-09-17T00:31:19.674Z",
           "delta": 357,
           "reason": "Tenure points",
-          "balance": 2010
+          "balance": 2070
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "61",
           "name": "Mad Angel BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-17T17:41:34.246Z"
         },
@@ -17373,7 +17379,7 @@
         {
           "bounty_id": "63",
           "name": "Mad Angel BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-17T17:41:57.755Z"
         }
