@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T12:57:13.348Z",
+  "generated_at": "2026-09-17T15:48:54.037Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -1279,9 +1279,9 @@
         {
           "bounty_id": "62",
           "name": "Mad Angel BOTW - Medium",
-          "status": "rejected",
-          "reason": "Hey,\nAccording to WOM, you've only gotten 12 kills. Make sure you log out for hiscores to update before claiming. If you had a hallowfell drop, please mention it in the claim!",
-          "created_at": "2026-09-17T00:40:43.913Z"
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-17T15:48:52.513Z"
         }
       ]
     },
