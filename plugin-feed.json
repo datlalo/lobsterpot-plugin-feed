@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T05:45:39.470Z",
+  "generated_at": "2026-09-17T06:25:30.298Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -2904,7 +2904,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-09-17T00:31:19.674Z",
+          "timestamp": "2026-09-17T06:25:28.687Z",
           "delta": 71,
           "reason": "Tenure points",
           "balance": 71
@@ -6254,26 +6254,26 @@
       "rsn_key": "dopamemes69",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
-      "join_date": "2026-09-16",
-      "points_total": 1,
+      "join_date": "2026-07-08",
+      "points_total": 71,
       "points_spent": 0,
-      "points_available": 1,
-      "months_in_clan": 0,
+      "points_available": 71,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 99,
-        "missing_months": 1,
+        "missing_points": 29,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
         {
-          "timestamp": "2026-09-17T00:31:19.674Z",
-          "delta": 1,
+          "timestamp": "2026-09-17T06:25:28.687Z",
+          "delta": 71,
           "reason": "Tenure points",
-          "balance": 1
+          "balance": 71
         }
       ]
     },
