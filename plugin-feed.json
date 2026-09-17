@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T18:36:25.301Z",
+  "generated_at": "2026-09-17T19:33:49.963Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -690,9 +690,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 3210,
+      "points_total": 3240,
       "points_spent": 1230,
-      "points_available": 1980,
+      "points_available": 2010,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
@@ -704,12 +704,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-16T21:13:11.378Z",
-          "delta": 20,
-          "reason": "Thanks for joining Giants' Foundry",
-          "balance": 768
-        },
         {
           "timestamp": "2026-07-17T22:54:15.985Z",
           "delta": 20,
@@ -855,10 +849,16 @@
           "balance": 1623
         },
         {
+          "timestamp": "2026-09-17T19:33:47.844Z",
+          "delta": 30,
+          "reason": "Bounty: Mad Angel BOTW - Medium",
+          "balance": 1653
+        },
+        {
           "timestamp": "2026-09-17T00:31:19.674Z",
           "delta": 357,
           "reason": "Tenure points",
-          "balance": 1980
+          "balance": 2010
         }
       ],
       "pending_bounties": [
@@ -872,7 +872,7 @@
         {
           "bounty_id": "62",
           "name": "Mad Angel BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-17T17:41:44.932Z"
         },
@@ -17184,9 +17184,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 3210,
+      "points_total": 3240,
       "points_spent": 1230,
-      "points_available": 1980,
+      "points_available": 2010,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
@@ -17198,12 +17198,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-16T21:13:11.378Z",
-          "delta": 20,
-          "reason": "Thanks for joining Giants' Foundry",
-          "balance": 768
-        },
         {
           "timestamp": "2026-07-17T22:54:15.985Z",
           "delta": 20,
@@ -17349,10 +17343,16 @@
           "balance": 1623
         },
         {
+          "timestamp": "2026-09-17T19:33:47.844Z",
+          "delta": 30,
+          "reason": "Bounty: Mad Angel BOTW - Medium",
+          "balance": 1653
+        },
+        {
           "timestamp": "2026-09-17T00:31:19.674Z",
           "delta": 357,
           "reason": "Tenure points",
-          "balance": 1980
+          "balance": 2010
         }
       ],
       "pending_bounties": [
@@ -17366,7 +17366,7 @@
         {
           "bounty_id": "62",
           "name": "Mad Angel BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-17T17:41:44.932Z"
         },
