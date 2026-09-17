@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T03:14:29.551Z",
+  "generated_at": "2026-09-17T03:49:49.827Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -10089,26 +10089,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-03",
-      "points_total": 1609,
+      "points_total": 1654,
       "points_spent": 1210,
-      "points_available": 399,
+      "points_available": 444,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 401,
+        "missing_points": 356,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-04T15:26:26.158Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier Bounty - Zulrah",
-          "balance": 285
-        },
         {
           "timestamp": "2026-03-17T14:42:58.595Z",
           "delta": 15,
@@ -10254,17 +10248,23 @@
           "balance": 20
         },
         {
+          "timestamp": "2026-09-17T03:49:48.310Z",
+          "delta": 45,
+          "reason": "Bounty: Mad Angel BOTW - Hard",
+          "balance": 65
+        },
+        {
           "timestamp": "2026-09-17T00:31:19.674Z",
           "delta": 379,
           "reason": "Tenure points",
-          "balance": 399
+          "balance": 444
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "63",
           "name": "Mad Angel BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-16T18:09:24.261Z"
         }
@@ -21842,26 +21842,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-03",
-      "points_total": 1609,
+      "points_total": 1654,
       "points_spent": 1210,
-      "points_available": 399,
+      "points_available": 444,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 401,
+        "missing_points": 356,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-04T15:26:26.158Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier Bounty - Zulrah",
-          "balance": 285
-        },
         {
           "timestamp": "2026-03-17T14:42:58.595Z",
           "delta": 15,
@@ -22007,17 +22001,23 @@
           "balance": 20
         },
         {
+          "timestamp": "2026-09-17T03:49:48.310Z",
+          "delta": 45,
+          "reason": "Bounty: Mad Angel BOTW - Hard",
+          "balance": 65
+        },
+        {
           "timestamp": "2026-09-17T00:31:19.674Z",
           "delta": 379,
           "reason": "Tenure points",
-          "balance": 399
+          "balance": 444
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "63",
           "name": "Mad Angel BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-16T18:09:24.261Z"
         }
