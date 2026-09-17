@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T02:42:02.332Z",
+  "generated_at": "2026-09-17T03:14:29.551Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -16931,6 +16931,13 @@
           "status": "pending",
           "reason": null,
           "created_at": "2026-09-17T02:41:33.513Z"
+        },
+        {
+          "bounty_id": "63",
+          "name": "Mad Angel BOTW - Hard",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-17T03:14:28.037Z"
         }
       ]
     },
