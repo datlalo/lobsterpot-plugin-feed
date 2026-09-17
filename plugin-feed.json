@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T21:16:55.124Z",
+  "generated_at": "2026-09-17T21:19:57.787Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -9664,32 +9664,20 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-01-08",
-      "points_total": 987,
+      "points_total": 1032,
       "points_spent": 620,
-      "points_available": 367,
+      "points_available": 412,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 33,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-17T11:05:51.454Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier Bounty",
-          "balance": 150
-        },
-        {
-          "timestamp": "2026-02-17T11:05:55.719Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier Bounty",
-          "balance": 165
-        },
         {
           "timestamp": "2026-02-22T12:18:22.530Z",
           "delta": -100,
@@ -9829,24 +9817,36 @@
           "balance": 115
         },
         {
+          "timestamp": "2026-09-17T21:16:56.282Z",
+          "delta": 30,
+          "reason": "Bounty: Mad Angel BOTW - Medium",
+          "balance": 145
+        },
+        {
+          "timestamp": "2026-09-17T21:16:58.815Z",
+          "delta": 15,
+          "reason": "Bounty: Mad Angel BOTW - Easy",
+          "balance": 160
+        },
+        {
           "timestamp": "2026-09-17T00:31:19.674Z",
           "delta": 252,
           "reason": "Tenure points",
-          "balance": 367
+          "balance": 412
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "61",
           "name": "Mad Angel BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-17T20:53:55.125Z"
         },
         {
           "bounty_id": "62",
           "name": "Mad Angel BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-17T20:54:58.670Z"
         },
