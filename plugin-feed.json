@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T07:37:44.739Z",
+  "generated_at": "2026-09-18T07:40:47.522Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -10468,26 +10468,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-16",
-      "points_total": 1146,
+      "points_total": 1176,
       "points_spent": 1000,
-      "points_available": 146,
+      "points_available": 176,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 354,
+        "missing_points": 324,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-24T12:39:34.086Z",
-          "delta": -200,
-          "reason": "Rank upgrade: Emerald",
-          "balance": -35
-        },
         {
           "timestamp": "2026-07-03T05:55:46.289Z",
           "delta": 150,
@@ -10633,10 +10627,16 @@
           "balance": -40
         },
         {
+          "timestamp": "2026-09-18T07:37:45.522Z",
+          "delta": 30,
+          "reason": "Bounty: Mad Angel BOTW - Medium",
+          "balance": -10
+        },
+        {
           "timestamp": "2026-09-18T00:32:48.900Z",
           "delta": 186,
           "reason": "Tenure points",
-          "balance": 146
+          "balance": 176
         }
       ],
       "pending_bounties": [
@@ -10657,7 +10657,7 @@
         {
           "bounty_id": "62",
           "name": "Mad Angel BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-18T07:30:41.415Z"
         }
@@ -21689,26 +21689,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-16",
-      "points_total": 1146,
+      "points_total": 1176,
       "points_spent": 1000,
-      "points_available": 146,
+      "points_available": 176,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 354,
+        "missing_points": 324,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-24T12:39:34.086Z",
-          "delta": -200,
-          "reason": "Rank upgrade: Emerald",
-          "balance": -35
-        },
         {
           "timestamp": "2026-07-03T05:55:46.289Z",
           "delta": 150,
@@ -21854,10 +21848,16 @@
           "balance": -40
         },
         {
+          "timestamp": "2026-09-18T07:37:45.522Z",
+          "delta": 30,
+          "reason": "Bounty: Mad Angel BOTW - Medium",
+          "balance": -10
+        },
+        {
           "timestamp": "2026-09-18T00:32:48.900Z",
           "delta": 186,
           "reason": "Tenure points",
-          "balance": 146
+          "balance": 176
         }
       ],
       "pending_bounties": [
@@ -21878,7 +21878,7 @@
         {
           "bounty_id": "62",
           "name": "Mad Angel BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-18T07:30:41.415Z"
         }
