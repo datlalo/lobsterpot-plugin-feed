@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T09:54:57.394Z",
+  "generated_at": "2026-09-18T09:58:00.181Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -25290,6 +25290,29 @@
           "delta": 88,
           "reason": "Tenure points",
           "balance": 143
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "61",
+          "name": "Mad Angel BOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-18T09:56:59.714Z"
+        },
+        {
+          "bounty_id": "62",
+          "name": "Mad Angel BOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-18T09:57:09.059Z"
+        },
+        {
+          "bounty_id": "63",
+          "name": "Mad Angel BOTW - Hard",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-18T09:57:20.803Z"
         }
       ]
     },
