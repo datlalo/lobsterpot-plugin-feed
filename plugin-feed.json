@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T20:17:53.977Z",
+  "generated_at": "2026-09-18T20:57:42.551Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -2382,6 +2382,15 @@
           "delta": 230,
           "reason": "Tenure points",
           "balance": 480
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "65",
+          "name": "Mad Angel BOTW - Master",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-18T20:57:41.040Z"
         }
       ]
     },
