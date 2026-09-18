@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T06:46:28.831Z",
+  "generated_at": "2026-09-18T06:49:31.075Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -11837,9 +11837,9 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-08-11",
-      "points_total": 423,
+      "points_total": 438,
       "points_spent": 100,
-      "points_available": 323,
+      "points_available": 338,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Emerald",
@@ -11924,10 +11924,16 @@
           "balance": 285
         },
         {
+          "timestamp": "2026-09-18T06:46:44.243Z",
+          "delta": 15,
+          "reason": "Bounty: Mad Angel BOTW - Easy",
+          "balance": 300
+        },
+        {
           "timestamp": "2026-09-18T00:32:48.900Z",
           "delta": 38,
           "reason": "Tenure points",
-          "balance": 323
+          "balance": 338
         }
       ],
       "pending_bounties": [
@@ -11955,7 +11961,7 @@
         {
           "bounty_id": "61",
           "name": "Mad Angel BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-18T02:44:53.353Z"
         }
