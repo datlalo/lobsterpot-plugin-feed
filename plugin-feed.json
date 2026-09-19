@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19T17:40:19.470Z",
+  "generated_at": "2026-09-19T17:47:56.104Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -15208,6 +15208,26 @@
       ]
     },
     {
+      "rsn": "MiSTxFuSiON",
+      "rsn_key": "mistxfusion",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-09-19",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "moeychan",
       "rsn_key": "moeychan",
       "bot_rank": "Sapphire",
@@ -16623,6 +16643,26 @@
           "balance": 194
         }
       ]
+    },
+    {
+      "rsn": "njisrealss",
+      "rsn_key": "njisrealss",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-09-19",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "Nomade Raiz",
@@ -25654,34 +25694,6 @@
           "status": "pending",
           "reason": null,
           "created_at": "2026-09-19T17:40:17.951Z"
-        }
-      ]
-    },
-    {
-      "rsn": "Yu Gi Scape",
-      "rsn_key": "yugiscape",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
-      "join_date": "2025-08-17",
-      "points_total": 398,
-      "points_spent": 0,
-      "points_available": 398,
-      "months_in_clan": 13,
-      "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-09-19T00:32:50.471Z",
-          "delta": 398,
-          "reason": "Tenure points",
-          "balance": 398
         }
       ]
     },
