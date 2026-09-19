@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19T12:47:29.656Z",
+  "generated_at": "2026-09-19T14:06:37.049Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -6563,6 +6563,15 @@
           "delta": 370,
           "reason": "Tenure points",
           "balance": 35
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "63",
+          "name": "Mad Angel BOTW - Hard",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-19T14:06:35.532Z"
         }
       ]
     },
