@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19T14:06:37.049Z",
+  "generated_at": "2026-09-19T14:09:39.256Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -6448,16 +6448,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-14",
-      "points_total": 735,
+      "points_total": 780,
       "points_spent": 700,
-      "points_available": 35,
+      "points_available": 80,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 465,
+        "missing_points": 420,
         "missing_months": 0,
         "can_claim": false
       },
@@ -6559,17 +6559,23 @@
           "balance": -335
         },
         {
+          "timestamp": "2026-09-19T14:08:15.028Z",
+          "delta": 45,
+          "reason": "Bounty: Mad Angel BOTW - Hard",
+          "balance": -290
+        },
+        {
           "timestamp": "2026-09-19T00:32:50.471Z",
           "delta": 370,
           "reason": "Tenure points",
-          "balance": 35
+          "balance": 80
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "63",
           "name": "Mad Angel BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-19T14:06:35.532Z"
         }
@@ -10312,26 +10318,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-03",
-      "points_total": 1731,
+      "points_total": 1761,
       "points_spent": 1210,
-      "points_available": 521,
+      "points_available": 551,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 279,
+        "missing_points": 249,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-17T14:43:07.583Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier - Woodcutting",
-          "balance": 330
-        },
         {
           "timestamp": "2026-07-02T13:45:43.272Z",
           "delta": -400,
@@ -10477,10 +10477,16 @@
           "balance": 140
         },
         {
+          "timestamp": "2026-09-19T14:08:11.055Z",
+          "delta": 30,
+          "reason": "Bounty: Mad Angel BOTW - Medium",
+          "balance": 170
+        },
+        {
           "timestamp": "2026-09-19T00:32:50.471Z",
           "delta": 381,
           "reason": "Tenure points",
-          "balance": 521
+          "balance": 551
         }
       ],
       "pending_bounties": [
@@ -10501,7 +10507,7 @@
         {
           "bounty_id": "62",
           "name": "Mad Angel BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-19T09:26:14.033Z"
         }
@@ -17195,26 +17201,20 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-09-12",
-      "points_total": 2517,
+      "points_total": 2532,
       "points_spent": 2070,
-      "points_available": 447,
+      "points_available": 462,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
         "requirements": "Trimmed QC, 2000 Total, or Elite CA",
-        "missing_points": 553,
+        "missing_points": 538,
         "missing_months": 4,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-05T10:29:20.754Z",
-          "delta": 30,
-          "reason": "Bounty: Farming - Medium",
-          "balance": 175
-        },
         {
           "timestamp": "2026-07-05T10:29:28.792Z",
           "delta": 40,
@@ -17360,10 +17360,16 @@
           "balance": 75
         },
         {
+          "timestamp": "2026-09-19T14:07:53.118Z",
+          "delta": 15,
+          "reason": "Bounty: Mad Angel BOTW - Easy",
+          "balance": 90
+        },
+        {
           "timestamp": "2026-09-19T00:32:50.471Z",
           "delta": 372,
           "reason": "Tenure points",
-          "balance": 447
+          "balance": 462
         }
       ],
       "pending_bounties": [
@@ -17384,7 +17390,7 @@
         {
           "bounty_id": "61",
           "name": "Mad Angel BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-19T01:38:45.857Z"
         }
@@ -22465,26 +22471,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-03",
-      "points_total": 1731,
+      "points_total": 1761,
       "points_spent": 1210,
-      "points_available": 521,
+      "points_available": 551,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 279,
+        "missing_points": 249,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-17T14:43:07.583Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier - Woodcutting",
-          "balance": 330
-        },
         {
           "timestamp": "2026-07-02T13:45:43.272Z",
           "delta": -400,
@@ -22630,10 +22630,16 @@
           "balance": 140
         },
         {
+          "timestamp": "2026-09-19T14:08:11.055Z",
+          "delta": 30,
+          "reason": "Bounty: Mad Angel BOTW - Medium",
+          "balance": 170
+        },
+        {
           "timestamp": "2026-09-19T00:32:50.471Z",
           "delta": 381,
           "reason": "Tenure points",
-          "balance": 521
+          "balance": 551
         }
       ],
       "pending_bounties": [
@@ -22654,7 +22660,7 @@
         {
           "bounty_id": "62",
           "name": "Mad Angel BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-19T09:26:14.033Z"
         }
