@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T21:21:35.299Z",
+  "generated_at": "2026-09-20T21:24:37.304Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -3269,38 +3269,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-08-29",
-      "points_total": 1612,
+      "points_total": 1702,
       "points_spent": 1200,
-      "points_available": 412,
+      "points_available": 502,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 388,
+        "missing_points": 298,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-01-13T06:03:06.869Z",
-          "delta": 30,
-          "reason": "Bounty reward: January BOTM - Vorkath Medium Tier",
-          "balance": 320
-        },
-        {
-          "timestamp": "2026-01-27T18:24:41.132Z",
-          "delta": 30,
-          "reason": "referral of samurai hasa",
-          "balance": 350
-        },
-        {
-          "timestamp": "2026-01-31T12:49:35.121Z",
-          "delta": 250,
-          "reason": "Discord adjustment",
-          "balance": 600
-        },
         {
           "timestamp": "2026-01-31T18:05:54.504Z",
           "delta": 10,
@@ -3434,31 +3416,49 @@
           "balance": 25
         },
         {
+          "timestamp": "2026-09-20T21:22:20.806Z",
+          "delta": 15,
+          "reason": "Bounty: Mad Angel BOTW - Easy",
+          "balance": 40
+        },
+        {
+          "timestamp": "2026-09-20T21:22:23.506Z",
+          "delta": 30,
+          "reason": "Bounty: Mad Angel BOTW - Medium",
+          "balance": 70
+        },
+        {
+          "timestamp": "2026-09-20T21:22:33.152Z",
+          "delta": 45,
+          "reason": "Bounty: Mad Angel BOTW - Hard",
+          "balance": 115
+        },
+        {
           "timestamp": "2026-09-20T00:32:52.048Z",
           "delta": 387,
           "reason": "Tenure points",
-          "balance": 412
+          "balance": 502
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "61",
           "name": "Mad Angel BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-20T21:18:31.644Z"
         },
         {
           "bounty_id": "62",
           "name": "Mad Angel BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-20T21:18:38.740Z"
         },
         {
           "bounty_id": "63",
           "name": "Mad Angel BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-20T21:18:45.706Z"
         }
