@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T15:38:07.639Z",
+  "generated_at": "2026-09-20T15:41:09.669Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -24903,6 +24903,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-09-19T18:33:41.968Z"
+        },
+        {
+          "bounty_id": "64",
+          "name": "Mad Angel BOTW - Elite",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-20T15:38:26.091Z"
         }
       ]
     },
@@ -25974,6 +25981,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-09-19T18:33:41.968Z"
+        },
+        {
+          "bounty_id": "64",
+          "name": "Mad Angel BOTW - Elite",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-20T15:38:26.091Z"
         }
       ]
     },
