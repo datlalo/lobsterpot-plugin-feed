@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T18:44:22.187Z",
+  "generated_at": "2026-09-20T18:47:58.133Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -24936,40 +24936,6 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-09-20T15:38:26.091Z"
-        }
-      ]
-    },
-    {
-      "rsn": "WeavileSlaps",
-      "rsn_key": "weavileslaps",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-08-09",
-      "points_total": 57,
-      "points_spent": 0,
-      "points_available": 57,
-      "months_in_clan": 1,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 43,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-21T01:23:37.504Z",
-          "delta": 15,
-          "reason": "Screenshot participation",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-09-20T00:32:52.048Z",
-          "delta": 42,
-          "reason": "Tenure points",
-          "balance": 57
         }
       ]
     },
