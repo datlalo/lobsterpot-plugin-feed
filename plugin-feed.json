@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T16:47:15.249Z",
+  "generated_at": "2026-09-20T16:50:18.557Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -24830,21 +24830,21 @@
     {
       "rsn": "watdatmeen",
       "rsn_key": "watdatmeen",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2026-07-10",
       "points_total": 312,
-      "points_spent": 100,
-      "points_available": 212,
+      "points_spent": 300,
+      "points_available": 12,
       "months_in_clan": 2,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
+        "missing_points": 288,
+        "missing_months": 1,
+        "can_claim": false
       },
       "points_history": [
         {
@@ -24896,10 +24896,16 @@
           "balance": 140
         },
         {
+          "timestamp": "2026-09-20T16:49:13.572Z",
+          "delta": -200,
+          "reason": "Rank upgrade: Emerald",
+          "balance": -60
+        },
+        {
           "timestamp": "2026-09-20T00:32:52.048Z",
           "delta": 72,
           "reason": "Tenure points",
-          "balance": 212
+          "balance": 12
         }
       ],
       "pending_bounties": [
@@ -25914,21 +25920,21 @@
     {
       "rsn": "Y Fl DAT",
       "rsn_key": "yfldat",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2026-07-10",
       "points_total": 312,
-      "points_spent": 100,
-      "points_available": 212,
+      "points_spent": 300,
+      "points_available": 12,
       "months_in_clan": 2,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
+        "missing_points": 288,
+        "missing_months": 1,
+        "can_claim": false
       },
       "points_history": [
         {
@@ -25980,10 +25986,16 @@
           "balance": 140
         },
         {
+          "timestamp": "2026-09-20T16:49:13.572Z",
+          "delta": -200,
+          "reason": "Rank upgrade: Emerald",
+          "balance": -60
+        },
+        {
           "timestamp": "2026-09-20T00:32:52.048Z",
           "delta": 72,
           "reason": "Tenure points",
-          "balance": 212
+          "balance": 12
         }
       ],
       "pending_bounties": [
