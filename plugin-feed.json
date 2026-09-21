@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T19:44:25.796Z",
+  "generated_at": "2026-09-21T22:04:12.920Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -429,7 +429,7 @@
       "points_total": 152,
       "points_spent": 0,
       "points_available": 152,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -1145,7 +1145,7 @@
       "points_total": 395,
       "points_spent": 0,
       "points_available": 395,
-      "months_in_clan": 12,
+      "months_in_clan": 13,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -4510,7 +4510,7 @@
       "points_total": 849,
       "points_spent": 310,
       "points_available": 539,
-      "months_in_clan": 11,
+      "months_in_clan": 12,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -9350,6 +9350,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-09-21T18:30:56.041Z"
+        },
+        {
+          "bounty_id": "61",
+          "name": "Mad Angel BOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-21T22:04:11.411Z"
         }
       ]
     },
@@ -9852,14 +9859,14 @@
       "points_total": 30,
       "points_spent": 0,
       "points_available": 30,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 70,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -11684,7 +11691,7 @@
       "points_total": 105,
       "points_spent": 0,
       "points_available": 105,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": null,
       "points_history": [
         {
@@ -14306,14 +14313,14 @@
       "points_total": 30,
       "points_spent": 0,
       "points_available": 30,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 70,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -15441,7 +15448,7 @@
       "points_total": 261,
       "points_spent": 100,
       "points_available": 161,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -17024,7 +17031,7 @@
       "points_total": 126,
       "points_spent": 0,
       "points_available": 126,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -19394,7 +19401,7 @@
       "points_total": 395,
       "points_spent": 0,
       "points_available": 395,
-      "months_in_clan": 12,
+      "months_in_clan": 13,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -19648,7 +19655,7 @@
       "points_total": 291,
       "points_spent": 100,
       "points_available": 191,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -20398,7 +20405,7 @@
       "points_total": 571,
       "points_spent": 420,
       "points_available": 151,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -21537,14 +21544,14 @@
       "points_total": 1389,
       "points_spent": 1200,
       "points_available": 189,
-      "months_in_clan": 11,
+      "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
         "missing_points": 611,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -24486,7 +24493,7 @@
       "points_total": 152,
       "points_spent": 0,
       "points_available": 152,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -25274,7 +25281,7 @@
       "points_total": 849,
       "points_spent": 310,
       "points_available": 539,
-      "months_in_clan": 11,
+      "months_in_clan": 12,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -25834,14 +25841,14 @@
       "points_total": 396,
       "points_spent": 300,
       "points_available": 96,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
         "missing_points": 204,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
