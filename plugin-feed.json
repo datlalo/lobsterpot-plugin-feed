@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T08:17:07.290Z",
+  "generated_at": "2026-09-21T08:20:22.785Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -7834,34 +7834,23 @@
     {
       "rsn": "Fikos",
       "rsn_key": "fikos",
-      "bot_rank": "Diamond",
-      "progression_rank": "Diamond",
+      "bot_rank": "Dragonstone",
+      "progression_rank": "Dragonstone",
       "join_date": "2025-09-21",
       "points_total": 1260,
-      "points_spent": 700,
-      "points_available": 560,
+      "points_spent": 1200,
+      "points_available": 60,
       "months_in_clan": 12,
       "next_rank": {
-        "name": "Dragonstone",
-        "point_cost": 500,
-        "min_months": 8,
-        "requirements": "Barrows Gloves",
-        "missing_points": 0,
+        "name": "Onyx",
+        "point_cost": 800,
+        "min_months": 12,
+        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "missing_points": 740,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Dragonstone",
-        "created_at": "2026-09-21T08:17:05.120Z"
+        "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-05T21:35:48.335Z",
-          "delta": 60,
-          "reason": "Bounty reward: Elite Tier bounty - Zulrah",
-          "balance": 440
-        },
         {
           "timestamp": "2026-03-16T11:21:04.937Z",
           "delta": -300,
@@ -8007,10 +7996,16 @@
           "balance": 195
         },
         {
+          "timestamp": "2026-09-21T08:20:21.280Z",
+          "delta": -500,
+          "reason": "Rank upgrade: Dragonstone",
+          "balance": -305
+        },
+        {
           "timestamp": "2026-09-21T00:32:53.613Z",
           "delta": 365,
           "reason": "Tenure points",
-          "balance": 560
+          "balance": 60
         }
       ],
       "pending_bounties": [
@@ -8040,34 +8035,23 @@
     {
       "rsn": "fikosbank",
       "rsn_key": "fikosbank",
-      "bot_rank": "Diamond",
-      "progression_rank": "Diamond",
+      "bot_rank": "Dragonstone",
+      "progression_rank": "Dragonstone",
       "join_date": "2025-09-21",
       "points_total": 1260,
-      "points_spent": 700,
-      "points_available": 560,
+      "points_spent": 1200,
+      "points_available": 60,
       "months_in_clan": 12,
       "next_rank": {
-        "name": "Dragonstone",
-        "point_cost": 500,
-        "min_months": 8,
-        "requirements": "Barrows Gloves",
-        "missing_points": 0,
+        "name": "Onyx",
+        "point_cost": 800,
+        "min_months": 12,
+        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "missing_points": 740,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Dragonstone",
-        "created_at": "2026-09-21T08:17:05.120Z"
+        "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-05T21:35:48.335Z",
-          "delta": 60,
-          "reason": "Bounty reward: Elite Tier bounty - Zulrah",
-          "balance": 440
-        },
         {
           "timestamp": "2026-03-16T11:21:04.937Z",
           "delta": -300,
@@ -8213,10 +8197,16 @@
           "balance": 195
         },
         {
+          "timestamp": "2026-09-21T08:20:21.280Z",
+          "delta": -500,
+          "reason": "Rank upgrade: Dragonstone",
+          "balance": -305
+        },
+        {
           "timestamp": "2026-09-21T00:32:53.613Z",
           "delta": 365,
           "reason": "Tenure points",
-          "balance": 560
+          "balance": 60
         }
       ],
       "pending_bounties": [
@@ -8695,34 +8685,23 @@
     {
       "rsn": "fiskmore",
       "rsn_key": "fiskmore",
-      "bot_rank": "Diamond",
-      "progression_rank": "Diamond",
+      "bot_rank": "Dragonstone",
+      "progression_rank": "Dragonstone",
       "join_date": "2025-09-21",
       "points_total": 1260,
-      "points_spent": 700,
-      "points_available": 560,
+      "points_spent": 1200,
+      "points_available": 60,
       "months_in_clan": 12,
       "next_rank": {
-        "name": "Dragonstone",
-        "point_cost": 500,
-        "min_months": 8,
-        "requirements": "Barrows Gloves",
-        "missing_points": 0,
+        "name": "Onyx",
+        "point_cost": 800,
+        "min_months": 12,
+        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "missing_points": 740,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Dragonstone",
-        "created_at": "2026-09-21T08:17:05.120Z"
+        "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-05T21:35:48.335Z",
-          "delta": 60,
-          "reason": "Bounty reward: Elite Tier bounty - Zulrah",
-          "balance": 440
-        },
         {
           "timestamp": "2026-03-16T11:21:04.937Z",
           "delta": -300,
@@ -8868,10 +8847,16 @@
           "balance": 195
         },
         {
+          "timestamp": "2026-09-21T08:20:21.280Z",
+          "delta": -500,
+          "reason": "Rank upgrade: Dragonstone",
+          "balance": -305
+        },
+        {
           "timestamp": "2026-09-21T00:32:53.613Z",
           "delta": 365,
           "reason": "Tenure points",
-          "balance": 560
+          "balance": 60
         }
       ],
       "pending_bounties": [
