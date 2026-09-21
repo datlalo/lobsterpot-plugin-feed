@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T14:31:26.749Z",
+  "generated_at": "2026-09-21T14:34:29.348Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -8295,26 +8295,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-02",
-      "points_total": 1447,
+      "points_total": 1492,
       "points_spent": 1400,
-      "points_available": 47,
+      "points_available": 92,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 753,
+        "missing_points": 708,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-17T17:40:32.663Z",
-          "delta": 40,
-          "reason": "Bounty reward: Hard Tier Bounty",
-          "balance": 215
-        },
         {
           "timestamp": "2026-02-18T15:28:26.275Z",
           "delta": 30,
@@ -8460,17 +8454,23 @@
           "balance": -276
         },
         {
+          "timestamp": "2026-09-21T14:32:03.301Z",
+          "delta": 45,
+          "reason": "Bounty: Mad Angel BOTW - Hard",
+          "balance": -231
+        },
+        {
           "timestamp": "2026-09-21T00:32:53.613Z",
           "delta": 323,
           "reason": "Tenure points",
-          "balance": 47
+          "balance": 92
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "63",
           "name": "Mad Angel BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-21T02:43:31.257Z"
         }
@@ -20373,16 +20373,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-02-22",
-      "points_total": 511,
+      "points_total": 571,
       "points_spent": 420,
-      "points_available": 91,
+      "points_available": 151,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 209,
+        "missing_points": 149,
         "missing_months": 0,
         "can_claim": false
       },
@@ -20478,24 +20478,36 @@
           "balance": -120
         },
         {
+          "timestamp": "2026-09-21T14:31:30.607Z",
+          "delta": 15,
+          "reason": "Bounty: Mad Angel BOTW - Easy",
+          "balance": -105
+        },
+        {
+          "timestamp": "2026-09-21T14:31:52.246Z",
+          "delta": 45,
+          "reason": "Bounty: Mad Angel BOTW - Hard",
+          "balance": -60
+        },
+        {
           "timestamp": "2026-09-21T00:32:53.613Z",
           "delta": 211,
           "reason": "Tenure points",
-          "balance": 91
+          "balance": 151
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "63",
           "name": "Mad Angel BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-21T09:29:34.337Z"
         },
         {
           "bounty_id": "61",
           "name": "Mad Angel BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-21T10:57:35.049Z"
         },
@@ -21131,6 +21143,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Emerald",
+        "created_at": "2026-09-21T14:33:32.493Z"
       },
       "points_history": [
         {
@@ -23896,26 +23913,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-02",
-      "points_total": 1447,
+      "points_total": 1492,
       "points_spent": 1400,
-      "points_available": 47,
+      "points_available": 92,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 753,
+        "missing_points": 708,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-17T17:40:32.663Z",
-          "delta": 40,
-          "reason": "Bounty reward: Hard Tier Bounty",
-          "balance": 215
-        },
         {
           "timestamp": "2026-02-18T15:28:26.275Z",
           "delta": 30,
@@ -24061,17 +24072,23 @@
           "balance": -276
         },
         {
+          "timestamp": "2026-09-21T14:32:03.301Z",
+          "delta": 45,
+          "reason": "Bounty: Mad Angel BOTW - Hard",
+          "balance": -231
+        },
+        {
           "timestamp": "2026-09-21T00:32:53.613Z",
           "delta": 323,
           "reason": "Tenure points",
-          "balance": 47
+          "balance": 92
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "63",
           "name": "Mad Angel BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-21T02:43:31.257Z"
         }
