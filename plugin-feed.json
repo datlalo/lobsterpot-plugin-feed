@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T10:57:36.556Z",
+  "generated_at": "2026-09-21T14:31:26.749Z",
   "broadcasts": [
     {
       "id": "f22a5d91-a504-4bf5-b5da-4ffe679d053b",
@@ -20373,16 +20373,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-02-22",
-      "points_total": 481,
+      "points_total": 511,
       "points_spent": 420,
-      "points_available": 61,
+      "points_available": 91,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 239,
+        "missing_points": 209,
         "missing_months": 0,
         "can_claim": false
       },
@@ -20472,10 +20472,16 @@
           "balance": -150
         },
         {
+          "timestamp": "2026-09-21T14:31:25.239Z",
+          "delta": 30,
+          "reason": "Bounty: Mad Angel BOTW - Medium",
+          "balance": -120
+        },
+        {
           "timestamp": "2026-09-21T00:32:53.613Z",
           "delta": 211,
           "reason": "Tenure points",
-          "balance": 61
+          "balance": 91
         }
       ],
       "pending_bounties": [
@@ -20496,7 +20502,7 @@
         {
           "bounty_id": "62",
           "name": "Mad Angel BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-21T10:57:35.049Z"
         }
