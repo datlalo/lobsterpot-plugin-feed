@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T19:43:47.751Z",
+  "generated_at": "2026-09-22T19:46:50.400Z",
   "broadcasts": [
     {
       "id": "37cae66b-6562-43c3-83b8-a211c5104e3b",
@@ -10169,26 +10169,21 @@
     {
       "rsn": "gyatHero",
       "rsn_key": "gyathero",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-07-13",
       "points_total": 121,
-      "points_spent": 0,
-      "points_available": 121,
+      "points_spent": 100,
+      "points_available": 21,
       "months_in_clan": 2,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 179,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-09-22T19:43:45.463Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -10198,10 +10193,16 @@
           "balance": 50
         },
         {
+          "timestamp": "2026-09-22T19:43:56.679Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -50
+        },
+        {
           "timestamp": "2026-09-22T00:32:55.174Z",
           "delta": 71,
           "reason": "Tenure points",
-          "balance": 121
+          "balance": 21
         }
       ]
     },
