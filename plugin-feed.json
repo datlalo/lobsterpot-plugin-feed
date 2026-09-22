@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T19:46:50.400Z",
+  "generated_at": "2026-09-22T19:49:53.673Z",
   "broadcasts": [
     {
       "id": "37cae66b-6562-43c3-83b8-a211c5104e3b",
@@ -13375,40 +13375,6 @@
       ]
     },
     {
-      "rsn": "kicsi Johnny",
-      "rsn_key": "kicsijohnny",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-07-02",
-      "points_total": 112,
-      "points_spent": 0,
-      "points_available": 112,
-      "months_in_clan": 2,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-07-04T12:18:36.227Z",
-          "delta": 30,
-          "reason": "Recruit",
-          "balance": 30
-        },
-        {
-          "timestamp": "2026-09-22T00:32:55.174Z",
-          "delta": 82,
-          "reason": "Tenure points",
-          "balance": 112
-        }
-      ]
-    },
-    {
       "rsn": "kidakol",
       "rsn_key": "kidakol",
       "bot_rank": "Gnome",
@@ -17435,6 +17401,26 @@
       ]
     },
     {
+      "rsn": "osrsdreg",
+      "rsn_key": "osrsdreg",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-09-22",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "parm a jon",
       "rsn_key": "parmajon",
       "bot_rank": "Sapphire",
@@ -19045,40 +19031,6 @@
           "delta": 208,
           "reason": "Tenure points",
           "balance": 253
-        }
-      ]
-    },
-    {
-      "rsn": "Reaper446",
-      "rsn_key": "reaper446",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-07-07",
-      "points_total": 92,
-      "points_spent": 0,
-      "points_available": 92,
-      "months_in_clan": 2,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 8,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-21T01:23:37.506Z",
-          "delta": 15,
-          "reason": "Screenshot participation",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-09-22T00:32:55.174Z",
-          "delta": 77,
-          "reason": "Tenure points",
-          "balance": 92
         }
       ]
     },
