@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T13:19:15.290Z",
-  "broadcasts": [],
+  "generated_at": "2026-09-22T13:20:00.006Z",
+  "broadcasts": [
+    {
+      "id": "37cae66b-6562-43c3-83b8-a211c5104e3b",
+      "title": "Join Friendslop Friday on the 25th!",
+      "message": "Vote on games @ discord",
+      "starts_at": null,
+      "expires_at": null,
+      "updated_at": "2026-09-22T13:19:54.658Z"
+    }
+  ],
   "events": [
     {
       "id": "ae2da1ad-9312-401a-9643-3d8b592703d2",
