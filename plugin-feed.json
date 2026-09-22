@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T13:22:18.062Z",
+  "generated_at": "2026-09-22T13:25:20.689Z",
   "broadcasts": [
     {
       "id": "37cae66b-6562-43c3-83b8-a211c5104e3b",
@@ -17952,20 +17952,28 @@
       "rsn_key": "pf4",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
-      "join_date": "2026-09-22",
-      "points_total": 0,
+      "join_date": "2026-08-13",
+      "points_total": 40,
       "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
+      "points_available": 40,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 100,
-        "missing_months": 1,
+        "missing_points": 60,
+        "missing_months": 0,
         "can_claim": false
-      }
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-09-22T00:32:55.174Z",
+          "delta": 40,
+          "reason": "Tenure points",
+          "balance": 40
+        }
+      ]
     },
     {
       "rsn": "Pokkel Robin",
