@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T20:33:02.324Z",
+  "generated_at": "2026-09-22T21:19:48.657Z",
   "broadcasts": [
     {
       "id": "37cae66b-6562-43c3-83b8-a211c5104e3b",
@@ -690,9 +690,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 3365,
+      "points_total": 3375,
       "points_spent": 1230,
-      "points_available": 2135,
+      "points_available": 2145,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
@@ -704,12 +704,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-04T00:20:41.409Z",
-          "delta": 75,
-          "reason": "2nd place in PVM Map Sweep",
-          "balance": 898
-        },
         {
           "timestamp": "2026-08-06T05:14:59.678Z",
           "delta": 15,
@@ -855,10 +849,16 @@
           "balance": 1773
         },
         {
+          "timestamp": "2026-09-22T21:19:47.164Z",
+          "delta": 10,
+          "reason": "Mad Angel Movie",
+          "balance": 1783
+        },
+        {
           "timestamp": "2026-09-22T00:32:55.174Z",
           "delta": 362,
           "reason": "Tenure points",
-          "balance": 2135
+          "balance": 2145
         }
       ],
       "pending_bounties": [
@@ -5658,9 +5658,9 @@
       "bot_rank": "Owner",
       "progression_rank": "Owner",
       "join_date": "2024-08-01",
-      "points_total": 6384,
+      "points_total": 6394,
       "points_spent": 1140,
-      "points_available": 5244,
+      "points_available": 5254,
       "months_in_clan": 25,
       "next_rank": null,
       "points_history": [
@@ -5743,10 +5743,16 @@
           "balance": 4462
         },
         {
+          "timestamp": "2026-09-22T21:19:47.153Z",
+          "delta": 10,
+          "reason": "Mad Angel Movie",
+          "balance": 4472
+        },
+        {
           "timestamp": "2026-09-22T00:32:55.174Z",
           "delta": 782,
           "reason": "Tenure points",
-          "balance": 5244
+          "balance": 5254
         }
       ]
     },
@@ -9900,26 +9906,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-01-08",
-      "points_total": 1082,
+      "points_total": 1092,
       "points_spent": 1020,
-      "points_available": 62,
+      "points_available": 72,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 438,
+        "missing_points": 428,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-20T08:48:24.763Z",
-          "delta": 40,
-          "reason": "Bounty reward: Hard Tier - Woodcutting",
-          "balance": 95
-        },
         {
           "timestamp": "2026-03-20T08:48:25.785Z",
           "delta": 30,
@@ -10065,10 +10065,16 @@
           "balance": -195
         },
         {
+          "timestamp": "2026-09-22T21:19:47.165Z",
+          "delta": 10,
+          "reason": "Mad Angel Movie",
+          "balance": -185
+        },
+        {
           "timestamp": "2026-09-22T00:32:55.174Z",
           "delta": 257,
           "reason": "Tenure points",
-          "balance": 62
+          "balance": 72
         }
       ],
       "pending_bounties": [
@@ -14716,9 +14722,9 @@
       "bot_rank": "Owner",
       "progression_rank": "Owner",
       "join_date": "2024-08-01",
-      "points_total": 6384,
+      "points_total": 6394,
       "points_spent": 1140,
-      "points_available": 5244,
+      "points_available": 5254,
       "months_in_clan": 25,
       "next_rank": null,
       "points_history": [
@@ -14801,10 +14807,16 @@
           "balance": 4462
         },
         {
+          "timestamp": "2026-09-22T21:19:47.153Z",
+          "delta": 10,
+          "reason": "Mad Angel Movie",
+          "balance": 4472
+        },
+        {
           "timestamp": "2026-09-22T00:32:55.174Z",
           "delta": 782,
           "reason": "Tenure points",
-          "balance": 5244
+          "balance": 5254
         }
       ]
     },
@@ -15168,9 +15180,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-09-05",
-      "points_total": 1402,
+      "points_total": 1412,
       "points_spent": 650,
-      "points_available": 752,
+      "points_available": 762,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Diamond",
@@ -15182,12 +15194,6 @@
         "can_claim": true
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-16T12:58:13.365Z",
-          "delta": 40,
-          "reason": "Bounty reward: Hard Tier Bounty",
-          "balance": 340
-        },
         {
           "timestamp": "2026-02-17T20:08:20.226Z",
           "delta": 15,
@@ -15333,10 +15339,16 @@
           "balance": 370
         },
         {
+          "timestamp": "2026-09-22T21:19:47.165Z",
+          "delta": 10,
+          "reason": "Mad Angel Movie",
+          "balance": 380
+        },
+        {
           "timestamp": "2026-09-22T00:32:55.174Z",
           "delta": 382,
           "reason": "Tenure points",
-          "balance": 752
+          "balance": 762
         }
       ],
       "pending_bounties": [
@@ -17725,9 +17737,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 3365,
+      "points_total": 3375,
       "points_spent": 1230,
-      "points_available": 2135,
+      "points_available": 2145,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
@@ -17739,12 +17751,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-04T00:20:41.409Z",
-          "delta": 75,
-          "reason": "2nd place in PVM Map Sweep",
-          "balance": 898
-        },
         {
           "timestamp": "2026-08-06T05:14:59.678Z",
           "delta": 15,
@@ -17890,10 +17896,16 @@
           "balance": 1773
         },
         {
+          "timestamp": "2026-09-22T21:19:47.164Z",
+          "delta": 10,
+          "reason": "Mad Angel Movie",
+          "balance": 1783
+        },
+        {
           "timestamp": "2026-09-22T00:32:55.174Z",
           "delta": 362,
           "reason": "Tenure points",
-          "balance": 2135
+          "balance": 2145
         }
       ],
       "pending_bounties": [
@@ -20307,25 +20319,31 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-09",
-      "points_total": 75,
+      "points_total": 85,
       "points_spent": 0,
-      "points_available": 75,
+      "points_available": 85,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 25,
+        "missing_points": 15,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
         {
+          "timestamp": "2026-09-22T21:19:47.166Z",
+          "delta": 10,
+          "reason": "Mad Angel Movie",
+          "balance": 10
+        },
+        {
           "timestamp": "2026-09-22T00:32:55.174Z",
           "delta": 75,
           "reason": "Tenure points",
-          "balance": 75
+          "balance": 85
         }
       ]
     },
