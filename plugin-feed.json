@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T00:32:59.323Z",
+  "generated_at": "2026-09-23T02:53:57.681Z",
   "broadcasts": [
     {
       "id": "37cae66b-6562-43c3-83b8-a211c5104e3b",
@@ -8504,6 +8504,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-09-21T02:43:31.257Z"
+        },
+        {
+          "bounty_id": "61",
+          "name": "Mad Angel BOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-23T02:53:56.160Z"
         }
       ]
     },
@@ -24206,6 +24213,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-09-21T02:43:31.257Z"
+        },
+        {
+          "bounty_id": "61",
+          "name": "Mad Angel BOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-09-23T02:53:56.160Z"
         }
       ]
     },
