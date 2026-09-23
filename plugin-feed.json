@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T07:00:39.447Z",
+  "generated_at": "2026-09-23T07:03:41.848Z",
   "broadcasts": [
     {
       "id": "37cae66b-6562-43c3-83b8-a211c5104e3b",
@@ -19173,18 +19173,18 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-29",
-      "points_total": 71,
+      "points_total": 161,
       "points_spent": 0,
-      "points_available": 71,
+      "points_available": 161,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 29,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -19194,24 +19194,36 @@
           "balance": 15
         },
         {
+          "timestamp": "2026-09-23T07:00:59.208Z",
+          "delta": 75,
+          "reason": "Bounty: Mad Angel BOTW - Master",
+          "balance": 90
+        },
+        {
+          "timestamp": "2026-09-23T07:01:04.793Z",
+          "delta": 15,
+          "reason": "Bounty: Mad Angel BOTW - Easy",
+          "balance": 105
+        },
+        {
           "timestamp": "2026-09-23T00:32:56.599Z",
           "delta": 56,
           "reason": "Tenure points",
-          "balance": 71
+          "balance": 161
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "65",
           "name": "Mad Angel BOTW - Master",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-23T06:22:37.730Z"
         },
         {
           "bounty_id": "61",
           "name": "Mad Angel BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-09-23T06:23:34.702Z"
         }
