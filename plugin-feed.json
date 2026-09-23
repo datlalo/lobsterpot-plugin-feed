@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T16:33:06.168Z",
+  "generated_at": "2026-09-23T21:39:29.839Z",
   "broadcasts": [
     {
       "id": "37cae66b-6562-43c3-83b8-a211c5104e3b",
@@ -11055,6 +11055,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Ruby",
+        "created_at": "2026-09-23T21:39:27.325Z"
       },
       "points_history": [
         {
