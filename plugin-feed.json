@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T21:57:59.997Z",
+  "generated_at": "2026-09-24T00:03:04.205Z",
   "broadcasts": [
     {
       "id": "37cae66b-6562-43c3-83b8-a211c5104e3b",
@@ -23,48 +23,7 @@
       "thread_id": "1550418549611433984"
     }
   ],
-  "bounties": [
-    {
-      "id": "65",
-      "name": "Mad Angel BOTW - Master",
-      "active": true,
-      "points": 75,
-      "description": "Aggy Pet Drop",
-      "expires_at": "2026-09-24T00:00:00.000Z"
-    },
-    {
-      "id": "64",
-      "name": "Mad Angel BOTW - Elite",
-      "active": true,
-      "points": 60,
-      "description": "600kc or Jar of Light",
-      "expires_at": "2026-09-24T00:00:00.000Z"
-    },
-    {
-      "id": "63",
-      "name": "Mad Angel BOTW - Hard",
-      "active": true,
-      "points": 45,
-      "description": "375kc or \"This is madness!\" Combat Achievement",
-      "expires_at": "2026-09-24T00:00:00.000Z"
-    },
-    {
-      "id": "62",
-      "name": "Mad Angel BOTW - Medium",
-      "active": true,
-      "points": 30,
-      "description": "175kc or Hallowfell",
-      "expires_at": "2026-09-24T00:00:00.000Z"
-    },
-    {
-      "id": "61",
-      "name": "Mad Angel BOTW - Easy",
-      "active": true,
-      "points": 15,
-      "description": "50kc",
-      "expires_at": "2026-09-24T00:00:00.000Z"
-    }
-  ],
+  "bounties": [],
   "members": [
     {
       "rsn": "0gass",
@@ -850,36 +809,6 @@
           "reason": "Tenure points",
           "balance": 2146
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T17:41:34.246Z"
-        },
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T17:41:44.932Z"
-        },
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T17:41:57.755Z"
-        },
-        {
-          "bounty_id": "64",
-          "name": "Mad Angel BOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-19T00:14:04.616Z"
-        }
       ]
     },
     {
@@ -947,14 +876,14 @@
       "points_total": 1838,
       "points_spent": 1400,
       "points_available": 438,
-      "months_in_clan": 9,
+      "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
         "missing_points": 362,
-        "missing_months": 3,
+        "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
@@ -1299,15 +1228,6 @@
           "delta": 103,
           "reason": "Tenure points",
           "balance": 78
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T15:48:52.513Z"
         }
       ]
     },
@@ -1734,7 +1654,7 @@
       "points_total": 61,
       "points_spent": 0,
       "points_available": 61,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -1762,7 +1682,7 @@
       "points_total": 1488,
       "points_spent": 1010,
       "points_available": 478,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
@@ -1928,29 +1848,6 @@
           "delta": 273,
           "reason": "Tenure points",
           "balance": 478
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T07:58:56.749Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T07:59:05.425Z"
-        },
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T18:36:23.784Z"
         }
       ]
     },
@@ -2359,15 +2256,6 @@
           "delta": 235,
           "reason": "Tenure points",
           "balance": 560
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "65",
-          "name": "Mad Angel BOTW - Master",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T20:57:41.040Z"
         }
       ]
     },
@@ -3409,29 +3297,6 @@
           "reason": "Tenure points",
           "balance": 505
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-20T21:18:31.644Z"
-        },
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-20T21:18:38.740Z"
-        },
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-20T21:18:45.706Z"
-        }
       ]
     },
     {
@@ -4408,43 +4273,6 @@
           "reason": "Tenure points",
           "balance": 87
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-16T19:08:16.656Z"
-        },
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T16:44:36.889Z"
-        },
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T20:21:32.378Z"
-        },
-        {
-          "bounty_id": "65",
-          "name": "Mad Angel BOTW - Master",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T22:41:02.170Z"
-        },
-        {
-          "bounty_id": "64",
-          "name": "Mad Angel BOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-21T15:14:15.821Z"
-        }
       ]
     },
     {
@@ -4772,14 +4600,14 @@
       "points_total": 396,
       "points_spent": 300,
       "points_available": 96,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
         "missing_points": 204,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -4842,15 +4670,6 @@
           "delta": 91,
           "reason": "Tenure points",
           "balance": 96
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T00:02:53.035Z"
         }
       ]
     },
@@ -5175,7 +4994,7 @@
       "points_total": 91,
       "points_spent": 0,
       "points_available": 91,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -6610,15 +6429,6 @@
           "reason": "Tenure points",
           "balance": 84
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-19T14:06:35.532Z"
-        }
       ]
     },
     {
@@ -6822,7 +6632,7 @@
       "points_total": 151,
       "points_spent": 0,
       "points_available": 151,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -7171,22 +6981,6 @@
           "reason": "Tenure points",
           "balance": 110
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-19T18:56:52.836Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-19T18:59:03.524Z"
-        }
       ]
     },
     {
@@ -7254,7 +7048,7 @@
       "points_total": 122,
       "points_spent": 0,
       "points_available": 122,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -7512,29 +7306,6 @@
           "delta": 129,
           "reason": "Tenure points",
           "balance": 464
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T11:37:14.579Z"
-        },
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T11:39:04.940Z"
-        },
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T11:39:32.870Z"
         }
       ]
     },
@@ -8028,29 +7799,6 @@
           "reason": "Tenure points",
           "balance": 62
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-19T14:40:59.471Z"
-        },
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-20T11:26:59.498Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-20T11:53:29.520Z"
-        }
       ]
     },
     {
@@ -8228,29 +7976,6 @@
           "delta": 367,
           "reason": "Tenure points",
           "balance": 62
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-19T14:40:59.471Z"
-        },
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-20T11:26:59.498Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-20T11:53:29.520Z"
         }
       ]
     },
@@ -8485,22 +8210,6 @@
           "delta": 325,
           "reason": "Tenure points",
           "balance": 109
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-21T02:43:31.257Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-23T02:53:56.160Z"
         }
       ]
     },
@@ -8886,29 +8595,6 @@
           "reason": "Tenure points",
           "balance": 62
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-19T14:40:59.471Z"
-        },
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-20T11:26:59.498Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-20T11:53:29.520Z"
-        }
       ]
     },
     {
@@ -9240,14 +8926,14 @@
       "points_total": 30,
       "points_spent": 0,
       "points_available": 30,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 70,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -9369,22 +9055,6 @@
           "reason": "Tenure points",
           "balance": 288
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-21T18:30:56.041Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-21T22:04:11.411Z"
-        }
       ]
     },
     {
@@ -9396,7 +9066,7 @@
       "points_total": 91,
       "points_spent": 0,
       "points_available": 91,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -9622,7 +9292,7 @@
       "points_total": 136,
       "points_spent": 100,
       "points_available": 36,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -10081,36 +9751,6 @@
           "reason": "Tenure points",
           "balance": 73
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T20:53:55.125Z"
-        },
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T20:54:58.670Z"
-        },
-        {
-          "bounty_id": "64",
-          "name": "Mad Angel BOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T20:55:25.723Z"
-        },
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T17:08:19.583Z"
-        }
       ]
     },
     {
@@ -10358,15 +9998,6 @@
           "delta": 281,
           "reason": "Tenure points",
           "balance": 76
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-19T15:32:14.692Z"
         }
       ]
     },
@@ -10690,36 +10321,6 @@
           "reason": "Tenure points",
           "balance": 570
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-16T18:09:24.261Z"
-        },
-        {
-          "bounty_id": "65",
-          "name": "Mad Angel BOTW - Master",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T19:12:17.230Z"
-        },
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-19T09:26:14.033Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-19T15:55:34.278Z"
-        }
       ]
     },
     {
@@ -10925,29 +10526,6 @@
           "delta": 191,
           "reason": "Tenure points",
           "balance": 181
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T05:45:37.945Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T07:30:31.314Z"
-        },
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T07:30:41.415Z"
         }
       ]
     },
@@ -11623,22 +11201,6 @@
           "reason": "Tenure points",
           "balance": 110
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-19T18:56:52.836Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-19T18:59:03.524Z"
-        }
       ]
     },
     {
@@ -12011,15 +11573,6 @@
           "reason": "Tenure points",
           "balance": 38
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-20T01:02:17.722Z"
-        }
       ]
     },
     {
@@ -12291,36 +11844,6 @@
           "delta": 43,
           "reason": "Tenure points",
           "balance": 343
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T02:21:59.373Z"
-        },
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T17:15:56.064Z"
-        },
-        {
-          "bounty_id": "64",
-          "name": "Mad Angel BOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T02:43:57.353Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T02:44:53.353Z"
         }
       ]
     },
@@ -12942,29 +12465,6 @@
           "reason": "Tenure points",
           "balance": 205
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T22:26:51.348Z"
-        },
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T23:02:51.595Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T23:03:51.590Z"
-        }
       ]
     },
     {
@@ -13580,7 +13080,7 @@
       "points_total": 122,
       "points_spent": 0,
       "points_available": 122,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -13670,14 +13170,14 @@
       "points_total": 1838,
       "points_spent": 1400,
       "points_available": 438,
-      "months_in_clan": 9,
+      "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
         "missing_points": 362,
-        "missing_months": 3,
+        "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
@@ -14556,7 +14056,7 @@
       "points_total": 395,
       "points_spent": 300,
       "points_available": 95,
-      "months_in_clan": 12,
+      "months_in_clan": 13,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -15361,15 +14861,6 @@
           "reason": "Tenure points",
           "balance": 763
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T21:44:55.500Z"
-        }
       ]
     },
     {
@@ -15507,7 +14998,7 @@
       "points_total": 221,
       "points_spent": 100,
       "points_available": 121,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -15577,7 +15068,7 @@
       "points_total": 221,
       "points_spent": 100,
       "points_available": 121,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -16424,29 +15915,6 @@
           "reason": "Tenure points",
           "balance": 240
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T10:15:40.252Z"
-        },
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T10:16:24.066Z"
-        },
-        {
-          "bounty_id": "64",
-          "name": "Mad Angel BOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T10:17:34.746Z"
-        }
       ]
     },
     {
@@ -17287,22 +16755,6 @@
           "reason": "Tenure points",
           "balance": 72
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-16T22:19:14.021Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-16T22:20:08.320Z"
-        }
       ]
     },
     {
@@ -17663,29 +17115,6 @@
           "reason": "Tenure points",
           "balance": 466
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T02:41:33.513Z"
-        },
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T03:14:28.037Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-19T01:38:45.857Z"
-        }
       ]
     },
     {
@@ -17925,36 +17354,6 @@
           "delta": 363,
           "reason": "Tenure points",
           "balance": 2146
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T17:41:34.246Z"
-        },
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T17:41:44.932Z"
-        },
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T17:41:57.755Z"
-        },
-        {
-          "bounty_id": "64",
-          "name": "Mad Angel BOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-19T00:14:04.616Z"
         }
       ]
     },
@@ -18241,22 +17640,6 @@
           "delta": 232,
           "reason": "Tenure points",
           "balance": 472
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-16T20:49:29.271Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T22:58:40.710Z"
         }
       ]
     },
@@ -18561,22 +17944,6 @@
           "delta": 358,
           "reason": "Tenure points",
           "balance": 721
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T03:31:30.213Z"
-        },
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T03:31:44.357Z"
         }
       ]
     },
@@ -18952,29 +18319,6 @@
           "reason": "Tenure points",
           "balance": 26
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T16:49:40.477Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T17:55:44.490Z"
-        },
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-20T00:01:05.613Z"
-        }
       ]
     },
     {
@@ -19206,22 +18550,6 @@
           "delta": 56,
           "reason": "Tenure points",
           "balance": 161
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "65",
-          "name": "Mad Angel BOTW - Master",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-23T06:22:37.730Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-23T06:23:34.702Z"
         }
       ]
     },
@@ -19799,15 +19127,6 @@
           "reason": "Tenure points",
           "balance": 208
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-22T00:11:26.892Z"
-        }
       ]
     },
     {
@@ -19985,22 +19304,6 @@
           "delta": 347,
           "reason": "Tenure points",
           "balance": 1011
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-22T09:35:29.367Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-22T09:36:27.538Z"
         }
       ]
     },
@@ -20487,7 +19790,7 @@
       "points_total": 122,
       "points_spent": 0,
       "points_available": 122,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -20633,29 +19936,6 @@
           "delta": 213,
           "reason": "Tenure points",
           "balance": 153
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-21T09:29:34.337Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-21T10:57:35.049Z"
-        },
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-21T10:57:35.049Z"
         }
       ]
     },
@@ -20994,14 +20274,14 @@
       "points_total": 45,
       "points_spent": 0,
       "points_available": 45,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 55,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -21098,15 +20378,6 @@
           "delta": 173,
           "reason": "Tenure points",
           "balance": 38
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-20T01:02:17.722Z"
         }
       ]
     },
@@ -21355,29 +20626,6 @@
           "delta": 129,
           "reason": "Tenure points",
           "balance": 4
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-19T21:04:15.802Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-20T04:10:19.199Z"
-        },
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-21T02:06:31.015Z"
         }
       ]
     },
@@ -22331,36 +21579,6 @@
           "reason": "Tenure points",
           "balance": 357
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T02:14:30.488Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T02:38:59.045Z"
-        },
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T15:34:06.041Z"
-        },
-        {
-          "bounty_id": "64",
-          "name": "Mad Angel BOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-20T16:36:34.242Z"
-        }
       ]
     },
     {
@@ -22539,29 +21757,6 @@
           "reason": "Tenure points",
           "balance": 181
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T05:45:37.945Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T07:30:31.314Z"
-        },
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T07:30:41.415Z"
-        }
       ]
     },
     {
@@ -22671,29 +21866,6 @@
           "delta": 339,
           "reason": "Tenure points",
           "balance": 269
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T08:06:03.045Z"
-        },
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T08:15:49.640Z"
-        },
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T08:16:39.347Z"
         }
       ]
     },
@@ -22872,22 +22044,6 @@
           "delta": 358,
           "reason": "Tenure points",
           "balance": 721
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T03:31:30.213Z"
-        },
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T03:31:44.357Z"
         }
       ]
     },
@@ -23154,36 +22310,6 @@
           "delta": 385,
           "reason": "Tenure points",
           "balance": 570
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-16T18:09:24.261Z"
-        },
-        {
-          "bounty_id": "65",
-          "name": "Mad Angel BOTW - Master",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T19:12:17.230Z"
-        },
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-19T09:26:14.033Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-19T15:55:34.278Z"
         }
       ]
     },
@@ -24229,22 +23355,6 @@
           "reason": "Tenure points",
           "balance": 109
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-21T02:43:31.257Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-23T02:53:56.160Z"
-        }
       ]
     },
     {
@@ -24399,15 +23509,6 @@
           "reason": "Tenure points",
           "balance": 76
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-19T15:32:14.692Z"
-        }
       ]
     },
     {
@@ -24477,15 +23578,6 @@
           "delta": 80,
           "reason": "Tenure points",
           "balance": 145
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-17T17:36:45.688Z"
         }
       ]
     },
@@ -25143,36 +24235,6 @@
           "reason": "Tenure points",
           "balance": 15
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-19T17:40:17.951Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-19T18:13:01.237Z"
-        },
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-19T18:33:41.968Z"
-        },
-        {
-          "bounty_id": "64",
-          "name": "Mad Angel BOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-20T15:38:26.091Z"
-        }
       ]
     },
     {
@@ -25664,14 +24726,14 @@
       "points_total": 156,
       "points_spent": 100,
       "points_available": 56,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
         "missing_points": 144,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -26059,36 +25121,6 @@
           "reason": "Tenure points",
           "balance": 98
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T09:56:59.714Z"
-        },
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T09:57:09.059Z"
-        },
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-18T09:57:20.803Z"
-        },
-        {
-          "bounty_id": "64",
-          "name": "Mad Angel BOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-20T06:44:05.371Z"
-        }
       ]
     },
     {
@@ -26198,36 +25230,6 @@
           "delta": 75,
           "reason": "Tenure points",
           "balance": 15
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "62",
-          "name": "Mad Angel BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-19T17:40:17.951Z"
-        },
-        {
-          "bounty_id": "61",
-          "name": "Mad Angel BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-19T18:13:01.237Z"
-        },
-        {
-          "bounty_id": "63",
-          "name": "Mad Angel BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-19T18:33:41.968Z"
-        },
-        {
-          "bounty_id": "64",
-          "name": "Mad Angel BOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-09-20T15:38:26.091Z"
         }
       ]
     },
