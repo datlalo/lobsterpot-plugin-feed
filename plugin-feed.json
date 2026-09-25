@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T00:33:02.648Z",
+  "generated_at": "2026-09-25T12:33:08.423Z",
   "broadcasts": [
     {
       "id": "37cae66b-6562-43c3-83b8-a211c5104e3b",
@@ -5924,6 +5924,18 @@
           "balance": 297
         }
       ]
+    },
+    {
+      "rsn": "discoman69",
+      "rsn_key": "discoman69",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-09-25",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
     },
     {
       "rsn": "Dock_Ock",
