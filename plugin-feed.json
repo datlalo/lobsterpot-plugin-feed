@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T17:15:29.437Z",
+  "generated_at": "2026-09-25T21:23:35.314Z",
   "broadcasts": [
     {
       "id": "37cae66b-6562-43c3-83b8-a211c5104e3b",
@@ -3132,26 +3132,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-08-29",
-      "points_total": 1707,
+      "points_total": 1737,
       "points_spent": 1200,
-      "points_available": 507,
+      "points_available": 537,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 293,
+        "missing_points": 263,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-01-31T18:05:54.504Z",
-          "delta": 10,
-          "reason": "Hawks max event/drop party",
-          "balance": 610
-        },
         {
           "timestamp": "2026-02-17T11:17:06.033Z",
           "delta": 40,
@@ -3297,10 +3291,16 @@
           "balance": 115
         },
         {
+          "timestamp": "2026-09-25T21:23:33.805Z",
+          "delta": 30,
+          "reason": "Recruit",
+          "balance": 145
+        },
+        {
           "timestamp": "2026-09-25T00:32:59.872Z",
           "delta": 392,
           "reason": "Tenure points",
-          "balance": 507
+          "balance": 537
         }
       ]
     },
