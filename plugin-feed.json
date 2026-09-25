@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T21:23:35.314Z",
+  "generated_at": "2026-09-25T23:08:31.289Z",
   "broadcasts": [
     {
       "id": "37cae66b-6562-43c3-83b8-a211c5104e3b",
@@ -11,18 +11,7 @@
       "updated_at": "2026-09-22T13:19:54.658Z"
     }
   ],
-  "events": [
-    {
-      "id": "37f66deb-4aaf-469a-ad38-cd218b93a6e3",
-      "type": "event",
-      "title": "Friendslop Friday Fudge",
-      "location": "Somewhere on the internet",
-      "starts_at": "2026-09-25T20:00:00.000Z",
-      "ends_at": "2026-09-25T21:59:00.000Z",
-      "description": "Grab your favorite drink or beverage and join us for this months friendslop friday",
-      "thread_id": "1550418549611433984"
-    }
-  ],
+  "events": [],
   "bounties": [],
   "members": [
     {
@@ -639,9 +628,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 3378,
+      "points_total": 3393,
       "points_spent": 1230,
-      "points_available": 2148,
+      "points_available": 2163,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
@@ -658,12 +647,6 @@
         "created_at": "2026-09-25T17:15:27.280Z"
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-06T05:14:59.678Z",
-          "delta": 15,
-          "reason": "Bounty: Fishing SOTW - Easy",
-          "balance": 913
-        },
         {
           "timestamp": "2026-08-06T06:51:17.276Z",
           "delta": 30,
@@ -809,10 +792,16 @@
           "balance": 1783
         },
         {
+          "timestamp": "2026-09-25T23:08:29.797Z",
+          "delta": 15,
+          "reason": "Friendslop friday fudge (September)",
+          "balance": 1798
+        },
+        {
           "timestamp": "2026-09-25T00:32:59.872Z",
           "delta": 365,
           "reason": "Tenure points",
-          "balance": 2148
+          "balance": 2163
         }
       ]
     },
@@ -1087,7 +1076,7 @@
       "points_total": 556,
       "points_spent": 300,
       "points_available": 256,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -2451,7 +2440,7 @@
       "points_total": 556,
       "points_spent": 300,
       "points_available": 256,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -4317,7 +4306,7 @@
       "points_total": 364,
       "points_spent": 0,
       "points_available": 364,
-      "months_in_clan": 11,
+      "months_in_clan": 12,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -6215,7 +6204,7 @@
       "points_total": 303,
       "points_spent": 0,
       "points_available": 303,
-      "months_in_clan": 9,
+      "months_in_clan": 10,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -6324,16 +6313,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-14",
-      "points_total": 786,
+      "points_total": 801,
       "points_spent": 700,
-      "points_available": 86,
+      "points_available": 101,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 414,
+        "missing_points": 399,
         "missing_months": 0,
         "can_claim": false
       },
@@ -6441,10 +6430,16 @@
           "balance": -290
         },
         {
+          "timestamp": "2026-09-25T23:08:29.794Z",
+          "delta": 15,
+          "reason": "Friendslop friday fudge (September)",
+          "balance": -275
+        },
+        {
           "timestamp": "2026-09-25T00:32:59.872Z",
           "delta": 376,
           "reason": "Tenure points",
-          "balance": 86
+          "balance": 101
         }
       ]
     },
@@ -7590,25 +7585,31 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-08-25",
-      "points_total": 31,
+      "points_total": 46,
       "points_spent": 0,
-      "points_available": 31,
+      "points_available": 46,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 69,
+        "missing_points": 54,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
         {
+          "timestamp": "2026-09-25T23:08:29.794Z",
+          "delta": 15,
+          "reason": "Friendslop friday fudge (September)",
+          "balance": 15
+        },
+        {
           "timestamp": "2026-09-25T00:32:59.872Z",
           "delta": 31,
           "reason": "Tenure points",
-          "balance": 31
+          "balance": 46
         }
       ]
     },
@@ -7646,26 +7647,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-21",
-      "points_total": 1264,
+      "points_total": 1279,
       "points_spent": 1200,
-      "points_available": 64,
+      "points_available": 79,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 736,
+        "missing_points": 721,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-16T11:21:04.937Z",
-          "delta": -300,
-          "reason": "Rank upgraded to: Ruby",
-          "balance": 140
-        },
         {
           "timestamp": "2026-03-17T23:21:15.387Z",
           "delta": 15,
@@ -7811,10 +7806,16 @@
           "balance": -305
         },
         {
+          "timestamp": "2026-09-25T23:08:29.784Z",
+          "delta": 15,
+          "reason": "Friendslop friday fudge (September)",
+          "balance": -290
+        },
+        {
           "timestamp": "2026-09-25T00:32:59.872Z",
           "delta": 369,
           "reason": "Tenure points",
-          "balance": 64
+          "balance": 79
         }
       ]
     },
@@ -7824,26 +7825,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-21",
-      "points_total": 1264,
+      "points_total": 1279,
       "points_spent": 1200,
-      "points_available": 64,
+      "points_available": 79,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 736,
+        "missing_points": 721,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-16T11:21:04.937Z",
-          "delta": -300,
-          "reason": "Rank upgraded to: Ruby",
-          "balance": 140
-        },
         {
           "timestamp": "2026-03-17T23:21:15.387Z",
           "delta": 15,
@@ -7989,10 +7984,16 @@
           "balance": -305
         },
         {
+          "timestamp": "2026-09-25T23:08:29.784Z",
+          "delta": 15,
+          "reason": "Friendslop friday fudge (September)",
+          "balance": -290
+        },
+        {
           "timestamp": "2026-09-25T00:32:59.872Z",
           "delta": 369,
           "reason": "Tenure points",
-          "balance": 64
+          "balance": 79
         }
       ]
     },
@@ -8442,26 +8443,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-21",
-      "points_total": 1264,
+      "points_total": 1279,
       "points_spent": 1200,
-      "points_available": 64,
+      "points_available": 79,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 736,
+        "missing_points": 721,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-16T11:21:04.937Z",
-          "delta": -300,
-          "reason": "Rank upgraded to: Ruby",
-          "balance": 140
-        },
         {
           "timestamp": "2026-03-17T23:21:15.387Z",
           "delta": 15,
@@ -8607,10 +8602,16 @@
           "balance": -305
         },
         {
+          "timestamp": "2026-09-25T23:08:29.784Z",
+          "delta": 15,
+          "reason": "Friendslop friday fudge (September)",
+          "balance": -290
+        },
+        {
           "timestamp": "2026-09-25T00:32:59.872Z",
           "delta": 369,
           "reason": "Tenure points",
-          "balance": 64
+          "balance": 79
         }
       ]
     },
@@ -10168,26 +10169,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-03",
-      "points_total": 1782,
+      "points_total": 1797,
       "points_spent": 1210,
-      "points_available": 572,
+      "points_available": 587,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 228,
+        "missing_points": 213,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-05T10:27:48.831Z",
-          "delta": 60,
-          "reason": "Bounty: Farming - Elite",
-          "balance": -10
-        },
         {
           "timestamp": "2026-07-05T10:27:52.360Z",
           "delta": 15,
@@ -10333,10 +10328,16 @@
           "balance": 185
         },
         {
+          "timestamp": "2026-09-25T23:08:29.794Z",
+          "delta": 15,
+          "reason": "Friendslop friday fudge (September)",
+          "balance": 200
+        },
+        {
           "timestamp": "2026-09-25T00:32:59.872Z",
           "delta": 387,
           "reason": "Tenure points",
-          "balance": 572
+          "balance": 587
         }
       ]
     },
@@ -10992,16 +10993,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-03-18",
-      "points_total": 696,
+      "points_total": 711,
       "points_spent": 600,
-      "points_available": 96,
+      "points_available": 111,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 304,
+        "missing_points": 289,
         "missing_months": 0,
         "can_claim": false
       },
@@ -11109,10 +11110,16 @@
           "balance": -95
         },
         {
+          "timestamp": "2026-09-25T23:08:29.795Z",
+          "delta": 15,
+          "reason": "Friendslop friday fudge (September)",
+          "balance": -80
+        },
+        {
           "timestamp": "2026-09-25T00:32:59.872Z",
           "delta": 191,
           "reason": "Tenure points",
-          "balance": 96
+          "balance": 111
         }
       ]
     },
@@ -12281,14 +12288,14 @@
       "points_total": 30,
       "points_spent": 0,
       "points_available": 30,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 70,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -12668,9 +12675,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-08-19",
-      "points_total": 102,
+      "points_total": 117,
       "points_spent": 0,
-      "points_available": 102,
+      "points_available": 117,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
@@ -12695,10 +12702,16 @@
           "balance": 65
         },
         {
+          "timestamp": "2026-09-25T23:08:29.795Z",
+          "delta": 15,
+          "reason": "Friendslop friday fudge (September)",
+          "balance": 80
+        },
+        {
           "timestamp": "2026-09-25T00:32:59.872Z",
           "delta": 37,
           "reason": "Tenure points",
-          "balance": 102
+          "balance": 117
         }
       ]
     },
@@ -12941,7 +12954,7 @@
       "points_total": 211,
       "points_spent": 100,
       "points_available": 111,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -14611,7 +14624,7 @@
       "points_total": 871,
       "points_spent": 500,
       "points_available": 371,
-      "months_in_clan": 9,
+      "months_in_clan": 10,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -14708,9 +14721,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-09-05",
-      "points_total": 1415,
+      "points_total": 1430,
       "points_spent": 650,
-      "points_available": 765,
+      "points_available": 780,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Diamond",
@@ -14722,12 +14735,6 @@
         "can_claim": true
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-17T20:08:20.226Z",
-          "delta": 15,
-          "reason": "wintertodt and movie",
-          "balance": 355
-        },
         {
           "timestamp": "2026-03-02T19:31:03.743Z",
           "delta": -350,
@@ -14873,10 +14880,16 @@
           "balance": 380
         },
         {
+          "timestamp": "2026-09-25T23:08:29.796Z",
+          "delta": 15,
+          "reason": "Friendslop friday fudge (September)",
+          "balance": 395
+        },
+        {
           "timestamp": "2026-09-25T00:32:59.872Z",
           "delta": 385,
           "reason": "Tenure points",
-          "balance": 765
+          "balance": 780
         }
       ]
     },
@@ -17202,9 +17215,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-25",
-      "points_total": 3378,
+      "points_total": 3393,
       "points_spent": 1230,
-      "points_available": 2148,
+      "points_available": 2163,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
@@ -17221,12 +17234,6 @@
         "created_at": "2026-09-25T17:15:27.280Z"
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-06T05:14:59.678Z",
-          "delta": 15,
-          "reason": "Bounty: Fishing SOTW - Easy",
-          "balance": 913
-        },
         {
           "timestamp": "2026-08-06T06:51:17.276Z",
           "delta": 30,
@@ -17372,10 +17379,16 @@
           "balance": 1783
         },
         {
+          "timestamp": "2026-09-25T23:08:29.797Z",
+          "delta": 15,
+          "reason": "Friendslop friday fudge (September)",
+          "balance": 1798
+        },
+        {
           "timestamp": "2026-09-25T00:32:59.872Z",
           "delta": 365,
           "reason": "Tenure points",
-          "balance": 2148
+          "balance": 2163
         }
       ]
     },
@@ -17797,26 +17810,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-30",
-      "points_total": 1923,
+      "points_total": 1938,
       "points_spent": 1200,
-      "points_available": 723,
+      "points_available": 738,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 77,
+        "missing_points": 62,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-03T16:45:00.962Z",
-          "delta": 60,
-          "reason": "Bounty: Farming - Elite",
-          "balance": 193
-        },
         {
           "timestamp": "2026-07-07T12:05:36.995Z",
           "delta": 5,
@@ -17962,10 +17969,16 @@
           "balance": 363
         },
         {
+          "timestamp": "2026-09-25T23:08:29.797Z",
+          "delta": 15,
+          "reason": "Friendslop friday fudge (September)",
+          "balance": 378
+        },
+        {
           "timestamp": "2026-09-25T00:32:59.872Z",
           "delta": 360,
           "reason": "Tenure points",
-          "balance": 723
+          "balance": 738
         }
       ]
     },
@@ -18352,7 +18365,7 @@
       "points_total": 556,
       "points_spent": 300,
       "points_available": 256,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -18464,7 +18477,7 @@
       "points_total": 1034,
       "points_spent": 500,
       "points_available": 534,
-      "months_in_clan": 22,
+      "months_in_clan": 23,
       "next_rank": null,
       "points_history": [
         {
@@ -19691,18 +19704,18 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-09",
-      "points_total": 88,
+      "points_total": 103,
       "points_spent": 0,
-      "points_available": 88,
+      "points_available": 103,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 12,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -19712,10 +19725,16 @@
           "balance": 10
         },
         {
+          "timestamp": "2026-09-25T23:08:29.796Z",
+          "delta": 15,
+          "reason": "Friendslop friday fudge (September)",
+          "balance": 25
+        },
+        {
           "timestamp": "2026-09-25T00:32:59.872Z",
           "delta": 78,
           "reason": "Tenure points",
-          "balance": 88
+          "balance": 103
         }
       ]
     },
@@ -21108,7 +21127,7 @@
       "points_total": 182,
       "points_spent": 0,
       "points_available": 182,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -21897,26 +21916,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-30",
-      "points_total": 1923,
+      "points_total": 1938,
       "points_spent": 1200,
-      "points_available": 723,
+      "points_available": 738,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 77,
+        "missing_points": 62,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-03T16:45:00.962Z",
-          "delta": 60,
-          "reason": "Bounty: Farming - Elite",
-          "balance": 193
-        },
         {
           "timestamp": "2026-07-07T12:05:36.995Z",
           "delta": 5,
@@ -22062,10 +22075,16 @@
           "balance": 363
         },
         {
+          "timestamp": "2026-09-25T23:08:29.797Z",
+          "delta": 15,
+          "reason": "Friendslop friday fudge (September)",
+          "balance": 378
+        },
+        {
           "timestamp": "2026-09-25T00:32:59.872Z",
           "delta": 360,
           "reason": "Tenure points",
-          "balance": 723
+          "balance": 738
         }
       ]
     },
@@ -22163,26 +22182,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-03",
-      "points_total": 1782,
+      "points_total": 1797,
       "points_spent": 1210,
-      "points_available": 572,
+      "points_available": 587,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 228,
+        "missing_points": 213,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-05T10:27:48.831Z",
-          "delta": 60,
-          "reason": "Bounty: Farming - Elite",
-          "balance": -10
-        },
         {
           "timestamp": "2026-07-05T10:27:52.360Z",
           "delta": 15,
@@ -22328,10 +22341,16 @@
           "balance": 185
         },
         {
+          "timestamp": "2026-09-25T23:08:29.794Z",
+          "delta": 15,
+          "reason": "Friendslop friday fudge (September)",
+          "balance": 200
+        },
+        {
           "timestamp": "2026-09-25T00:32:59.872Z",
           "delta": 387,
           "reason": "Tenure points",
-          "balance": 572
+          "balance": 587
         }
       ]
     },
@@ -22378,7 +22397,7 @@
       "points_total": 1034,
       "points_spent": 500,
       "points_available": 534,
-      "months_in_clan": 22,
+      "months_in_clan": 23,
       "next_rank": null,
       "points_history": [
         {
@@ -24336,7 +24355,7 @@
       "points_total": 965,
       "points_spent": 300,
       "points_available": 665,
-      "months_in_clan": 12,
+      "months_in_clan": 13,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
