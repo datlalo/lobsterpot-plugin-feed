@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-26T14:22:59.003Z",
+  "generated_at": "2026-09-26T17:53:43.293Z",
   "broadcasts": [
     {
       "id": "37cae66b-6562-43c3-83b8-a211c5104e3b",
@@ -625,34 +625,23 @@
     {
       "rsn": "acutesloth",
       "rsn_key": "acutesloth",
-      "bot_rank": "Dragonstone",
-      "progression_rank": "Dragonstone",
+      "bot_rank": "Onyx",
+      "progression_rank": "Onyx",
       "join_date": "2025-09-25",
       "points_total": 3394,
-      "points_spent": 1230,
-      "points_available": 2164,
+      "points_spent": 2030,
+      "points_available": 1364,
       "months_in_clan": 12,
       "next_rank": {
-        "name": "Onyx",
-        "point_cost": 800,
-        "min_months": 12,
-        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "name": "Zenyte",
+        "point_cost": 1000,
+        "min_months": 16,
+        "requirements": "Trimmed QC, 2000 Total, or Elite CA",
         "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Onyx",
-        "created_at": "2026-09-25T17:15:27.280Z"
+        "missing_months": 4,
+        "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-06T06:51:17.276Z",
-          "delta": 30,
-          "reason": "Bounty: Fishing SOTW - Medium",
-          "balance": 943
-        },
         {
           "timestamp": "2026-08-06T22:44:37.686Z",
           "delta": 75,
@@ -798,10 +787,16 @@
           "balance": 1798
         },
         {
+          "timestamp": "2026-09-26T17:53:41.778Z",
+          "delta": -800,
+          "reason": "Rank upgrade: Onyx",
+          "balance": 998
+        },
+        {
           "timestamp": "2026-09-26T00:33:01.417Z",
           "delta": 366,
           "reason": "Tenure points",
-          "balance": 2164
+          "balance": 1364
         }
       ]
     },
@@ -17174,34 +17169,23 @@
     {
       "rsn": "PerpSloth",
       "rsn_key": "perpsloth",
-      "bot_rank": "Dragonstone",
-      "progression_rank": "Dragonstone",
+      "bot_rank": "Onyx",
+      "progression_rank": "Onyx",
       "join_date": "2025-09-25",
       "points_total": 3394,
-      "points_spent": 1230,
-      "points_available": 2164,
+      "points_spent": 2030,
+      "points_available": 1364,
       "months_in_clan": 12,
       "next_rank": {
-        "name": "Onyx",
-        "point_cost": 800,
-        "min_months": 12,
-        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "name": "Zenyte",
+        "point_cost": 1000,
+        "min_months": 16,
+        "requirements": "Trimmed QC, 2000 Total, or Elite CA",
         "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Onyx",
-        "created_at": "2026-09-25T17:15:27.280Z"
+        "missing_months": 4,
+        "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-06T06:51:17.276Z",
-          "delta": 30,
-          "reason": "Bounty: Fishing SOTW - Medium",
-          "balance": 943
-        },
         {
           "timestamp": "2026-08-06T22:44:37.686Z",
           "delta": 75,
@@ -17347,10 +17331,16 @@
           "balance": 1798
         },
         {
+          "timestamp": "2026-09-26T17:53:41.778Z",
+          "delta": -800,
+          "reason": "Rank upgrade: Onyx",
+          "balance": 998
+        },
+        {
           "timestamp": "2026-09-26T00:33:01.417Z",
           "delta": 366,
           "reason": "Tenure points",
-          "balance": 2164
+          "balance": 1364
         }
       ]
     },
