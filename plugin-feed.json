@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-27T20:08:20.041Z",
+  "generated_at": "2026-09-27T20:18:13.097Z",
   "broadcasts": [],
   "events": [],
   "bounties": [],
@@ -5562,88 +5562,6 @@
           "delta": 91,
           "reason": "Tenure points",
           "balance": 91
-        }
-      ]
-    },
-    {
-      "rsn": "Dawinism",
-      "rsn_key": "dawinism",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
-      "join_date": "2026-07-10",
-      "points_total": 319,
-      "points_spent": 300,
-      "points_available": 19,
-      "months_in_clan": 2,
-      "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 281,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-05T16:34:15.302Z",
-          "delta": 15,
-          "reason": "Bounty: Fishing SOTW - Easy",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-08-06T05:14:54.522Z",
-          "delta": 30,
-          "reason": "Bounty: Fishing SOTW - Medium",
-          "balance": 45
-        },
-        {
-          "timestamp": "2026-08-06T20:49:58.868Z",
-          "delta": 45,
-          "reason": "Bounty: Fishing SOTW - Hard",
-          "balance": 90
-        },
-        {
-          "timestamp": "2026-08-09T23:26:59.414Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": -10
-        },
-        {
-          "timestamp": "2026-09-20T15:32:47.870Z",
-          "delta": 15,
-          "reason": "Bounty: Mad Angel BOTW - Easy",
-          "balance": 5
-        },
-        {
-          "timestamp": "2026-09-20T15:33:38.347Z",
-          "delta": 30,
-          "reason": "Bounty: Mad Angel BOTW - Medium",
-          "balance": 35
-        },
-        {
-          "timestamp": "2026-09-20T15:33:42.991Z",
-          "delta": 45,
-          "reason": "Bounty: Mad Angel BOTW - Hard",
-          "balance": 80
-        },
-        {
-          "timestamp": "2026-09-20T16:17:18.954Z",
-          "delta": 60,
-          "reason": "Bounty: Mad Angel BOTW - Elite",
-          "balance": 140
-        },
-        {
-          "timestamp": "2026-09-20T16:49:13.572Z",
-          "delta": -200,
-          "reason": "Rank upgrade: Emerald",
-          "balance": -60
-        },
-        {
-          "timestamp": "2026-09-27T00:33:02.931Z",
-          "delta": 79,
-          "reason": "Tenure points",
-          "balance": 19
         }
       ]
     },
@@ -17832,6 +17750,26 @@
       ]
     },
     {
+      "rsn": "pumpkintf",
+      "rsn_key": "pumpkintf",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-09-27",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "PuzzleDream",
       "rsn_key": "puzzledream",
       "bot_rank": "Dragonstone",
@@ -24220,46 +24158,6 @@
           "delta": 241,
           "reason": "Tenure points",
           "balance": 346
-        }
-      ]
-    },
-    {
-      "rsn": "Weddy Woo",
-      "rsn_key": "weddywoo",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-08-25",
-      "points_total": 93,
-      "points_spent": 0,
-      "points_available": 93,
-      "months_in_clan": 1,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 7,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-09-14T23:56:10.136Z",
-          "delta": 50,
-          "reason": "Saradomin Mid rng",
-          "balance": 50
-        },
-        {
-          "timestamp": "2026-09-15T02:44:10.683Z",
-          "delta": 10,
-          "reason": "Held 1 tile",
-          "balance": 60
-        },
-        {
-          "timestamp": "2026-09-27T00:33:02.931Z",
-          "delta": 33,
-          "reason": "Tenure points",
-          "balance": 93
         }
       ]
     },
