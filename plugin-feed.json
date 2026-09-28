@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-28T23:35:53.773Z",
+  "generated_at": "2026-09-28T23:38:55.853Z",
   "broadcasts": [],
   "events": [],
   "bounties": [],
@@ -10808,26 +10808,21 @@
     {
       "rsn": "iammogar",
       "rsn_key": "iammogar",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
       "join_date": "2026-06-27",
       "points_total": 608,
-      "points_spent": 300,
-      "points_available": 308,
+      "points_spent": 600,
+      "points_available": 8,
       "months_in_clan": 3,
       "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Ruby",
-        "created_at": "2026-09-28T23:35:51.693Z"
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 392,
+        "missing_months": 2,
+        "can_claim": false
       },
       "points_history": [
         {
@@ -10963,10 +10958,16 @@
           "balance": 215
         },
         {
+          "timestamp": "2026-09-28T23:36:45.361Z",
+          "delta": -300,
+          "reason": "Rank upgrade: Ruby",
+          "balance": -85
+        },
+        {
           "timestamp": "2026-09-28T00:33:04.444Z",
           "delta": 93,
           "reason": "Tenure points",
-          "balance": 308
+          "balance": 8
         }
       ]
     },
