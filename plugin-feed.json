@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-29T09:56:45.203Z",
+  "generated_at": "2026-09-29T09:59:47.620Z",
   "broadcasts": [],
   "events": [],
   "bounties": [],
@@ -22920,26 +22920,21 @@
     {
       "rsn": "Tony Lark IM",
       "rsn_key": "tonylarkim",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-03-09",
       "points_total": 254,
-      "points_spent": 0,
-      "points_available": 254,
+      "points_spent": 100,
+      "points_available": 154,
       "months_in_clan": 6,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 46,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-09-29T09:56:43.102Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -22949,10 +22944,16 @@
           "balance": 50
         },
         {
+          "timestamp": "2026-09-29T09:59:46.007Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -50
+        },
+        {
           "timestamp": "2026-09-29T00:33:05.880Z",
           "delta": 204,
           "reason": "Tenure points",
-          "balance": 254
+          "balance": 154
         }
       ]
     },
@@ -24923,26 +24924,21 @@
     {
       "rsn": "xXJaberwock",
       "rsn_key": "xxjaberwock",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-03-09",
       "points_total": 254,
-      "points_spent": 0,
-      "points_available": 254,
+      "points_spent": 100,
+      "points_available": 154,
       "months_in_clan": 6,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 46,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-09-29T09:56:43.102Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -24952,10 +24948,16 @@
           "balance": 50
         },
         {
+          "timestamp": "2026-09-29T09:59:46.007Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -50
+        },
+        {
           "timestamp": "2026-09-29T00:33:05.880Z",
           "delta": 204,
           "reason": "Tenure points",
-          "balance": 254
+          "balance": 154
         }
       ]
     },
