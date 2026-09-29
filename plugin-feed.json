@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-29T00:33:08.683Z",
+  "generated_at": "2026-09-29T09:56:45.203Z",
   "broadcasts": [],
   "events": [],
   "bounties": [],
@@ -22936,6 +22936,11 @@
         "missing_months": 0,
         "can_claim": true
       },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Sapphire",
+        "created_at": "2026-09-29T09:56:43.102Z"
+      },
       "points_history": [
         {
           "timestamp": "2026-09-14T23:56:10.124Z",
@@ -24933,6 +24938,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Sapphire",
+        "created_at": "2026-09-29T09:56:43.102Z"
       },
       "points_history": [
         {
