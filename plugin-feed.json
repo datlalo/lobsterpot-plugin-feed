@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T10:08:13.562Z",
+  "generated_at": "2026-10-01T13:08:59.126Z",
   "broadcasts": [],
   "events": [
     {
@@ -4042,26 +4042,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-20 22:12:14.780985+00",
-      "points_total": 1095,
+      "points_total": 1085,
       "points_spent": 1000,
-      "points_available": 95,
+      "points_available": 85,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 405,
+        "missing_points": 415,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-08T11:43:03.680Z",
-          "delta": 15,
-          "reason": "Farming SOTW 4th-6th place",
-          "balance": 10
-        },
         {
           "timestamp": "2026-07-09T06:47:48.400Z",
           "delta": 10,
@@ -4207,10 +4201,16 @@
           "balance": -100
         },
         {
+          "timestamp": "2026-10-01T13:08:57.607Z",
+          "delta": -10,
+          "reason": "Being a separtist scum",
+          "balance": -110
+        },
+        {
           "timestamp": "2026-10-01T00:33:09.030Z",
           "delta": 195,
           "reason": "Tenure points",
-          "balance": 95
+          "balance": 85
         }
       ]
     },
