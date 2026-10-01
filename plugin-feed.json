@@ -1,8 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T00:33:11.825Z",
+  "generated_at": "2026-10-01T08:29:11.647Z",
   "broadcasts": [],
-  "events": [],
+  "events": [
+    {
+      "id": "cbfb96ca-59e2-447f-9275-54af616289f5",
+      "type": "event",
+      "title": "Amoxliatl Sunday",
+      "location": null,
+      "starts_at": "2026-10-03T16:00:00.000Z",
+      "ends_at": "2026-10-05T04:00:00.000Z",
+      "description": "💰 Buy-In\n500k for 50 Amoxliatl kills\n1m for 100 Giant Mole kills\nMaximum 100 kills per week\n\nPay a staff member to get entered or screenshot depositing GP into the clan coffer.\nSend a screenshot in this channel showing your starting KC. And tell us if you want 50 or 100KC. \n\n📅 When kills count\nKills must be done during the time frame shown above. Outside that window, kills don't count toward the event. \n\n🏆 The Prize Pool\nAll buy-in gold goes into the prize pool. It rolls over and grows every Sunday until someone gets the pet - then the full pool (plus whatever is donated from the clan bank) pays out to whoever pinned it.\n\n❓ FAQ\nCan I bank kills across weeks?\nPaid kills don’t carry over to next week if you didn’t finish them. Best approach is to just buy what you can do on any given Monday. \n\nDo I have to finish my kills to stay eligible for the pet?\nYou're eligible for the pet on any kill that counts, as long as you've got paid kills remaining. Get the pet on kill #3 of 100? The pool is yours.\n\nWhen do kills NOT count?\nAnything outside the event window and anything done before you've paid and sent screenshots. (maximum 100 kills per Monday).",
+      "thread_id": "1522561512089194536"
+    }
+  ],
   "bounties": [],
   "members": [
     {
