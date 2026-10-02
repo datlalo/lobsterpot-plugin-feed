@@ -1,8 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T23:18:05.090Z",
+  "generated_at": "2026-10-02T23:21:07.223Z",
   "broadcasts": [],
   "events": [
+    {
+      "id": "f19858f8-e654-413a-88aa-42f4f3baa35f",
+      "type": "event",
+      "title": "Pumpkin Carving Contest",
+      "location": null,
+      "starts_at": "2026-09-30T23:00:00.000Z",
+      "ends_at": "2026-10-31T23:59:00.000Z",
+      "description": "",
+      "thread_id": "1555721009339048101"
+    },
     {
       "id": "cbfb96ca-59e2-447f-9275-54af616289f5",
       "type": "event",
