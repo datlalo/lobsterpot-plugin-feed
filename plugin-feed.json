@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T00:33:13.352Z",
+  "generated_at": "2026-10-02T06:18:21.539Z",
   "broadcasts": [],
   "events": [
     {
@@ -9551,34 +9551,6 @@
           "delta": 117,
           "reason": "Tenure points",
           "balance": 92
-        }
-      ]
-    },
-    {
-      "rsn": "Grayest",
-      "rsn_key": "grayest",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-06-19",
-      "points_total": 105,
-      "points_spent": 0,
-      "points_available": 105,
-      "months_in_clan": 3,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-02T00:33:10.536Z",
-          "delta": 105,
-          "reason": "Tenure points",
-          "balance": 105
         }
       ]
     },
@@ -23049,6 +23021,34 @@
           "delta": 97,
           "reason": "Tenure points",
           "balance": 97
+        }
+      ]
+    },
+    {
+      "rsn": "Tricep Pump",
+      "rsn_key": "triceppump",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-06-19",
+      "points_total": 105,
+      "points_spent": 0,
+      "points_available": 105,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-10-02T00:33:10.536Z",
+          "delta": 105,
+          "reason": "Tenure points",
+          "balance": 105
         }
       ]
     },
