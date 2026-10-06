@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T04:01:45.789Z",
+  "generated_at": "2026-10-06T04:16:49.548Z",
   "broadcasts": [],
   "events": [
     {
@@ -15591,26 +15591,21 @@
     {
       "rsn": "Name Cha nge",
       "rsn_key": "namechange",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2026-07-05",
       "points_total": 458,
-      "points_spent": 100,
-      "points_available": 358,
+      "points_spent": 300,
+      "points_available": 158,
       "months_in_clan": 3,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 142,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Emerald",
-        "created_at": "2026-10-06T04:01:43.704Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -15656,10 +15651,16 @@
           "balance": 265
         },
         {
+          "timestamp": "2026-10-06T04:16:48.033Z",
+          "delta": -200,
+          "reason": "Rank upgrade: Emerald",
+          "balance": 65
+        },
+        {
           "timestamp": "2026-10-06T00:33:16.756Z",
           "delta": 93,
           "reason": "Tenure points",
-          "balance": 358
+          "balance": 158
         }
       ]
     },
