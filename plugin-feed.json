@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T04:16:49.548Z",
+  "generated_at": "2026-10-06T10:18:29.659Z",
   "broadcasts": [],
   "events": [
     {
@@ -1569,34 +1569,6 @@
           "delta": 170,
           "reason": "Tenure points",
           "balance": 75
-        }
-      ]
-    },
-    {
-      "rsn": "a plain egg",
-      "rsn_key": "aplainegg",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-07-24",
-      "points_total": 74,
-      "points_spent": 0,
-      "points_available": 74,
-      "months_in_clan": 2,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 26,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-06T00:33:16.756Z",
-          "delta": 74,
-          "reason": "Tenure points",
-          "balance": 74
         }
       ]
     },
@@ -9297,34 +9269,6 @@
       ]
     },
     {
-      "rsn": "goat biryani",
-      "rsn_key": "goatbiryani",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-07-08",
-      "points_total": 90,
-      "points_spent": 0,
-      "points_available": 90,
-      "months_in_clan": 2,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 10,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-06T00:33:16.756Z",
-          "delta": 90,
-          "reason": "Tenure points",
-          "balance": 90
-        }
-      ]
-    },
-    {
       "rsn": "gods quads",
       "rsn_key": "godsquads",
       "bot_rank": "Sapphire",
@@ -11905,6 +11849,26 @@
           "balance": 467
         }
       ]
+    },
+    {
+      "rsn": "isekai genre",
+      "rsn_key": "isekaigenre",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-06",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "iSinthetyk",
@@ -20753,6 +20717,26 @@
       ]
     },
     {
+      "rsn": "slug meat",
+      "rsn_key": "slugmeat",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-06",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "smukii",
       "rsn_key": "smukii",
       "bot_rank": "Gnome",
@@ -20947,6 +20931,26 @@
           "balance": 2407
         }
       ]
+    },
+    {
+      "rsn": "SP1NNER",
+      "rsn_key": "sp1nner",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-06",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "spacelazor",
@@ -24635,34 +24639,6 @@
           "delta": 90,
           "reason": "Tenure points",
           "balance": 135
-        }
-      ]
-    },
-    {
-      "rsn": "whoneedwaifu",
-      "rsn_key": "whoneedwaifu",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-09-26",
-      "points_total": 10,
-      "points_spent": 0,
-      "points_available": 10,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 90,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-06T00:33:16.756Z",
-          "delta": 10,
-          "reason": "Tenure points",
-          "balance": 10
         }
       ]
     },
