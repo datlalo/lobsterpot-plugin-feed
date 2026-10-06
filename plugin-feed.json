@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T14:13:08.315Z",
+  "generated_at": "2026-10-06T19:23:06.803Z",
   "broadcasts": [],
   "events": [
     {
@@ -20805,20 +20805,28 @@
       "rsn_key": "slugmeat",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
-      "join_date": "2026-10-06",
-      "points_total": 0,
+      "join_date": "2026-09-26",
+      "points_total": 10,
       "points_spent": 0,
-      "points_available": 0,
+      "points_available": 10,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 100,
+        "missing_points": 90,
         "missing_months": 1,
         "can_claim": false
-      }
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-10-06T00:33:16.756Z",
+          "delta": 10,
+          "reason": "Tenure points",
+          "balance": 10
+        }
+      ]
     },
     {
       "rsn": "smukii",
