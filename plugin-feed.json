@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T12:18:31.495Z",
+  "generated_at": "2026-10-06T14:00:36.942Z",
   "broadcasts": [],
   "events": [
     {
@@ -12,6 +12,16 @@
       "ends_at": "2026-10-31T23:59:00.000Z",
       "description": "",
       "thread_id": "1555721009339048101"
+    },
+    {
+      "id": "e6cf1d30-5840-43c8-9c8a-0dd387518311",
+      "type": "event",
+      "title": "Blutz Wavez MAX PARTY!",
+      "location": "Tears of Guthix - Near Juna - World 302",
+      "starts_at": "2026-10-10T03:00:00.000Z",
+      "ends_at": null,
+      "description": "🎉 Blutz Wavez is MAXING! 🎉\nAfter countless hours of salvaging, chopping trees, and clicking on agility obstacles for roughly 237 hours (seriously, why do we all play this game?!), our very own Blutz Wavez is hitting that coveted 2376 total and you're invited to watch it happen!\n\n🏆 The Final Countdown (Dun Dun Dun Dun, DunDunDun Dun Dun)\nCome watch the last level drop near Tears of Guthix. Bring your shell instruments, party hats, and best emotes.\n\n💰 Membership giveaways\nBlutz is giving away a bond's worth of membership to up to five (5) lucky clannies at random times throughout the event. You have to be there to win, so stick around! \n\nOh - and it's no accident that this event is scheduled on that same day as this month's Halloween Costume Contest - maybe some of that membership gets tossed at whoever is dressed to the (ninety-)nines...\n\n⚔️ Mass CoX (Get the Jokes Out Now, Lalo)\nAfter the celebration we're heading into the Chambers of Xeric as a clan. All experience levels welcome, so don't sweat it if you're new to raids. Well, DO sweat it a little bit -- relying on the skill of other's is probably the only way I'll ever get a TBow.\n\nBonus points if you also wear your aforementioned costume into CoX. \n\nMass CoX Start Time: Like literally right after Blutz maxes - just be there! 😉\nHow to join\nReact with ✅ below if you're coming so we can get a headcount, and hop into voice when the event starts to chat with the gang.\n\nLet's give Blutz the send-off into maxed life he deserves. See you there! 🦞",
+      "thread_id": "1556833808282689556"
     }
   ],
   "bounties": [],
