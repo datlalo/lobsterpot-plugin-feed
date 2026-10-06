@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T12:07:06.408Z",
+  "generated_at": "2026-10-06T12:10:08.576Z",
   "broadcasts": [],
   "events": [
     {
@@ -19099,26 +19099,21 @@
     {
       "rsn": "Saltydave",
       "rsn_key": "saltydave",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2026-02-22",
       "points_total": 321,
-      "points_spent": 100,
-      "points_available": 221,
+      "points_spent": 300,
+      "points_available": 21,
       "months_in_clan": 7,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 279,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Emerald",
-        "created_at": "2026-10-06T12:07:04.190Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -19176,10 +19171,16 @@
           "balance": -5
         },
         {
+          "timestamp": "2026-10-06T12:07:14.213Z",
+          "delta": -200,
+          "reason": "Rank upgrade: Emerald",
+          "balance": -205
+        },
+        {
           "timestamp": "2026-10-06T00:33:16.756Z",
           "delta": 226,
           "reason": "Tenure points",
-          "balance": 221
+          "balance": 21
         }
       ]
     },
