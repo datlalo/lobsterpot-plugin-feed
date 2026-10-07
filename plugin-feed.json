@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T09:34:36.446Z",
+  "generated_at": "2026-10-07T09:37:38.603Z",
   "broadcasts": [],
   "events": [
     {
@@ -45,6 +45,38 @@
     }
   ],
   "bounties": [
+    {
+      "id": "70",
+      "name": "Dagannoth Kings BOTW - Master",
+      "active": true,
+      "points": 75,
+      "description": "Any of the Dagannoth Kings Pet drops",
+      "expires_at": "2026-10-15T00:00:00.000Z"
+    },
+    {
+      "id": "69",
+      "name": "Dagannoth Kings BOTW - Elite",
+      "active": true,
+      "points": 60,
+      "description": "150 KC of EACH Dagannoth King OR All 4 Rings",
+      "expires_at": "2026-10-15T00:00:00.000Z"
+    },
+    {
+      "id": "68",
+      "name": "Dagannoth Kings BOTW - Hard",
+      "active": true,
+      "points": 45,
+      "description": "Dragon Axe, Seercull or Mud Battlestaff drop from Dagannoth Kings",
+      "expires_at": "2026-10-15T00:00:00.000Z"
+    },
+    {
+      "id": "67",
+      "name": "Dagannoth Kings BOTW - Medium",
+      "active": true,
+      "points": 30,
+      "description": "75 KC of two different Kings",
+      "expires_at": "2026-10-15T00:00:00.000Z"
+    },
     {
       "id": "66",
       "name": "Dagannoth Kings BOTW - Easy",
