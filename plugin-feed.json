@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T15:02:04.621Z",
+  "generated_at": "2026-10-07T15:05:07.299Z",
   "broadcasts": [],
   "events": [
     {
@@ -18561,6 +18561,26 @@
       ]
     },
     {
+      "rsn": "Red Farms",
+      "rsn_key": "redfarms",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-07",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "Relye",
       "rsn_key": "relye",
       "bot_rank": "Founder",
@@ -23413,6 +23433,26 @@
           "balance": 57
         }
       ]
+    },
+    {
+      "rsn": "Tyn Nattmann",
+      "rsn_key": "tynnattmann",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-07",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "Tyrannomisu",
