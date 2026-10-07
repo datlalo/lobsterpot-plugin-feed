@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T01:08:11.208Z",
+  "generated_at": "2026-10-07T09:07:16.384Z",
   "broadcasts": [],
   "events": [
     {
@@ -21043,28 +21043,28 @@
     {
       "rsn": "SP1NNER",
       "rsn_key": "sp1nner",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-10-06",
-      "points_total": 1,
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2025-11-14",
+      "points_total": 327,
       "points_spent": 0,
-      "points_available": 1,
-      "months_in_clan": 0,
+      "points_available": 327,
+      "months_in_clan": 10,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 99,
-        "missing_months": 1,
-        "can_claim": false
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
       },
       "points_history": [
         {
-          "timestamp": "2026-10-07T00:33:18.249Z",
-          "delta": 1,
+          "timestamp": "2026-10-07T09:07:14.865Z",
+          "delta": 327,
           "reason": "Tenure points",
-          "balance": 1
+          "balance": 327
         }
       ]
     },
