@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T16:36:46.753Z",
+  "generated_at": "2026-10-07T17:19:04.240Z",
   "broadcasts": [],
   "events": [
     {
@@ -9841,6 +9841,15 @@
           "delta": 272,
           "reason": "Tenure points",
           "balance": 87
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "68",
+          "name": "Dagannoth Kings BOTW - Hard",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-07T17:19:02.731Z"
         }
       ]
     },
