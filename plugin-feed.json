@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T17:27:12.169Z",
+  "generated_at": "2026-10-07T17:30:14.451Z",
   "broadcasts": [],
   "events": [
     {
@@ -6777,9 +6777,9 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-02-14",
-      "points_total": 1430,
+      "points_total": 1475,
       "points_spent": 800,
-      "points_available": 630,
+      "points_available": 675,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Dragonstone",
@@ -6791,12 +6791,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-14T20:04:04.589Z",
-          "delta": 15,
-          "reason": "Discord adjustment",
-          "balance": 265
-        },
         {
           "timestamp": "2026-06-23T14:08:56.380Z",
           "delta": 15,
@@ -6942,17 +6936,23 @@
           "balance": 395
         },
         {
+          "timestamp": "2026-10-07T17:28:13.766Z",
+          "delta": 45,
+          "reason": "Bounty: Dagannoth Kings BOTW - Hard",
+          "balance": 440
+        },
+        {
           "timestamp": "2026-10-07T00:33:18.249Z",
           "delta": 235,
           "reason": "Tenure points",
-          "balance": 630
+          "balance": 675
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "68",
           "name": "Dagannoth Kings BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-07T15:02:03.108Z"
         }
@@ -7246,9 +7246,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-05-17 14:00:07.458542+00",
-      "points_total": 978,
+      "points_total": 1023,
       "points_spent": 500,
-      "points_available": 478,
+      "points_available": 523,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Diamond",
@@ -7393,10 +7393,16 @@
           "balance": 335
         },
         {
+          "timestamp": "2026-10-07T17:27:54.752Z",
+          "delta": 45,
+          "reason": "Bounty: Dagannoth Kings BOTW - Hard",
+          "balance": 380
+        },
+        {
           "timestamp": "2026-10-07T00:33:18.249Z",
           "delta": 143,
           "reason": "Tenure points",
-          "balance": 478
+          "balance": 523
         }
       ],
       "pending_bounties": [
@@ -7410,7 +7416,7 @@
         {
           "bounty_id": "68",
           "name": "Dagannoth Kings BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-07T16:35:17.812Z"
         }
