@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T09:18:31.770Z",
+  "generated_at": "2026-10-07T09:34:36.446Z",
   "broadcasts": [],
   "events": [
     {
@@ -44,7 +44,16 @@
       "thread_id": "1557030710110462035"
     }
   ],
-  "bounties": [],
+  "bounties": [
+    {
+      "id": "66",
+      "name": "Dagannoth Kings BOTW - Easy",
+      "active": true,
+      "points": 15,
+      "description": "50 KC of any King",
+      "expires_at": "2026-10-15T00:00:00.000Z"
+    }
+  ],
   "members": [
     {
       "rsn": "0gass",
