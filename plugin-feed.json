@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T17:03:35.525Z",
+  "generated_at": "2026-10-08T17:57:04.931Z",
   "broadcasts": [],
   "events": [
     {
@@ -7501,6 +7501,13 @@
           "status": "pending",
           "reason": null,
           "created_at": "2026-10-08T11:04:26.850Z"
+        },
+        {
+          "bounty_id": "69",
+          "name": "Dagannoth Kings BOTW - Elite",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-08T17:57:03.421Z"
         }
       ]
     },
