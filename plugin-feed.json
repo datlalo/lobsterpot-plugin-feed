@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T06:39:57.087Z",
+  "generated_at": "2026-10-08T07:13:42.214Z",
   "broadcasts": [],
   "events": [
     {
@@ -84,7 +84,7 @@
       "name": "Dagannoth Kings BOTW - Medium",
       "active": true,
       "points": 30,
-      "description": "75 KC of two different Kings each",
+      "description": "75kc each of two kings",
       "expires_at": "2026-10-15T00:00:00.000Z"
     },
     {
