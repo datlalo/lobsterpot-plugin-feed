@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T20:10:36.416Z",
+  "generated_at": "2026-10-08T21:58:19.545Z",
   "broadcasts": [],
   "events": [
     {
@@ -2282,6 +2282,13 @@
           "status": "pending",
           "reason": null,
           "created_at": "2026-10-08T20:09:17.267Z"
+        },
+        {
+          "bounty_id": "67",
+          "name": "Dagannoth Kings BOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-08T21:58:18.030Z"
         }
       ]
     },
