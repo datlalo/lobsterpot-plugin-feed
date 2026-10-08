@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T06:01:10.660Z",
+  "generated_at": "2026-10-08T06:04:13.112Z",
   "broadcasts": [],
   "events": [
     {
@@ -647,9 +647,9 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-09-25",
-      "points_total": 3406,
+      "points_total": 3541,
       "points_spent": 2030,
-      "points_available": 1376,
+      "points_available": 1511,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Zenyte",
@@ -661,24 +661,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-06T22:44:37.686Z",
-          "delta": 75,
-          "reason": "Bounty: Fishing SOTW - Master",
-          "balance": 1018
-        },
-        {
-          "timestamp": "2026-08-09T07:19:51.306Z",
-          "delta": 45,
-          "reason": "Bounty: Fishing SOTW - Hard",
-          "balance": 1063
-        },
-        {
-          "timestamp": "2026-08-09T16:55:33.561Z",
-          "delta": 10,
-          "reason": "100kc scurrius sunday",
-          "balance": 1073
-        },
         {
           "timestamp": "2026-08-11T02:22:00.716Z",
           "delta": 60,
@@ -812,26 +794,58 @@
           "balance": 998
         },
         {
+          "timestamp": "2026-10-08T06:04:05.270Z",
+          "delta": 60,
+          "reason": "Bounty: Dagannoth Kings BOTW - Elite",
+          "balance": 1058
+        },
+        {
+          "timestamp": "2026-10-08T06:04:08.210Z",
+          "delta": 45,
+          "reason": "Bounty: Dagannoth Kings BOTW - Hard",
+          "balance": 1103
+        },
+        {
+          "timestamp": "2026-10-08T06:04:11.547Z",
+          "delta": 30,
+          "reason": "Bounty: Dagannoth Kings BOTW - Medium",
+          "balance": 1133
+        },
+        {
           "timestamp": "2026-10-08T00:33:19.766Z",
           "delta": 378,
           "reason": "Tenure points",
-          "balance": 1376
+          "balance": 1511
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "69",
           "name": "Dagannoth Kings BOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-08T06:01:09.139Z"
         },
         {
           "bounty_id": "68",
           "name": "Dagannoth Kings BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-08T06:01:09.140Z"
+        },
+        {
+          "bounty_id": "66",
+          "name": "Dagannoth Kings BOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-08T06:02:09.158Z"
+        },
+        {
+          "bounty_id": "67",
+          "name": "Dagannoth Kings BOTW - Medium",
+          "status": "approved",
+          "reason": null,
+          "created_at": "2026-10-08T06:02:09.158Z"
         }
       ]
     },
@@ -17397,9 +17411,9 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-09-25",
-      "points_total": 3406,
+      "points_total": 3541,
       "points_spent": 2030,
-      "points_available": 1376,
+      "points_available": 1511,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Zenyte",
@@ -17411,24 +17425,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-06T22:44:37.686Z",
-          "delta": 75,
-          "reason": "Bounty: Fishing SOTW - Master",
-          "balance": 1018
-        },
-        {
-          "timestamp": "2026-08-09T07:19:51.306Z",
-          "delta": 45,
-          "reason": "Bounty: Fishing SOTW - Hard",
-          "balance": 1063
-        },
-        {
-          "timestamp": "2026-08-09T16:55:33.561Z",
-          "delta": 10,
-          "reason": "100kc scurrius sunday",
-          "balance": 1073
-        },
         {
           "timestamp": "2026-08-11T02:22:00.716Z",
           "delta": 60,
@@ -17562,26 +17558,58 @@
           "balance": 998
         },
         {
+          "timestamp": "2026-10-08T06:04:05.270Z",
+          "delta": 60,
+          "reason": "Bounty: Dagannoth Kings BOTW - Elite",
+          "balance": 1058
+        },
+        {
+          "timestamp": "2026-10-08T06:04:08.210Z",
+          "delta": 45,
+          "reason": "Bounty: Dagannoth Kings BOTW - Hard",
+          "balance": 1103
+        },
+        {
+          "timestamp": "2026-10-08T06:04:11.547Z",
+          "delta": 30,
+          "reason": "Bounty: Dagannoth Kings BOTW - Medium",
+          "balance": 1133
+        },
+        {
           "timestamp": "2026-10-08T00:33:19.766Z",
           "delta": 378,
           "reason": "Tenure points",
-          "balance": 1376
+          "balance": 1511
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "69",
           "name": "Dagannoth Kings BOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-08T06:01:09.139Z"
         },
         {
           "bounty_id": "68",
           "name": "Dagannoth Kings BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-08T06:01:09.140Z"
+        },
+        {
+          "bounty_id": "66",
+          "name": "Dagannoth Kings BOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-08T06:02:09.158Z"
+        },
+        {
+          "bounty_id": "67",
+          "name": "Dagannoth Kings BOTW - Medium",
+          "status": "approved",
+          "reason": null,
+          "created_at": "2026-10-08T06:02:09.158Z"
         }
       ]
     },
