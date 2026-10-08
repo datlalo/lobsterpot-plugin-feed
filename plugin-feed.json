@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T11:04:28.355Z",
+  "generated_at": "2026-10-08T11:24:58.371Z",
   "broadcasts": [],
   "events": [
     {
@@ -8023,6 +8023,15 @@
           "reason": "Tenure points",
           "balance": 92
         }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "68",
+          "name": "Dagannoth Kings BOTW - Hard",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-08T11:24:56.867Z"
+        }
       ]
     },
     {
@@ -8200,6 +8209,15 @@
           "delta": 382,
           "reason": "Tenure points",
           "balance": 92
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "68",
+          "name": "Dagannoth Kings BOTW - Hard",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-08T11:24:56.867Z"
         }
       ]
     },
@@ -8827,6 +8845,15 @@
           "delta": 382,
           "reason": "Tenure points",
           "balance": 92
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "68",
+          "name": "Dagannoth Kings BOTW - Hard",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-08T11:24:56.867Z"
         }
       ]
     },
