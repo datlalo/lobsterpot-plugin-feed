@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T11:01:27.333Z",
+  "generated_at": "2026-10-09T12:18:37.382Z",
   "broadcasts": [],
   "events": [
     {
@@ -25512,26 +25512,80 @@
       "rsn_key": "wooimboutta",
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
-      "join_date": "2026-10-08",
-      "points_total": 1,
-      "points_spent": 0,
-      "points_available": 1,
-      "months_in_clan": 0,
+      "join_date": "2026-07-10",
+      "points_total": 330,
+      "points_spent": 300,
+      "points_available": 30,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 299,
-        "missing_months": 3,
+        "missing_points": 270,
+        "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
         {
-          "timestamp": "2026-10-09T00:33:21.296Z",
-          "delta": 1,
+          "timestamp": "2026-08-05T16:34:15.302Z",
+          "delta": 15,
+          "reason": "Bounty: Fishing SOTW - Easy",
+          "balance": 15
+        },
+        {
+          "timestamp": "2026-08-06T05:14:54.522Z",
+          "delta": 30,
+          "reason": "Bounty: Fishing SOTW - Medium",
+          "balance": 45
+        },
+        {
+          "timestamp": "2026-08-06T20:49:58.868Z",
+          "delta": 45,
+          "reason": "Bounty: Fishing SOTW - Hard",
+          "balance": 90
+        },
+        {
+          "timestamp": "2026-08-09T23:26:59.414Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -10
+        },
+        {
+          "timestamp": "2026-09-20T15:32:47.870Z",
+          "delta": 15,
+          "reason": "Bounty: Mad Angel BOTW - Easy",
+          "balance": 5
+        },
+        {
+          "timestamp": "2026-09-20T15:33:38.347Z",
+          "delta": 30,
+          "reason": "Bounty: Mad Angel BOTW - Medium",
+          "balance": 35
+        },
+        {
+          "timestamp": "2026-09-20T15:33:42.991Z",
+          "delta": 45,
+          "reason": "Bounty: Mad Angel BOTW - Hard",
+          "balance": 80
+        },
+        {
+          "timestamp": "2026-09-20T16:17:18.954Z",
+          "delta": 60,
+          "reason": "Bounty: Mad Angel BOTW - Elite",
+          "balance": 140
+        },
+        {
+          "timestamp": "2026-09-20T16:49:13.572Z",
+          "delta": -200,
+          "reason": "Rank upgrade: Emerald",
+          "balance": -60
+        },
+        {
+          "timestamp": "2026-10-08T00:33:19.766Z",
+          "delta": 90,
           "reason": "Tenure points",
-          "balance": 1
+          "balance": 30
         }
       ]
     },
