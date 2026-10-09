@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T00:33:24.157Z",
+  "generated_at": "2026-10-09T01:03:35.745Z",
   "broadcasts": [],
   "events": [
     {
@@ -544,100 +544,6 @@
           "delta": 383,
           "reason": "Tenure points",
           "balance": 658
-        }
-      ]
-    },
-    {
-      "rsn": "AcidDiet",
-      "rsn_key": "aciddiet",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2026-01-29",
-      "points_total": 468,
-      "points_spent": 110,
-      "points_available": 358,
-      "months_in_clan": 8,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-02-25T07:29:43.943Z",
-          "delta": 15,
-          "reason": "Discord adjustment",
-          "balance": 0
-        },
-        {
-          "timestamp": "2026-03-04T23:36:52.869Z",
-          "delta": 15,
-          "reason": "Points transferred from unclaimed member on account link",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-03-05T00:30:43.849Z",
-          "delta": 60,
-          "reason": "Bounty reward: Elite Tier bounty - Zulrah",
-          "balance": 75
-        },
-        {
-          "timestamp": "2026-03-05T06:26:31.823Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier Bounty - Zulrah",
-          "balance": 90
-        },
-        {
-          "timestamp": "2026-03-05T06:26:43.809Z",
-          "delta": 40,
-          "reason": "Bounty reward: Hard Tier Bounty - Zulrah",
-          "balance": 130
-        },
-        {
-          "timestamp": "2026-03-05T06:26:49.887Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier Bounty - Zulrah",
-          "balance": 160
-        },
-        {
-          "timestamp": "2026-03-05T07:34:59.849Z",
-          "delta": -10,
-          "reason": "Raffle tickets x1",
-          "balance": 150
-        },
-        {
-          "timestamp": "2026-03-05T07:36:56.712Z",
-          "delta": 0,
-          "reason": "Account change: Change Join Date to \"2026-01-29\"",
-          "balance": 150
-        },
-        {
-          "timestamp": "2026-03-05T07:53:44.449Z",
-          "delta": -100,
-          "reason": "Rank upgraded to: Sapphire",
-          "balance": 50
-        },
-        {
-          "timestamp": "2026-04-14T17:39:36.677Z",
-          "delta": 50,
-          "reason": "Donation Monthly Raffle Winner",
-          "balance": 100
-        },
-        {
-          "timestamp": "2026-04-14T19:59:15.588Z",
-          "delta": 5,
-          "reason": "Discord adjustment",
-          "balance": 105
-        },
-        {
-          "timestamp": "2026-10-09T00:33:21.296Z",
-          "delta": 253,
-          "reason": "Tenure points",
-          "balance": 358
         }
       ]
     },
@@ -14607,6 +14513,100 @@
           "delta": 355,
           "reason": "Tenure points",
           "balance": 355
+        }
+      ]
+    },
+    {
+      "rsn": "massiveshit",
+      "rsn_key": "massiveshit",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-01-29",
+      "points_total": 468,
+      "points_spent": 110,
+      "points_available": 358,
+      "months_in_clan": 8,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-02-25T07:29:43.943Z",
+          "delta": 15,
+          "reason": "Discord adjustment",
+          "balance": 0
+        },
+        {
+          "timestamp": "2026-03-04T23:36:52.869Z",
+          "delta": 15,
+          "reason": "Points transferred from unclaimed member on account link",
+          "balance": 15
+        },
+        {
+          "timestamp": "2026-03-05T00:30:43.849Z",
+          "delta": 60,
+          "reason": "Bounty reward: Elite Tier bounty - Zulrah",
+          "balance": 75
+        },
+        {
+          "timestamp": "2026-03-05T06:26:31.823Z",
+          "delta": 15,
+          "reason": "Bounty reward: Easy Tier Bounty - Zulrah",
+          "balance": 90
+        },
+        {
+          "timestamp": "2026-03-05T06:26:43.809Z",
+          "delta": 40,
+          "reason": "Bounty reward: Hard Tier Bounty - Zulrah",
+          "balance": 130
+        },
+        {
+          "timestamp": "2026-03-05T06:26:49.887Z",
+          "delta": 30,
+          "reason": "Bounty reward: Medium Tier Bounty - Zulrah",
+          "balance": 160
+        },
+        {
+          "timestamp": "2026-03-05T07:34:59.849Z",
+          "delta": -10,
+          "reason": "Raffle tickets x1",
+          "balance": 150
+        },
+        {
+          "timestamp": "2026-03-05T07:36:56.712Z",
+          "delta": 0,
+          "reason": "Account change: Change Join Date to \"2026-01-29\"",
+          "balance": 150
+        },
+        {
+          "timestamp": "2026-03-05T07:53:44.449Z",
+          "delta": -100,
+          "reason": "Rank upgraded to: Sapphire",
+          "balance": 50
+        },
+        {
+          "timestamp": "2026-04-14T17:39:36.677Z",
+          "delta": 50,
+          "reason": "Donation Monthly Raffle Winner",
+          "balance": 100
+        },
+        {
+          "timestamp": "2026-04-14T19:59:15.588Z",
+          "delta": 5,
+          "reason": "Discord adjustment",
+          "balance": 105
+        },
+        {
+          "timestamp": "2026-10-09T00:33:21.296Z",
+          "delta": 253,
+          "reason": "Tenure points",
+          "balance": 358
         }
       ]
     },
