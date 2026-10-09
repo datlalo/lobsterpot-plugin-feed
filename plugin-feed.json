@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T06:50:23.740Z",
+  "generated_at": "2026-10-09T10:58:24.730Z",
   "broadcasts": [],
   "events": [
     {
@@ -8455,6 +8455,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-10-08T15:17:19.584Z"
+        },
+        {
+          "bounty_id": "66",
+          "name": "Dagannoth Kings BOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-09T10:58:23.224Z"
         }
       ]
     },
@@ -24033,6 +24040,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-10-08T15:17:19.584Z"
+        },
+        {
+          "bounty_id": "66",
+          "name": "Dagannoth Kings BOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-09T10:58:23.224Z"
         }
       ]
     },
