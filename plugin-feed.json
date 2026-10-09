@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T15:18:37.496Z",
+  "generated_at": "2026-10-09T15:43:43.775Z",
   "broadcasts": [],
   "events": [
     {
@@ -8336,26 +8336,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-02",
-      "points_total": 1645,
+      "points_total": 1660,
       "points_spent": 1400,
-      "points_available": 245,
+      "points_available": 260,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 555,
+        "missing_points": 540,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-09T00:43:22.900Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier Bounty - Zulrah",
-          "balance": 305
-        },
         {
           "timestamp": "2026-03-09T00:43:28.241Z",
           "delta": 60,
@@ -8501,10 +8495,16 @@
           "balance": -96
         },
         {
+          "timestamp": "2026-10-09T15:43:42.266Z",
+          "delta": 15,
+          "reason": "Bounty: Dagannoth Kings BOTW - Easy",
+          "balance": -81
+        },
+        {
           "timestamp": "2026-10-09T00:33:21.296Z",
           "delta": 341,
           "reason": "Tenure points",
-          "balance": 245
+          "balance": 260
         }
       ],
       "pending_bounties": [
@@ -8525,7 +8525,7 @@
         {
           "bounty_id": "66",
           "name": "Dagannoth Kings BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-09T10:58:23.224Z"
         },
@@ -23909,26 +23909,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-02",
-      "points_total": 1645,
+      "points_total": 1660,
       "points_spent": 1400,
-      "points_available": 245,
+      "points_available": 260,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 555,
+        "missing_points": 540,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-09T00:43:22.900Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier Bounty - Zulrah",
-          "balance": 305
-        },
         {
           "timestamp": "2026-03-09T00:43:28.241Z",
           "delta": 60,
@@ -24074,10 +24068,16 @@
           "balance": -96
         },
         {
+          "timestamp": "2026-10-09T15:43:42.266Z",
+          "delta": 15,
+          "reason": "Bounty: Dagannoth Kings BOTW - Easy",
+          "balance": -81
+        },
+        {
           "timestamp": "2026-10-09T00:33:21.296Z",
           "delta": 341,
           "reason": "Tenure points",
-          "balance": 245
+          "balance": 260
         }
       ],
       "pending_bounties": [
@@ -24098,7 +24098,7 @@
         {
           "bounty_id": "66",
           "name": "Dagannoth Kings BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-09T10:58:23.224Z"
         },
