@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T06:44:18.302Z",
+  "generated_at": "2026-10-09T06:47:21.036Z",
   "broadcasts": [],
   "events": [
     {
@@ -2003,38 +2003,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2026-01-31",
-      "points_total": 1626,
+      "points_total": 1716,
       "points_spent": 1550,
-      "points_available": 76,
+      "points_available": 166,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 724,
+        "missing_points": 634,
         "missing_months": 4,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-22T17:39:35.113Z",
-          "delta": 60,
-          "reason": "Bounty: Slayer BOTM Elite Bounty",
-          "balance": 245
-        },
-        {
-          "timestamp": "2026-06-22T17:42:06.596Z",
-          "delta": 30,
-          "reason": "Bounty: Slayer BOTM Medium Bounty",
-          "balance": 275
-        },
-        {
-          "timestamp": "2026-06-23T13:27:59.416Z",
-          "delta": 15,
-          "reason": "Bounty: Slayer BOTM Easy Bounty",
-          "balance": 290
-        },
         {
           "timestamp": "2026-06-23T19:00:56.812Z",
           "delta": -300,
@@ -2168,31 +2150,49 @@
           "balance": -175
         },
         {
+          "timestamp": "2026-10-09T06:44:37.815Z",
+          "delta": 45,
+          "reason": "Bounty: Dagannoth Kings BOTW - Hard",
+          "balance": -130
+        },
+        {
+          "timestamp": "2026-10-09T06:46:37.293Z",
+          "delta": 15,
+          "reason": "Bounty: Dagannoth Kings BOTW - Easy",
+          "balance": -115
+        },
+        {
+          "timestamp": "2026-10-09T06:47:16.754Z",
+          "delta": 30,
+          "reason": "Bounty: Dagannoth Kings BOTW - Medium",
+          "balance": -85
+        },
+        {
           "timestamp": "2026-10-09T00:33:21.296Z",
           "delta": 251,
           "reason": "Tenure points",
-          "balance": 76
+          "balance": 166
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "68",
           "name": "Dagannoth Kings BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-08T12:05:25.392Z"
         },
         {
           "bounty_id": "66",
           "name": "Dagannoth Kings BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-08T20:09:17.267Z"
         },
         {
           "bounty_id": "67",
           "name": "Dagannoth Kings BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-08T21:58:18.030Z"
         }
@@ -4054,32 +4054,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-20 22:12:14.780985+00",
-      "points_total": 1103,
+      "points_total": 1163,
       "points_spent": 1000,
-      "points_available": 103,
+      "points_available": 163,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 397,
+        "missing_points": 337,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-17T22:57:28.993Z",
-          "delta": 20,
-          "reason": "callisto mass",
-          "balance": 40
-        },
-        {
-          "timestamp": "2026-08-04T15:43:59.560Z",
-          "delta": 20,
-          "reason": "Thank you for participating in PVM Map Sweep event.",
-          "balance": 60
-        },
         {
           "timestamp": "2026-08-06T05:14:33.128Z",
           "delta": 15,
@@ -4219,24 +4207,36 @@
           "balance": -100
         },
         {
+          "timestamp": "2026-10-09T06:45:34.337Z",
+          "delta": 15,
+          "reason": "Bounty: Dagannoth Kings BOTW - Easy",
+          "balance": -85
+        },
+        {
+          "timestamp": "2026-10-09T06:45:48.864Z",
+          "delta": 45,
+          "reason": "Bounty: Dagannoth Kings BOTW - Hard",
+          "balance": -40
+        },
+        {
           "timestamp": "2026-10-09T00:33:21.296Z",
           "delta": 203,
           "reason": "Tenure points",
-          "balance": 103
+          "balance": 163
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "66",
           "name": "Dagannoth Kings BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-08T12:09:39.832Z"
         },
         {
           "bounty_id": "68",
           "name": "Dagannoth Kings BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-08T12:10:46.458Z"
         },
@@ -6768,9 +6768,9 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-02-14",
-      "points_total": 1522,
+      "points_total": 1582,
       "points_spent": 800,
-      "points_available": 722,
+      "points_available": 782,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Dragonstone",
@@ -6782,12 +6782,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-24T07:48:09.725Z",
-          "delta": 60,
-          "reason": "Bounty: Slayer BOTM Elite Bounty",
-          "balance": 370
-        },
         {
           "timestamp": "2026-06-24T13:29:17.853Z",
           "delta": -300,
@@ -6933,10 +6927,16 @@
           "balance": 485
         },
         {
+          "timestamp": "2026-10-09T06:46:26.778Z",
+          "delta": 60,
+          "reason": "Bounty: Dagannoth Kings BOTW - Elite",
+          "balance": 545
+        },
+        {
           "timestamp": "2026-10-09T00:33:21.296Z",
           "delta": 237,
           "reason": "Tenure points",
-          "balance": 722
+          "balance": 782
         }
       ],
       "pending_bounties": [
@@ -6964,7 +6964,7 @@
         {
           "bounty_id": "69",
           "name": "Dagannoth Kings BOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-08T20:07:32.463Z"
         }
@@ -7258,9 +7258,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-05-17 14:00:07.458542+00",
-      "points_total": 1070,
+      "points_total": 1130,
       "points_spent": 500,
-      "points_available": 570,
+      "points_available": 630,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Diamond",
@@ -7272,12 +7272,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-05-22T18:39:16.790Z",
-          "delta": 190,
-          "reason": "Discord adjustment",
-          "balance": 190
-        },
         {
           "timestamp": "2026-05-23T19:38:16.500Z",
           "delta": 35,
@@ -7423,10 +7417,16 @@
           "balance": 425
         },
         {
+          "timestamp": "2026-10-09T06:46:00.697Z",
+          "delta": 60,
+          "reason": "Bounty: Dagannoth Kings BOTW - Elite",
+          "balance": 485
+        },
+        {
           "timestamp": "2026-10-09T00:33:21.296Z",
           "delta": 145,
           "reason": "Tenure points",
-          "balance": 570
+          "balance": 630
         }
       ],
       "pending_bounties": [
@@ -7454,7 +7454,7 @@
         {
           "bounty_id": "69",
           "name": "Dagannoth Kings BOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-08T17:57:03.421Z"
         }
@@ -7834,26 +7834,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-21",
-      "points_total": 1293,
+      "points_total": 1338,
       "points_spent": 1200,
-      "points_available": 93,
+      "points_available": 138,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 707,
+        "missing_points": 662,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-17T23:21:15.387Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier - Woodcutting",
-          "balance": 155
-        },
         {
           "timestamp": "2026-03-17T23:21:17.005Z",
           "delta": 30,
@@ -7999,17 +7993,23 @@
           "balance": -290
         },
         {
+          "timestamp": "2026-10-09T06:44:24.389Z",
+          "delta": 45,
+          "reason": "Bounty: Dagannoth Kings BOTW - Hard",
+          "balance": -245
+        },
+        {
           "timestamp": "2026-10-09T00:33:21.296Z",
           "delta": 383,
           "reason": "Tenure points",
-          "balance": 93
+          "balance": 138
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "68",
           "name": "Dagannoth Kings BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-08T11:24:56.867Z"
         }
@@ -8021,26 +8021,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-21",
-      "points_total": 1293,
+      "points_total": 1338,
       "points_spent": 1200,
-      "points_available": 93,
+      "points_available": 138,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 707,
+        "missing_points": 662,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-17T23:21:15.387Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier - Woodcutting",
-          "balance": 155
-        },
         {
           "timestamp": "2026-03-17T23:21:17.005Z",
           "delta": 30,
@@ -8186,17 +8180,23 @@
           "balance": -290
         },
         {
+          "timestamp": "2026-10-09T06:44:24.389Z",
+          "delta": 45,
+          "reason": "Bounty: Dagannoth Kings BOTW - Hard",
+          "balance": -245
+        },
+        {
           "timestamp": "2026-10-09T00:33:21.296Z",
           "delta": 383,
           "reason": "Tenure points",
-          "balance": 93
+          "balance": 138
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "68",
           "name": "Dagannoth Kings BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-08T11:24:56.867Z"
         }
@@ -8264,26 +8264,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-02",
-      "points_total": 1600,
+      "points_total": 1645,
       "points_spent": 1400,
-      "points_available": 200,
+      "points_available": 245,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 600,
+        "missing_points": 555,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-09T00:43:20.965Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier Bounty - Zulrah",
-          "balance": 290
-        },
         {
           "timestamp": "2026-03-09T00:43:22.900Z",
           "delta": 15,
@@ -8429,10 +8423,16 @@
           "balance": -141
         },
         {
+          "timestamp": "2026-10-09T06:45:57.078Z",
+          "delta": 45,
+          "reason": "Bounty: Dagannoth Kings BOTW - Hard",
+          "balance": -96
+        },
+        {
           "timestamp": "2026-10-09T00:33:21.296Z",
           "delta": 341,
           "reason": "Tenure points",
-          "balance": 200
+          "balance": 245
         }
       ],
       "pending_bounties": [
@@ -8446,7 +8446,7 @@
         {
           "bounty_id": "68",
           "name": "Dagannoth Kings BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-08T15:17:19.584Z"
         }
@@ -8664,26 +8664,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-21",
-      "points_total": 1293,
+      "points_total": 1338,
       "points_spent": 1200,
-      "points_available": 93,
+      "points_available": 138,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 707,
+        "missing_points": 662,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-17T23:21:15.387Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier - Woodcutting",
-          "balance": 155
-        },
         {
           "timestamp": "2026-03-17T23:21:17.005Z",
           "delta": 30,
@@ -8829,17 +8823,23 @@
           "balance": -290
         },
         {
+          "timestamp": "2026-10-09T06:44:24.389Z",
+          "delta": 45,
+          "reason": "Bounty: Dagannoth Kings BOTW - Hard",
+          "balance": -245
+        },
+        {
           "timestamp": "2026-10-09T00:33:21.296Z",
           "delta": 383,
           "reason": "Tenure points",
-          "balance": 93
+          "balance": 138
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "68",
           "name": "Dagannoth Kings BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-08T11:24:56.867Z"
         }
@@ -20304,16 +20304,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-02-22",
-      "points_total": 589,
+      "points_total": 604,
       "points_spent": 420,
-      "points_available": 169,
+      "points_available": 184,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 131,
+        "missing_points": 116,
         "missing_months": 0,
         "can_claim": false
       },
@@ -20421,17 +20421,23 @@
           "balance": -60
         },
         {
+          "timestamp": "2026-10-09T06:46:17.626Z",
+          "delta": 15,
+          "reason": "Bounty: Dagannoth Kings BOTW - Easy",
+          "balance": -45
+        },
+        {
           "timestamp": "2026-10-09T00:33:21.296Z",
           "delta": 229,
           "reason": "Tenure points",
-          "balance": 169
+          "balance": 184
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "66",
           "name": "Dagannoth Kings BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-08T18:51:16.647Z"
         }
@@ -23830,26 +23836,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-02",
-      "points_total": 1600,
+      "points_total": 1645,
       "points_spent": 1400,
-      "points_available": 200,
+      "points_available": 245,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 600,
+        "missing_points": 555,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-09T00:43:20.965Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier Bounty - Zulrah",
-          "balance": 290
-        },
         {
           "timestamp": "2026-03-09T00:43:22.900Z",
           "delta": 15,
@@ -23995,10 +23995,16 @@
           "balance": -141
         },
         {
+          "timestamp": "2026-10-09T06:45:57.078Z",
+          "delta": 45,
+          "reason": "Bounty: Dagannoth Kings BOTW - Hard",
+          "balance": -96
+        },
+        {
           "timestamp": "2026-10-09T00:33:21.296Z",
           "delta": 341,
           "reason": "Tenure points",
-          "balance": 200
+          "balance": 245
         }
       ],
       "pending_bounties": [
@@ -24012,7 +24018,7 @@
         {
           "bounty_id": "68",
           "name": "Dagannoth Kings BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-08T15:17:19.584Z"
         }
