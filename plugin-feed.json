@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T15:43:43.775Z",
+  "generated_at": "2026-10-09T15:46:46.615Z",
   "broadcasts": [],
   "events": [
     {
@@ -8336,32 +8336,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-02",
-      "points_total": 1660,
+      "points_total": 1750,
       "points_spent": 1400,
-      "points_available": 260,
+      "points_available": 350,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 540,
+        "missing_points": 450,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-09T00:43:28.241Z",
-          "delta": 60,
-          "reason": "Bounty reward: Elite Tier bounty - Zulrah",
-          "balance": 365
-        },
-        {
-          "timestamp": "2026-03-17T01:28:01.352Z",
-          "delta": -200,
-          "reason": "Rank upgraded to: Emerald",
-          "balance": 165
-        },
         {
           "timestamp": "2026-04-14T20:04:12.381Z",
           "delta": 15,
@@ -8501,10 +8489,22 @@
           "balance": -81
         },
         {
+          "timestamp": "2026-10-09T15:43:45.351Z",
+          "delta": 30,
+          "reason": "Bounty: Dagannoth Kings BOTW - Medium",
+          "balance": -51
+        },
+        {
+          "timestamp": "2026-10-09T15:44:24.729Z",
+          "delta": 60,
+          "reason": "Bounty: Dagannoth Kings BOTW - Elite",
+          "balance": 9
+        },
+        {
           "timestamp": "2026-10-09T00:33:21.296Z",
           "delta": 341,
           "reason": "Tenure points",
-          "balance": 260
+          "balance": 350
         }
       ],
       "pending_bounties": [
@@ -8532,14 +8532,14 @@
         {
           "bounty_id": "67",
           "name": "Dagannoth Kings BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-09T10:58:30.698Z"
         },
         {
           "bounty_id": "69",
           "name": "Dagannoth Kings BOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-09T10:58:38.508Z"
         }
@@ -23909,32 +23909,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-02",
-      "points_total": 1660,
+      "points_total": 1750,
       "points_spent": 1400,
-      "points_available": 260,
+      "points_available": 350,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 540,
+        "missing_points": 450,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-09T00:43:28.241Z",
-          "delta": 60,
-          "reason": "Bounty reward: Elite Tier bounty - Zulrah",
-          "balance": 365
-        },
-        {
-          "timestamp": "2026-03-17T01:28:01.352Z",
-          "delta": -200,
-          "reason": "Rank upgraded to: Emerald",
-          "balance": 165
-        },
         {
           "timestamp": "2026-04-14T20:04:12.381Z",
           "delta": 15,
@@ -24074,10 +24062,22 @@
           "balance": -81
         },
         {
+          "timestamp": "2026-10-09T15:43:45.351Z",
+          "delta": 30,
+          "reason": "Bounty: Dagannoth Kings BOTW - Medium",
+          "balance": -51
+        },
+        {
+          "timestamp": "2026-10-09T15:44:24.729Z",
+          "delta": 60,
+          "reason": "Bounty: Dagannoth Kings BOTW - Elite",
+          "balance": 9
+        },
+        {
           "timestamp": "2026-10-09T00:33:21.296Z",
           "delta": 341,
           "reason": "Tenure points",
-          "balance": 260
+          "balance": 350
         }
       ],
       "pending_bounties": [
@@ -24105,14 +24105,14 @@
         {
           "bounty_id": "67",
           "name": "Dagannoth Kings BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-09T10:58:30.698Z"
         },
         {
           "bounty_id": "69",
           "name": "Dagannoth Kings BOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-09T10:58:38.508Z"
         }
@@ -25622,7 +25622,7 @@
           "balance": -60
         },
         {
-          "timestamp": "2026-10-09T12:33:22.729Z",
+          "timestamp": "2026-10-09T15:45:48.048Z",
           "delta": 91,
           "reason": "Tenure points",
           "balance": 31
