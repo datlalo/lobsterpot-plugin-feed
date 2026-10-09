@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T06:47:21.036Z",
+  "generated_at": "2026-10-09T06:50:23.740Z",
   "broadcasts": [],
   "events": [
     {
@@ -4054,26 +4054,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-20 22:12:14.780985+00",
-      "points_total": 1163,
+      "points_total": 1193,
       "points_spent": 1000,
-      "points_available": 163,
+      "points_available": 193,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 337,
+        "missing_points": 307,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-06T05:14:33.128Z",
-          "delta": 15,
-          "reason": "Bounty: Fishing SOTW - Easy",
-          "balance": 75
-        },
         {
           "timestamp": "2026-08-06T13:50:26.210Z",
           "delta": 30,
@@ -4219,10 +4213,16 @@
           "balance": -40
         },
         {
+          "timestamp": "2026-10-09T06:47:32.999Z",
+          "delta": 30,
+          "reason": "Bounty: Dagannoth Kings BOTW - Medium",
+          "balance": -10
+        },
+        {
           "timestamp": "2026-10-09T00:33:21.296Z",
           "delta": 203,
           "reason": "Tenure points",
-          "balance": 163
+          "balance": 193
         }
       ],
       "pending_bounties": [
@@ -4243,7 +4243,7 @@
         {
           "bounty_id": "67",
           "name": "Dagannoth Kings BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-08T23:03:59.055Z"
         }
@@ -6541,32 +6541,38 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-04",
-      "points_total": 97,
+      "points_total": 112,
       "points_spent": 0,
-      "points_available": 97,
+      "points_available": 112,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 3,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
+        {
+          "timestamp": "2026-10-09T06:49:07.692Z",
+          "delta": 15,
+          "reason": "Bounty: Dagannoth Kings BOTW - Easy",
+          "balance": 15
+        },
         {
           "timestamp": "2026-10-09T00:33:21.296Z",
           "delta": 97,
           "reason": "Tenure points",
-          "balance": 97
+          "balance": 112
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "66",
           "name": "Dagannoth Kings BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-09T01:06:19.424Z"
         }
@@ -18527,32 +18533,38 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-04",
-      "points_total": 97,
+      "points_total": 112,
       "points_spent": 0,
-      "points_available": 97,
+      "points_available": 112,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 3,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
+        {
+          "timestamp": "2026-10-09T06:49:07.692Z",
+          "delta": 15,
+          "reason": "Bounty: Dagannoth Kings BOTW - Easy",
+          "balance": 15
+        },
         {
           "timestamp": "2026-10-09T00:33:21.296Z",
           "delta": 97,
           "reason": "Tenure points",
-          "balance": 97
+          "balance": 112
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "66",
           "name": "Dagannoth Kings BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-09T01:06:19.424Z"
         }
@@ -25126,32 +25138,38 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-04",
-      "points_total": 97,
+      "points_total": 112,
       "points_spent": 0,
-      "points_available": 97,
+      "points_available": 112,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 3,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
+        {
+          "timestamp": "2026-10-09T06:49:07.692Z",
+          "delta": 15,
+          "reason": "Bounty: Dagannoth Kings BOTW - Easy",
+          "balance": 15
+        },
         {
           "timestamp": "2026-10-09T00:33:21.296Z",
           "delta": 97,
           "reason": "Tenure points",
-          "balance": 97
+          "balance": 112
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "66",
           "name": "Dagannoth Kings BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-09T01:06:19.424Z"
         }
