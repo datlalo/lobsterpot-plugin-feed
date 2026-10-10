@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T17:17:48.104Z",
+  "generated_at": "2026-10-10T19:46:06.285Z",
   "broadcasts": [],
   "events": [
     {
@@ -7105,16 +7105,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-02-15 19:07:31.438617+00",
-      "points_total": 427,
+      "points_total": 457,
       "points_spent": 300,
-      "points_available": 127,
+      "points_available": 157,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 173,
+        "missing_points": 143,
         "missing_months": 0,
         "can_claim": false
       },
@@ -7168,10 +7168,16 @@
           "balance": -110
         },
         {
+          "timestamp": "2026-10-10T19:46:04.765Z",
+          "delta": 30,
+          "reason": "recruitment",
+          "balance": -80
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 237,
           "reason": "Tenure points",
-          "balance": 127
+          "balance": 157
         }
       ]
     },
@@ -11548,16 +11554,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-02-15 19:07:31.438617+00",
-      "points_total": 427,
+      "points_total": 457,
       "points_spent": 300,
-      "points_available": 127,
+      "points_available": 157,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 173,
+        "missing_points": 143,
         "missing_months": 0,
         "can_claim": false
       },
@@ -11611,10 +11617,16 @@
           "balance": -110
         },
         {
+          "timestamp": "2026-10-10T19:46:04.765Z",
+          "delta": 30,
+          "reason": "recruitment",
+          "balance": -80
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 237,
           "reason": "Tenure points",
-          "balance": 127
+          "balance": 157
         }
       ]
     },
