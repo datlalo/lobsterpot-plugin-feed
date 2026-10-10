@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T20:35:27.073Z",
+  "generated_at": "2026-10-10T20:38:30.087Z",
   "broadcasts": [],
   "events": [
     {
@@ -7086,21 +7086,21 @@
     {
       "rsn": "edityte11",
       "rsn_key": "edityte11",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-09-01",
       "points_total": 114,
-      "points_spent": 0,
-      "points_available": 114,
+      "points_spent": 100,
+      "points_available": 14,
       "months_in_clan": 1,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
+        "missing_points": 186,
+        "missing_months": 1,
+        "can_claim": false
       },
       "points_history": [
         {
@@ -7122,10 +7122,16 @@
           "balance": 75
         },
         {
+          "timestamp": "2026-10-10T20:38:09.055Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -25
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 39,
           "reason": "Tenure points",
-          "balance": 114
+          "balance": 14
         }
       ]
     },
