@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T08:26:45.909Z",
+  "generated_at": "2026-10-10T10:41:09.027Z",
   "broadcasts": [],
   "events": [
     {
@@ -6624,26 +6624,21 @@
     {
       "rsn": "ducksarecool",
       "rsn_key": "ducksarecool",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-07-04",
       "points_total": 113,
-      "points_spent": 0,
-      "points_available": 113,
+      "points_spent": 100,
+      "points_available": 13,
       "months_in_clan": 3,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 187,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-10-10T01:52:02.947Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -6653,10 +6648,16 @@
           "balance": 15
         },
         {
+          "timestamp": "2026-10-10T10:41:07.516Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -85
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 98,
           "reason": "Tenure points",
-          "balance": 113
+          "balance": 13
         }
       ],
       "pending_bounties": [
@@ -18707,26 +18708,21 @@
     {
       "rsn": "RaccoonCEO",
       "rsn_key": "raccoonceo",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-07-04",
       "points_total": 113,
-      "points_spent": 0,
-      "points_available": 113,
+      "points_spent": 100,
+      "points_available": 13,
       "months_in_clan": 3,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 187,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-10-10T01:52:02.947Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -18736,10 +18732,16 @@
           "balance": 15
         },
         {
+          "timestamp": "2026-10-10T10:41:07.516Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -85
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 98,
           "reason": "Tenure points",
-          "balance": 113
+          "balance": 13
         }
       ],
       "pending_bounties": [
@@ -25354,26 +25356,21 @@
     {
       "rsn": "WhereDraynor",
       "rsn_key": "wheredraynor",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-07-04",
       "points_total": 113,
-      "points_spent": 0,
-      "points_available": 113,
+      "points_spent": 100,
+      "points_available": 13,
       "months_in_clan": 3,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 187,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-10-10T01:52:02.947Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -25383,10 +25380,16 @@
           "balance": 15
         },
         {
+          "timestamp": "2026-10-10T10:41:07.516Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -85
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 98,
           "reason": "Tenure points",
-          "balance": 113
+          "balance": 13
         }
       ],
       "pending_bounties": [
