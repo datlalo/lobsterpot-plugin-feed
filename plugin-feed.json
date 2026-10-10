@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T19:46:06.285Z",
+  "generated_at": "2026-10-10T20:35:27.073Z",
   "broadcasts": [],
   "events": [
     {
@@ -3567,25 +3567,31 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-10-09",
-      "points_total": 1,
+      "points_total": 16,
       "points_spent": 0,
-      "points_available": 1,
+      "points_available": 16,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 99,
+        "missing_points": 84,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
         {
+          "timestamp": "2026-10-10T20:35:25.560Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": 15
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 1,
           "reason": "Tenure points",
-          "balance": 1
+          "balance": 16
         }
       ]
     },
@@ -3635,16 +3641,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2025-12-07 18:36:23.242706+00",
-      "points_total": 437,
+      "points_total": 452,
       "points_spent": 200,
-      "points_available": 237,
+      "points_available": 252,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 63,
+        "missing_points": 48,
         "missing_months": 0,
         "can_claim": false
       },
@@ -3686,10 +3692,16 @@
           "balance": -70
         },
         {
+          "timestamp": "2026-10-10T20:35:25.561Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": -55
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 307,
           "reason": "Tenure points",
-          "balance": 237
+          "balance": 252
         }
       ]
     },
@@ -4642,16 +4654,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-06-24",
-      "points_total": 413,
+      "points_total": 428,
       "points_spent": 300,
-      "points_available": 113,
+      "points_available": 128,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 187,
+        "missing_points": 172,
         "missing_months": 0,
         "can_claim": false
       },
@@ -4711,10 +4723,16 @@
           "balance": 5
         },
         {
+          "timestamp": "2026-10-10T20:35:25.557Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": 20
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 108,
           "reason": "Tenure points",
-          "balance": 113
+          "balance": 128
         }
       ]
     },
@@ -5492,25 +5510,31 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-09-17",
-      "points_total": 23,
+      "points_total": 38,
       "points_spent": 0,
-      "points_available": 23,
+      "points_available": 38,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 77,
+        "missing_points": 62,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
         {
+          "timestamp": "2026-10-10T20:35:25.558Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": 15
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 23,
           "reason": "Tenure points",
-          "balance": 23
+          "balance": 38
         }
       ]
     },
@@ -7065,18 +7089,18 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-09-01",
-      "points_total": 99,
+      "points_total": 114,
       "points_spent": 0,
-      "points_available": 99,
+      "points_available": 114,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 1,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -7092,10 +7116,16 @@
           "balance": 60
         },
         {
+          "timestamp": "2026-10-10T20:35:25.559Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": 75
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 39,
           "reason": "Tenure points",
-          "balance": 99
+          "balance": 114
         }
       ]
     },
@@ -8602,26 +8632,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-08-25",
-      "points_total": 1576,
+      "points_total": 1591,
       "points_spent": 1200,
-      "points_available": 376,
+      "points_available": 391,
       "months_in_clan": 13,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 424,
+        "missing_points": 409,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-22T12:17:43.567Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier Bounty",
-          "balance": 480
-        },
         {
           "timestamp": "2026-03-02T20:20:36.050Z",
           "delta": 15,
@@ -8767,10 +8791,16 @@
           "balance": -35
         },
         {
+          "timestamp": "2026-10-10T20:35:25.560Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": -20
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 411,
           "reason": "Tenure points",
-          "balance": 376
+          "balance": 391
         }
       ]
     },
@@ -9037,16 +9067,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-06-20",
-      "points_total": 147,
+      "points_total": 162,
       "points_spent": 100,
-      "points_available": 47,
+      "points_available": 62,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 153,
+        "missing_points": 138,
         "missing_months": 0,
         "can_claim": false
       },
@@ -9070,10 +9100,16 @@
           "balance": -65
         },
         {
+          "timestamp": "2026-10-10T20:35:25.561Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": -50
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 112,
           "reason": "Tenure points",
-          "balance": 47
+          "balance": 62
         }
       ]
     },
@@ -9937,26 +9973,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-01-08",
-      "points_total": 1200,
+      "points_total": 1215,
       "points_spent": 1020,
-      "points_available": 180,
+      "points_available": 195,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 320,
+        "missing_points": 305,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-09T17:36:02.854Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier - Giant Mole",
-          "balance": 145
-        },
         {
           "timestamp": "2026-04-14T20:06:14.391Z",
           "delta": 25,
@@ -10102,10 +10132,16 @@
           "balance": -95
         },
         {
+          "timestamp": "2026-10-10T20:35:25.558Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": -80
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 275,
           "reason": "Tenure points",
-          "balance": 180
+          "balance": 195
         }
       ],
       "pending_bounties": [
@@ -10530,26 +10566,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-03",
-      "points_total": 1812,
+      "points_total": 1827,
       "points_spent": 1210,
-      "points_available": 602,
+      "points_available": 617,
       "months_in_clan": 13,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 198,
+        "missing_points": 183,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-05T10:27:52.360Z",
-          "delta": 15,
-          "reason": "Bounty: Farming - Easy",
-          "balance": 5
-        },
         {
           "timestamp": "2026-07-15T18:50:30.363Z",
           "delta": 15,
@@ -10695,10 +10725,16 @@
           "balance": 200
         },
         {
+          "timestamp": "2026-10-10T20:35:25.559Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": 215
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 402,
           "reason": "Tenure points",
-          "balance": 602
+          "balance": 617
         }
       ]
     },
@@ -10736,26 +10772,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-16",
-      "points_total": 1348,
+      "points_total": 1363,
       "points_spent": 1000,
-      "points_available": 348,
+      "points_available": 363,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 152,
+        "missing_points": 137,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-03T12:02:15.984Z",
-          "delta": -300,
-          "reason": "Rank upgrade: Ruby",
-          "balance": -70
-        },
         {
           "timestamp": "2026-07-05T18:29:43.540Z",
           "delta": 30,
@@ -10901,10 +10931,16 @@
           "balance": 140
         },
         {
+          "timestamp": "2026-10-10T20:35:25.562Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": 155
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 208,
           "reason": "Tenure points",
-          "balance": 348
+          "balance": 363
         }
       ],
       "pending_bounties": [
@@ -12614,16 +12650,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-03-04 14:15:12.474046+00",
-      "points_total": 240,
+      "points_total": 255,
       "points_spent": 100,
-      "points_available": 140,
+      "points_available": 155,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 60,
+        "missing_points": 45,
         "missing_months": 0,
         "can_claim": false
       },
@@ -12647,10 +12683,16 @@
           "balance": -80
         },
         {
+          "timestamp": "2026-10-10T20:35:25.561Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": -65
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 220,
           "reason": "Tenure points",
-          "balance": 140
+          "balance": 155
         }
       ]
     },
@@ -14396,16 +14438,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-06-17",
-      "points_total": 575,
+      "points_total": 590,
       "points_spent": 300,
-      "points_available": 275,
+      "points_available": 290,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 25,
+        "missing_points": 10,
         "missing_months": 0,
         "can_claim": false
       },
@@ -14501,10 +14543,16 @@
           "balance": 160
         },
         {
+          "timestamp": "2026-10-10T20:35:25.559Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": 175
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 115,
           "reason": "Tenure points",
-          "balance": 275
+          "balance": 290
         }
       ]
     },
@@ -15174,18 +15222,18 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-11-26",
-      "points_total": 886,
+      "points_total": 901,
       "points_spent": 500,
-      "points_available": 386,
+      "points_available": 401,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 14,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -15261,10 +15309,16 @@
           "balance": 68
         },
         {
+          "timestamp": "2026-10-10T20:35:25.559Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": 83
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 318,
           "reason": "Tenure points",
-          "balance": 386
+          "balance": 401
         }
       ]
     },
@@ -17299,16 +17353,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-09-11",
-      "points_total": 89,
+      "points_total": 104,
       "points_spent": 0,
-      "points_available": 89,
+      "points_available": 104,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 11,
+        "missing_points": 0,
         "missing_months": 1,
         "can_claim": false
       },
@@ -17326,10 +17380,16 @@
           "balance": 60
         },
         {
+          "timestamp": "2026-10-10T20:35:25.557Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": 75
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 29,
           "reason": "Tenure points",
-          "balance": 89
+          "balance": 104
         }
       ]
     },
@@ -18227,25 +18287,31 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-08-14",
-      "points_total": 57,
+      "points_total": 72,
       "points_spent": 0,
-      "points_available": 57,
+      "points_available": 72,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 43,
+        "missing_points": 28,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
         {
+          "timestamp": "2026-10-10T20:35:25.560Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": 15
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 57,
           "reason": "Tenure points",
-          "balance": 57
+          "balance": 72
         }
       ]
     },
@@ -19122,9 +19188,9 @@
       "bot_rank": "Founder",
       "progression_rank": "Founder",
       "join_date": "2024-10-26",
-      "points_total": 1049,
+      "points_total": 1064,
       "points_spent": 500,
-      "points_available": 549,
+      "points_available": 564,
       "months_in_clan": 23,
       "next_rank": null,
       "points_history": [
@@ -19183,10 +19249,16 @@
           "balance": -165
         },
         {
+          "timestamp": "2026-10-10T20:35:25.559Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": -150
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 714,
           "reason": "Tenure points",
-          "balance": 549
+          "balance": 564
         }
       ]
     },
@@ -19630,9 +19702,9 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2025-09-04",
-      "points_total": 401,
+      "points_total": 416,
       "points_spent": 0,
-      "points_available": 401,
+      "points_available": 416,
       "months_in_clan": 13,
       "next_rank": {
         "name": "Ruby",
@@ -19645,10 +19717,16 @@
       },
       "points_history": [
         {
+          "timestamp": "2026-10-10T20:35:25.558Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": 15
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 401,
           "reason": "Tenure points",
-          "balance": 401
+          "balance": 416
         }
       ]
     },
@@ -20349,16 +20427,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-07-09",
-      "points_total": 118,
+      "points_total": 133,
       "points_spent": 100,
-      "points_available": 18,
+      "points_available": 33,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 182,
+        "missing_points": 167,
         "missing_months": 0,
         "can_claim": false
       },
@@ -20382,10 +20460,16 @@
           "balance": -75
         },
         {
+          "timestamp": "2026-10-10T20:35:25.557Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": -60
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 93,
           "reason": "Tenure points",
-          "balance": 18
+          "balance": 33
         }
       ]
     },
@@ -22373,26 +22457,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-16",
-      "points_total": 1348,
+      "points_total": 1363,
       "points_spent": 1000,
-      "points_available": 348,
+      "points_available": 363,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 152,
+        "missing_points": 137,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-03T12:02:15.984Z",
-          "delta": -300,
-          "reason": "Rank upgrade: Ruby",
-          "balance": -70
-        },
         {
           "timestamp": "2026-07-05T18:29:43.540Z",
           "delta": 30,
@@ -22538,10 +22616,16 @@
           "balance": 140
         },
         {
+          "timestamp": "2026-10-10T20:35:25.562Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": 155
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 208,
           "reason": "Tenure points",
-          "balance": 348
+          "balance": 363
         }
       ],
       "pending_bounties": [
@@ -22957,26 +23041,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-03",
-      "points_total": 1812,
+      "points_total": 1827,
       "points_spent": 1210,
-      "points_available": 602,
+      "points_available": 617,
       "months_in_clan": 13,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 198,
+        "missing_points": 183,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-05T10:27:52.360Z",
-          "delta": 15,
-          "reason": "Bounty: Farming - Easy",
-          "balance": 5
-        },
         {
           "timestamp": "2026-07-15T18:50:30.363Z",
           "delta": 15,
@@ -23122,10 +23200,16 @@
           "balance": 200
         },
         {
+          "timestamp": "2026-10-10T20:35:25.559Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": 215
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 402,
           "reason": "Tenure points",
-          "balance": 602
+          "balance": 617
         }
       ]
     },
@@ -23169,9 +23253,9 @@
       "bot_rank": "Founder",
       "progression_rank": "Founder",
       "join_date": "2024-10-26",
-      "points_total": 1049,
+      "points_total": 1064,
       "points_spent": 500,
-      "points_available": 549,
+      "points_available": 564,
       "months_in_clan": 23,
       "next_rank": null,
       "points_history": [
@@ -23230,10 +23314,16 @@
           "balance": -165
         },
         {
+          "timestamp": "2026-10-10T20:35:25.559Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": -150
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 714,
           "reason": "Tenure points",
-          "balance": 549
+          "balance": 564
         }
       ]
     },
@@ -23713,16 +23803,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-03-09",
-      "points_total": 265,
+      "points_total": 280,
       "points_spent": 100,
-      "points_available": 165,
+      "points_available": 180,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 35,
+        "missing_points": 20,
         "missing_months": 0,
         "can_claim": false
       },
@@ -23740,10 +23830,16 @@
           "balance": -50
         },
         {
+          "timestamp": "2026-10-10T20:35:25.561Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": -35
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 215,
           "reason": "Tenure points",
-          "balance": 165
+          "balance": 180
         }
       ]
     },
@@ -24438,16 +24534,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-07-05",
-      "points_total": 307,
+      "points_total": 322,
       "points_spent": 300,
-      "points_available": 7,
+      "points_available": 22,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 293,
+        "missing_points": 278,
         "missing_months": 0,
         "can_claim": false
       },
@@ -24507,10 +24603,16 @@
           "balance": -90
         },
         {
+          "timestamp": "2026-10-10T20:35:25.558Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": -75
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 97,
           "reason": "Tenure points",
-          "balance": 7
+          "balance": 22
         }
       ],
       "pending_bounties": [
@@ -25912,16 +26014,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-03-09",
-      "points_total": 265,
+      "points_total": 280,
       "points_spent": 100,
-      "points_available": 165,
+      "points_available": 180,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 35,
+        "missing_points": 20,
         "missing_months": 0,
         "can_claim": false
       },
@@ -25939,10 +26041,16 @@
           "balance": -50
         },
         {
+          "timestamp": "2026-10-10T20:35:25.561Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": -35
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 215,
           "reason": "Tenure points",
-          "balance": 165
+          "balance": 180
         }
       ]
     },
