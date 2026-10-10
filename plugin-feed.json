@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T10:43:40.849Z",
+  "generated_at": "2026-10-10T10:50:58.580Z",
   "broadcasts": [],
   "events": [
     {
@@ -7933,26 +7933,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-21",
-      "points_total": 1339,
+      "points_total": 1369,
       "points_spent": 1200,
-      "points_available": 139,
+      "points_available": 169,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 661,
+        "missing_points": 631,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-17T23:21:17.005Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier - Woodcutting",
-          "balance": 185
-        },
         {
           "timestamp": "2026-03-19T15:54:17.967Z",
           "delta": 15,
@@ -8098,10 +8092,16 @@
           "balance": -245
         },
         {
+          "timestamp": "2026-10-10T10:50:57.066Z",
+          "delta": 30,
+          "reason": "Bounty: Dagannoth Kings BOTW - Medium",
+          "balance": -215
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 384,
           "reason": "Tenure points",
-          "balance": 139
+          "balance": 169
         }
       ],
       "pending_bounties": [
@@ -8122,7 +8122,7 @@
         {
           "bounty_id": "67",
           "name": "Dagannoth Kings BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-10T00:45:43.584Z"
         }
@@ -8134,26 +8134,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-21",
-      "points_total": 1339,
+      "points_total": 1369,
       "points_spent": 1200,
-      "points_available": 139,
+      "points_available": 169,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 661,
+        "missing_points": 631,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-17T23:21:17.005Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier - Woodcutting",
-          "balance": 185
-        },
         {
           "timestamp": "2026-03-19T15:54:17.967Z",
           "delta": 15,
@@ -8299,10 +8293,16 @@
           "balance": -245
         },
         {
+          "timestamp": "2026-10-10T10:50:57.066Z",
+          "delta": 30,
+          "reason": "Bounty: Dagannoth Kings BOTW - Medium",
+          "balance": -215
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 384,
           "reason": "Tenure points",
-          "balance": 139
+          "balance": 169
         }
       ],
       "pending_bounties": [
@@ -8323,7 +8323,7 @@
         {
           "bounty_id": "67",
           "name": "Dagannoth Kings BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-10T00:45:43.584Z"
         }
@@ -8812,26 +8812,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-21",
-      "points_total": 1339,
+      "points_total": 1369,
       "points_spent": 1200,
-      "points_available": 139,
+      "points_available": 169,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 661,
+        "missing_points": 631,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-17T23:21:17.005Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier - Woodcutting",
-          "balance": 185
-        },
         {
           "timestamp": "2026-03-19T15:54:17.967Z",
           "delta": 15,
@@ -8977,10 +8971,16 @@
           "balance": -245
         },
         {
+          "timestamp": "2026-10-10T10:50:57.066Z",
+          "delta": 30,
+          "reason": "Bounty: Dagannoth Kings BOTW - Medium",
+          "balance": -215
+        },
+        {
           "timestamp": "2026-10-10T00:33:22.821Z",
           "delta": 384,
           "reason": "Tenure points",
-          "balance": 139
+          "balance": 169
         }
       ],
       "pending_bounties": [
@@ -9001,7 +9001,7 @@
         {
           "bounty_id": "67",
           "name": "Dagannoth Kings BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-10T00:45:43.584Z"
         }
