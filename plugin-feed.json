@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T00:45:16.636Z",
+  "generated_at": "2026-10-10T00:48:18.688Z",
   "broadcasts": [],
   "events": [
     {
@@ -8106,6 +8106,13 @@
           "status": "pending",
           "reason": null,
           "created_at": "2026-10-10T00:45:15.129Z"
+        },
+        {
+          "bounty_id": "67",
+          "name": "Dagannoth Kings BOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-10T00:45:43.584Z"
         }
       ]
     },
@@ -8300,6 +8307,13 @@
           "status": "pending",
           "reason": null,
           "created_at": "2026-10-10T00:45:15.129Z"
+        },
+        {
+          "bounty_id": "67",
+          "name": "Dagannoth Kings BOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-10T00:45:43.584Z"
         }
       ]
     },
@@ -8971,6 +8985,13 @@
           "status": "pending",
           "reason": null,
           "created_at": "2026-10-10T00:45:15.129Z"
+        },
+        {
+          "bounty_id": "67",
+          "name": "Dagannoth Kings BOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-10T00:45:43.584Z"
         }
       ]
     },
