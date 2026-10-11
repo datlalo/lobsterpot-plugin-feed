@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-11T06:40:20.766Z",
+  "generated_at": "2026-10-11T15:13:13.981Z",
   "broadcasts": [],
   "events": [
     {
@@ -5633,40 +5633,6 @@
       ]
     },
     {
-      "rsn": "davide",
-      "rsn_key": "davide",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2026-06-28",
-      "points_total": 105,
-      "points_spent": 100,
-      "points_available": 5,
-      "months_in_clan": 3,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 195,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-10T10:43:39.336Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": -100
-        },
-        {
-          "timestamp": "2026-10-11T00:43:10.020Z",
-          "delta": 105,
-          "reason": "Tenure points",
-          "balance": 5
-        }
-      ]
-    },
-    {
       "rsn": "demo183",
       "rsn_key": "demo183",
       "bot_rank": "Emerald",
@@ -9494,6 +9460,26 @@
           "balance": 306
         }
       ]
+    },
+    {
+      "rsn": "giigii",
+      "rsn_key": "giigii",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-11",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "GIM Nurture",
@@ -19717,40 +19703,6 @@
           "delta": 224,
           "reason": "Tenure points",
           "balance": 229
-        }
-      ]
-    },
-    {
-      "rsn": "S7",
-      "rsn_key": "s7",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
-      "join_date": "2025-09-04",
-      "points_total": 417,
-      "points_spent": 0,
-      "points_available": 417,
-      "months_in_clan": 13,
-      "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-10T20:35:25.558Z",
-          "delta": 15,
-          "reason": "Halloween Fashionscape participation",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-10-11T00:43:10.020Z",
-          "delta": 402,
-          "reason": "Tenure points",
-          "balance": 417
         }
       ]
     },
