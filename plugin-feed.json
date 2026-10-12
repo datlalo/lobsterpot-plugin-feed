@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T13:57:48.594Z",
+  "generated_at": "2026-10-12T14:00:51.109Z",
   "broadcasts": [],
   "events": [
     {
@@ -4071,26 +4071,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-20 22:12:14.780985+00",
-      "points_total": 1196,
+      "points_total": 1226,
       "points_spent": 1000,
-      "points_available": 196,
+      "points_available": 226,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 304,
+        "missing_points": 274,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-06T13:50:26.210Z",
-          "delta": 30,
-          "reason": "Bounty: Fishing SOTW - Medium",
-          "balance": 105
-        },
         {
           "timestamp": "2026-08-07T12:42:05.721Z",
           "delta": 45,
@@ -4236,10 +4230,16 @@
           "balance": -10
         },
         {
+          "timestamp": "2026-10-12T13:59:11.054Z",
+          "delta": 30,
+          "reason": "Mad Angel BOTW - 3rd place",
+          "balance": 20
+        },
+        {
           "timestamp": "2026-10-12T00:43:10.186Z",
           "delta": 206,
           "reason": "Tenure points",
-          "balance": 196
+          "balance": 226
         }
       ],
       "pending_bounties": [
@@ -10752,26 +10752,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-16",
-      "points_total": 1365,
+      "points_total": 1380,
       "points_spent": 1000,
-      "points_available": 365,
+      "points_available": 380,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 135,
+        "missing_points": 120,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-05T18:29:43.540Z",
-          "delta": 30,
-          "reason": "Bounty: Farming - Medium",
-          "balance": -40
-        },
         {
           "timestamp": "2026-07-07T12:04:22.924Z",
           "delta": 10,
@@ -10917,10 +10911,16 @@
           "balance": 155
         },
         {
+          "timestamp": "2026-10-12T13:59:53.221Z",
+          "delta": 15,
+          "reason": "Mad Angel BOTW - 4th to 6th place",
+          "balance": 170
+        },
+        {
           "timestamp": "2026-10-12T00:43:10.186Z",
           "delta": 210,
           "reason": "Tenure points",
-          "balance": 365
+          "balance": 380
         }
       ],
       "pending_bounties": [
@@ -12190,9 +12190,9 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-08-11",
-      "points_total": 462,
+      "points_total": 477,
       "points_spent": 100,
-      "points_available": 362,
+      "points_available": 377,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
@@ -12283,10 +12283,16 @@
           "balance": 300
         },
         {
+          "timestamp": "2026-10-12T13:59:53.221Z",
+          "delta": 15,
+          "reason": "Mad Angel BOTW - 4th to 6th place",
+          "balance": 315
+        },
+        {
           "timestamp": "2026-10-12T00:43:10.186Z",
           "delta": 62,
           "reason": "Tenure points",
-          "balance": 362
+          "balance": 377
         }
       ]
     },
@@ -22278,26 +22284,20 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-05-04",
-      "points_total": 976,
+      "points_total": 991,
       "points_spent": 600,
-      "points_available": 376,
+      "points_available": 391,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 24,
+        "missing_points": 9,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-22T21:59:30.844Z",
-          "delta": 30,
-          "reason": "Bounty: Slayer BOTM Medium Bounty",
-          "balance": 30
-        },
         {
           "timestamp": "2026-06-23T18:23:28.233Z",
           "delta": 15,
@@ -22443,10 +22443,16 @@
           "balance": 215
         },
         {
+          "timestamp": "2026-10-12T13:59:53.221Z",
+          "delta": 15,
+          "reason": "Mad Angel BOTW - 4th to 6th place",
+          "balance": 230
+        },
+        {
           "timestamp": "2026-10-12T00:43:10.186Z",
           "delta": 161,
           "reason": "Tenure points",
-          "balance": 376
+          "balance": 391
         }
       ]
     },
@@ -22484,26 +22490,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-16",
-      "points_total": 1365,
+      "points_total": 1380,
       "points_spent": 1000,
-      "points_available": 365,
+      "points_available": 380,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 135,
+        "missing_points": 120,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-05T18:29:43.540Z",
-          "delta": 30,
-          "reason": "Bounty: Farming - Medium",
-          "balance": -40
-        },
         {
           "timestamp": "2026-07-07T12:04:22.924Z",
           "delta": 10,
@@ -22649,10 +22649,16 @@
           "balance": 155
         },
         {
+          "timestamp": "2026-10-12T13:59:53.221Z",
+          "delta": 15,
+          "reason": "Mad Angel BOTW - 4th to 6th place",
+          "balance": 170
+        },
+        {
           "timestamp": "2026-10-12T00:43:10.186Z",
           "delta": 210,
           "reason": "Tenure points",
-          "balance": 365
+          "balance": 380
         }
       ],
       "pending_bounties": [
@@ -26059,16 +26065,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-06-22",
-      "points_total": 417,
+      "points_total": 467,
       "points_spent": 300,
-      "points_available": 117,
+      "points_available": 167,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 183,
+        "missing_points": 133,
         "missing_months": 0,
         "can_claim": false
       },
@@ -26152,10 +26158,16 @@
           "balance": 5
         },
         {
+          "timestamp": "2026-10-12T13:58:17.411Z",
+          "delta": 50,
+          "reason": "Mad Angel BOTW - 2nd place",
+          "balance": 55
+        },
+        {
           "timestamp": "2026-10-12T00:43:10.186Z",
           "delta": 112,
           "reason": "Tenure points",
-          "balance": 117
+          "balance": 167
         }
       ]
     },
