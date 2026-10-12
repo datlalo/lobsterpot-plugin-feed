@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T00:53:52.852Z",
+  "generated_at": "2026-10-12T12:58:16.901Z",
   "broadcasts": [],
   "events": [
     {
@@ -22,16 +22,6 @@
       "ends_at": "2026-10-14T11:00:00.000Z",
       "description": "",
       "thread_id": "1557032963760201739"
-    },
-    {
-      "id": "adf554d1-9c19-43df-94bb-59155c4d94c3",
-      "type": "event",
-      "title": "Amoxliatl Sunday",
-      "location": null,
-      "starts_at": "2026-10-10T18:00:00.000Z",
-      "ends_at": "2026-10-12T06:00:00.000Z",
-      "description": "",
-      "thread_id": "1522561512089194536"
     }
   ],
   "bounties": [
@@ -23446,34 +23436,6 @@
           "delta": 218,
           "reason": "Tenure points",
           "balance": 83
-        }
-      ]
-    },
-    {
-      "rsn": "themragony",
-      "rsn_key": "themragony",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-08-20",
-      "points_total": 53,
-      "points_spent": 0,
-      "points_available": 53,
-      "months_in_clan": 1,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 47,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-12T00:43:10.186Z",
-          "delta": 53,
-          "reason": "Tenure points",
-          "balance": 53
         }
       ]
     },
