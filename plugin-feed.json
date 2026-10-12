@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T14:08:44.361Z",
+  "generated_at": "2026-10-12T14:11:46.739Z",
   "broadcasts": [],
   "events": [
     {
@@ -9965,26 +9965,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-01-08",
-      "points_total": 1217,
+      "points_total": 1237,
       "points_spent": 1020,
-      "points_available": 197,
+      "points_available": 217,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 303,
+        "missing_points": 283,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-14T20:06:14.391Z",
-          "delta": 25,
-          "reason": "Discord adjustment",
-          "balance": 170
-        },
         {
           "timestamp": "2026-06-24T11:17:59.580Z",
           "delta": 10,
@@ -10130,10 +10124,16 @@
           "balance": -80
         },
         {
+          "timestamp": "2026-10-12T14:10:35.646Z",
+          "delta": 20,
+          "reason": "200kc Amoxliatl Sunday",
+          "balance": -60
+        },
+        {
           "timestamp": "2026-10-12T00:43:10.186Z",
           "delta": 277,
           "reason": "Tenure points",
-          "balance": 197
+          "balance": 217
         }
       ],
       "pending_bounties": [
@@ -10764,26 +10764,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-16",
-      "points_total": 1380,
+      "points_total": 1405,
       "points_spent": 1000,
-      "points_available": 380,
+      "points_available": 405,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 120,
+        "missing_points": 95,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-07T12:04:22.924Z",
-          "delta": 10,
-          "reason": "100kc mole monday",
-          "balance": -30
-        },
         {
           "timestamp": "2026-07-12T22:28:42.252Z",
           "delta": 10,
@@ -10929,10 +10923,16 @@
           "balance": 170
         },
         {
+          "timestamp": "2026-10-12T14:11:06.593Z",
+          "delta": 25,
+          "reason": "250kc Amoxliatl Sunday",
+          "balance": 195
+        },
+        {
           "timestamp": "2026-10-12T00:43:10.186Z",
           "delta": 210,
           "reason": "Tenure points",
-          "balance": 380
+          "balance": 405
         }
       ],
       "pending_bounties": [
@@ -16216,16 +16216,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-07-05",
-      "points_total": 464,
+      "points_total": 479,
       "points_spent": 300,
-      "points_available": 164,
+      "points_available": 179,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 136,
+        "missing_points": 121,
         "missing_months": 0,
         "can_claim": false
       },
@@ -16279,10 +16279,16 @@
           "balance": 65
         },
         {
+          "timestamp": "2026-10-12T14:08:55.786Z",
+          "delta": 15,
+          "reason": "150kc Amoxliatl Sunday",
+          "balance": 80
+        },
+        {
           "timestamp": "2026-10-12T00:43:10.186Z",
           "delta": 99,
           "reason": "Tenure points",
-          "balance": 164
+          "balance": 179
         }
       ]
     },
@@ -16410,16 +16416,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-05-09",
-      "points_total": 859,
+      "points_total": 879,
       "points_spent": 600,
-      "points_available": 259,
+      "points_available": 279,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 141,
+        "missing_points": 121,
         "missing_months": 0,
         "can_claim": false
       },
@@ -16569,10 +16575,16 @@
           "balance": 103
         },
         {
+          "timestamp": "2026-10-12T14:10:35.646Z",
+          "delta": 20,
+          "reason": "200kc Amoxliatl Sunday",
+          "balance": 123
+        },
+        {
           "timestamp": "2026-10-12T00:43:10.186Z",
           "delta": 156,
           "reason": "Tenure points",
-          "balance": 259
+          "balance": 279
         }
       ]
     },
@@ -22326,26 +22338,20 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-05-04",
-      "points_total": 991,
+      "points_total": 1021,
       "points_spent": 600,
-      "points_available": 391,
+      "points_available": 421,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 9,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-23T18:23:28.233Z",
-          "delta": 15,
-          "reason": "Bounty: Slayer BOTM Easy Bounty",
-          "balance": 45
-        },
         {
           "timestamp": "2026-06-24T11:17:59.581Z",
           "delta": 10,
@@ -22491,10 +22497,16 @@
           "balance": 230
         },
         {
+          "timestamp": "2026-10-12T14:11:34.948Z",
+          "delta": 30,
+          "reason": "300kc Amoxliatl Sunday",
+          "balance": 260
+        },
+        {
           "timestamp": "2026-10-12T00:43:10.186Z",
           "delta": 161,
           "reason": "Tenure points",
-          "balance": 391
+          "balance": 421
         }
       ]
     },
@@ -22538,26 +22550,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-16",
-      "points_total": 1380,
+      "points_total": 1405,
       "points_spent": 1000,
-      "points_available": 380,
+      "points_available": 405,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 120,
+        "missing_points": 95,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-07T12:04:22.924Z",
-          "delta": 10,
-          "reason": "100kc mole monday",
-          "balance": -30
-        },
         {
           "timestamp": "2026-07-12T22:28:42.252Z",
           "delta": 10,
@@ -22703,10 +22709,16 @@
           "balance": 170
         },
         {
+          "timestamp": "2026-10-12T14:11:06.593Z",
+          "delta": 25,
+          "reason": "250kc Amoxliatl Sunday",
+          "balance": 195
+        },
+        {
           "timestamp": "2026-10-12T00:43:10.186Z",
           "delta": 210,
           "reason": "Tenure points",
-          "balance": 380
+          "balance": 405
         }
       ],
       "pending_bounties": [
