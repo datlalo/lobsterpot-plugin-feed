@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T13:05:24.362Z",
+  "generated_at": "2026-10-12T13:57:48.594Z",
   "broadcasts": [],
   "events": [
     {
@@ -523,9 +523,9 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-09-25",
-      "points_total": 3560,
+      "points_total": 3620,
       "points_spent": 2030,
-      "points_available": 1530,
+      "points_available": 1590,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Zenyte",
@@ -537,12 +537,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-20T04:44:10.806Z",
-          "delta": 60,
-          "reason": "Bounty: Vardorvis BOTW - Elite",
-          "balance": 1193
-        },
         {
           "timestamp": "2026-08-20T04:44:13.566Z",
           "delta": 30,
@@ -688,10 +682,16 @@
           "balance": 1148
         },
         {
+          "timestamp": "2026-10-12T13:57:47.089Z",
+          "delta": 60,
+          "reason": "Mad Angel BOTW 1st place",
+          "balance": 1208
+        },
+        {
           "timestamp": "2026-10-12T00:43:10.186Z",
           "delta": 382,
           "reason": "Tenure points",
-          "balance": 1530
+          "balance": 1590
         }
       ],
       "pending_bounties": [
@@ -17793,9 +17793,9 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-09-25",
-      "points_total": 3560,
+      "points_total": 3620,
       "points_spent": 2030,
-      "points_available": 1530,
+      "points_available": 1590,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Zenyte",
@@ -17807,12 +17807,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-20T04:44:10.806Z",
-          "delta": 60,
-          "reason": "Bounty: Vardorvis BOTW - Elite",
-          "balance": 1193
-        },
         {
           "timestamp": "2026-08-20T04:44:13.566Z",
           "delta": 30,
@@ -17958,10 +17952,16 @@
           "balance": 1148
         },
         {
+          "timestamp": "2026-10-12T13:57:47.089Z",
+          "delta": 60,
+          "reason": "Mad Angel BOTW 1st place",
+          "balance": 1208
+        },
+        {
           "timestamp": "2026-10-12T00:43:10.186Z",
           "delta": 382,
           "reason": "Tenure points",
-          "balance": 1530
+          "balance": 1590
         }
       ],
       "pending_bounties": [
