@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T14:14:49.393Z",
+  "generated_at": "2026-10-12T14:17:52.244Z",
   "broadcasts": [],
   "events": [
     {
@@ -22335,29 +22335,23 @@
     {
       "rsn": "SubtleValues",
       "rsn_key": "subtlevalues",
-      "bot_rank": "Ruby",
-      "progression_rank": "Ruby",
+      "bot_rank": "Diamond",
+      "progression_rank": "Diamond",
       "join_date": "2026-05-04",
       "points_total": 1021,
-      "points_spent": 600,
-      "points_available": 421,
+      "points_spent": 1000,
+      "points_available": 21,
       "months_in_clan": 5,
       "next_rank": {
-        "name": "Diamond",
-        "point_cost": 400,
-        "min_months": 5,
-        "requirements": "Fire Cape",
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
+        "name": "Dragonstone",
+        "point_cost": 500,
+        "min_months": 8,
+        "requirements": "Barrows Gloves",
+        "missing_points": 479,
+        "missing_months": 3,
+        "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-24T11:17:59.581Z",
-          "delta": 10,
-          "reason": "ty for the recommendation",
-          "balance": 55
-        },
         {
           "timestamp": "2026-06-24T13:08:23.391Z",
           "delta": -100,
@@ -22503,10 +22497,16 @@
           "balance": 260
         },
         {
+          "timestamp": "2026-10-12T14:17:27.341Z",
+          "delta": -400,
+          "reason": "Rank upgrade: Diamond",
+          "balance": -140
+        },
+        {
           "timestamp": "2026-10-12T00:43:10.186Z",
           "delta": 161,
           "reason": "Tenure points",
-          "balance": 421
+          "balance": 21
         }
       ]
     },
