@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T23:08:30.938Z",
+  "generated_at": "2026-10-12T23:28:17.421Z",
   "broadcasts": [],
   "events": [
     {
@@ -7654,34 +7654,6 @@
       ]
     },
     {
-      "rsn": "EulerFormula",
-      "rsn_key": "eulerformula",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-09-29",
-      "points_total": 13,
-      "points_spent": 0,
-      "points_available": 13,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 87,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-12T00:43:10.186Z",
-          "delta": 13,
-          "reason": "Tenure points",
-          "balance": 13
-        }
-      ]
-    },
-    {
       "rsn": "FarmorsPung",
       "rsn_key": "farmorspung",
       "bot_rank": "Emerald",
@@ -12890,100 +12862,6 @@
       ]
     },
     {
-      "rsn": "Kadwallar",
-      "rsn_key": "kadwallar",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
-      "join_date": "2026-02-25",
-      "points_total": 524,
-      "points_spent": 300,
-      "points_available": 224,
-      "months_in_clan": 7,
-      "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 76,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-04-08T05:17:54.883Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier - Giant Mole",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-04-08T05:17:57.721Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier - Giant Mole",
-          "balance": 45
-        },
-        {
-          "timestamp": "2026-04-08T05:18:00.371Z",
-          "delta": 40,
-          "reason": "Bounty reward: Hard Tier - Giant Mole",
-          "balance": 85
-        },
-        {
-          "timestamp": "2026-04-09T07:13:22.390Z",
-          "delta": 60,
-          "reason": "Bounty reward: Elite Tier - Giant Mole",
-          "balance": 145
-        },
-        {
-          "timestamp": "2026-04-09T11:05:58.752Z",
-          "delta": -100,
-          "reason": "Rank upgraded to: Sapphire",
-          "balance": 45
-        },
-        {
-          "timestamp": "2026-04-13T11:06:36.300Z",
-          "delta": 50,
-          "reason": "BOTM 2nd place",
-          "balance": 95
-        },
-        {
-          "timestamp": "2026-04-14T20:01:33.929Z",
-          "delta": 10,
-          "reason": "Discord adjustment",
-          "balance": 105
-        },
-        {
-          "timestamp": "2026-06-24T20:43:31.194Z",
-          "delta": -200,
-          "reason": "Rank upgrade: Emerald",
-          "balance": -95
-        },
-        {
-          "timestamp": "2026-09-17T23:09:22.977Z",
-          "delta": 15,
-          "reason": "Bounty: Mad Angel BOTW - Easy",
-          "balance": -80
-        },
-        {
-          "timestamp": "2026-09-17T23:09:25.726Z",
-          "delta": 45,
-          "reason": "Bounty: Mad Angel BOTW - Hard",
-          "balance": -35
-        },
-        {
-          "timestamp": "2026-09-17T23:09:27.618Z",
-          "delta": 30,
-          "reason": "Bounty: Mad Angel BOTW - Medium",
-          "balance": -5
-        },
-        {
-          "timestamp": "2026-10-12T00:43:10.186Z",
-          "delta": 229,
-          "reason": "Tenure points",
-          "balance": 224
-        }
-      ]
-    },
-    {
       "rsn": "kaverinn",
       "rsn_key": "kaverinn",
       "bot_rank": "Ruby",
@@ -15908,6 +15786,26 @@
           "balance": 379
         }
       ]
+    },
+    {
+      "rsn": "mrslothking",
+      "rsn_key": "mrslothking",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-12",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "mrtoeface",
@@ -24159,34 +24057,6 @@
       ]
     },
     {
-      "rsn": "Tyn Nattmann",
-      "rsn_key": "tynnattmann",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-10-07",
-      "points_total": 5,
-      "points_spent": 0,
-      "points_available": 5,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 95,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-12T00:43:10.186Z",
-          "delta": 5,
-          "reason": "Tenure points",
-          "balance": 5
-        }
-      ]
-    },
-    {
       "rsn": "Tyrannomisu",
       "rsn_key": "tyrannomisu",
       "bot_rank": "Gnome",
@@ -26094,52 +25964,6 @@
           "delta": 89,
           "reason": "Tenure points",
           "balance": 89
-        }
-      ]
-    },
-    {
-      "rsn": "xXJaberwock",
-      "rsn_key": "xxjaberwock",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2026-03-09",
-      "points_total": 282,
-      "points_spent": 100,
-      "points_available": 182,
-      "months_in_clan": 7,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 18,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-09-14T23:56:10.124Z",
-          "delta": 50,
-          "reason": "Saradomin Mid rng",
-          "balance": 50
-        },
-        {
-          "timestamp": "2026-09-29T09:59:46.007Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": -50
-        },
-        {
-          "timestamp": "2026-10-10T20:35:25.561Z",
-          "delta": 15,
-          "reason": "Halloween Fashionscape participation",
-          "balance": -35
-        },
-        {
-          "timestamp": "2026-10-12T00:43:10.186Z",
-          "delta": 217,
-          "reason": "Tenure points",
-          "balance": 182
         }
       ]
     },
