@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T14:05:42.171Z",
+  "generated_at": "2026-10-12T14:08:44.361Z",
   "broadcasts": [],
   "events": [
     {
@@ -3227,9 +3227,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-03",
-      "points_total": 206,
+      "points_total": 216,
       "points_spent": 0,
-      "points_available": 206,
+      "points_available": 216,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
@@ -3272,10 +3272,16 @@
           "balance": 105
         },
         {
+          "timestamp": "2026-10-12T14:08:27.901Z",
+          "delta": 10,
+          "reason": "100kc Amoxliatl Sunday",
+          "balance": 115
+        },
+        {
           "timestamp": "2026-10-12T00:43:10.186Z",
           "delta": 101,
           "reason": "Tenure points",
-          "balance": 206
+          "balance": 216
         }
       ]
     },
@@ -7911,26 +7917,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-21",
-      "points_total": 1386,
+      "points_total": 1396,
       "points_spent": 1200,
-      "points_available": 186,
+      "points_available": 196,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 614,
+        "missing_points": 604,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-14T19:59:32.333Z",
-          "delta": 5,
-          "reason": "Discord adjustment",
-          "balance": 205
-        },
         {
           "timestamp": "2026-06-16T19:39:01.879Z",
           "delta": 30,
@@ -8076,10 +8076,16 @@
           "balance": -200
         },
         {
+          "timestamp": "2026-10-12T14:08:27.901Z",
+          "delta": 10,
+          "reason": "100kc Amoxliatl Sunday",
+          "balance": -190
+        },
+        {
           "timestamp": "2026-10-12T00:43:10.186Z",
           "delta": 386,
           "reason": "Tenure points",
-          "balance": 186
+          "balance": 196
         }
       ],
       "pending_bounties": [
@@ -8112,26 +8118,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-21",
-      "points_total": 1386,
+      "points_total": 1396,
       "points_spent": 1200,
-      "points_available": 186,
+      "points_available": 196,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 614,
+        "missing_points": 604,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-14T19:59:32.333Z",
-          "delta": 5,
-          "reason": "Discord adjustment",
-          "balance": 205
-        },
         {
           "timestamp": "2026-06-16T19:39:01.879Z",
           "delta": 30,
@@ -8277,10 +8277,16 @@
           "balance": -200
         },
         {
+          "timestamp": "2026-10-12T14:08:27.901Z",
+          "delta": 10,
+          "reason": "100kc Amoxliatl Sunday",
+          "balance": -190
+        },
+        {
           "timestamp": "2026-10-12T00:43:10.186Z",
           "delta": 386,
           "reason": "Tenure points",
-          "balance": 186
+          "balance": 196
         }
       ],
       "pending_bounties": [
@@ -8790,26 +8796,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-21",
-      "points_total": 1386,
+      "points_total": 1396,
       "points_spent": 1200,
-      "points_available": 186,
+      "points_available": 196,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 614,
+        "missing_points": 604,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-14T19:59:32.333Z",
-          "delta": 5,
-          "reason": "Discord adjustment",
-          "balance": 205
-        },
         {
           "timestamp": "2026-06-16T19:39:01.879Z",
           "delta": 30,
@@ -8955,10 +8955,16 @@
           "balance": -200
         },
         {
+          "timestamp": "2026-10-12T14:08:27.901Z",
+          "delta": 10,
+          "reason": "100kc Amoxliatl Sunday",
+          "balance": -190
+        },
+        {
           "timestamp": "2026-10-12T00:43:10.186Z",
           "delta": 386,
           "reason": "Tenure points",
-          "balance": 186
+          "balance": 196
         }
       ],
       "pending_bounties": [
@@ -9885,16 +9891,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-06-07",
-      "points_total": 202,
+      "points_total": 207,
       "points_spent": 100,
-      "points_available": 102,
+      "points_available": 107,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 98,
+        "missing_points": 93,
         "missing_months": 0,
         "can_claim": false
       },
@@ -9912,10 +9918,16 @@
           "balance": -25
         },
         {
+          "timestamp": "2026-10-12T14:07:52.326Z",
+          "delta": 5,
+          "reason": "50 KC Amoxliatl Sunday",
+          "balance": -20
+        },
+        {
           "timestamp": "2026-10-12T00:43:10.186Z",
           "delta": 127,
           "reason": "Tenure points",
-          "balance": 102
+          "balance": 107
         }
       ]
     },
@@ -14316,9 +14328,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-03",
-      "points_total": 206,
+      "points_total": 216,
       "points_spent": 0,
-      "points_available": 206,
+      "points_available": 216,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
@@ -14361,10 +14373,16 @@
           "balance": 105
         },
         {
+          "timestamp": "2026-10-12T14:08:27.901Z",
+          "delta": 10,
+          "reason": "100kc Amoxliatl Sunday",
+          "balance": 115
+        },
+        {
           "timestamp": "2026-10-12T00:43:10.186Z",
           "delta": 101,
           "reason": "Tenure points",
-          "balance": 206
+          "balance": 216
         }
       ]
     },
@@ -15214,9 +15232,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-11-26",
-      "points_total": 903,
+      "points_total": 913,
       "points_spent": 500,
-      "points_available": 403,
+      "points_available": 413,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Diamond",
@@ -15307,10 +15325,16 @@
           "balance": 83
         },
         {
+          "timestamp": "2026-10-12T14:08:27.901Z",
+          "delta": 10,
+          "reason": "100kc Amoxliatl Sunday",
+          "balance": 93
+        },
+        {
           "timestamp": "2026-10-12T00:43:10.186Z",
           "delta": 320,
           "reason": "Tenure points",
-          "balance": 403
+          "balance": 413
         }
       ]
     },
@@ -18474,26 +18498,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-30",
-      "points_total": 1955,
+      "points_total": 1965,
       "points_spent": 1200,
-      "points_available": 755,
+      "points_available": 765,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 45,
+        "missing_points": 35,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-07T12:05:36.995Z",
-          "delta": 5,
-          "reason": "Mole Monday",
-          "balance": 198
-        },
         {
           "timestamp": "2026-07-08T19:06:16.568Z",
           "delta": 10,
@@ -18639,10 +18657,16 @@
           "balance": 378
         },
         {
+          "timestamp": "2026-10-12T14:08:27.900Z",
+          "delta": 10,
+          "reason": "100kc Amoxliatl Sunday",
+          "balance": 388
+        },
+        {
           "timestamp": "2026-10-12T00:43:10.186Z",
           "delta": 377,
           "reason": "Tenure points",
-          "balance": 755
+          "balance": 765
         }
       ]
     },
@@ -22832,26 +22856,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-30",
-      "points_total": 1955,
+      "points_total": 1965,
       "points_spent": 1200,
-      "points_available": 755,
+      "points_available": 765,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 45,
+        "missing_points": 35,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-07T12:05:36.995Z",
-          "delta": 5,
-          "reason": "Mole Monday",
-          "balance": 198
-        },
         {
           "timestamp": "2026-07-08T19:06:16.568Z",
           "delta": 10,
@@ -22997,10 +23015,16 @@
           "balance": 378
         },
         {
+          "timestamp": "2026-10-12T14:08:27.900Z",
+          "delta": 10,
+          "reason": "100kc Amoxliatl Sunday",
+          "balance": 388
+        },
+        {
           "timestamp": "2026-10-12T00:43:10.186Z",
           "delta": 377,
           "reason": "Tenure points",
-          "balance": 755
+          "balance": 765
         }
       ]
     },
