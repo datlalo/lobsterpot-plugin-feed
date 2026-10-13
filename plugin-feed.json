@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-13T12:20:30.611Z",
+  "generated_at": "2026-10-13T12:45:01.961Z",
   "broadcasts": [],
   "events": [
     {
@@ -18107,34 +18107,23 @@
     {
       "rsn": "Porkchaser",
       "rsn_key": "porkchaser",
-      "bot_rank": "Diamond",
-      "progression_rank": "Diamond",
+      "bot_rank": "Dragonstone",
+      "progression_rank": "Dragonstone",
       "join_date": "2026-02-03",
       "points_total": 1557,
-      "points_spent": 1050,
-      "points_available": 507,
+      "points_spent": 1550,
+      "points_available": 7,
       "months_in_clan": 8,
       "next_rank": {
-        "name": "Dragonstone",
-        "point_cost": 500,
-        "min_months": 8,
-        "requirements": "Barrows Gloves",
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Dragonstone",
-        "created_at": "2026-10-13T12:20:28.555Z"
+        "name": "Onyx",
+        "point_cost": 800,
+        "min_months": 12,
+        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "missing_points": 793,
+        "missing_months": 4,
+        "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-30T13:54:39.865Z",
-          "delta": -300,
-          "reason": "Rank upgrade: Ruby",
-          "balance": -85
-        },
         {
           "timestamp": "2026-07-01T11:57:41.652Z",
           "delta": 15,
@@ -18280,10 +18269,16 @@
           "balance": 255
         },
         {
+          "timestamp": "2026-10-13T12:45:00.452Z",
+          "delta": -500,
+          "reason": "Rank upgrade: Dragonstone",
+          "balance": -245
+        },
+        {
           "timestamp": "2026-10-13T00:43:12.600Z",
           "delta": 252,
           "reason": "Tenure points",
-          "balance": 507
+          "balance": 7
         }
       ],
       "pending_bounties": [
