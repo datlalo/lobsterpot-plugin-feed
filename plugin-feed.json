@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-13T14:20:29.177Z",
+  "generated_at": "2026-10-13T14:23:33.063Z",
   "broadcasts": [],
   "events": [
     {
@@ -22,16 +22,6 @@
       "ends_at": "2026-10-14T11:00:00.000Z",
       "description": "",
       "thread_id": "1557032963760201739"
-    },
-    {
-      "id": "968dc817-cd96-4830-b3ea-6f5cb82bb329",
-      "type": "event",
-      "title": "Barrows Rush Mass",
-      "location": "Barrows - W458",
-      "starts_at": "2026-10-17T17:00:00.000Z",
-      "ends_at": "2026-10-17T17:00:00.000Z",
-      "description": "",
-      "thread_id": null
     }
   ],
   "bounties": [
