@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-13T01:43:15.513Z",
+  "generated_at": "2026-10-13T02:22:28.202Z",
   "broadcasts": [],
   "events": [
     {
@@ -17145,16 +17145,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-08-17",
-      "points_total": 247,
+      "points_total": 277,
       "points_spent": 100,
-      "points_available": 147,
+      "points_available": 177,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 53,
+        "missing_points": 23,
         "missing_months": 1,
         "can_claim": false
       },
@@ -17202,10 +17202,16 @@
           "balance": 90
         },
         {
+          "timestamp": "2026-10-13T02:22:26.687Z",
+          "delta": 30,
+          "reason": "Bounty: Dagannoth Kings BOTW - Medium",
+          "balance": 120
+        },
+        {
           "timestamp": "2026-10-13T00:43:12.600Z",
           "delta": 57,
           "reason": "Tenure points",
-          "balance": 147
+          "balance": 177
         }
       ],
       "pending_bounties": [
@@ -17226,7 +17232,7 @@
         {
           "bounty_id": "67",
           "name": "Dagannoth Kings BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-11T17:07:25.694Z"
         }
