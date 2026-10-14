@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T12:50:09.572Z",
+  "generated_at": "2026-10-14T12:53:12.921Z",
   "broadcasts": [],
   "events": [
     {
@@ -17380,16 +17380,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-09-11",
-      "points_total": 108,
+      "points_total": 198,
       "points_spent": 100,
-      "points_available": 8,
+      "points_available": 98,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 192,
+        "missing_points": 102,
         "missing_months": 1,
         "can_claim": false
       },
@@ -17419,31 +17419,49 @@
           "balance": -25
         },
         {
+          "timestamp": "2026-10-14T12:50:27.476Z",
+          "delta": 45,
+          "reason": "Bounty: Dagannoth Kings BOTW - Hard",
+          "balance": 20
+        },
+        {
+          "timestamp": "2026-10-14T12:50:32.498Z",
+          "delta": 15,
+          "reason": "Bounty: Dagannoth Kings BOTW - Easy",
+          "balance": 35
+        },
+        {
+          "timestamp": "2026-10-14T12:50:49.147Z",
+          "delta": 30,
+          "reason": "Bounty: Dagannoth Kings BOTW - Medium",
+          "balance": 65
+        },
+        {
           "timestamp": "2026-10-14T00:43:14.548Z",
           "delta": 33,
           "reason": "Tenure points",
-          "balance": 8
+          "balance": 98
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "68",
           "name": "Dagannoth Kings BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-13T18:12:52.732Z"
         },
         {
           "bounty_id": "66",
           "name": "Dagannoth Kings BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-14T05:55:08.179Z"
         },
         {
           "bounty_id": "67",
           "name": "Dagannoth Kings BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-14T05:55:08.180Z"
         }
