@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T17:30:44.980Z",
+  "generated_at": "2026-10-14T17:37:11.546Z",
   "broadcasts": [],
   "events": [
     {
@@ -19675,6 +19675,26 @@
       ]
     },
     {
+      "rsn": "Roo 113",
+      "rsn_key": "roo113",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-14",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "roycety",
       "rsn_key": "roycety",
       "bot_rank": "Emerald",
@@ -23906,52 +23926,6 @@
           "delta": 104,
           "reason": "Tenure points",
           "balance": 189
-        }
-      ]
-    },
-    {
-      "rsn": "Tony Lark IM",
-      "rsn_key": "tonylarkim",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2026-03-09",
-      "points_total": 284,
-      "points_spent": 100,
-      "points_available": 184,
-      "months_in_clan": 7,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 16,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-09-14T23:56:10.124Z",
-          "delta": 50,
-          "reason": "Saradomin Mid rng",
-          "balance": 50
-        },
-        {
-          "timestamp": "2026-09-29T09:59:46.007Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": -50
-        },
-        {
-          "timestamp": "2026-10-10T20:35:25.561Z",
-          "delta": 15,
-          "reason": "Halloween Fashionscape participation",
-          "balance": -35
-        },
-        {
-          "timestamp": "2026-10-14T00:43:14.548Z",
-          "delta": 219,
-          "reason": "Tenure points",
-          "balance": 184
         }
       ]
     },
