@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T00:43:17.782Z",
+  "generated_at": "2026-10-14T00:46:21.149Z",
   "broadcasts": [],
   "events": [
     {
@@ -5484,6 +5484,26 @@
           "balance": 37
         }
       ]
+    },
+    {
+      "rsn": "D1ah",
+      "rsn_key": "d1ah",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-14",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "Dallorey",
