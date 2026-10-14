@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T23:10:43.860Z",
+  "generated_at": "2026-10-14T23:13:46.194Z",
   "broadcasts": [],
   "events": [
     {
@@ -9359,26 +9359,21 @@
     {
       "rsn": "GhostFree",
       "rsn_key": "ghostfree",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
       "join_date": "2026-05-01",
       "points_total": 609,
-      "points_spent": 300,
-      "points_available": 309,
+      "points_spent": 600,
+      "points_available": 9,
       "months_in_clan": 5,
       "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 0,
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 391,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Ruby",
-        "created_at": "2026-10-14T23:10:41.630Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -9466,10 +9461,16 @@
           "balance": 143
         },
         {
+          "timestamp": "2026-10-14T23:11:12.155Z",
+          "delta": -300,
+          "reason": "Rank upgrade: Ruby",
+          "balance": -157
+        },
+        {
           "timestamp": "2026-10-14T00:43:14.548Z",
           "delta": 166,
           "reason": "Tenure points",
-          "balance": 309
+          "balance": 9
         }
       ]
     },
