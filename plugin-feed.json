@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T08:57:42.572Z",
+  "generated_at": "2026-10-15T09:00:45.658Z",
   "broadcasts": [],
   "events": [
     {
@@ -1902,26 +1902,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2026-01-31",
-      "points_total": 1782,
+      "points_total": 1812,
       "points_spent": 1550,
-      "points_available": 232,
+      "points_available": 262,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 568,
+        "missing_points": 538,
         "missing_months": 4,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-24T07:48:39.507Z",
-          "delta": 40,
-          "reason": "Bounty: Slayer BOTM Hard Bounty",
-          "balance": 30
-        },
         {
           "timestamp": "2026-07-01T11:58:35.081Z",
           "delta": 10,
@@ -2067,10 +2061,16 @@
           "balance": -25
         },
         {
+          "timestamp": "2026-10-15T08:58:28.133Z",
+          "delta": 30,
+          "reason": "Dag Kings BOTW- 3rd Place",
+          "balance": 5
+        },
+        {
           "timestamp": "2026-10-15T00:37:08.086Z",
           "delta": 257,
           "reason": "Tenure points",
-          "balance": 232
+          "balance": 262
         }
       ]
     },
@@ -4010,26 +4010,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-20 22:12:14.780985+00",
-      "points_total": 1294,
+      "points_total": 1309,
       "points_spent": 1000,
-      "points_available": 294,
+      "points_available": 309,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 206,
+        "missing_points": 191,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-10T12:07:21.572Z",
-          "delta": 60,
-          "reason": "Bounty: Fishing SOTW - Elite",
-          "balance": 215
-        },
         {
           "timestamp": "2026-08-10T14:05:53.032Z",
           "delta": -300,
@@ -4175,10 +4169,16 @@
           "balance": 85
         },
         {
+          "timestamp": "2026-10-15T08:59:09.699Z",
+          "delta": 15,
+          "reason": "Dag Kings BOTW - 4th to 6th place",
+          "balance": 100
+        },
+        {
           "timestamp": "2026-10-15T00:37:08.086Z",
           "delta": 209,
           "reason": "Tenure points",
-          "balance": 294
+          "balance": 309
         }
       ]
     },
@@ -6740,9 +6740,9 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-02-14",
-      "points_total": 1588,
+      "points_total": 1638,
       "points_spent": 800,
-      "points_available": 788,
+      "points_available": 838,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Dragonstone",
@@ -6754,12 +6754,6 @@
         "can_claim": true
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-24T13:29:17.853Z",
-          "delta": -300,
-          "reason": "Rank upgrade: Ruby",
-          "balance": 70
-        },
         {
           "timestamp": "2026-07-03T05:59:13.329Z",
           "delta": 110,
@@ -6905,10 +6899,16 @@
           "balance": 545
         },
         {
+          "timestamp": "2026-10-15T08:58:04.189Z",
+          "delta": 50,
+          "reason": "Dag Kings BOTW - 2nd place",
+          "balance": 595
+        },
+        {
           "timestamp": "2026-10-15T00:37:08.086Z",
           "delta": 243,
           "reason": "Tenure points",
-          "balance": 788
+          "balance": 838
         }
       ]
     },
@@ -8148,26 +8148,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-02",
-      "points_total": 1756,
+      "points_total": 1771,
       "points_spent": 1400,
-      "points_available": 356,
+      "points_available": 371,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 444,
+        "missing_points": 429,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-14T20:04:12.381Z",
-          "delta": 15,
-          "reason": "Discord adjustment",
-          "balance": 180
-        },
         {
           "timestamp": "2026-04-21T05:21:00.186Z",
           "delta": 5,
@@ -8313,10 +8307,16 @@
           "balance": 9
         },
         {
+          "timestamp": "2026-10-15T08:59:09.704Z",
+          "delta": 15,
+          "reason": "Dag Kings BOTW - 4th to 6th place",
+          "balance": 24
+        },
+        {
           "timestamp": "2026-10-15T00:37:08.086Z",
           "delta": 347,
           "reason": "Tenure points",
-          "balance": 356
+          "balance": 371
         }
       ]
     },
@@ -19530,9 +19530,9 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-10-11",
-      "points_total": 2623,
+      "points_total": 2638,
       "points_spent": 1400,
-      "points_available": 1223,
+      "points_available": 1238,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
@@ -19544,12 +19544,6 @@
         "can_claim": true
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-16T03:12:23.523Z",
-          "delta": 30,
-          "reason": "Bounty: Duke Sucellus - Medium",
-          "balance": 109
-        },
         {
           "timestamp": "2026-07-16T03:12:25.671Z",
           "delta": 15,
@@ -19695,10 +19689,16 @@
           "balance": 854
         },
         {
+          "timestamp": "2026-10-15T08:59:09.700Z",
+          "delta": 15,
+          "reason": "Dag Kings BOTW - 4th to 6th place",
+          "balance": 869
+        },
+        {
           "timestamp": "2026-10-15T00:37:08.086Z",
           "delta": 369,
           "reason": "Tenure points",
-          "balance": 1223
+          "balance": 1238
         }
       ]
     },
@@ -23650,26 +23650,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-02",
-      "points_total": 1756,
+      "points_total": 1771,
       "points_spent": 1400,
-      "points_available": 356,
+      "points_available": 371,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 444,
+        "missing_points": 429,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-14T20:04:12.381Z",
-          "delta": 15,
-          "reason": "Discord adjustment",
-          "balance": 180
-        },
         {
           "timestamp": "2026-04-21T05:21:00.186Z",
           "delta": 5,
@@ -23815,10 +23809,16 @@
           "balance": 9
         },
         {
+          "timestamp": "2026-10-15T08:59:09.704Z",
+          "delta": 15,
+          "reason": "Dag Kings BOTW - 4th to 6th place",
+          "balance": 24
+        },
+        {
           "timestamp": "2026-10-15T00:37:08.086Z",
           "delta": 347,
           "reason": "Tenure points",
-          "balance": 356
+          "balance": 371
         }
       ]
     },
