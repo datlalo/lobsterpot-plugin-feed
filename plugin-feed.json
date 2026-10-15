@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T23:13:46.194Z",
+  "generated_at": "2026-10-15T00:07:11.404Z",
   "broadcasts": [],
   "events": [
     {
@@ -24,48 +24,7 @@
       "thread_id": "1559588173447958660"
     }
   ],
-  "bounties": [
-    {
-      "id": "70",
-      "name": "Dagannoth Kings BOTW - Master",
-      "active": true,
-      "points": 75,
-      "description": "Any of the Dagannoth Kings Pet drops",
-      "expires_at": "2026-10-15T00:00:00.000Z"
-    },
-    {
-      "id": "69",
-      "name": "Dagannoth Kings BOTW - Elite",
-      "active": true,
-      "points": 60,
-      "description": "150 KC of EACH Dagannoth King OR All 4 Rings",
-      "expires_at": "2026-10-15T00:00:00.000Z"
-    },
-    {
-      "id": "68",
-      "name": "Dagannoth Kings BOTW - Hard",
-      "active": true,
-      "points": 45,
-      "description": "Dragon Axe, Seercull or Mud Battlestaff drop from Dagannoth Kings",
-      "expires_at": "2026-10-15T00:00:00.000Z"
-    },
-    {
-      "id": "67",
-      "name": "Dagannoth Kings BOTW - Medium",
-      "active": true,
-      "points": 30,
-      "description": "75kc each of two kings",
-      "expires_at": "2026-10-15T00:00:00.000Z"
-    },
-    {
-      "id": "66",
-      "name": "Dagannoth Kings BOTW - Easy",
-      "active": true,
-      "points": 15,
-      "description": "50 KC of any one King",
-      "expires_at": "2026-10-15T00:00:00.000Z"
-    }
-  ],
+  "bounties": [],
   "members": [
     {
       "rsn": "0gass",
@@ -692,36 +651,6 @@
           "delta": 384,
           "reason": "Tenure points",
           "balance": 1592
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "69",
-          "name": "Dagannoth Kings BOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T06:01:09.139Z"
-        },
-        {
-          "bounty_id": "68",
-          "name": "Dagannoth Kings BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T06:01:09.140Z"
-        },
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T06:02:09.158Z"
-        },
-        {
-          "bounty_id": "67",
-          "name": "Dagannoth Kings BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T06:02:09.158Z"
         }
       ]
     },
@@ -2142,36 +2071,6 @@
           "delta": 256,
           "reason": "Tenure points",
           "balance": 231
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "68",
-          "name": "Dagannoth Kings BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T12:05:25.392Z"
-        },
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T20:09:17.267Z"
-        },
-        {
-          "bounty_id": "67",
-          "name": "Dagannoth Kings BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T21:58:18.030Z"
-        },
-        {
-          "bounty_id": "69",
-          "name": "Dagannoth Kings BOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-09T19:06:29.819Z"
         }
       ]
     },
@@ -4272,36 +4171,6 @@
           "delta": 208,
           "reason": "Tenure points",
           "balance": 293
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T12:09:39.832Z"
-        },
-        {
-          "bounty_id": "68",
-          "name": "Dagannoth Kings BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T12:10:46.458Z"
-        },
-        {
-          "bounty_id": "67",
-          "name": "Dagannoth Kings BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T23:03:59.055Z"
-        },
-        {
-          "bounty_id": "69",
-          "name": "Dagannoth Kings BOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-13T06:29:46.144Z"
         }
       ]
     },
@@ -6665,15 +6534,6 @@
           "reason": "Tenure points",
           "balance": 17
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-09T01:06:19.424Z"
-        }
       ]
     },
     {
@@ -7041,36 +6901,6 @@
           "delta": 242,
           "reason": "Tenure points",
           "balance": 787
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "68",
-          "name": "Dagannoth Kings BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-07T15:02:03.108Z"
-        },
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-07T21:42:26.844Z"
-        },
-        {
-          "bounty_id": "67",
-          "name": "Dagannoth Kings BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-07T21:42:38.671Z"
-        },
-        {
-          "bounty_id": "69",
-          "name": "Dagannoth Kings BOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T20:07:32.463Z"
         }
       ]
     },
@@ -7549,36 +7379,6 @@
           "delta": 150,
           "reason": "Tenure points",
           "balance": 635
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-07T16:33:42.748Z"
-        },
-        {
-          "bounty_id": "68",
-          "name": "Dagannoth Kings BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-07T16:35:17.812Z"
-        },
-        {
-          "bounty_id": "67",
-          "name": "Dagannoth Kings BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T11:04:26.850Z"
-        },
-        {
-          "bounty_id": "69",
-          "name": "Dagannoth Kings BOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T17:57:03.421Z"
         }
       ]
     },
@@ -8098,29 +7898,6 @@
           "reason": "Tenure points",
           "balance": 198
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "68",
-          "name": "Dagannoth Kings BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T11:24:56.867Z"
-        },
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-10T00:45:15.129Z"
-        },
-        {
-          "bounty_id": "67",
-          "name": "Dagannoth Kings BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-10T00:45:43.584Z"
-        }
       ]
     },
     {
@@ -8298,29 +8075,6 @@
           "delta": 388,
           "reason": "Tenure points",
           "balance": 198
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "68",
-          "name": "Dagannoth Kings BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T11:24:56.867Z"
-        },
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-10T00:45:15.129Z"
-        },
-        {
-          "bounty_id": "67",
-          "name": "Dagannoth Kings BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-10T00:45:43.584Z"
         }
       ]
     },
@@ -8555,43 +8309,6 @@
           "delta": 346,
           "reason": "Tenure points",
           "balance": 355
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "70",
-          "name": "Dagannoth Kings BOTW - Master",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-07T18:05:39.709Z"
-        },
-        {
-          "bounty_id": "68",
-          "name": "Dagannoth Kings BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T15:17:19.584Z"
-        },
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-09T10:58:23.224Z"
-        },
-        {
-          "bounty_id": "67",
-          "name": "Dagannoth Kings BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-09T10:58:30.698Z"
-        },
-        {
-          "bounty_id": "69",
-          "name": "Dagannoth Kings BOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-09T10:58:38.508Z"
         }
       ]
     },
@@ -8976,29 +8693,6 @@
           "delta": 388,
           "reason": "Tenure points",
           "balance": 198
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "68",
-          "name": "Dagannoth Kings BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T11:24:56.867Z"
-        },
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-10T00:45:15.129Z"
-        },
-        {
-          "bounty_id": "67",
-          "name": "Dagannoth Kings BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-10T00:45:43.584Z"
         }
       ]
     },
@@ -10152,29 +9846,6 @@
           "reason": "Tenure points",
           "balance": 219
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "68",
-          "name": "Dagannoth Kings BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-07T17:19:02.731Z"
-        },
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-10T00:03:39.920Z"
-        },
-        {
-          "bounty_id": "67",
-          "name": "Dagannoth Kings BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-10T00:03:49.158Z"
-        }
       ]
     },
     {
@@ -10951,36 +10622,6 @@
           "reason": "Tenure points",
           "balance": 407
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T05:45:57.432Z"
-        },
-        {
-          "bounty_id": "67",
-          "name": "Dagannoth Kings BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T05:46:10.115Z"
-        },
-        {
-          "bounty_id": "68",
-          "name": "Dagannoth Kings BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T05:47:00.680Z"
-        },
-        {
-          "bounty_id": "69",
-          "name": "Dagannoth Kings BOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-10T12:49:03.581Z"
-        }
       ]
     },
     {
@@ -11044,22 +10685,6 @@
           "delta": 373,
           "reason": "Tenure points",
           "balance": 163
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "68",
-          "name": "Dagannoth Kings BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-12T20:40:22.442Z"
-        },
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-13T12:10:33.604Z"
         }
       ]
     },
@@ -17271,29 +16896,6 @@
           "reason": "Tenure points",
           "balance": 178
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-10T05:17:34.479Z"
-        },
-        {
-          "bounty_id": "68",
-          "name": "Dagannoth Kings BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-11T06:23:20.694Z"
-        },
-        {
-          "bounty_id": "67",
-          "name": "Dagannoth Kings BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-11T17:07:25.694Z"
-        }
       ]
     },
     {
@@ -17447,29 +17049,6 @@
           "delta": 33,
           "reason": "Tenure points",
           "balance": 98
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "68",
-          "name": "Dagannoth Kings BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-13T18:12:52.732Z"
-        },
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-14T05:55:08.179Z"
-        },
-        {
-          "bounty_id": "67",
-          "name": "Dagannoth Kings BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-14T05:55:08.180Z"
         }
       ]
     },
@@ -18049,36 +17628,6 @@
           "reason": "Tenure points",
           "balance": 1592
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "69",
-          "name": "Dagannoth Kings BOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T06:01:09.139Z"
-        },
-        {
-          "bounty_id": "68",
-          "name": "Dagannoth Kings BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T06:01:09.140Z"
-        },
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T06:02:09.158Z"
-        },
-        {
-          "bounty_id": "67",
-          "name": "Dagannoth Kings BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T06:02:09.158Z"
-        }
       ]
     },
     {
@@ -18364,15 +17913,6 @@
           "delta": 253,
           "reason": "Tenure points",
           "balance": 8
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-11T19:16:56.927Z"
         }
       ]
     },
@@ -18920,15 +18460,6 @@
           "reason": "Tenure points",
           "balance": 17
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-09T01:06:19.424Z"
-        }
       ]
     },
     {
@@ -19107,15 +18638,6 @@
           "reason": "Tenure points",
           "balance": 67
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-12T00:53:51.334Z"
-        }
       ]
     },
     {
@@ -19267,22 +18789,6 @@
           "delta": 5,
           "reason": "Tenure points",
           "balance": 65
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "68",
-          "name": "Dagannoth Kings BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-11T04:47:49.571Z"
-        },
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-12T13:05:22.854Z"
         }
       ]
     },
@@ -20000,15 +19506,6 @@
           "reason": "Tenure points",
           "balance": 44
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-12T23:08:29.434Z"
-        }
       ]
     },
     {
@@ -20186,36 +19683,6 @@
           "delta": 368,
           "reason": "Tenure points",
           "balance": 1222
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "68",
-          "name": "Dagannoth Kings BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-10T00:11:46.241Z"
-        },
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-11T18:00:29.849Z"
-        },
-        {
-          "bounty_id": "67",
-          "name": "Dagannoth Kings BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-11T18:00:41.493Z"
-        },
-        {
-          "bounty_id": "69",
-          "name": "Dagannoth Kings BOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-11T18:00:54.955Z"
         }
       ]
     },
@@ -20878,15 +20345,6 @@
           "delta": 234,
           "reason": "Tenure points",
           "balance": 194
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T18:51:16.647Z"
         }
       ]
     },
@@ -22054,29 +21512,6 @@
           "reason": "Tenure points",
           "balance": 302
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "68",
-          "name": "Dagannoth Kings BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-09T20:49:13.508Z"
-        },
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-09T22:15:30.795Z"
-        },
-        {
-          "bounty_id": "67",
-          "name": "Dagannoth Kings BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-10T11:06:43.511Z"
-        }
       ]
     },
     {
@@ -22792,36 +22227,6 @@
           "delta": 212,
           "reason": "Tenure points",
           "balance": 407
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T05:45:57.432Z"
-        },
-        {
-          "bounty_id": "67",
-          "name": "Dagannoth Kings BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T05:46:10.115Z"
-        },
-        {
-          "bounty_id": "68",
-          "name": "Dagannoth Kings BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T05:47:00.680Z"
-        },
-        {
-          "bounty_id": "69",
-          "name": "Dagannoth Kings BOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-10T12:49:03.581Z"
         }
       ]
     },
@@ -24399,43 +23804,6 @@
           "reason": "Tenure points",
           "balance": 355
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "70",
-          "name": "Dagannoth Kings BOTW - Master",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-07T18:05:39.709Z"
-        },
-        {
-          "bounty_id": "68",
-          "name": "Dagannoth Kings BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-08T15:17:19.584Z"
-        },
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-09T10:58:23.224Z"
-        },
-        {
-          "bounty_id": "67",
-          "name": "Dagannoth Kings BOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-09T10:58:30.698Z"
-        },
-        {
-          "bounty_id": "69",
-          "name": "Dagannoth Kings BOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-09T10:58:38.508Z"
-        }
       ]
     },
     {
@@ -24677,15 +24045,6 @@
           "delta": 101,
           "reason": "Tenure points",
           "balance": 26
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "68",
-          "name": "Dagannoth Kings BOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-09T19:20:57.658Z"
         }
       ]
     },
@@ -25598,15 +24957,6 @@
           "delta": 102,
           "reason": "Tenure points",
           "balance": 17
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "66",
-          "name": "Dagannoth Kings BOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-09T01:06:19.424Z"
         }
       ]
     },
