@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T00:37:11.037Z",
+  "generated_at": "2026-10-15T08:57:42.572Z",
   "broadcasts": [],
   "events": [
     {
@@ -10460,26 +10460,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-16",
-      "points_total": 1408,
+      "points_total": 1468,
       "points_spent": 1000,
-      "points_available": 408,
+      "points_available": 468,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 92,
+        "missing_points": 32,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-12T22:28:42.252Z",
-          "delta": 10,
-          "reason": "Bounty: Mimic kill",
-          "balance": -20
-        },
         {
           "timestamp": "2026-07-16T07:11:57.336Z",
           "delta": 30,
@@ -10625,10 +10619,16 @@
           "balance": 195
         },
         {
+          "timestamp": "2026-10-15T08:57:41.043Z",
+          "delta": 60,
+          "reason": "Dag Kings BOTW - 1st Place",
+          "balance": 255
+        },
+        {
           "timestamp": "2026-10-15T00:37:08.086Z",
           "delta": 213,
           "reason": "Tenure points",
-          "balance": 408
+          "balance": 468
         }
       ]
     },
@@ -22074,26 +22074,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-16",
-      "points_total": 1408,
+      "points_total": 1468,
       "points_spent": 1000,
-      "points_available": 408,
+      "points_available": 468,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 92,
+        "missing_points": 32,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-12T22:28:42.252Z",
-          "delta": 10,
-          "reason": "Bounty: Mimic kill",
-          "balance": -20
-        },
         {
           "timestamp": "2026-07-16T07:11:57.336Z",
           "delta": 30,
@@ -22239,10 +22233,16 @@
           "balance": 195
         },
         {
+          "timestamp": "2026-10-15T08:57:41.043Z",
+          "delta": 60,
+          "reason": "Dag Kings BOTW - 1st Place",
+          "balance": 255
+        },
+        {
           "timestamp": "2026-10-15T00:37:08.086Z",
           "delta": 213,
           "reason": "Tenure points",
-          "balance": 408
+          "balance": 468
         }
       ]
     },
