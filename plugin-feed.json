@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T21:26:46.580Z",
+  "generated_at": "2026-10-15T22:05:15.389Z",
   "broadcasts": [],
   "events": [
     {
@@ -7139,7 +7139,7 @@
       "points_total": 60,
       "points_spent": 0,
       "points_available": 60,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": null,
       "points_history": [
         {
@@ -7631,7 +7631,7 @@
       "points_total": 411,
       "points_spent": 0,
       "points_available": 411,
-      "months_in_clan": 7,
+      "months_in_clan": 8,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -7711,7 +7711,7 @@
       "points_total": 241,
       "points_spent": 0,
       "points_available": 241,
-      "months_in_clan": 7,
+      "months_in_clan": 8,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -8849,7 +8849,7 @@
       "points_total": 258,
       "points_spent": 0,
       "points_available": 258,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -9363,7 +9363,7 @@
       "points_total": 411,
       "points_spent": 0,
       "points_available": 411,
-      "months_in_clan": 7,
+      "months_in_clan": 8,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -9979,7 +9979,7 @@
       "points_total": 898,
       "points_spent": 800,
       "points_available": 98,
-      "months_in_clan": 9,
+      "months_in_clan": 10,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -10483,14 +10483,14 @@
       "points_total": 1468,
       "points_spent": 1000,
       "points_available": 468,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
         "missing_points": 32,
-        "missing_months": 2,
+        "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
@@ -11417,7 +11417,7 @@
       "points_total": 292,
       "points_spent": 0,
       "points_available": 292,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -11903,26 +11903,21 @@
     {
       "rsn": "IronTheGalch",
       "rsn_key": "ironthegalch",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2026-08-11",
       "points_total": 480,
-      "points_spent": 100,
-      "points_available": 380,
+      "points_spent": 300,
+      "points_available": 180,
       "months_in_clan": 2,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Emerald",
-        "created_at": "2026-10-15T15:38:17.121Z"
+        "missing_points": 120,
+        "missing_months": 1,
+        "can_claim": false
       },
       "points_history": [
         {
@@ -12010,10 +12005,16 @@
           "balance": 315
         },
         {
+          "timestamp": "2026-10-15T22:05:13.884Z",
+          "delta": -200,
+          "reason": "Rank upgrade: Emerald",
+          "balance": 115
+        },
+        {
           "timestamp": "2026-10-15T00:37:08.086Z",
           "delta": 65,
           "reason": "Tenure points",
-          "balance": 380
+          "balance": 180
         }
       ]
     },
@@ -12592,7 +12593,7 @@
       "points_total": 832,
       "points_spent": 630,
       "points_available": 202,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -14732,7 +14733,7 @@
       "points_total": 784,
       "points_spent": 700,
       "points_available": 84,
-      "months_in_clan": 12,
+      "months_in_clan": 13,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
@@ -15944,7 +15945,7 @@
       "points_total": 784,
       "points_spent": 700,
       "points_available": 84,
-      "months_in_clan": 12,
+      "months_in_clan": 13,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
@@ -19770,7 +19771,7 @@
       "points_total": 256,
       "points_spent": 0,
       "points_available": 256,
-      "months_in_clan": 7,
+      "months_in_clan": 8,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -19900,7 +19901,7 @@
       "points_total": 96,
       "points_spent": 0,
       "points_available": 96,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -22108,14 +22109,14 @@
       "points_total": 1468,
       "points_spent": 1000,
       "points_available": 468,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
         "missing_points": 32,
-        "missing_months": 2,
+        "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
@@ -23862,7 +23863,7 @@
       "points_total": 898,
       "points_spent": 800,
       "points_available": 98,
-      "months_in_clan": 9,
+      "months_in_clan": 10,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -24250,7 +24251,7 @@
       "points_total": 228,
       "points_spent": 0,
       "points_available": 228,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -24340,7 +24341,7 @@
       "points_total": 60,
       "points_spent": 0,
       "points_available": 60,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -25422,7 +25423,7 @@
       "points_total": 91,
       "points_spent": 0,
       "points_available": 91,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -25624,7 +25625,7 @@
       "points_total": 121,
       "points_spent": 0,
       "points_available": 121,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
