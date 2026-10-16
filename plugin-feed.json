@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T13:29:40.948Z",
+  "generated_at": "2026-10-16T13:32:43.666Z",
   "broadcasts": [],
   "events": [
     {
@@ -24907,28 +24907,34 @@
     {
       "rsn": "westvns",
       "rsn_key": "westvns",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-07-03",
       "points_total": 105,
-      "points_spent": 0,
-      "points_available": 105,
+      "points_spent": 100,
+      "points_available": 5,
       "months_in_clan": 3,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 195,
         "missing_months": 0,
-        "can_claim": true
+        "can_claim": false
       },
       "points_history": [
+        {
+          "timestamp": "2026-10-16T13:31:38.073Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -100
+        },
         {
           "timestamp": "2026-10-16T00:37:09.550Z",
           "delta": 105,
           "reason": "Tenure points",
-          "balance": 105
+          "balance": 5
         }
       ]
     },
