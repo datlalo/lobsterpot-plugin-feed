@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T13:52:16.722Z",
+  "generated_at": "2026-10-16T14:14:32.260Z",
   "broadcasts": [],
   "events": [
     {
@@ -42,6 +42,16 @@
       "ends_at": null,
       "description": "Send movie recommendations below!\n\nReact with a Fire emoji on the movies you'd like to watch.",
       "thread_id": "1560636852103544958"
+    },
+    {
+      "id": "50c3bc01-2d2f-46ea-8a94-16fffe4d5358",
+      "type": "event",
+      "title": "Misa's Zalcano MASS",
+      "location": "ZALCANO",
+      "starts_at": "2026-10-19T19:00:00.000Z",
+      "ends_at": null,
+      "description": "COME JOIN MISA IN DEFEATING THE ZALCANO",
+      "thread_id": "1560657170612363384"
     }
   ],
   "bounties": [],
