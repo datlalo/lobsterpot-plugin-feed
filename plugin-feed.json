@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T12:45:32.821Z",
+  "generated_at": "2026-10-16T12:53:46.501Z",
   "broadcasts": [],
   "events": [
     {
@@ -32,6 +32,16 @@
       "ends_at": "2026-10-17T19:00:00.000Z",
       "description": "Let's join together at Barrows to compete for GP and clan points!",
       "thread_id": "1559588173447958660"
+    },
+    {
+      "id": "a0c416e6-7807-457d-8e6a-7826d5b7aab0",
+      "type": "event",
+      "title": "Horror Movie Night",
+      "location": null,
+      "starts_at": "2026-10-18T17:30:00.000Z",
+      "ends_at": null,
+      "description": "Send movie recommendations below!",
+      "thread_id": "1560636852103544958"
     }
   ],
   "bounties": [],
