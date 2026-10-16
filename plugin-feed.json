@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T15:22:15.944Z",
+  "generated_at": "2026-10-16T22:22:15.928Z",
   "broadcasts": [],
   "events": [
     {
@@ -397,7 +397,7 @@
       "points_total": 91,
       "points_spent": 0,
       "points_available": 91,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -4725,7 +4725,7 @@
       "points_total": 226,
       "points_spent": 0,
       "points_available": 226,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -5037,7 +5037,7 @@
       "points_total": 91,
       "points_spent": 0,
       "points_available": 91,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -5277,6 +5277,40 @@
       ]
     },
     {
+      "rsn": "Comrade Sumi",
+      "rsn_key": "comradesumi",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-09-29",
+      "points_total": 22,
+      "points_spent": 0,
+      "points_available": 22,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 78,
+        "missing_months": 1,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-10-12T14:05:40.655Z",
+          "delta": 5,
+          "reason": "50 KC Amoxliatl Sunday",
+          "balance": 5
+        },
+        {
+          "timestamp": "2026-10-16T00:37:09.550Z",
+          "delta": 17,
+          "reason": "Tenure points",
+          "balance": 22
+        }
+      ]
+    },
+    {
       "rsn": "conesucker",
       "rsn_key": "conesucker",
       "bot_rank": "Emerald",
@@ -5471,14 +5505,14 @@
       "points_total": 44,
       "points_spent": 0,
       "points_available": 44,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 56,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -7277,15 +7311,15 @@
       "points_total": 1137,
       "points_spent": 500,
       "points_available": 637,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
         "missing_points": 0,
-        "missing_months": 1,
-        "can_claim": false
+        "missing_months": 0,
+        "can_claim": true
       },
       "points_history": [
         {
@@ -7483,7 +7517,7 @@
       "points_total": 91,
       "points_spent": 0,
       "points_available": 91,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -7659,7 +7693,7 @@
       "points_total": 91,
       "points_spent": 0,
       "points_available": 91,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -9639,7 +9673,7 @@
       "points_total": 291,
       "points_spent": 0,
       "points_available": 291,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -10519,7 +10553,7 @@
       "points_total": 91,
       "points_spent": 0,
       "points_available": 91,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -11855,7 +11889,7 @@
       "points_total": 293,
       "points_spent": 100,
       "points_available": 193,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -14123,7 +14157,7 @@
       "points_total": 91,
       "points_spent": 0,
       "points_available": 91,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -14151,7 +14185,7 @@
       "points_total": 596,
       "points_spent": 300,
       "points_available": 296,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -16955,14 +16989,14 @@
       "points_total": 280,
       "points_spent": 100,
       "points_available": 180,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
         "missing_points": 20,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -20409,7 +20443,7 @@
       "points_total": 272,
       "points_spent": 0,
       "points_available": 272,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -21209,7 +21243,7 @@
       "points_total": 327,
       "points_spent": 300,
       "points_available": 27,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -22269,40 +22303,6 @@
       ]
     },
     {
-      "rsn": "sumi lol",
-      "rsn_key": "sumilol",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-09-29",
-      "points_total": 22,
-      "points_spent": 0,
-      "points_available": 22,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 78,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-12T14:05:40.655Z",
-          "delta": 5,
-          "reason": "50 KC Amoxliatl Sunday",
-          "balance": 5
-        },
-        {
-          "timestamp": "2026-10-16T00:37:09.550Z",
-          "delta": 17,
-          "reason": "Tenure points",
-          "balance": 22
-        }
-      ]
-    },
-    {
       "rsn": "SuperRamen",
       "rsn_key": "superramen",
       "bot_rank": "Diamond",
@@ -22489,7 +22489,7 @@
       "points_total": 91,
       "points_spent": 0,
       "points_available": 91,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -25715,7 +25715,7 @@
       "points_total": 121,
       "points_spent": 0,
       "points_available": 121,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
