@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T13:32:43.666Z",
+  "generated_at": "2026-10-16T13:43:07.642Z",
   "broadcasts": [],
   "events": [
     {
@@ -40,7 +40,7 @@
       "location": null,
       "starts_at": "2026-10-18T17:30:00.000Z",
       "ends_at": null,
-      "description": "Send movie recommendations below!",
+      "description": "Send movie recommendations below!\n\nReact with a Fire emoji on the movies you'd like to watch.",
       "thread_id": "1560636852103544958"
     }
   ],
