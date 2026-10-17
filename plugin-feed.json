@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T17:28:55.833Z",
+  "generated_at": "2026-10-17T18:31:45.848Z",
   "broadcasts": [],
   "events": [
     {
@@ -18127,6 +18127,15 @@
           "delta": 256,
           "reason": "Tenure points",
           "balance": 11
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "71",
+          "name": "Barrows Dragon Medium Helmet",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-17T18:31:44.331Z"
         }
       ]
     },
