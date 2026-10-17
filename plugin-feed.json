@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T16:13:25.419Z",
+  "generated_at": "2026-10-17T16:37:38.310Z",
   "broadcasts": [],
   "events": [
     {
@@ -54,7 +54,15 @@
       "thread_id": "1560657170612363384"
     }
   ],
-  "bounties": [],
+  "bounties": [
+    {
+      "id": "71",
+      "name": "Barrows Dragon Medium Helmet",
+      "active": true,
+      "points": 20,
+      "description": "Dragon Med Helm from Barrows"
+    }
+  ],
   "members": [
     {
       "rsn": "0gass",
