@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T16:37:38.310Z",
+  "generated_at": "2026-10-17T16:40:40.403Z",
   "broadcasts": [],
   "events": [
     {
@@ -55,6 +55,20 @@
     }
   ],
   "bounties": [
+    {
+      "id": "73",
+      "name": "Barrows Triple Equipment",
+      "active": true,
+      "points": 20,
+      "description": "3 of any armor or weapon in the same Barrows chest"
+    },
+    {
+      "id": "72",
+      "name": "Barrows Double Equipment",
+      "active": true,
+      "points": 20,
+      "description": "2 of any armor or weapon in the same Barrows chest"
+    },
     {
       "id": "71",
       "name": "Barrows Dragon Medium Helmet",
