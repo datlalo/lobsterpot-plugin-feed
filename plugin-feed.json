@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T11:29:32.093Z",
+  "generated_at": "2026-10-18T11:37:19.487Z",
   "broadcasts": [],
   "events": [
     {
@@ -8877,6 +8877,26 @@
       ]
     },
     {
+      "rsn": "Flourino",
+      "rsn_key": "flourino",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-18",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "flumbino",
       "rsn_key": "flumbino",
       "bot_rank": "Gnome",
@@ -9265,34 +9285,6 @@
           "delta": 170,
           "reason": "Tenure points",
           "balance": 13
-        }
-      ]
-    },
-    {
-      "rsn": "ghostlyi jr",
-      "rsn_key": "ghostlyijr",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-10-15",
-      "points_total": 3,
-      "points_spent": 0,
-      "points_available": 3,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 97,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-18T00:37:12.515Z",
-          "delta": 3,
-          "reason": "Tenure points",
-          "balance": 3
         }
       ]
     },
@@ -14811,6 +14803,26 @@
           "balance": 172
         }
       ]
+    },
+    {
+      "rsn": "megalo",
+      "rsn_key": "megalo",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-18",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "Mepsy",
