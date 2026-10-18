@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T11:26:30.022Z",
+  "generated_at": "2026-10-18T11:29:32.093Z",
   "broadcasts": [],
   "events": [
     {
@@ -3563,18 +3563,18 @@
       "rsn_key": "blazegard",
       "bot_rank": "Alt",
       "progression_rank": "Alt",
-      "join_date": "2026-10-15",
-      "points_total": 3,
+      "join_date": "2026-10-07",
+      "points_total": 11,
       "points_spent": 0,
-      "points_available": 3,
+      "points_available": 11,
       "months_in_clan": 0,
       "next_rank": null,
       "points_history": [
         {
-          "timestamp": "2026-10-18T00:37:12.515Z",
-          "delta": 3,
+          "timestamp": "2026-10-18T11:27:01.432Z",
+          "delta": 11,
           "reason": "Tenure points",
-          "balance": 3
+          "balance": 11
         }
       ]
     },
@@ -7551,7 +7551,7 @@
       "next_rank": null,
       "points_history": [
         {
-          "timestamp": "2026-10-18T00:37:12.515Z",
+          "timestamp": "2026-10-18T11:27:01.432Z",
           "delta": 11,
           "reason": "Tenure points",
           "balance": 11
