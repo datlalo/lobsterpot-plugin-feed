@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T04:27:27.036Z",
+  "generated_at": "2026-10-18T04:30:29.340Z",
   "broadcasts": [],
   "events": [
     {
@@ -44,29 +44,7 @@
       "thread_id": "1560657170612363384"
     }
   ],
-  "bounties": [
-    {
-      "id": "73",
-      "name": "Barrows Triple Equipment",
-      "active": true,
-      "points": 20,
-      "description": "3 of any armor or weapon in the same Barrows chest"
-    },
-    {
-      "id": "72",
-      "name": "Barrows Double Equipment",
-      "active": true,
-      "points": 20,
-      "description": "2 of any armor or weapon in the same Barrows chest"
-    },
-    {
-      "id": "71",
-      "name": "Barrows Dragon Medium Helmet",
-      "active": true,
-      "points": 20,
-      "description": "Dragon Med Helm from Barrows"
-    }
-  ],
+  "bounties": [],
   "members": [
     {
       "rsn": "0gass",
@@ -10772,15 +10750,6 @@
           "reason": "Tenure points",
           "balance": 491
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "72",
-          "name": "Barrows Double Equipment",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-17T17:15:09.313Z"
-        }
       ]
     },
     {
@@ -17948,26 +17917,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2026-02-03",
-      "points_total": 1562,
+      "points_total": 1582,
       "points_spent": 1550,
-      "points_available": 12,
+      "points_available": 32,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 788,
+        "missing_points": 768,
         "missing_months": 4,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-01T11:57:41.652Z",
-          "delta": 15,
-          "reason": "Bounty: Farming - Easy",
-          "balance": -70
-        },
         {
           "timestamp": "2026-07-01T11:57:47.684Z",
           "delta": 40,
@@ -18113,19 +18076,16 @@
           "balance": -245
         },
         {
+          "timestamp": "2026-10-18T04:27:27.603Z",
+          "delta": 20,
+          "reason": "Bounty: Barrows Dragon Medium Helmet",
+          "balance": -225
+        },
+        {
           "timestamp": "2026-10-18T00:37:12.515Z",
           "delta": 257,
           "reason": "Tenure points",
-          "balance": 12
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "71",
-          "name": "Barrows Dragon Medium Helmet",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-17T18:31:44.331Z"
+          "balance": 32
         }
       ]
     },
@@ -22532,15 +22492,6 @@
           "delta": 216,
           "reason": "Tenure points",
           "balance": 491
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "72",
-          "name": "Barrows Double Equipment",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-17T17:15:09.313Z"
         }
       ]
     },
