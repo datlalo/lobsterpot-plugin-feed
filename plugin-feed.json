@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T20:27:13.268Z",
+  "generated_at": "2026-10-18T20:29:16.464Z",
   "broadcasts": [],
   "events": [
     {
@@ -23469,7 +23469,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-10-18T00:37:12.515Z",
+          "timestamp": "2026-10-18T20:29:14.928Z",
           "delta": 3,
           "reason": "Tenure points",
           "balance": 3
@@ -23761,7 +23761,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-10-18T00:37:12.515Z",
+          "timestamp": "2026-10-18T20:27:21.981Z",
           "delta": 394,
           "reason": "Tenure points",
           "balance": 394
