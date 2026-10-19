@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T17:19:28.043Z",
+  "generated_at": "2026-10-19T22:05:52.497Z",
   "broadcasts": [],
   "events": [
     {
@@ -12,16 +12,6 @@
       "ends_at": "2026-10-31T23:59:00.000Z",
       "description": "",
       "thread_id": "1555721009339048101"
-    },
-    {
-      "id": "50c3bc01-2d2f-46ea-8a94-16fffe4d5358",
-      "type": "event",
-      "title": "Misa's Zalcano MASS",
-      "location": "ZALCANO",
-      "starts_at": "2026-10-19T19:00:00.000Z",
-      "ends_at": null,
-      "description": "COME JOIN MISA IN DEFEATING THE ZALCANO",
-      "thread_id": "1560657170612363384"
     }
   ],
   "bounties": [],
@@ -722,26 +712,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-24",
-      "points_total": 1864,
+      "points_total": 1879,
       "points_spent": 1400,
-      "points_available": 464,
+      "points_available": 479,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 336,
+        "missing_points": 321,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-03T07:46:59.208Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier Bounty - Zulrah",
-          "balance": 100
-        },
         {
           "timestamp": "2026-03-03T07:47:04.701Z",
           "delta": 15,
@@ -887,10 +871,16 @@
           "balance": 135
         },
         {
+          "timestamp": "2026-10-19T22:05:50.980Z",
+          "delta": 15,
+          "reason": "zalcano mass",
+          "balance": 150
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 329,
           "reason": "Tenure points",
-          "balance": 464
+          "balance": 479
         }
       ]
     },
@@ -1500,9 +1490,9 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-12-24",
-      "points_total": 1529,
+      "points_total": 1544,
       "points_spent": 1010,
-      "points_available": 519,
+      "points_available": 534,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Dragonstone",
@@ -1514,12 +1504,6 @@
         "can_claim": true
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-06T17:49:01.497Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier - Giant Mole",
-          "balance": 115
-        },
         {
           "timestamp": "2026-04-14T20:05:16.948Z",
           "delta": 20,
@@ -1665,10 +1649,16 @@
           "balance": 220
         },
         {
+          "timestamp": "2026-10-19T22:05:50.979Z",
+          "delta": 15,
+          "reason": "zalcano mass",
+          "balance": 235
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 299,
           "reason": "Tenure points",
-          "balance": 519
+          "balance": 534
         }
       ]
     },
@@ -3885,7 +3875,7 @@
       "points_total": 827,
       "points_spent": 600,
       "points_available": 227,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -4045,14 +4035,14 @@
       "points_total": 1328,
       "points_spent": 1000,
       "points_available": 328,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
         "missing_points": 172,
-        "missing_months": 2,
+        "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
@@ -4588,16 +4578,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-06-24",
-      "points_total": 437,
+      "points_total": 452,
       "points_spent": 300,
-      "points_available": 137,
+      "points_available": 152,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 163,
+        "missing_points": 148,
         "missing_months": 0,
         "can_claim": false
       },
@@ -4663,10 +4653,16 @@
           "balance": 20
         },
         {
+          "timestamp": "2026-10-19T22:05:50.980Z",
+          "delta": 15,
+          "reason": "zalcano mass",
+          "balance": 35
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 117,
           "reason": "Tenure points",
-          "balance": 137
+          "balance": 152
         }
       ]
     },
@@ -4853,7 +4849,7 @@
       "points_total": 680,
       "points_spent": 0,
       "points_available": 680,
-      "months_in_clan": 13,
+      "months_in_clan": 14,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -6354,16 +6350,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-14",
-      "points_total": 825,
+      "points_total": 840,
       "points_spent": 700,
-      "points_available": 125,
+      "points_available": 140,
       "months_in_clan": 13,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 375,
+        "missing_points": 360,
         "missing_months": 0,
         "can_claim": false
       },
@@ -6477,10 +6473,16 @@
           "balance": -275
         },
         {
+          "timestamp": "2026-10-19T22:05:50.980Z",
+          "delta": 15,
+          "reason": "zalcano mass",
+          "balance": -260
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 400,
           "reason": "Tenure points",
-          "balance": 125
+          "balance": 140
         }
       ]
     },
@@ -8416,26 +8418,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-08-25",
-      "points_total": 1620,
+      "points_total": 1635,
       "points_spent": 1200,
-      "points_available": 420,
+      "points_available": 435,
       "months_in_clan": 13,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 380,
+        "missing_points": 365,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-06T05:16:33.789Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier Bounty - Zulrah",
-          "balance": 585
-        },
         {
           "timestamp": "2026-03-19T15:54:19.246Z",
           "delta": 15,
@@ -8581,10 +8577,16 @@
           "balance": 0
         },
         {
+          "timestamp": "2026-10-19T22:05:50.980Z",
+          "delta": 15,
+          "reason": "zalcano mass",
+          "balance": 15
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 420,
           "reason": "Tenure points",
-          "balance": 420
+          "balance": 435
         }
       ]
     },
@@ -8831,7 +8833,7 @@
       "points_total": 171,
       "points_spent": 100,
       "points_available": 71,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -9802,26 +9804,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-01-08",
-      "points_total": 1244,
+      "points_total": 1259,
       "points_spent": 1020,
-      "points_available": 224,
+      "points_available": 239,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 276,
+        "missing_points": 261,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-24T11:17:59.580Z",
-          "delta": 10,
-          "reason": "ty for the recommendation",
-          "balance": 180
-        },
         {
           "timestamp": "2026-07-01T17:38:16.700Z",
           "delta": 40,
@@ -9967,10 +9963,16 @@
           "balance": -60
         },
         {
+          "timestamp": "2026-10-19T22:05:50.980Z",
+          "delta": 15,
+          "reason": "zalcano mass",
+          "balance": -45
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 284,
           "reason": "Tenure points",
-          "balance": 224
+          "balance": 239
         }
       ]
     },
@@ -11643,7 +11645,7 @@
       "points_total": 152,
       "points_spent": 0,
       "points_available": 152,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -13456,26 +13458,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-24",
-      "points_total": 1864,
+      "points_total": 1879,
       "points_spent": 1400,
-      "points_available": 464,
+      "points_available": 479,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 336,
+        "missing_points": 321,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-03T07:46:59.208Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier Bounty - Zulrah",
-          "balance": 100
-        },
         {
           "timestamp": "2026-03-03T07:47:04.701Z",
           "delta": 15,
@@ -13621,10 +13617,16 @@
           "balance": 135
         },
         {
+          "timestamp": "2026-10-19T22:05:50.980Z",
+          "delta": 15,
+          "reason": "zalcano mass",
+          "balance": 150
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 329,
           "reason": "Tenure points",
-          "balance": 464
+          "balance": 479
         }
       ]
     },
@@ -15160,9 +15162,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-09-05",
-      "points_total": 1474,
+      "points_total": 1489,
       "points_spent": 650,
-      "points_available": 824,
+      "points_available": 839,
       "months_in_clan": 13,
       "next_rank": {
         "name": "Diamond",
@@ -15174,12 +15176,6 @@
         "can_claim": true
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-20T08:49:31.100Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier - Woodcutting",
-          "balance": 45
-        },
         {
           "timestamp": "2026-03-20T08:49:32.653Z",
           "delta": 15,
@@ -15325,10 +15321,16 @@
           "balance": 415
         },
         {
+          "timestamp": "2026-10-19T22:05:50.980Z",
+          "delta": 15,
+          "reason": "zalcano mass",
+          "balance": 430
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 409,
           "reason": "Tenure points",
-          "balance": 824
+          "balance": 839
         }
       ]
     },
@@ -17153,7 +17155,7 @@
       "points_total": 60,
       "points_spent": 0,
       "points_available": 60,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -17347,7 +17349,7 @@
       "points_total": 121,
       "points_spent": 0,
       "points_available": 121,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -17651,7 +17653,7 @@
       "points_total": 277,
       "points_spent": 0,
       "points_available": 277,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -18030,26 +18032,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2026-02-03",
-      "points_total": 1598,
+      "points_total": 1613,
       "points_spent": 1550,
-      "points_available": 48,
+      "points_available": 63,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 752,
+        "missing_points": 737,
         "missing_months": 4,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-02T21:14:59.853Z",
-          "delta": 30,
-          "reason": "Bounty: Farming - Medium",
-          "balance": 0
-        },
         {
           "timestamp": "2026-07-03T06:05:01.692Z",
           "delta": 55,
@@ -18195,10 +18191,16 @@
           "balance": -210
         },
         {
+          "timestamp": "2026-10-19T22:05:50.980Z",
+          "delta": 15,
+          "reason": "zalcano mass",
+          "balance": -195
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 258,
           "reason": "Tenure points",
-          "balance": 48
+          "balance": 63
         }
       ]
     },
@@ -18245,7 +18247,7 @@
       "points_total": 425,
       "points_spent": 0,
       "points_available": 425,
-      "months_in_clan": 13,
+      "months_in_clan": 14,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -18368,26 +18370,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-30",
-      "points_total": 1987,
+      "points_total": 2002,
       "points_spent": 1200,
-      "points_available": 787,
+      "points_available": 802,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 13,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-13T14:53:28.147Z",
-          "delta": 15,
-          "reason": "Did 15 clues",
-          "balance": 223
-        },
         {
           "timestamp": "2026-07-13T14:54:59.344Z",
           "delta": -500,
@@ -18533,10 +18529,16 @@
           "balance": 403
         },
         {
+          "timestamp": "2026-10-19T22:05:50.980Z",
+          "delta": 15,
+          "reason": "zalcano mass",
+          "balance": 418
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 384,
           "reason": "Tenure points",
-          "balance": 787
+          "balance": 802
         }
       ]
     },
@@ -18611,7 +18613,7 @@
       "points_total": 616,
       "points_spent": 300,
       "points_available": 316,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -20472,16 +20474,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-07-09",
-      "points_total": 142,
+      "points_total": 157,
       "points_spent": 100,
-      "points_available": 42,
+      "points_available": 57,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 158,
+        "missing_points": 143,
         "missing_months": 0,
         "can_claim": false
       },
@@ -20511,10 +20513,16 @@
           "balance": -60
         },
         {
+          "timestamp": "2026-10-19T22:05:50.980Z",
+          "delta": 15,
+          "reason": "zalcano mass",
+          "balance": -45
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 102,
           "reason": "Tenure points",
-          "balance": 42
+          "balance": 57
         }
       ]
     },
@@ -21766,26 +21774,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-22",
-      "points_total": 1507,
+      "points_total": 1522,
       "points_spent": 1200,
-      "points_available": 307,
+      "points_available": 322,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 493,
+        "missing_points": 478,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-12T09:02:18.352Z",
-          "delta": -300,
-          "reason": "Rank upgraded to: Ruby",
-          "balance": 80
-        },
         {
           "timestamp": "2026-03-16T11:22:36.911Z",
           "delta": 30,
@@ -21931,10 +21933,16 @@
           "balance": -85
         },
         {
+          "timestamp": "2026-10-19T22:05:50.980Z",
+          "delta": 15,
+          "reason": "zalcano mass",
+          "balance": -70
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 392,
           "reason": "Tenure points",
-          "balance": 307
+          "balance": 322
         }
       ]
     },
@@ -21987,7 +21995,7 @@
       "points_total": 827,
       "points_spent": 600,
       "points_available": 227,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -22736,26 +22744,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-30",
-      "points_total": 1987,
+      "points_total": 2002,
       "points_spent": 1200,
-      "points_available": 787,
+      "points_available": 802,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 13,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-13T14:53:28.147Z",
-          "delta": 15,
-          "reason": "Did 15 clues",
-          "balance": 223
-        },
         {
           "timestamp": "2026-07-13T14:54:59.344Z",
           "delta": -500,
@@ -22901,10 +22903,16 @@
           "balance": 403
         },
         {
+          "timestamp": "2026-10-19T22:05:50.980Z",
+          "delta": 15,
+          "reason": "zalcano mass",
+          "balance": 418
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 384,
           "reason": "Tenure points",
-          "balance": 787
+          "balance": 802
         }
       ]
     },
