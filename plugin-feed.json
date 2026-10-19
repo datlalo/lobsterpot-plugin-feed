@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T00:29:17.454Z",
+  "generated_at": "2026-10-19T17:19:28.043Z",
   "broadcasts": [],
   "events": [
     {
@@ -12,16 +12,6 @@
       "ends_at": "2026-10-31T23:59:00.000Z",
       "description": "",
       "thread_id": "1555721009339048101"
-    },
-    {
-      "id": "0524912f-f7c1-4c7a-8ebf-dfcbe412c36c",
-      "type": "event",
-      "title": "Zul'Rah Zunday",
-      "location": "Zul'Andra",
-      "starts_at": "2026-10-17T16:00:00.000Z",
-      "ends_at": "2026-10-19T04:00:00.000Z",
-      "description": "",
-      "thread_id": "1522561512089194536"
     },
     {
       "id": "50c3bc01-2d2f-46ea-8a94-16fffe4d5358",
@@ -498,9 +488,9 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-09-25",
-      "points_total": 3627,
+      "points_total": 3642,
       "points_spent": 2030,
-      "points_available": 1597,
+      "points_available": 1612,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Zenyte",
@@ -512,12 +502,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-20T04:44:13.566Z",
-          "delta": 30,
-          "reason": "Bounty: Vardorvis BOTW - Medium",
-          "balance": 1223
-        },
         {
           "timestamp": "2026-08-20T04:44:15.707Z",
           "delta": 15,
@@ -663,10 +647,16 @@
           "balance": 1208
         },
         {
+          "timestamp": "2026-10-19T17:19:26.542Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": 1223
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 389,
           "reason": "Tenure points",
-          "balance": 1597
+          "balance": 1612
         }
       ]
     },
@@ -1510,9 +1500,9 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-12-24",
-      "points_total": 1514,
+      "points_total": 1529,
       "points_spent": 1010,
-      "points_available": 504,
+      "points_available": 519,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Dragonstone",
@@ -1524,12 +1514,6 @@
         "can_claim": true
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-20T14:45:42.166Z",
-          "delta": 60,
-          "reason": "Bounty reward: Elite Tier - Woodcutting",
-          "balance": 100
-        },
         {
           "timestamp": "2026-04-06T17:49:01.497Z",
           "delta": 15,
@@ -1675,10 +1659,16 @@
           "balance": 205
         },
         {
+          "timestamp": "2026-10-19T17:19:26.525Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": 220
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 299,
           "reason": "Tenure points",
-          "balance": 504
+          "balance": 519
         }
       ]
     },
@@ -4052,26 +4042,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-20 22:12:14.780985+00",
-      "points_total": 1313,
+      "points_total": 1328,
       "points_spent": 1000,
-      "points_available": 313,
+      "points_available": 328,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 187,
+        "missing_points": 172,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-10T14:05:53.032Z",
-          "delta": -300,
-          "reason": "Rank upgrade: Ruby",
-          "balance": -85
-        },
         {
           "timestamp": "2026-08-12T12:16:03.368Z",
           "delta": 15,
@@ -4217,10 +4201,16 @@
           "balance": 100
         },
         {
+          "timestamp": "2026-10-19T17:19:26.541Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": 115
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 213,
           "reason": "Tenure points",
-          "balance": 313
+          "balance": 328
         }
       ]
     },
@@ -4230,16 +4220,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-07-02",
-      "points_total": 154,
+      "points_total": 169,
       "points_spent": 100,
-      "points_available": 54,
+      "points_available": 69,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 146,
+        "missing_points": 131,
         "missing_months": 0,
         "can_claim": false
       },
@@ -4263,10 +4253,16 @@
           "balance": -55
         },
         {
+          "timestamp": "2026-10-19T17:19:26.542Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": -40
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 109,
           "reason": "Tenure points",
-          "balance": 54
+          "balance": 69
         }
       ]
     },
@@ -5268,16 +5264,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-09-29",
-      "points_total": 25,
+      "points_total": 40,
       "points_spent": 0,
-      "points_available": 25,
+      "points_available": 40,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 75,
+        "missing_points": 60,
         "missing_months": 1,
         "can_claim": false
       },
@@ -5289,10 +5285,16 @@
           "balance": 5
         },
         {
+          "timestamp": "2026-10-19T17:19:26.524Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": 20
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 20,
           "reason": "Tenure points",
-          "balance": 25
+          "balance": 40
         }
       ]
     },
@@ -7000,16 +7002,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-09-01",
-      "points_total": 123,
+      "points_total": 138,
       "points_spent": 100,
-      "points_available": 23,
+      "points_available": 38,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 177,
+        "missing_points": 162,
         "missing_months": 1,
         "can_claim": false
       },
@@ -7039,10 +7041,16 @@
           "balance": -25
         },
         {
+          "timestamp": "2026-10-19T17:19:26.525Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": -10
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 48,
           "reason": "Tenure points",
-          "balance": 23
+          "balance": 38
         }
       ]
     },
@@ -7300,26 +7308,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-05-17 14:00:07.458542+00",
-      "points_total": 1140,
+      "points_total": 1155,
       "points_spent": 900,
-      "points_available": 240,
+      "points_available": 255,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 260,
+        "missing_points": 245,
         "missing_months": 3,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-01T17:36:19.847Z",
-          "delta": 15,
-          "reason": "Bounty: Farming - Easy",
-          "balance": 240
-        },
         {
           "timestamp": "2026-07-01T17:38:07.830Z",
           "delta": 30,
@@ -7465,10 +7467,16 @@
           "balance": 85
         },
         {
+          "timestamp": "2026-10-19T17:19:26.541Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": 100
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 155,
           "reason": "Tenure points",
-          "balance": 240
+          "balance": 255
         }
       ]
     },
@@ -7818,26 +7826,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-21",
-      "points_total": 1403,
+      "points_total": 1418,
       "points_spent": 1200,
-      "points_available": 203,
+      "points_available": 218,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 597,
+        "missing_points": 582,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-16T19:39:01.879Z",
-          "delta": 30,
-          "reason": "Event Participation",
-          "balance": 235
-        },
         {
           "timestamp": "2026-06-24T19:33:20.960Z",
           "delta": -400,
@@ -7983,10 +7985,16 @@
           "balance": -190
         },
         {
+          "timestamp": "2026-10-19T17:19:26.541Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": -175
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 393,
           "reason": "Tenure points",
-          "balance": 203
+          "balance": 218
         }
       ]
     },
@@ -7996,26 +8004,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-21",
-      "points_total": 1403,
+      "points_total": 1418,
       "points_spent": 1200,
-      "points_available": 203,
+      "points_available": 218,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 597,
+        "missing_points": 582,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-16T19:39:01.879Z",
-          "delta": 30,
-          "reason": "Event Participation",
-          "balance": 235
-        },
         {
           "timestamp": "2026-06-24T19:33:20.960Z",
           "delta": -400,
@@ -8161,10 +8163,16 @@
           "balance": -190
         },
         {
+          "timestamp": "2026-10-19T17:19:26.541Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": -175
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 393,
           "reason": "Tenure points",
-          "balance": 203
+          "balance": 218
         }
       ]
     },
@@ -8230,26 +8238,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-02",
-      "points_total": 1775,
+      "points_total": 1790,
       "points_spent": 1400,
-      "points_available": 375,
+      "points_available": 390,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 425,
+        "missing_points": 410,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-21T05:21:00.186Z",
-          "delta": 5,
-          "reason": "Discord adjustment",
-          "balance": 185
-        },
         {
           "timestamp": "2026-04-29T17:50:30.964Z",
           "delta": 5,
@@ -8395,10 +8397,16 @@
           "balance": 24
         },
         {
+          "timestamp": "2026-10-19T17:19:26.513Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": 39
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 351,
           "reason": "Tenure points",
-          "balance": 375
+          "balance": 390
         }
       ]
     },
@@ -8408,26 +8416,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-08-25",
-      "points_total": 1605,
+      "points_total": 1620,
       "points_spent": 1200,
-      "points_available": 405,
+      "points_available": 420,
       "months_in_clan": 13,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 395,
+        "missing_points": 380,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-02T20:44:57.800Z",
-          "delta": 60,
-          "reason": "Bounty reward: Elite Tier bounty - Zulrah",
-          "balance": 555
-        },
         {
           "timestamp": "2026-03-06T05:16:33.789Z",
           "delta": 30,
@@ -8573,10 +8575,16 @@
           "balance": -15
         },
         {
+          "timestamp": "2026-10-19T17:19:26.541Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": 0
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 420,
           "reason": "Tenure points",
-          "balance": 405
+          "balance": 420
         }
       ]
     },
@@ -8614,26 +8622,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-21",
-      "points_total": 1403,
+      "points_total": 1418,
       "points_spent": 1200,
-      "points_available": 203,
+      "points_available": 218,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 597,
+        "missing_points": 582,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-16T19:39:01.879Z",
-          "delta": 30,
-          "reason": "Event Participation",
-          "balance": 235
-        },
         {
           "timestamp": "2026-06-24T19:33:20.960Z",
           "delta": -400,
@@ -8779,10 +8781,16 @@
           "balance": -190
         },
         {
+          "timestamp": "2026-10-19T17:19:26.541Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": -175
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 393,
           "reason": "Tenure points",
-          "balance": 203
+          "balance": 218
         }
       ]
     },
@@ -10570,26 +10578,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-16",
-      "points_total": 1492,
+      "points_total": 1507,
       "points_spent": 1000,
-      "points_available": 492,
+      "points_available": 507,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 8,
+        "missing_points": 0,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-16T07:12:23.535Z",
-          "delta": 15,
-          "reason": "Bounty: Duke Sucellus - Easy",
-          "balance": 25
-        },
         {
           "timestamp": "2026-08-04T00:17:54.187Z",
           "delta": 20,
@@ -10735,10 +10737,16 @@
           "balance": 275
         },
         {
+          "timestamp": "2026-10-19T17:19:26.526Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": 290
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 217,
           "reason": "Tenure points",
-          "balance": 492
+          "balance": 507
         }
       ]
     },
@@ -10748,25 +10756,31 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-10-16",
-      "points_total": 3,
+      "points_total": 18,
       "points_spent": 0,
-      "points_available": 3,
+      "points_available": 18,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 97,
+        "missing_points": 82,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
         {
+          "timestamp": "2026-10-19T17:19:26.542Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": 15
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 3,
           "reason": "Tenure points",
-          "balance": 3
+          "balance": 18
         }
       ]
     },
@@ -10874,16 +10888,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-01-28",
-      "points_total": 764,
+      "points_total": 779,
       "points_spent": 650,
-      "points_available": 114,
+      "points_available": 129,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 286,
+        "missing_points": 271,
         "missing_months": 0,
         "can_claim": false
       },
@@ -11021,10 +11035,16 @@
           "balance": -150
         },
         {
+          "timestamp": "2026-10-19T17:19:26.541Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": -135
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 264,
           "reason": "Tenure points",
-          "balance": 114
+          "balance": 129
         }
       ]
     },
@@ -15140,9 +15160,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-09-05",
-      "points_total": 1459,
+      "points_total": 1474,
       "points_spent": 650,
-      "points_available": 809,
+      "points_available": 824,
       "months_in_clan": 13,
       "next_rank": {
         "name": "Diamond",
@@ -15154,12 +15174,6 @@
         "can_claim": true
       },
       "points_history": [
-        {
-          "timestamp": "2026-03-10T19:55:56.386Z",
-          "delta": 10,
-          "reason": "ToA Tuesday",
-          "balance": 15
-        },
         {
           "timestamp": "2026-03-20T08:49:31.100Z",
           "delta": 30,
@@ -15305,10 +15319,16 @@
           "balance": 400
         },
         {
+          "timestamp": "2026-10-19T17:19:26.542Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": 415
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 409,
           "reason": "Tenure points",
-          "balance": 809
+          "balance": 824
         }
       ]
     },
@@ -17048,16 +17068,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-08-17",
-      "points_total": 283,
+      "points_total": 298,
       "points_spent": 100,
-      "points_available": 183,
+      "points_available": 198,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 17,
+        "missing_points": 2,
         "missing_months": 0,
         "can_claim": false
       },
@@ -17111,10 +17131,16 @@
           "balance": 120
         },
         {
+          "timestamp": "2026-10-19T17:19:26.542Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": 135
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 63,
           "reason": "Tenure points",
-          "balance": 183
+          "balance": 198
         }
       ]
     },
@@ -17208,16 +17234,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-09-11",
-      "points_total": 203,
+      "points_total": 218,
       "points_spent": 100,
-      "points_available": 103,
+      "points_available": 118,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 97,
+        "missing_points": 82,
         "missing_months": 1,
         "can_claim": false
       },
@@ -17265,10 +17291,16 @@
           "balance": 65
         },
         {
+          "timestamp": "2026-10-19T17:19:26.542Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": 80
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 38,
           "reason": "Tenure points",
-          "balance": 103
+          "balance": 118
         }
       ]
     },
@@ -17678,9 +17710,9 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-09-25",
-      "points_total": 3627,
+      "points_total": 3642,
       "points_spent": 2030,
-      "points_available": 1597,
+      "points_available": 1612,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Zenyte",
@@ -17692,12 +17724,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-20T04:44:13.566Z",
-          "delta": 30,
-          "reason": "Bounty: Vardorvis BOTW - Medium",
-          "balance": 1223
-        },
         {
           "timestamp": "2026-08-20T04:44:15.707Z",
           "delta": 15,
@@ -17843,10 +17869,16 @@
           "balance": 1208
         },
         {
+          "timestamp": "2026-10-19T17:19:26.542Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": 1223
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 389,
           "reason": "Tenure points",
-          "balance": 1597
+          "balance": 1612
         }
       ]
     },
@@ -17998,26 +18030,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2026-02-03",
-      "points_total": 1583,
+      "points_total": 1598,
       "points_spent": 1550,
-      "points_available": 33,
+      "points_available": 48,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 767,
+        "missing_points": 752,
         "missing_months": 4,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-01T11:57:47.684Z",
-          "delta": 40,
-          "reason": "Bounty: Farming - Hard",
-          "balance": -30
-        },
         {
           "timestamp": "2026-07-02T21:14:59.853Z",
           "delta": 30,
@@ -18163,10 +18189,16 @@
           "balance": -225
         },
         {
+          "timestamp": "2026-10-19T17:19:26.541Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": -210
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 258,
           "reason": "Tenure points",
-          "balance": 33
+          "balance": 48
         }
       ]
     },
@@ -18336,26 +18368,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-30",
-      "points_total": 1972,
+      "points_total": 1987,
       "points_spent": 1200,
-      "points_available": 772,
+      "points_available": 787,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 28,
+        "missing_points": 13,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-08T19:06:16.568Z",
-          "delta": 10,
-          "reason": "Volcanic Mine Event",
-          "balance": 208
-        },
         {
           "timestamp": "2026-07-13T14:53:28.147Z",
           "delta": 15,
@@ -18501,10 +18527,16 @@
           "balance": 388
         },
         {
+          "timestamp": "2026-10-19T17:19:26.542Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": 403
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 384,
           "reason": "Tenure points",
-          "balance": 772
+          "balance": 787
         }
       ]
     },
@@ -18722,26 +18754,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-11",
-      "points_total": 1102,
+      "points_total": 1117,
       "points_spent": 1030,
-      "points_available": 72,
+      "points_available": 87,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 428,
+        "missing_points": 413,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-18T22:03:44.598Z",
-          "delta": 5,
-          "reason": "99 Smithing in Leagues",
-          "balance": 50
-        },
         {
           "timestamp": "2026-04-19T08:56:47.127Z",
           "delta": 20,
@@ -18887,10 +18913,16 @@
           "balance": -150
         },
         {
+          "timestamp": "2026-10-19T17:19:26.542Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": -135
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 222,
           "reason": "Tenure points",
-          "balance": 72
+          "balance": 87
         }
       ]
     },
@@ -19160,9 +19192,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-07-29",
-      "points_total": 187,
+      "points_total": 202,
       "points_spent": 0,
-      "points_available": 187,
+      "points_available": 202,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
@@ -19193,10 +19225,16 @@
           "balance": 105
         },
         {
+          "timestamp": "2026-10-19T17:19:26.539Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": 120
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 82,
           "reason": "Tenure points",
-          "balance": 187
+          "balance": 202
         }
       ]
     },
@@ -19800,16 +19838,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-02-22",
-      "points_total": 349,
+      "points_total": 364,
       "points_spent": 300,
-      "points_available": 49,
+      "points_available": 64,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 251,
+        "missing_points": 236,
         "missing_months": 0,
         "can_claim": false
       },
@@ -19881,10 +19919,16 @@
           "balance": -190
         },
         {
+          "timestamp": "2026-10-19T17:19:26.524Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": -175
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 239,
           "reason": "Tenure points",
-          "balance": 49
+          "balance": 64
         }
       ]
     },
@@ -22226,26 +22270,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-05-04",
-      "points_total": 1028,
+      "points_total": 1043,
       "points_spent": 1000,
-      "points_available": 28,
+      "points_available": 43,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 472,
+        "missing_points": 457,
         "missing_months": 3,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-24T13:08:23.391Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": -45
-        },
         {
           "timestamp": "2026-07-01T17:40:24.701Z",
           "delta": 40,
@@ -22391,10 +22429,16 @@
           "balance": -140
         },
         {
+          "timestamp": "2026-10-19T17:19:26.542Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": -125
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 168,
           "reason": "Tenure points",
-          "balance": 28
+          "balance": 43
         }
       ]
     },
@@ -22404,26 +22448,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-16",
-      "points_total": 1492,
+      "points_total": 1507,
       "points_spent": 1000,
-      "points_available": 492,
+      "points_available": 507,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 8,
+        "missing_points": 0,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-16T07:12:23.535Z",
-          "delta": 15,
-          "reason": "Bounty: Duke Sucellus - Easy",
-          "balance": 25
-        },
         {
           "timestamp": "2026-08-04T00:17:54.187Z",
           "delta": 20,
@@ -22569,10 +22607,16 @@
           "balance": 275
         },
         {
+          "timestamp": "2026-10-19T17:19:26.526Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": 290
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 217,
           "reason": "Tenure points",
-          "balance": 492
+          "balance": 507
         }
       ]
     },
@@ -22692,26 +22736,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-30",
-      "points_total": 1972,
+      "points_total": 1987,
       "points_spent": 1200,
-      "points_available": 772,
+      "points_available": 787,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 28,
+        "missing_points": 13,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-08T19:06:16.568Z",
-          "delta": 10,
-          "reason": "Volcanic Mine Event",
-          "balance": 208
-        },
         {
           "timestamp": "2026-07-13T14:53:28.147Z",
           "delta": 15,
@@ -22857,10 +22895,16 @@
           "balance": 388
         },
         {
+          "timestamp": "2026-10-19T17:19:26.542Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": 403
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 384,
           "reason": "Tenure points",
-          "balance": 772
+          "balance": 787
         }
       ]
     },
@@ -24008,26 +24052,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-02",
-      "points_total": 1775,
+      "points_total": 1790,
       "points_spent": 1400,
-      "points_available": 375,
+      "points_available": 390,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 425,
+        "missing_points": 410,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-21T05:21:00.186Z",
-          "delta": 5,
-          "reason": "Discord adjustment",
-          "balance": 185
-        },
         {
           "timestamp": "2026-04-29T17:50:30.964Z",
           "delta": 5,
@@ -24173,10 +24211,16 @@
           "balance": 24
         },
         {
+          "timestamp": "2026-10-19T17:19:26.513Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": 39
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 351,
           "reason": "Tenure points",
-          "balance": 375
+          "balance": 390
         }
       ]
     },
@@ -25690,16 +25734,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-06-22",
-      "points_total": 524,
+      "points_total": 539,
       "points_spent": 300,
-      "points_available": 224,
+      "points_available": 239,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 76,
+        "missing_points": 61,
         "missing_months": 0,
         "can_claim": false
       },
@@ -25795,10 +25839,16 @@
           "balance": 105
         },
         {
+          "timestamp": "2026-10-19T17:19:26.525Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": 120
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 119,
           "reason": "Tenure points",
-          "balance": 224
+          "balance": 239
         }
       ]
     },
