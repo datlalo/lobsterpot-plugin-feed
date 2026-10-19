@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T22:50:13.584Z",
+  "generated_at": "2026-10-19T23:59:20.113Z",
   "broadcasts": [],
   "events": [
     {
@@ -5457,6 +5457,26 @@
           "balance": 42
         }
       ]
+    },
+    {
+      "rsn": "cryptius",
+      "rsn_key": "cryptius",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-19",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "Dallorey",
@@ -12581,34 +12601,6 @@
           "delta": 1,
           "reason": "Tenure points",
           "balance": 1
-        }
-      ]
-    },
-    {
-      "rsn": "JohnSnow6ix",
-      "rsn_key": "johnsnow6ix",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-09-18",
-      "points_total": 31,
-      "points_spent": 0,
-      "points_available": 31,
-      "months_in_clan": 1,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 69,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-19T00:29:14.400Z",
-          "delta": 31,
-          "reason": "Tenure points",
-          "balance": 31
         }
       ]
     },
