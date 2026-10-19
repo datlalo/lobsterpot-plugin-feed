@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T22:08:55.802Z",
+  "generated_at": "2026-10-19T22:50:13.584Z",
   "broadcasts": [],
   "events": [
     {
@@ -18373,34 +18373,23 @@
     {
       "rsn": "PuzzleDream",
       "rsn_key": "puzzledream",
-      "bot_rank": "Dragonstone",
-      "progression_rank": "Dragonstone",
+      "bot_rank": "Onyx",
+      "progression_rank": "Onyx",
       "join_date": "2025-09-30",
       "points_total": 2002,
-      "points_spent": 1200,
-      "points_available": 802,
+      "points_spent": 2000,
+      "points_available": 2,
       "months_in_clan": 12,
       "next_rank": {
-        "name": "Onyx",
-        "point_cost": 800,
-        "min_months": 12,
-        "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Onyx",
-        "created_at": "2026-10-19T22:07:51.842Z"
+        "name": "Zenyte",
+        "point_cost": 1000,
+        "min_months": 16,
+        "requirements": "Trimmed QC, 2000 Total, or Elite CA",
+        "missing_points": 998,
+        "missing_months": 4,
+        "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-13T14:54:59.344Z",
-          "delta": -500,
-          "reason": "Rank upgrade: Dragonstone",
-          "balance": -277
-        },
         {
           "timestamp": "2026-07-15T18:50:27.299Z",
           "delta": 15,
@@ -18546,10 +18535,16 @@
           "balance": 418
         },
         {
+          "timestamp": "2026-10-19T22:50:12.072Z",
+          "delta": -800,
+          "reason": "Rank upgrade: Onyx",
+          "balance": -382
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 384,
           "reason": "Tenure points",
-          "balance": 802
+          "balance": 2
         }
       ]
     },
@@ -22752,34 +22747,23 @@
     {
       "rsn": "tah knee",
       "rsn_key": "tahknee",
-      "bot_rank": "Dragonstone",
-      "progression_rank": "Dragonstone",
+      "bot_rank": "Onyx",
+      "progression_rank": "Onyx",
       "join_date": "2025-09-30",
       "points_total": 2002,
-      "points_spent": 1200,
-      "points_available": 802,
+      "points_spent": 2000,
+      "points_available": 2,
       "months_in_clan": 12,
       "next_rank": {
-        "name": "Onyx",
-        "point_cost": 800,
-        "min_months": 12,
-        "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Onyx",
-        "created_at": "2026-10-19T22:07:51.842Z"
+        "name": "Zenyte",
+        "point_cost": 1000,
+        "min_months": 16,
+        "requirements": "Trimmed QC, 2000 Total, or Elite CA",
+        "missing_points": 998,
+        "missing_months": 4,
+        "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-13T14:54:59.344Z",
-          "delta": -500,
-          "reason": "Rank upgrade: Dragonstone",
-          "balance": -277
-        },
         {
           "timestamp": "2026-07-15T18:50:27.299Z",
           "delta": 15,
@@ -22925,10 +22909,16 @@
           "balance": 418
         },
         {
+          "timestamp": "2026-10-19T22:50:12.072Z",
+          "delta": -800,
+          "reason": "Rank upgrade: Onyx",
+          "balance": -382
+        },
+        {
           "timestamp": "2026-10-19T00:29:14.400Z",
           "delta": 384,
           "reason": "Tenure points",
-          "balance": 802
+          "balance": 2
         }
       ]
     },
