@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T11:45:10.892Z",
+  "generated_at": "2026-10-20T14:29:21.955Z",
   "broadcasts": [],
   "events": [
     {
@@ -893,6 +893,26 @@
           "balance": 480
         }
       ]
+    },
+    {
+      "rsn": "Agnes Milker",
+      "rsn_key": "agnesmilker",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-20",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "A Heady Wook",
@@ -2631,26 +2651,21 @@
     {
       "rsn": "Ayrdew",
       "rsn_key": "ayrdew",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-07-27",
       "points_total": 100,
-      "points_spent": 0,
-      "points_available": 100,
+      "points_spent": 100,
+      "points_available": 0,
       "months_in_clan": 2,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 200,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-10-20T11:45:08.763Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -2660,10 +2675,16 @@
           "balance": 15
         },
         {
+          "timestamp": "2026-10-20T14:17:58.869Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -85
+        },
+        {
           "timestamp": "2026-10-20T00:29:15.853Z",
           "delta": 85,
           "reason": "Tenure points",
-          "balance": 100
+          "balance": 0
         }
       ]
     },
@@ -12624,6 +12645,34 @@
           "delta": 2,
           "reason": "Tenure points",
           "balance": 2
+        }
+      ]
+    },
+    {
+      "rsn": "JohnSnow6ix",
+      "rsn_key": "johnsnow6ix",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-09-18",
+      "points_total": 31,
+      "points_spent": 0,
+      "points_available": 31,
+      "months_in_clan": 1,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 69,
+        "missing_months": 0,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-10-19T00:29:14.400Z",
+          "delta": 31,
+          "reason": "Tenure points",
+          "balance": 31
         }
       ]
     },
