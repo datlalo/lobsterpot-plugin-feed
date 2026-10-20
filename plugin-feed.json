@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T07:34:21.696Z",
+  "generated_at": "2026-10-20T08:15:08.709Z",
   "broadcasts": [],
   "events": [
     {
@@ -12,6 +12,16 @@
       "ends_at": "2026-10-31T23:59:00.000Z",
       "description": "",
       "thread_id": "1555721009339048101"
+    },
+    {
+      "id": "78756ff4-3575-4e7c-8778-968ee2ce2ac5",
+      "type": "event",
+      "title": "Cooking - Skill of the Week",
+      "location": null,
+      "starts_at": "2026-10-21T11:00:00.000Z",
+      "ends_at": "2026-10-28T12:00:00.000Z",
+      "description": "",
+      "thread_id": "1562016305824145480"
     }
   ],
   "bounties": [],
