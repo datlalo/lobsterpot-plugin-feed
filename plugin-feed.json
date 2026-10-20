@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T11:02:35.962Z",
+  "generated_at": "2026-10-20T11:45:10.892Z",
   "broadcasts": [],
   "events": [
     {
@@ -2646,6 +2646,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Sapphire",
+        "created_at": "2026-10-20T11:45:08.763Z"
       },
       "points_history": [
         {
