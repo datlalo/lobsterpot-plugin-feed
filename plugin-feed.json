@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T15:58:52.881Z",
+  "generated_at": "2026-10-21T16:01:56.287Z",
   "broadcasts": [],
   "events": [
     {
@@ -17230,6 +17230,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Emerald",
+        "created_at": "2026-10-21T15:59:42.794Z"
       },
       "points_history": [
         {
