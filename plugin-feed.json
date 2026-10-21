@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T07:02:41.441Z",
+  "generated_at": "2026-10-21T07:05:44.362Z",
   "broadcasts": [],
   "events": [
     {
@@ -26,11 +26,19 @@
   ],
   "bounties": [
     {
+      "id": "76",
+      "name": "Cooking SOTW - Hard",
+      "active": true,
+      "points": 45,
+      "description": "1m XP or post a photo of a meal you cooked (new photo taken by YOU)",
+      "expires_at": "2026-10-29T00:00:00.000Z"
+    },
+    {
       "id": "75",
       "name": "Cooking SOTW - Medium",
       "active": true,
       "points": 30,
-      "description": "600k XP or post a photo of a pumpkin (has to be a new photo YOU took)",
+      "description": "600k XP or post a photo of a pumpkin (new photo YOU took)",
       "expires_at": "2026-10-29T00:00:00.000Z"
     },
     {
@@ -38,7 +46,8 @@
       "name": "Cooking SOTW - Easy",
       "active": true,
       "points": 15,
-      "description": "300k XP or post a picture of a snack"
+      "description": "300k XP or post a picture of a snack",
+      "expires_at": "2026-10-29T00:00:00.000Z"
     }
   ],
   "members": [
