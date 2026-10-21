@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T07:05:44.362Z",
+  "generated_at": "2026-10-21T07:08:47.027Z",
   "broadcasts": [],
   "events": [
     {
@@ -25,6 +25,22 @@
     }
   ],
   "bounties": [
+    {
+      "id": "78",
+      "name": "Cooking SOTW - Master",
+      "active": true,
+      "points": 75,
+      "description": "Bake or cook something Halloween themed",
+      "expires_at": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "id": "77",
+      "name": "Cooking SOTW - Elite",
+      "active": true,
+      "points": 60,
+      "description": "3m XP or burn an Oomlie Wrap",
+      "expires_at": "2026-10-29T00:00:00.000Z"
+    },
     {
       "id": "76",
       "name": "Cooking SOTW - Hard",
