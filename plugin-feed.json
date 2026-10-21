@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T07:08:47.027Z",
+  "generated_at": "2026-10-21T09:20:39.894Z",
   "broadcasts": [],
   "events": [
     {
@@ -62,7 +62,7 @@
       "name": "Cooking SOTW - Easy",
       "active": true,
       "points": 15,
-      "description": "300k XP or post a picture of a snack",
+      "description": "300k XP or post a picture of a snack (new photo YOU took)",
       "expires_at": "2026-10-29T00:00:00.000Z"
     }
   ],
