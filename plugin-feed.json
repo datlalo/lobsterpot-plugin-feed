@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T00:29:20.468Z",
+  "generated_at": "2026-10-21T06:59:38.334Z",
   "broadcasts": [],
   "events": [
     {
@@ -24,7 +24,15 @@
       "thread_id": "1562016305824145480"
     }
   ],
-  "bounties": [],
+  "bounties": [
+    {
+      "id": "74",
+      "name": "Cooking SOTW - Easy",
+      "active": true,
+      "points": 10,
+      "description": "300k XP or post a picture of a snack"
+    }
+  ],
   "members": [
     {
       "rsn": "0gass",
