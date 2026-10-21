@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T16:11:41.245Z",
+  "generated_at": "2026-10-21T16:14:43.924Z",
   "broadcasts": [],
   "events": [
     {
@@ -4123,38 +4123,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-20 22:12:14.780985+00",
-      "points_total": 1330,
+      "points_total": 1420,
       "points_spent": 1000,
-      "points_available": 330,
+      "points_available": 420,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 170,
+        "missing_points": 80,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-12T12:16:03.368Z",
-          "delta": 15,
-          "reason": "fishing sotw runner ups",
-          "balance": -70
-        },
-        {
-          "timestamp": "2026-08-17T11:26:50.668Z",
-          "delta": 5,
-          "reason": "scurrius sunday 50kc",
-          "balance": -65
-        },
-        {
-          "timestamp": "2026-08-21T01:23:37.503Z",
-          "delta": 15,
-          "reason": "Screenshot participation",
-          "balance": -50
-        },
         {
           "timestamp": "2026-08-23T16:39:08.574Z",
           "delta": 5,
@@ -4288,31 +4270,49 @@
           "balance": 115
         },
         {
+          "timestamp": "2026-10-21T16:12:42.294Z",
+          "delta": 15,
+          "reason": "Bounty: Cooking SOTW - Easy",
+          "balance": 130
+        },
+        {
+          "timestamp": "2026-10-21T16:12:46.074Z",
+          "delta": 30,
+          "reason": "Bounty: Cooking SOTW - Medium",
+          "balance": 160
+        },
+        {
+          "timestamp": "2026-10-21T16:12:49.717Z",
+          "delta": 45,
+          "reason": "Bounty: Cooking SOTW - Hard",
+          "balance": 205
+        },
+        {
           "timestamp": "2026-10-21T00:29:17.369Z",
           "delta": 215,
           "reason": "Tenure points",
-          "balance": 330
+          "balance": 420
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "74",
           "name": "Cooking SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-21T15:58:51.365Z"
         },
         {
           "bounty_id": "75",
           "name": "Cooking SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-21T15:58:51.365Z"
         },
         {
           "bounty_id": "76",
           "name": "Cooking SOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-21T15:58:51.365Z"
         }
@@ -24959,6 +24959,26 @@
           "balance": 109
         }
       ]
+    },
+    {
+      "rsn": "Vulf II",
+      "rsn_key": "vulfii",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-21",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "Vytrax",
