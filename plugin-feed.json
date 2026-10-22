@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T14:50:48.444Z",
+  "generated_at": "2026-10-22T14:53:51.448Z",
   "broadcasts": [],
   "events": [
     {
@@ -16893,26 +16893,21 @@
     {
       "rsn": "nihtfire824",
       "rsn_key": "nihtfire824",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2026-07-30",
       "points_total": 354,
-      "points_spent": 100,
-      "points_available": 254,
+      "points_spent": 300,
+      "points_available": 54,
       "months_in_clan": 2,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Emerald",
-        "created_at": "2026-10-22T14:50:46.313Z"
+        "missing_points": 246,
+        "missing_months": 1,
+        "can_claim": false
       },
       "points_history": [
         {
@@ -16976,10 +16971,16 @@
           "balance": 170
         },
         {
+          "timestamp": "2026-10-22T14:52:03.212Z",
+          "delta": -200,
+          "reason": "Rank upgrade: Emerald",
+          "balance": -30
+        },
+        {
           "timestamp": "2026-10-22T00:29:18.870Z",
           "delta": 84,
           "reason": "Tenure points",
-          "balance": 254
+          "balance": 54
         }
       ],
       "pending_bounties": [
