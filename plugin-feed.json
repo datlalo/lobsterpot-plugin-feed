@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T12:33:37.545Z",
+  "generated_at": "2026-10-22T12:45:42.934Z",
   "broadcasts": [],
   "events": [
     {
@@ -16051,26 +16051,21 @@
     {
       "rsn": "Mustelidae",
       "rsn_key": "mustelidae",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
       "join_date": "2026-04-11",
       "points_total": 649,
-      "points_spent": 300,
-      "points_available": 349,
+      "points_spent": 600,
+      "points_available": 49,
       "months_in_clan": 6,
       "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 0,
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 351,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Ruby",
-        "created_at": "2026-10-22T11:56:21.877Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -16194,10 +16189,16 @@
           "balance": 155
         },
         {
+          "timestamp": "2026-10-22T12:45:41.426Z",
+          "delta": -300,
+          "reason": "Rank upgrade: Ruby",
+          "balance": -145
+        },
+        {
           "timestamp": "2026-10-22T00:29:18.870Z",
           "delta": 194,
           "reason": "Tenure points",
-          "balance": 349
+          "balance": 49
         }
       ],
       "pending_bounties": [
