@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T14:25:04.264Z",
+  "generated_at": "2026-10-22T14:43:57.297Z",
   "broadcasts": [],
   "events": [
     {
@@ -19622,26 +19622,21 @@
     {
       "rsn": "remil200z",
       "rsn_key": "remil200z",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-07-29",
       "points_total": 205,
-      "points_spent": 0,
-      "points_available": 205,
+      "points_spent": 100,
+      "points_available": 105,
       "months_in_clan": 2,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 95,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-10-22T14:25:01.987Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -19669,10 +19664,16 @@
           "balance": 120
         },
         {
+          "timestamp": "2026-10-22T14:43:55.794Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": 20
+        },
+        {
           "timestamp": "2026-10-22T00:29:18.870Z",
           "delta": 85,
           "reason": "Tenure points",
-          "balance": 205
+          "balance": 105
         }
       ]
     },
