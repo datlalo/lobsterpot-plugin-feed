@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T21:40:36.748Z",
+  "generated_at": "2026-10-23T23:57:53.859Z",
   "broadcasts": [],
   "events": [
     {
@@ -820,14 +820,14 @@
       "points_total": 1883,
       "points_spent": 1400,
       "points_available": 483,
-      "months_in_clan": 10,
+      "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
         "missing_points": 317,
-        "missing_months": 2,
+        "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
@@ -1626,14 +1626,14 @@
       "points_total": 1638,
       "points_spent": 1510,
       "points_available": 128,
-      "months_in_clan": 9,
+      "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
         "missing_points": 672,
-        "missing_months": 3,
+        "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
@@ -4847,7 +4847,7 @@
       "points_total": 456,
       "points_spent": 300,
       "points_available": 156,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -5253,7 +5253,7 @@
       "points_total": 121,
       "points_spent": 0,
       "points_available": 121,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -7050,7 +7050,7 @@
       "points_total": 181,
       "points_spent": 0,
       "points_available": 181,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -7499,7 +7499,7 @@
       "points_total": 152,
       "points_spent": 0,
       "points_available": 152,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -9494,7 +9494,7 @@
       "points_total": 60,
       "points_spent": 0,
       "points_available": 60,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -9668,7 +9668,7 @@
       "points_total": 121,
       "points_spent": 0,
       "points_available": 121,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -9872,7 +9872,7 @@
       "points_total": 166,
       "points_spent": 100,
       "points_available": 66,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -11149,6 +11149,15 @@
           "delta": 221,
           "reason": "Tenure points",
           "balance": 511
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "76",
+          "name": "Cooking SOTW - Hard",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-23T23:57:52.337Z"
         }
       ]
     },
@@ -13724,7 +13733,7 @@
       "points_total": 152,
       "points_spent": 0,
       "points_available": 152,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -13814,14 +13823,14 @@
       "points_total": 1883,
       "points_spent": 1400,
       "points_available": 483,
-      "months_in_clan": 10,
+      "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
         "missing_points": 317,
-        "missing_months": 2,
+        "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
@@ -14787,7 +14796,7 @@
       "points_total": 425,
       "points_spent": 300,
       "points_available": 125,
-      "months_in_clan": 13,
+      "months_in_clan": 14,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -15869,7 +15878,7 @@
       "points_total": 251,
       "points_spent": 100,
       "points_available": 151,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -15939,7 +15948,7 @@
       "points_total": 251,
       "points_spent": 100,
       "points_available": 151,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -21390,7 +21399,7 @@
       "points_total": 152,
       "points_spent": 0,
       "points_available": 152,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -21940,7 +21949,7 @@
       "points_total": 75,
       "points_spent": 0,
       "points_available": 75,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -23510,6 +23519,15 @@
           "delta": 221,
           "reason": "Tenure points",
           "balance": 511
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "76",
+          "name": "Cooking SOTW - Hard",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-23T23:57:52.337Z"
         }
       ]
     },
@@ -26443,7 +26461,7 @@
       "points_total": 186,
       "points_spent": 100,
       "points_available": 86,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
