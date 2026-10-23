@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T16:32:30.940Z",
+  "generated_at": "2026-10-23T16:35:34.358Z",
   "broadcasts": [],
   "events": [
     {
@@ -24795,26 +24795,21 @@
     {
       "rsn": "tyborrs",
       "rsn_key": "tyborrs",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
       "join_date": "2025-10-01",
       "points_total": 557,
-      "points_spent": 30,
-      "points_available": 527,
+      "points_spent": 330,
+      "points_available": 227,
       "months_in_clan": 12,
       "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 0,
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 173,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Ruby",
-        "created_at": "2026-10-23T16:31:42.940Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -24830,10 +24825,16 @@
           "balance": 140
         },
         {
+          "timestamp": "2026-10-23T16:34:15.058Z",
+          "delta": -300,
+          "reason": "Rank upgrade: Ruby",
+          "balance": -160
+        },
+        {
           "timestamp": "2026-10-23T00:29:20.425Z",
           "delta": 387,
           "reason": "Tenure points",
-          "balance": 527
+          "balance": 227
         }
       ],
       "pending_bounties": [
