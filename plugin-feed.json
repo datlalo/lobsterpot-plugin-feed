@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T16:25:30.633Z",
+  "generated_at": "2026-10-23T16:29:28.054Z",
   "broadcasts": [],
   "events": [
     {
@@ -3659,76 +3659,6 @@
           "delta": 325,
           "reason": "Tenure points",
           "balance": 335
-        }
-      ]
-    },
-    {
-      "rsn": "biologichaus",
-      "rsn_key": "biologichaus",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
-      "join_date": "2026-03-02",
-      "points_total": 335,
-      "points_spent": 300,
-      "points_available": 35,
-      "months_in_clan": 7,
-      "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 265,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-03-11T15:01:31.248Z",
-          "delta": 0,
-          "reason": "Account change: Change Join Date to \"2026-03-02\"",
-          "balance": 0
-        },
-        {
-          "timestamp": "2026-03-17T01:26:51.503Z",
-          "delta": 15,
-          "reason": "Bounty reward: Easy Tier - Woodcutting",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-03-17T14:43:23.720Z",
-          "delta": 30,
-          "reason": "Bounty reward: Medium Tier - Woodcutting",
-          "balance": 45
-        },
-        {
-          "timestamp": "2026-04-14T17:38:58.350Z",
-          "delta": 50,
-          "reason": "Donation Monthly Raffle Winner",
-          "balance": 95
-        },
-        {
-          "timestamp": "2026-04-25T00:09:33.631Z",
-          "delta": 5,
-          "reason": "Leagues Points",
-          "balance": 100
-        },
-        {
-          "timestamp": "2026-05-03T15:01:42.622Z",
-          "delta": -100,
-          "reason": "Rank upgraded to: Sapphire",
-          "balance": 0
-        },
-        {
-          "timestamp": "2026-10-12T15:11:05.724Z",
-          "delta": -200,
-          "reason": "Rank upgrade: Emerald",
-          "balance": -200
-        },
-        {
-          "timestamp": "2026-10-23T00:29:20.425Z",
-          "delta": 235,
-          "reason": "Tenure points",
-          "balance": 35
         }
       ]
     },
@@ -10443,6 +10373,26 @@
       ]
     },
     {
+      "rsn": "hausmartian",
+      "rsn_key": "hausmartian",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2026-10-23",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 300,
+        "missing_months": 3,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "hawking456",
       "rsn_key": "hawking456",
       "bot_rank": "Ruby",
@@ -17020,6 +16970,26 @@
       ]
     },
     {
+      "rsn": "newskillwhen",
+      "rsn_key": "newskillwhen",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-23",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "nihtfire824",
       "rsn_key": "nihtfire824",
       "bot_rank": "Emerald",
@@ -19712,6 +19682,26 @@
           "created_at": "2026-10-22T12:55:26.629Z"
         }
       ]
+    },
+    {
+      "rsn": "Recruit621",
+      "rsn_key": "recruit621",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-23",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "Red Farms",
@@ -26368,6 +26358,26 @@
       ]
     },
     {
+      "rsn": "Wizard Jhorg",
+      "rsn_key": "wizardjhorg",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-23",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "Woofle Boi",
       "rsn_key": "woofleboi",
       "bot_rank": "Ruby",
@@ -26671,6 +26681,26 @@
           "balance": 100
         }
       ]
+    },
+    {
+      "rsn": "XpessegoX",
+      "rsn_key": "xpessegox",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-23",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "xzeloss",
