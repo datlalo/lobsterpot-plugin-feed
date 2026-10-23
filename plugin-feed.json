@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T03:48:32.935Z",
+  "generated_at": "2026-10-23T06:44:15.168Z",
   "broadcasts": [],
   "events": [
     {
@@ -4256,26 +4256,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-20 22:12:14.780985+00",
-      "points_total": 1422,
+      "points_total": 1482,
       "points_spent": 1000,
-      "points_available": 422,
+      "points_available": 482,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 78,
+        "missing_points": 18,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-23T16:39:08.574Z",
-          "delta": 5,
-          "reason": "Sarachnis Sunday 50KC",
-          "balance": -45
-        },
         {
           "timestamp": "2026-09-02T22:11:40.094Z",
           "delta": 15,
@@ -4421,10 +4415,16 @@
           "balance": 205
         },
         {
+          "timestamp": "2026-10-23T06:44:13.648Z",
+          "delta": 60,
+          "reason": "Bounty: Cooking SOTW - Elite",
+          "balance": 265
+        },
+        {
           "timestamp": "2026-10-23T00:29:20.425Z",
           "delta": 217,
           "reason": "Tenure points",
-          "balance": 422
+          "balance": 482
         }
       ],
       "pending_bounties": [
@@ -4452,7 +4452,7 @@
         {
           "bounty_id": "77",
           "name": "Cooking SOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-22T14:15:08.651Z"
         }
