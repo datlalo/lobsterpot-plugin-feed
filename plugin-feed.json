@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T06:47:18.000Z",
+  "generated_at": "2026-10-23T06:50:30.879Z",
   "broadcasts": [],
   "events": [
     {
@@ -21980,16 +21980,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-05-17",
-      "points_total": 334,
+      "points_total": 379,
       "points_spent": 300,
-      "points_available": 34,
+      "points_available": 79,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 266,
+        "missing_points": 221,
         "missing_months": 0,
         "can_claim": false
       },
@@ -22055,17 +22055,23 @@
           "balance": -125
         },
         {
+          "timestamp": "2026-10-23T06:50:29.370Z",
+          "delta": 45,
+          "reason": "Bounty: Cooking SOTW - Hard",
+          "balance": -80
+        },
+        {
           "timestamp": "2026-10-23T00:29:20.425Z",
           "delta": 159,
           "reason": "Tenure points",
-          "balance": 34
+          "balance": 79
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "76",
           "name": "Cooking SOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-22T23:38:40.692Z"
         },
