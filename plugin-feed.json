@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T16:29:28.054Z",
+  "generated_at": "2026-10-23T16:32:30.940Z",
   "broadcasts": [],
   "events": [
     {
@@ -24811,6 +24811,11 @@
         "missing_months": 0,
         "can_claim": true
       },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Ruby",
+        "created_at": "2026-10-23T16:31:42.940Z"
+      },
       "points_history": [
         {
           "timestamp": "2026-03-04T03:21:44.618Z",
@@ -24829,6 +24834,29 @@
           "delta": 387,
           "reason": "Tenure points",
           "balance": 527
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "75",
+          "name": "Cooking SOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-23T16:31:16.568Z"
+        },
+        {
+          "bounty_id": "74",
+          "name": "Cooking SOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-23T16:32:16.576Z"
+        },
+        {
+          "bounty_id": "76",
+          "name": "Cooking SOTW - Hard",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-23T16:32:16.576Z"
         }
       ]
     },
