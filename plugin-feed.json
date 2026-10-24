@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T16:09:41.863Z",
+  "generated_at": "2026-10-24T16:20:10.476Z",
   "broadcasts": [],
   "events": [
     {
@@ -2389,6 +2389,13 @@
           "status": "pending",
           "reason": null,
           "created_at": "2026-10-24T11:12:56.852Z"
+        },
+        {
+          "bounty_id": "76",
+          "name": "Cooking SOTW - Hard",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-24T16:20:08.962Z"
         }
       ]
     },
