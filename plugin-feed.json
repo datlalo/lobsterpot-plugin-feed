@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T09:39:29.134Z",
+  "generated_at": "2026-10-24T10:38:54.473Z",
   "broadcasts": [],
   "events": [
     {
@@ -23662,26 +23662,21 @@
     {
       "rsn": "syly",
       "rsn_key": "syly",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
       "join_date": "2025-10-19",
       "points_total": 500,
-      "points_spent": 200,
-      "points_available": 300,
+      "points_spent": 500,
+      "points_available": 0,
       "months_in_clan": 12,
       "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 0,
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": "Fire Cape",
+        "missing_points": 400,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Ruby",
-        "created_at": "2026-10-24T08:25:25.891Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -23739,10 +23734,16 @@
           "balance": -70
         },
         {
+          "timestamp": "2026-10-24T10:38:52.966Z",
+          "delta": -300,
+          "reason": "Rank upgrade: Ruby",
+          "balance": -370
+        },
+        {
           "timestamp": "2026-10-24T00:29:21.922Z",
           "delta": 370,
           "reason": "Tenure points",
-          "balance": 300
+          "balance": 0
         }
       ]
     },
