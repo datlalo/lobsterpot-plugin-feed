@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T16:20:10.476Z",
+  "generated_at": "2026-10-24T16:59:30.542Z",
   "broadcasts": [],
   "events": [
     {
@@ -11085,6 +11085,34 @@
       ]
     },
     {
+      "rsn": "HoodyH00",
+      "rsn_key": "hoodyh00",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-09-27",
+      "points_total": 27,
+      "points_spent": 0,
+      "points_available": 27,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 73,
+        "missing_months": 1,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-10-24T00:29:21.922Z",
+          "delta": 27,
+          "reason": "Tenure points",
+          "balance": 27
+        }
+      ]
+    },
+    {
       "rsn": "hormuzraider",
       "rsn_key": "hormuzraider",
       "bot_rank": "Gnome",
@@ -19150,34 +19178,6 @@
           "delta": 200,
           "reason": "Tenure points",
           "balance": 25
-        }
-      ]
-    },
-    {
-      "rsn": "pumpkintf",
-      "rsn_key": "pumpkintf",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-09-27",
-      "points_total": 27,
-      "points_spent": 0,
-      "points_available": 27,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 73,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-24T00:29:21.922Z",
-          "delta": 27,
-          "reason": "Tenure points",
-          "balance": 27
         }
       ]
     },
