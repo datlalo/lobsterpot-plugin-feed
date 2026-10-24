@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T15:37:12.761Z",
+  "generated_at": "2026-10-24T16:06:38.938Z",
   "broadcasts": [],
   "events": [
     {
@@ -15859,6 +15859,15 @@
           "delta": 414,
           "reason": "Tenure points",
           "balance": 844
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "74",
+          "name": "Cooking SOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-24T16:06:37.391Z"
         }
       ]
     },
