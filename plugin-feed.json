@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T20:51:57.859Z",
+  "generated_at": "2026-10-24T20:59:34.149Z",
   "broadcasts": [],
   "events": [
     {
@@ -14657,70 +14657,6 @@
       ]
     },
     {
-      "rsn": "Lotusarv",
-      "rsn_key": "lotusarv",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-07-03",
-      "points_total": 228,
-      "points_spent": 0,
-      "points_available": 228,
-      "months_in_clan": 3,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-04T15:43:59.535Z",
-          "delta": 20,
-          "reason": "Thank you for participating in PVM Map Sweep event.",
-          "balance": 20
-        },
-        {
-          "timestamp": "2026-09-14T04:32:32.350Z",
-          "delta": 50,
-          "reason": "Moxxy M'Sunday — 1st place",
-          "balance": 70
-        },
-        {
-          "timestamp": "2026-09-14T16:46:11.648Z",
-          "delta": -50,
-          "reason": "reverting points accidentally given out by bot",
-          "balance": 20
-        },
-        {
-          "timestamp": "2026-09-14T23:54:36.373Z",
-          "delta": 75,
-          "reason": "Zammy bad rng",
-          "balance": 95
-        },
-        {
-          "timestamp": "2026-09-15T02:44:10.685Z",
-          "delta": 10,
-          "reason": "Held 1 tile",
-          "balance": 105
-        },
-        {
-          "timestamp": "2026-10-12T14:08:27.901Z",
-          "delta": 10,
-          "reason": "100kc Amoxliatl Sunday",
-          "balance": 115
-        },
-        {
-          "timestamp": "2026-10-24T00:29:21.922Z",
-          "delta": 113,
-          "reason": "Tenure points",
-          "balance": 228
-        }
-      ]
-    },
-    {
       "rsn": "luciferlaura",
       "rsn_key": "luciferlaura",
       "bot_rank": "Gnome",
@@ -25112,34 +25048,6 @@
       ]
     },
     {
-      "rsn": "Tricep Pump",
-      "rsn_key": "triceppump",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-06-19",
-      "points_total": 127,
-      "points_spent": 0,
-      "points_available": 127,
-      "months_in_clan": 4,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-24T00:29:21.922Z",
-          "delta": 127,
-          "reason": "Tenure points",
-          "balance": 127
-        }
-      ]
-    },
-    {
       "rsn": "tristram004",
       "rsn_key": "tristram004",
       "bot_rank": "Emerald",
@@ -26471,6 +26379,26 @@
           "balance": 177
         }
       ]
+    },
+    {
+      "rsn": "WeebWorld",
+      "rsn_key": "weebworld",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-24",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "wegotmars",
