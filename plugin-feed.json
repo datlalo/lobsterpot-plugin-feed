@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T11:38:25.383Z",
+  "generated_at": "2026-10-24T11:41:28.357Z",
   "broadcasts": [],
   "events": [
     {
@@ -2345,33 +2345,34 @@
     {
       "rsn": "Ashfid",
       "rsn_key": "ashfid",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2025-11-06",
       "points_total": 352,
-      "points_spent": 0,
-      "points_available": 352,
+      "points_spent": 200,
+      "points_available": 152,
       "months_in_clan": 11,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 148,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Emerald",
-        "created_at": "2026-10-24T11:38:22.586Z"
+        "can_claim": false
       },
       "points_history": [
+        {
+          "timestamp": "2026-10-24T11:38:30.671Z",
+          "delta": -200,
+          "reason": "Rank upgrade: Emerald",
+          "balance": -200
+        },
         {
           "timestamp": "2026-10-24T00:29:21.922Z",
           "delta": 352,
           "reason": "Tenure points",
-          "balance": 352
+          "balance": 152
         }
       ],
       "pending_bounties": [
