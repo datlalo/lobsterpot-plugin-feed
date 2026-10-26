@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T12:15:11.250Z",
+  "generated_at": "2026-10-26T16:50:47.825Z",
   "broadcasts": [],
   "events": [
     {
@@ -22,6 +22,16 @@
       "ends_at": "2026-10-28T12:00:00.000Z",
       "description": "",
       "thread_id": "1562016305824145480"
+    },
+    {
+      "id": "f7c9ec6d-3134-47c0-9781-e278917caf9d",
+      "type": "event",
+      "title": "Friendly Friendslop friday",
+      "location": "Somewhere on the internet",
+      "starts_at": "2026-10-30T19:00:00.000Z",
+      "ends_at": "2026-10-30T21:00:00.000Z",
+      "description": "Grab a drink, some snacks or just good vibes and join us for the fourth friendslop friday, where we play some short fun games together",
+      "thread_id": "1564320378896126113"
     }
   ],
   "bounties": [
