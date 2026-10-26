@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T07:24:10.841Z",
+  "generated_at": "2026-10-26T08:25:28.741Z",
   "broadcasts": [],
   "events": [
     {
@@ -21252,32 +21252,20 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-10-11",
-      "points_total": 2649,
+      "points_total": 2724,
       "points_spent": 2200,
-      "points_available": 449,
+      "points_available": 524,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
         "requirements": "Trimmed QC, 2000 Total, or Elite CA",
-        "missing_points": 551,
+        "missing_points": 476,
         "missing_months": 4,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-17T22:54:15.985Z",
-          "delta": 20,
-          "reason": "callisto mass",
-          "balance": 144
-        },
-        {
-          "timestamp": "2026-07-27T16:40:36.650Z",
-          "delta": 60,
-          "reason": "Bounty: Duke Sucellus - Elite",
-          "balance": 204
-        },
         {
           "timestamp": "2026-07-27T16:42:50.118Z",
           "delta": 45,
@@ -21417,10 +21405,22 @@
           "balance": 69
         },
         {
+          "timestamp": "2026-10-26T08:25:27.221Z",
+          "delta": 45,
+          "reason": "Bounty: Cooking SOTW - Hard",
+          "balance": 114
+        },
+        {
+          "timestamp": "2026-10-26T08:25:28.322Z",
+          "delta": 30,
+          "reason": "Bounty: Cooking SOTW - Medium",
+          "balance": 144
+        },
+        {
           "timestamp": "2026-10-26T00:29:24.951Z",
           "delta": 380,
           "reason": "Tenure points",
-          "balance": 449
+          "balance": 524
         }
       ],
       "pending_bounties": [
@@ -21434,14 +21434,14 @@
         {
           "bounty_id": "75",
           "name": "Cooking SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-26T00:22:22.904Z"
         },
         {
           "bounty_id": "76",
           "name": "Cooking SOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-26T00:23:58.046Z"
         }
