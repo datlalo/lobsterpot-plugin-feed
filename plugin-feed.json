@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T07:21:08.106Z",
+  "generated_at": "2026-10-26T07:24:10.841Z",
   "broadcasts": [],
   "events": [
     {
@@ -4887,26 +4887,21 @@
     {
       "rsn": "bud t",
       "rsn_key": "budt",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2025-12-07 18:36:26.920081+00",
       "points_total": 338,
-      "points_spent": 0,
-      "points_available": 338,
+      "points_spent": 200,
+      "points_available": 138,
       "months_in_clan": 10,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 162,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Emerald",
-        "created_at": "2026-10-26T07:21:05.953Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -4916,10 +4911,16 @@
           "balance": 15
         },
         {
+          "timestamp": "2026-10-26T07:22:43.483Z",
+          "delta": -200,
+          "reason": "Rank upgrade: Emerald",
+          "balance": -185
+        },
+        {
           "timestamp": "2026-10-26T00:29:24.951Z",
           "delta": 323,
           "reason": "Tenure points",
-          "balance": 338
+          "balance": 138
         }
       ]
     },
