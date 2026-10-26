@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T11:59:34.040Z",
+  "generated_at": "2026-10-26T12:12:08.391Z",
   "broadcasts": [],
   "events": [
     {
@@ -10575,6 +10575,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-10-24T17:10:47.403Z"
+        },
+        {
+          "bounty_id": "77",
+          "name": "Cooking SOTW - Elite",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-26T12:12:06.881Z"
         }
       ]
     },
@@ -23678,6 +23685,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-10-24T17:10:47.403Z"
+        },
+        {
+          "bounty_id": "77",
+          "name": "Cooking SOTW - Elite",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-26T12:12:06.881Z"
         }
       ]
     },
