@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T08:25:28.741Z",
+  "generated_at": "2026-10-26T08:28:32.018Z",
   "broadcasts": [],
   "events": [
     {
@@ -21252,26 +21252,20 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-10-11",
-      "points_total": 2724,
+      "points_total": 2739,
       "points_spent": 2200,
-      "points_available": 524,
+      "points_available": 539,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
         "requirements": "Trimmed QC, 2000 Total, or Elite CA",
-        "missing_points": 476,
+        "missing_points": 461,
         "missing_months": 4,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-27T16:42:50.118Z",
-          "delta": 45,
-          "reason": "Bounty: Duke Sucellus - Hard",
-          "balance": 249
-        },
         {
           "timestamp": "2026-08-04T15:43:59.535Z",
           "delta": 20,
@@ -21417,17 +21411,23 @@
           "balance": 144
         },
         {
+          "timestamp": "2026-10-26T08:25:30.807Z",
+          "delta": 15,
+          "reason": "Bounty: Cooking SOTW - Easy",
+          "balance": 159
+        },
+        {
           "timestamp": "2026-10-26T00:29:24.951Z",
           "delta": 380,
           "reason": "Tenure points",
-          "balance": 524
+          "balance": 539
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "74",
           "name": "Cooking SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-26T00:21:46.955Z"
         },
