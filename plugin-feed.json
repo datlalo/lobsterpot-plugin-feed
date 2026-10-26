@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T23:14:48.047Z",
+  "generated_at": "2026-10-26T00:08:08.598Z",
   "broadcasts": [],
   "events": [
     {
@@ -19515,6 +19515,15 @@
           "reason": "Tenure points",
           "balance": 8
         }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "76",
+          "name": "Cooking SOTW - Hard",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-26T00:08:07.084Z"
+        }
       ]
     },
     {
@@ -24332,6 +24341,15 @@
           "delta": 390,
           "reason": "Tenure points",
           "balance": 8
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "76",
+          "name": "Cooking SOTW - Hard",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-26T00:08:07.084Z"
         }
       ]
     },
