@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T18:33:09.431Z",
+  "generated_at": "2026-10-26T18:39:08.134Z",
   "broadcasts": [],
   "events": [
     {
@@ -10425,34 +10425,23 @@
     {
       "rsn": "Hobsa",
       "rsn_key": "hobsa",
-      "bot_rank": "Dragonstone",
-      "progression_rank": "Dragonstone",
+      "bot_rank": "Onyx",
+      "progression_rank": "Onyx",
       "join_date": "2025-09-03",
       "points_total": 2068,
-      "points_spent": 1210,
-      "points_available": 858,
+      "points_spent": 2010,
+      "points_available": 58,
       "months_in_clan": 13,
       "next_rank": {
-        "name": "Onyx",
-        "point_cost": 800,
-        "min_months": 12,
-        "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Onyx",
-        "created_at": "2026-10-26T18:33:07.017Z"
+        "name": "Zenyte",
+        "point_cost": 1000,
+        "min_months": 16,
+        "requirements": "Trimmed QC, 2000 Total, or Elite CA",
+        "missing_points": 942,
+        "missing_months": 3,
+        "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-08T19:52:41.160Z",
-          "delta": 45,
-          "reason": "Bounty: Fishing SOTW - Hard",
-          "balance": 160
-        },
         {
           "timestamp": "2026-08-10T15:25:40.065Z",
           "delta": -500,
@@ -10598,10 +10587,16 @@
           "balance": 440
         },
         {
+          "timestamp": "2026-10-26T18:39:06.625Z",
+          "delta": -800,
+          "reason": "Rank upgrade: Onyx",
+          "balance": -360
+        },
+        {
           "timestamp": "2026-10-26T00:29:24.951Z",
           "delta": 418,
           "reason": "Tenure points",
-          "balance": 858
+          "balance": 58
         }
       ],
       "pending_bounties": [
@@ -23561,34 +23556,23 @@
     {
       "rsn": "tarba kynas",
       "rsn_key": "tarbakynas",
-      "bot_rank": "Dragonstone",
-      "progression_rank": "Dragonstone",
+      "bot_rank": "Onyx",
+      "progression_rank": "Onyx",
       "join_date": "2025-09-03",
       "points_total": 2068,
-      "points_spent": 1210,
-      "points_available": 858,
+      "points_spent": 2010,
+      "points_available": 58,
       "months_in_clan": 13,
       "next_rank": {
-        "name": "Onyx",
-        "point_cost": 800,
-        "min_months": 12,
-        "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Onyx",
-        "created_at": "2026-10-26T18:33:07.017Z"
+        "name": "Zenyte",
+        "point_cost": 1000,
+        "min_months": 16,
+        "requirements": "Trimmed QC, 2000 Total, or Elite CA",
+        "missing_points": 942,
+        "missing_months": 3,
+        "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-08T19:52:41.160Z",
-          "delta": 45,
-          "reason": "Bounty: Fishing SOTW - Hard",
-          "balance": 160
-        },
         {
           "timestamp": "2026-08-10T15:25:40.065Z",
           "delta": -500,
@@ -23734,10 +23718,16 @@
           "balance": 440
         },
         {
+          "timestamp": "2026-10-26T18:39:06.625Z",
+          "delta": -800,
+          "reason": "Rank upgrade: Onyx",
+          "balance": -360
+        },
+        {
           "timestamp": "2026-10-26T00:29:24.951Z",
           "delta": 418,
           "reason": "Tenure points",
-          "balance": 858
+          "balance": 58
         }
       ],
       "pending_bounties": [
