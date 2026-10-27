@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T13:26:04.358Z",
+  "generated_at": "2026-10-27T13:29:07.646Z",
   "broadcasts": [],
   "events": [
     {
@@ -6637,16 +6637,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-07-04",
-      "points_total": 205,
+      "points_total": 250,
       "points_spent": 100,
-      "points_available": 105,
+      "points_available": 150,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 95,
+        "missing_points": 50,
         "missing_months": 0,
         "can_claim": false
       },
@@ -6670,17 +6670,23 @@
           "balance": -10
         },
         {
+          "timestamp": "2026-10-27T13:26:06.071Z",
+          "delta": 45,
+          "reason": "Bounty: Cooking SOTW - Hard",
+          "balance": 35
+        },
+        {
           "timestamp": "2026-10-27T00:29:26.462Z",
           "delta": 115,
           "reason": "Tenure points",
-          "balance": 105
+          "balance": 150
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "76",
           "name": "Cooking SOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-27T13:10:45.411Z"
         },
@@ -18949,16 +18955,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-07-04",
-      "points_total": 205,
+      "points_total": 250,
       "points_spent": 100,
-      "points_available": 105,
+      "points_available": 150,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 95,
+        "missing_points": 50,
         "missing_months": 0,
         "can_claim": false
       },
@@ -18982,17 +18988,23 @@
           "balance": -10
         },
         {
+          "timestamp": "2026-10-27T13:26:06.071Z",
+          "delta": 45,
+          "reason": "Bounty: Cooking SOTW - Hard",
+          "balance": 35
+        },
+        {
           "timestamp": "2026-10-27T00:29:26.462Z",
           "delta": 115,
           "reason": "Tenure points",
-          "balance": 105
+          "balance": 150
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "76",
           "name": "Cooking SOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-27T13:10:45.411Z"
         },
@@ -26159,16 +26171,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-07-04",
-      "points_total": 205,
+      "points_total": 250,
       "points_spent": 100,
-      "points_available": 105,
+      "points_available": 150,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 95,
+        "missing_points": 50,
         "missing_months": 0,
         "can_claim": false
       },
@@ -26192,17 +26204,23 @@
           "balance": -10
         },
         {
+          "timestamp": "2026-10-27T13:26:06.071Z",
+          "delta": 45,
+          "reason": "Bounty: Cooking SOTW - Hard",
+          "balance": 35
+        },
+        {
           "timestamp": "2026-10-27T00:29:26.462Z",
           "delta": 115,
           "reason": "Tenure points",
-          "balance": 105
+          "balance": 150
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "76",
           "name": "Cooking SOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-27T13:10:45.411Z"
         },
