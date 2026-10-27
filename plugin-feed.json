@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T09:21:47.771Z",
+  "generated_at": "2026-10-27T09:24:50.216Z",
   "broadcasts": [],
   "events": [
     {
@@ -1315,16 +1315,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-04-19",
-      "points_total": 296,
+      "points_total": 341,
       "points_spent": 200,
-      "points_available": 96,
+      "points_available": 141,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 204,
+        "missing_points": 159,
         "missing_months": 0,
         "can_claim": false
       },
@@ -1378,24 +1378,36 @@
           "balance": -95
         },
         {
+          "timestamp": "2026-10-27T09:23:25.051Z",
+          "delta": 15,
+          "reason": "Bounty: Cooking SOTW - Easy",
+          "balance": -80
+        },
+        {
+          "timestamp": "2026-10-27T09:23:27.987Z",
+          "delta": 30,
+          "reason": "Bounty: Cooking SOTW - Medium",
+          "balance": -50
+        },
+        {
           "timestamp": "2026-10-27T00:29:26.462Z",
           "delta": 191,
           "reason": "Tenure points",
-          "balance": 96
+          "balance": 141
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "74",
           "name": "Cooking SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-26T20:33:57.935Z"
         },
         {
           "bounty_id": "75",
           "name": "Cooking SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-26T20:33:57.936Z"
         }
@@ -1407,16 +1419,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-04-19",
-      "points_total": 296,
+      "points_total": 341,
       "points_spent": 200,
-      "points_available": 96,
+      "points_available": 141,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 204,
+        "missing_points": 159,
         "missing_months": 0,
         "can_claim": false
       },
@@ -1470,24 +1482,36 @@
           "balance": -95
         },
         {
+          "timestamp": "2026-10-27T09:23:25.051Z",
+          "delta": 15,
+          "reason": "Bounty: Cooking SOTW - Easy",
+          "balance": -80
+        },
+        {
+          "timestamp": "2026-10-27T09:23:27.987Z",
+          "delta": 30,
+          "reason": "Bounty: Cooking SOTW - Medium",
+          "balance": -50
+        },
+        {
           "timestamp": "2026-10-27T00:29:26.462Z",
           "delta": 191,
           "reason": "Tenure points",
-          "balance": 96
+          "balance": 141
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "74",
           "name": "Cooking SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-26T20:33:57.935Z"
         },
         {
           "bounty_id": "75",
           "name": "Cooking SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-26T20:33:57.936Z"
         }
@@ -11023,16 +11047,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-10-06",
-      "points_total": 676,
+      "points_total": 706,
       "points_spent": 500,
-      "points_available": 176,
+      "points_available": 206,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 224,
+        "missing_points": 194,
         "missing_months": 0,
         "can_claim": false
       },
@@ -11074,17 +11098,23 @@
           "balance": -210
         },
         {
+          "timestamp": "2026-10-27T09:23:36.400Z",
+          "delta": 30,
+          "reason": "Bounty: Cooking SOTW - Medium",
+          "balance": -180
+        },
+        {
           "timestamp": "2026-10-27T00:29:26.462Z",
           "delta": 386,
           "reason": "Tenure points",
-          "balance": 176
+          "balance": 206
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "75",
           "name": "Cooking SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-26T20:45:14.622Z"
         }
@@ -20396,26 +20426,20 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-10-11",
-      "points_total": 2740,
+      "points_total": 2800,
       "points_spent": 2200,
-      "points_available": 540,
+      "points_available": 600,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
         "requirements": "Trimmed QC, 2000 Total, or Elite CA",
-        "missing_points": 460,
+        "missing_points": 400,
         "missing_months": 4,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-04T15:43:59.535Z",
-          "delta": 20,
-          "reason": "Thank you for participating in PVM Map Sweep event.",
-          "balance": 269
-        },
         {
           "timestamp": "2026-08-11T01:05:23.582Z",
           "delta": 15,
@@ -20561,10 +20585,16 @@
           "balance": 159
         },
         {
+          "timestamp": "2026-10-27T09:23:42.289Z",
+          "delta": 60,
+          "reason": "Bounty: Cooking SOTW - Elite",
+          "balance": 219
+        },
+        {
           "timestamp": "2026-10-27T00:29:26.462Z",
           "delta": 381,
           "reason": "Tenure points",
-          "balance": 540
+          "balance": 600
         }
       ],
       "pending_bounties": [
@@ -20592,7 +20622,7 @@
         {
           "bounty_id": "77",
           "name": "Cooking SOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-27T00:28:25.459Z"
         }
