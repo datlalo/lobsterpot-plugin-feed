@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T09:18:44.922Z",
+  "generated_at": "2026-10-27T09:21:47.771Z",
   "broadcasts": [],
   "events": [
     {
@@ -18196,26 +18196,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2026-02-03",
-      "points_total": 1666,
+      "points_total": 1711,
       "points_spent": 1550,
-      "points_available": 116,
+      "points_available": 161,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 684,
+        "missing_points": 639,
         "missing_months": 4,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-08T11:26:08.436Z",
-          "delta": 20,
-          "reason": "Farming - SOTW — 3rd place",
-          "balance": 135
-        },
         {
           "timestamp": "2026-07-08T11:42:14.406Z",
           "delta": 30,
@@ -18361,10 +18355,16 @@
           "balance": -150
         },
         {
+          "timestamp": "2026-10-27T09:19:27.606Z",
+          "delta": 45,
+          "reason": "Bounty: Cooking SOTW - Hard",
+          "balance": -105
+        },
+        {
           "timestamp": "2026-10-27T00:29:26.462Z",
           "delta": 266,
           "reason": "Tenure points",
-          "balance": 116
+          "balance": 161
         }
       ],
       "pending_bounties": [
@@ -18385,7 +18385,7 @@
         {
           "bounty_id": "76",
           "name": "Cooking SOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-10-26T20:10:49.522Z"
         }
