@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T20:45:16.124Z",
+  "generated_at": "2026-10-27T00:28:26.980Z",
   "broadcasts": [],
   "events": [
     {
@@ -742,7 +742,7 @@
       "points_total": 121,
       "points_spent": 0,
       "points_available": 121,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -2690,7 +2690,7 @@
       "points_total": 106,
       "points_spent": 100,
       "points_available": 6,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -2912,7 +2912,7 @@
       "points_total": 603,
       "points_spent": 250,
       "points_available": 353,
-      "months_in_clan": 10,
+      "months_in_clan": 11,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -3550,7 +3550,7 @@
       "points_total": 136,
       "points_spent": 100,
       "points_available": 36,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -7367,7 +7367,7 @@
       "points_total": 333,
       "points_spent": 0,
       "points_available": 333,
-      "months_in_clan": 10,
+      "months_in_clan": 11,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -8926,7 +8926,7 @@
       "points_total": 394,
       "points_spent": 0,
       "points_available": 394,
-      "months_in_clan": 12,
+      "months_in_clan": 13,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -10678,14 +10678,14 @@
       "points_total": 29,
       "points_spent": 0,
       "points_available": 29,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 71,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -11083,7 +11083,7 @@
       "points_total": 75,
       "points_spent": 0,
       "points_available": 75,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -11332,14 +11332,14 @@
       "points_total": 641,
       "points_spent": 600,
       "points_available": 41,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
         "missing_points": 359,
-        "missing_months": 2,
+        "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
@@ -13372,7 +13372,7 @@
       "points_total": 890,
       "points_spent": 300,
       "points_available": 590,
-      "months_in_clan": 13,
+      "months_in_clan": 14,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -14036,7 +14036,7 @@
       "points_total": 1235,
       "points_spent": 700,
       "points_available": 535,
-      "months_in_clan": 13,
+      "months_in_clan": 14,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
@@ -15376,7 +15376,7 @@
       "points_total": 364,
       "points_spent": 0,
       "points_available": 364,
-      "months_in_clan": 11,
+      "months_in_clan": 12,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -15719,7 +15719,7 @@
       "points_total": 121,
       "points_spent": 0,
       "points_available": 121,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -17431,7 +17431,7 @@
       "points_total": 96,
       "points_spent": 0,
       "points_available": 96,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -20572,6 +20572,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-10-26T00:23:58.046Z"
+        },
+        {
+          "bounty_id": "77",
+          "name": "Cooking SOTW - Elite",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-27T00:28:25.459Z"
         }
       ]
     },
@@ -21498,7 +21505,7 @@
       "points_total": 890,
       "points_spent": 300,
       "points_available": 590,
-      "months_in_clan": 13,
+      "months_in_clan": 14,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -22058,7 +22065,7 @@
       "points_total": 91,
       "points_spent": 0,
       "points_available": 91,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -24491,7 +24498,7 @@
       "points_total": 121,
       "points_spent": 0,
       "points_available": 121,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
