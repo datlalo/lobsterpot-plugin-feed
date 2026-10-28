@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T17:21:30.024Z",
+  "generated_at": "2026-10-28T20:44:38.811Z",
   "broadcasts": [],
   "events": [
     {
@@ -984,6 +984,26 @@
           "balance": 432
         }
       ]
+    },
+    {
+      "rsn": "Alcat",
+      "rsn_key": "alcat",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-28",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "Alex Zender",
@@ -2334,6 +2354,26 @@
       ]
     },
     {
+      "rsn": "astrobrettim",
+      "rsn_key": "astrobrettim",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-28",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "AstroRob",
       "rsn_key": "astrorob",
       "bot_rank": "Gnome",
@@ -3440,6 +3480,26 @@
           "balance": 89
         }
       ]
+    },
+    {
+      "rsn": "BigOleRanarr",
+      "rsn_key": "bigoleranarr",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-28",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "BinksCE",
@@ -25949,6 +26009,26 @@
       ]
     },
     {
+      "rsn": "v n x",
+      "rsn_key": "vnx",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-28",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "vortexfrost",
       "rsn_key": "vortexfrost",
       "bot_rank": "Gnome",
@@ -27041,34 +27121,6 @@
           "delta": 104,
           "reason": "Tenure points",
           "balance": 4
-        }
-      ]
-    },
-    {
-      "rsn": "xnegative xp",
-      "rsn_key": "xnegativexp",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-07-15",
-      "points_total": 105,
-      "points_spent": 0,
-      "points_available": 105,
-      "months_in_clan": 3,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-28T00:29:28.048Z",
-          "delta": 105,
-          "reason": "Tenure points",
-          "balance": 105
         }
       ]
     },
