@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T07:40:52.962Z",
+  "generated_at": "2026-10-28T11:19:35.571Z",
   "broadcasts": [],
   "events": [
     {
@@ -8619,6 +8619,15 @@
           "delta": 360,
           "reason": "Tenure points",
           "balance": 399
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "78",
+          "name": "Cooking SOTW - Master",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-28T11:19:34.062Z"
         }
       ]
     },
@@ -25247,6 +25256,15 @@
           "delta": 360,
           "reason": "Tenure points",
           "balance": 399
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "78",
+          "name": "Cooking SOTW - Master",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-28T11:19:34.062Z"
         }
       ]
     },
