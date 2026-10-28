@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T00:29:31.960Z",
+  "generated_at": "2026-10-28T02:18:23.368Z",
   "broadcasts": [],
   "events": [
     {
@@ -9324,6 +9324,13 @@
           "status": "pending",
           "reason": null,
           "created_at": "2026-10-27T23:31:39.206Z"
+        },
+        {
+          "bounty_id": "77",
+          "name": "Cooking SOTW - Elite",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-10-28T02:18:21.852Z"
         }
       ]
     },
