@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T07:47:35.077Z",
+  "generated_at": "2026-10-29T07:50:38.585Z",
   "broadcasts": [],
   "events": [
     {
@@ -4248,18 +4248,18 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-09-22",
-      "points_total": 82,
+      "points_total": 127,
       "points_spent": 0,
-      "points_available": 82,
+      "points_available": 127,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 18,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -4275,10 +4275,16 @@
           "balance": 45
         },
         {
+          "timestamp": "2026-10-29T07:50:22.704Z",
+          "delta": 45,
+          "reason": "Bounty: Cooking SOTW - Hard",
+          "balance": 90
+        },
+        {
           "timestamp": "2026-10-29T00:29:29.661Z",
           "delta": 37,
           "reason": "Tenure points",
-          "balance": 82
+          "balance": 127
         }
       ]
     },
@@ -8158,44 +8164,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-02",
-      "points_total": 1800,
+      "points_total": 1965,
       "points_spent": 1400,
-      "points_available": 400,
+      "points_available": 565,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 400,
+        "missing_points": 235,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-29T17:50:30.964Z",
-          "delta": 5,
-          "reason": "Leagues POints",
-          "balance": 190
-        },
-        {
-          "timestamp": "2026-05-23T19:47:31.043Z",
-          "delta": 150,
-          "reason": "Discord adjustment",
-          "balance": 340
-        },
-        {
-          "timestamp": "2026-05-26T13:28:20.231Z",
-          "delta": -300,
-          "reason": "Rank upgraded to: Ruby",
-          "balance": 40
-        },
-        {
-          "timestamp": "2026-06-06T13:12:20.681Z",
-          "delta": 30,
-          "reason": "Discord bot: Added 30 points",
-          "balance": 70
-        },
         {
           "timestamp": "2026-06-24T19:57:54.162Z",
           "delta": 30,
@@ -8323,10 +8305,34 @@
           "balance": 39
         },
         {
+          "timestamp": "2026-10-29T07:49:56.650Z",
+          "delta": 75,
+          "reason": "Bounty: Cooking SOTW - Master",
+          "balance": 114
+        },
+        {
+          "timestamp": "2026-10-29T07:50:02.532Z",
+          "delta": 45,
+          "reason": "Bounty: Cooking SOTW - Hard",
+          "balance": 159
+        },
+        {
+          "timestamp": "2026-10-29T07:50:07.192Z",
+          "delta": 15,
+          "reason": "Bounty: Cooking SOTW - Easy",
+          "balance": 174
+        },
+        {
+          "timestamp": "2026-10-29T07:50:13.753Z",
+          "delta": 30,
+          "reason": "Bounty: Cooking SOTW - Medium",
+          "balance": 204
+        },
+        {
           "timestamp": "2026-10-29T00:29:29.661Z",
           "delta": 361,
           "reason": "Tenure points",
-          "balance": 400
+          "balance": 565
         }
       ]
     },
@@ -8878,16 +8884,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-05-01",
-      "points_total": 669,
+      "points_total": 849,
       "points_spent": 600,
-      "points_available": 69,
+      "points_available": 249,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 331,
+        "missing_points": 151,
         "missing_months": 0,
         "can_claim": false
       },
@@ -8989,10 +8995,34 @@
           "balance": -112
         },
         {
+          "timestamp": "2026-10-29T07:47:37.200Z",
+          "delta": 30,
+          "reason": "Bounty: Cooking SOTW - Medium",
+          "balance": -82
+        },
+        {
+          "timestamp": "2026-10-29T07:47:56.502Z",
+          "delta": 75,
+          "reason": "Bounty: Cooking SOTW - Master",
+          "balance": -7
+        },
+        {
+          "timestamp": "2026-10-29T07:48:05.487Z",
+          "delta": 15,
+          "reason": "Bounty: Cooking SOTW - Easy",
+          "balance": 8
+        },
+        {
+          "timestamp": "2026-10-29T07:48:13.026Z",
+          "delta": 60,
+          "reason": "Bounty: Cooking SOTW - Elite",
+          "balance": 68
+        },
+        {
           "timestamp": "2026-10-29T00:29:29.661Z",
           "delta": 181,
           "reason": "Tenure points",
-          "balance": 69
+          "balance": 249
         }
       ]
     },
@@ -10408,9 +10438,9 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-16",
-      "points_total": 1607,
+      "points_total": 1667,
       "points_spent": 1000,
-      "points_available": 607,
+      "points_available": 667,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Dragonstone",
@@ -10422,12 +10452,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-20T03:08:31.654Z",
-          "delta": 15,
-          "reason": "Bounty: Vardorvis BOTW - Easy",
-          "balance": 105
-        },
         {
           "timestamp": "2026-08-21T01:20:25.944Z",
           "delta": 75,
@@ -10573,10 +10597,16 @@
           "balance": 380
         },
         {
+          "timestamp": "2026-10-29T07:49:14.085Z",
+          "delta": 60,
+          "reason": "Bounty: Cooking SOTW - Elite",
+          "balance": 440
+        },
+        {
           "timestamp": "2026-10-29T00:29:29.661Z",
           "delta": 227,
           "reason": "Tenure points",
-          "balance": 607
+          "balance": 667
         }
       ]
     },
@@ -10638,16 +10668,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-10-06",
-      "points_total": 723,
+      "points_total": 768,
       "points_spent": 500,
-      "points_available": 223,
+      "points_available": 268,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 177,
+        "missing_points": 132,
         "missing_months": 0,
         "can_claim": false
       },
@@ -10701,10 +10731,16 @@
           "balance": -165
         },
         {
+          "timestamp": "2026-10-29T07:49:46.399Z",
+          "delta": 45,
+          "reason": "Bounty: Cooking SOTW - Hard",
+          "balance": -120
+        },
+        {
           "timestamp": "2026-10-29T00:29:29.661Z",
           "delta": 388,
           "reason": "Tenure points",
-          "balance": 223
+          "balance": 268
         }
       ]
     },
@@ -15802,44 +15838,20 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-05-09",
-      "points_total": 896,
+      "points_total": 1046,
       "points_spent": 600,
-      "points_available": 296,
+      "points_available": 446,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 104,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-23T03:53:51.215Z",
-          "delta": 30,
-          "reason": "Bounty: Slayer BOTM Medium Bounty",
-          "balance": 30
-        },
-        {
-          "timestamp": "2026-07-03T05:54:08.107Z",
-          "delta": 163,
-          "reason": "Slayer",
-          "balance": 193
-        },
-        {
-          "timestamp": "2026-07-11T11:20:43.575Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": 93
-        },
-        {
-          "timestamp": "2026-08-04T00:17:54.137Z",
-          "delta": 20,
-          "reason": "Thank you for participating in PVM Map Sweep event.",
-          "balance": 113
-        },
         {
           "timestamp": "2026-08-04T00:19:47.002Z",
           "delta": 50,
@@ -15967,10 +15979,34 @@
           "balance": 123
         },
         {
+          "timestamp": "2026-10-29T07:50:31.681Z",
+          "delta": 60,
+          "reason": "Bounty: Cooking SOTW - Elite",
+          "balance": 183
+        },
+        {
+          "timestamp": "2026-10-29T07:50:33.343Z",
+          "delta": 45,
+          "reason": "Bounty: Cooking SOTW - Hard",
+          "balance": 228
+        },
+        {
+          "timestamp": "2026-10-29T07:50:34.487Z",
+          "delta": 30,
+          "reason": "Bounty: Cooking SOTW - Medium",
+          "balance": 258
+        },
+        {
+          "timestamp": "2026-10-29T07:50:35.590Z",
+          "delta": 15,
+          "reason": "Bounty: Cooking SOTW - Easy",
+          "balance": 273
+        },
+        {
           "timestamp": "2026-10-29T00:29:29.661Z",
           "delta": 173,
           "reason": "Tenure points",
-          "balance": 296
+          "balance": 446
         }
       ]
     },
@@ -18988,18 +19024,18 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-09-15",
-      "points_total": 1384,
+      "points_total": 1444,
       "points_spent": 900,
-      "points_available": 484,
+      "points_available": 544,
       "months_in_clan": 13,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 16,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -19141,10 +19177,16 @@
           "balance": 75
         },
         {
+          "timestamp": "2026-10-29T07:49:21.541Z",
+          "delta": 60,
+          "reason": "Bounty: Cooking SOTW - Elite",
+          "balance": 135
+        },
+        {
           "timestamp": "2026-10-29T00:29:29.661Z",
           "delta": 409,
           "reason": "Tenure points",
-          "balance": 484
+          "balance": 544
         }
       ]
     },
@@ -22200,9 +22242,9 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-16",
-      "points_total": 1607,
+      "points_total": 1667,
       "points_spent": 1000,
-      "points_available": 607,
+      "points_available": 667,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Dragonstone",
@@ -22214,12 +22256,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-20T03:08:31.654Z",
-          "delta": 15,
-          "reason": "Bounty: Vardorvis BOTW - Easy",
-          "balance": 105
-        },
         {
           "timestamp": "2026-08-21T01:20:25.944Z",
           "delta": 75,
@@ -22365,10 +22401,16 @@
           "balance": 380
         },
         {
+          "timestamp": "2026-10-29T07:49:14.085Z",
+          "delta": 60,
+          "reason": "Bounty: Cooking SOTW - Elite",
+          "balance": 440
+        },
+        {
           "timestamp": "2026-10-29T00:29:29.661Z",
           "delta": 227,
           "reason": "Tenure points",
-          "balance": 607
+          "balance": 667
         }
       ]
     },
@@ -22672,16 +22714,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-03-08",
-      "points_total": 455,
+      "points_total": 500,
       "points_spent": 300,
-      "points_available": 155,
+      "points_available": 200,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 145,
+        "missing_points": 100,
         "missing_months": 0,
         "can_claim": false
       },
@@ -22753,10 +22795,16 @@
           "balance": -80
         },
         {
+          "timestamp": "2026-10-29T07:49:36.936Z",
+          "delta": 45,
+          "reason": "Bounty: Cooking SOTW - Hard",
+          "balance": -35
+        },
+        {
           "timestamp": "2026-10-29T00:29:29.661Z",
           "delta": 235,
           "reason": "Tenure points",
-          "balance": 155
+          "balance": 200
         }
       ]
     },
@@ -23848,44 +23896,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-02",
-      "points_total": 1800,
+      "points_total": 1965,
       "points_spent": 1400,
-      "points_available": 400,
+      "points_available": 565,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 400,
+        "missing_points": 235,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-29T17:50:30.964Z",
-          "delta": 5,
-          "reason": "Leagues POints",
-          "balance": 190
-        },
-        {
-          "timestamp": "2026-05-23T19:47:31.043Z",
-          "delta": 150,
-          "reason": "Discord adjustment",
-          "balance": 340
-        },
-        {
-          "timestamp": "2026-05-26T13:28:20.231Z",
-          "delta": -300,
-          "reason": "Rank upgraded to: Ruby",
-          "balance": 40
-        },
-        {
-          "timestamp": "2026-06-06T13:12:20.681Z",
-          "delta": 30,
-          "reason": "Discord bot: Added 30 points",
-          "balance": 70
-        },
         {
           "timestamp": "2026-06-24T19:57:54.162Z",
           "delta": 30,
@@ -24013,10 +24037,34 @@
           "balance": 39
         },
         {
+          "timestamp": "2026-10-29T07:49:56.650Z",
+          "delta": 75,
+          "reason": "Bounty: Cooking SOTW - Master",
+          "balance": 114
+        },
+        {
+          "timestamp": "2026-10-29T07:50:02.532Z",
+          "delta": 45,
+          "reason": "Bounty: Cooking SOTW - Hard",
+          "balance": 159
+        },
+        {
+          "timestamp": "2026-10-29T07:50:07.192Z",
+          "delta": 15,
+          "reason": "Bounty: Cooking SOTW - Easy",
+          "balance": 174
+        },
+        {
+          "timestamp": "2026-10-29T07:50:13.753Z",
+          "delta": 30,
+          "reason": "Bounty: Cooking SOTW - Medium",
+          "balance": 204
+        },
+        {
           "timestamp": "2026-10-29T00:29:29.661Z",
           "delta": 361,
           "reason": "Tenure points",
-          "balance": 400
+          "balance": 565
         }
       ]
     },
@@ -25429,16 +25477,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-04-09",
-      "points_total": 618,
+      "points_total": 663,
       "points_spent": 500,
-      "points_available": 118,
+      "points_available": 163,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 282,
+        "missing_points": 237,
         "missing_months": 0,
         "can_claim": false
       },
@@ -25546,10 +25594,16 @@
           "balance": -85
         },
         {
+          "timestamp": "2026-10-29T07:49:29.606Z",
+          "delta": 45,
+          "reason": "Bounty: Cooking SOTW - Hard",
+          "balance": -40
+        },
+        {
           "timestamp": "2026-10-29T00:29:29.661Z",
           "delta": 203,
           "reason": "Tenure points",
-          "balance": 118
+          "balance": 163
         }
       ]
     },
