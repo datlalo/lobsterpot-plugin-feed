@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T20:44:38.811Z",
+  "generated_at": "2026-10-29T00:14:38.291Z",
   "broadcasts": [],
   "events": [
     {
@@ -24,48 +24,7 @@
       "thread_id": "1564320378896126113"
     }
   ],
-  "bounties": [
-    {
-      "id": "78",
-      "name": "Cooking SOTW - Master",
-      "active": true,
-      "points": 75,
-      "description": "Bake or cook something Halloween themed",
-      "expires_at": "2026-10-29T00:00:00.000Z"
-    },
-    {
-      "id": "77",
-      "name": "Cooking SOTW - Elite",
-      "active": true,
-      "points": 60,
-      "description": "3m XP or burn an Oomlie Wrap",
-      "expires_at": "2026-10-29T00:00:00.000Z"
-    },
-    {
-      "id": "76",
-      "name": "Cooking SOTW - Hard",
-      "active": true,
-      "points": 45,
-      "description": "1m XP or post a photo of a meal you cooked (new photo taken by YOU)",
-      "expires_at": "2026-10-29T00:00:00.000Z"
-    },
-    {
-      "id": "75",
-      "name": "Cooking SOTW - Medium",
-      "active": true,
-      "points": 30,
-      "description": "600k XP or post a photo of a pumpkin (new photo YOU took)",
-      "expires_at": "2026-10-29T00:00:00.000Z"
-    },
-    {
-      "id": "74",
-      "name": "Cooking SOTW - Easy",
-      "active": true,
-      "points": 15,
-      "description": "300k XP or post a picture of a snack (new photo YOU took)",
-      "expires_at": "2026-10-29T00:00:00.000Z"
-    }
-  ],
+  "bounties": [],
   "members": [
     {
       "rsn": "0gass",
@@ -256,36 +215,6 @@
           "delta": 325,
           "reason": "Tenure points",
           "balance": 285
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "78",
-          "name": "Cooking SOTW - Master",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T16:05:16.407Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T16:06:16.412Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T16:09:16.434Z"
-        },
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T16:14:16.470Z"
         }
       ]
     },
@@ -676,22 +605,6 @@
           "delta": 398,
           "reason": "Tenure points",
           "balance": 1666
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T02:16:55.924Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T02:17:12.103Z"
         }
       ]
     },
@@ -1405,29 +1318,6 @@
           "reason": "Tenure points",
           "balance": 142
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-26T20:33:57.935Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-26T20:33:57.936Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-27T21:08:35.655Z"
-        }
       ]
     },
     {
@@ -1515,29 +1405,6 @@
           "delta": 192,
           "reason": "Tenure points",
           "balance": 142
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-26T20:33:57.935Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-26T20:33:57.936Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-27T21:08:35.655Z"
         }
       ]
     },
@@ -1716,29 +1583,6 @@
           "delta": 308,
           "reason": "Tenure points",
           "balance": 133
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T11:06:13.579Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T11:06:27.560Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T11:06:34.563Z"
         }
       ]
     },
@@ -2300,29 +2144,6 @@
           "reason": "Tenure points",
           "balance": 246
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T11:12:39.765Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T11:12:56.852Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T16:20:08.962Z"
-        }
       ]
     },
     {
@@ -2689,36 +2510,6 @@
           "reason": "Tenure points",
           "balance": 272
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "77",
-          "name": "Cooking SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T15:27:55.391Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T15:28:00.350Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T15:28:06.417Z"
-        },
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T15:28:12.893Z"
-        }
       ]
     },
     {
@@ -3062,7 +2853,7 @@
       "points_total": 1875,
       "points_spent": 1200,
       "points_available": 675,
-      "months_in_clan": 13,
+      "months_in_clan": 14,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
@@ -3228,22 +3019,6 @@
           "delta": 425,
           "reason": "Tenure points",
           "balance": 675
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "78",
-          "name": "Cooking SOTW - Master",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-21T17:06:49.729Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-21T17:07:41.904Z"
         }
       ]
     },
@@ -4371,36 +4146,6 @@
           "reason": "Tenure points",
           "balance": 487
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-21T15:58:51.365Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-21T15:58:51.365Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-21T15:58:51.365Z"
-        },
-        {
-          "bounty_id": "77",
-          "name": "Cooking SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T14:15:08.651Z"
-        }
       ]
     },
     {
@@ -4459,15 +4204,6 @@
           "reason": "Tenure points",
           "balance": 123
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T20:51:56.349Z"
-        }
       ]
     },
     {
@@ -4507,29 +4243,6 @@
           "delta": 36,
           "reason": "Tenure points",
           "balance": 81
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T11:15:05.377Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T12:33:36.026Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-28T11:40:01.267Z"
         }
       ]
     },
@@ -4682,15 +4395,6 @@
           "delta": 401,
           "reason": "Tenure points",
           "balance": 576
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-27T22:52:31.967Z"
         }
       ]
     },
@@ -5019,7 +4723,7 @@
       "points_total": 487,
       "points_spent": 110,
       "points_available": 377,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -5369,14 +5073,14 @@
       "points_total": 49,
       "points_spent": 0,
       "points_available": 49,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 51,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -5879,15 +5583,6 @@
           "delta": 115,
           "reason": "Tenure points",
           "balance": 175
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "77",
-          "name": "Cooking SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T17:42:36.614Z"
         }
       ]
     },
@@ -6761,22 +6456,6 @@
           "reason": "Tenure points",
           "balance": 151
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-27T13:10:45.411Z"
-        },
-        {
-          "bounty_id": "78",
-          "name": "Cooking SOTW - Master",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-27T13:11:10.809Z"
-        }
       ]
     },
     {
@@ -6930,29 +6609,6 @@
           "delta": 356,
           "reason": "Tenure points",
           "balance": 96
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T20:02:21.178Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-25T18:28:34.061Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-25T18:34:25.065Z"
         }
       ]
     },
@@ -7267,29 +6923,6 @@
           "delta": 57,
           "reason": "Tenure points",
           "balance": 92
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T16:39:16.629Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T14:58:45.898Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-27T17:21:25.434Z"
         }
       ]
     },
@@ -7716,36 +7349,6 @@
           "delta": 164,
           "reason": "Tenure points",
           "balance": 414
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T21:37:32.628Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T21:37:45.507Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T21:37:57.539Z"
-        },
-        {
-          "bounty_id": "77",
-          "name": "Cooking SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-25T18:18:37.648Z"
         }
       ]
     },
@@ -8677,36 +8280,6 @@
           "reason": "Tenure points",
           "balance": 399
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "78",
-          "name": "Cooking SOTW - Master",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-28T11:19:34.062Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-28T11:20:55.360Z"
-        },
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-28T11:21:33.401Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-28T11:22:18.411Z"
-        }
       ]
     },
     {
@@ -8884,29 +8457,6 @@
           "delta": 429,
           "reason": "Tenure points",
           "balance": 534
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T17:35:16.024Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T17:37:13.203Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T23:07:02.624Z"
         }
       ]
     },
@@ -9395,43 +8945,6 @@
           "delta": 180,
           "reason": "Tenure points",
           "balance": 68
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-26T16:55:14.281Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-27T23:31:39.206Z"
-        },
-        {
-          "bounty_id": "77",
-          "name": "Cooking SOTW - Elite",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-28T02:18:21.852Z"
-        },
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-28T03:31:29.180Z"
-        },
-        {
-          "bounty_id": "78",
-          "name": "Cooking SOTW - Master",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-28T03:31:55.109Z"
         }
       ]
     },
@@ -10113,36 +9626,6 @@
           "reason": "Tenure points",
           "balance": 413
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "78",
-          "name": "Cooking SOTW - Master",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T11:10:51.725Z"
-        },
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T11:24:17.492Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T11:24:32.907Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T11:24:52.672Z"
-        }
       ]
     },
     {
@@ -10485,36 +9968,6 @@
           "reason": "Tenure points",
           "balance": 276
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T13:16:35.901Z"
-        },
-        {
-          "bounty_id": "78",
-          "name": "Cooking SOTW - Master",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-25T01:07:04.865Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-25T17:51:34.220Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-26T11:11:19.647Z"
-        }
       ]
     },
     {
@@ -10843,43 +10296,6 @@
           "reason": "Tenure points",
           "balance": 60
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "78",
-          "name": "Cooking SOTW - Master",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T17:10:47.403Z"
-        },
-        {
-          "bounty_id": "77",
-          "name": "Cooking SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-26T12:12:06.881Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-26T12:12:17.928Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-26T12:12:29.912Z"
-        },
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-26T12:12:39.497Z"
-        }
       ]
     },
     {
@@ -11114,36 +10530,6 @@
           "reason": "Tenure points",
           "balance": 591
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T23:57:52.337Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T17:39:42.339Z"
-        },
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-28T02:50:16.244Z"
-        },
-        {
-          "bounty_id": "77",
-          "name": "Cooking SOTW - Elite",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-28T02:50:47.529Z"
-        }
       ]
     },
     {
@@ -11195,36 +10581,6 @@
           "delta": 12,
           "reason": "Tenure points",
           "balance": 117
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T03:48:31.427Z"
-        },
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T12:48:14.793Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T12:48:14.793Z"
-        },
-        {
-          "bounty_id": "78",
-          "name": "Cooking SOTW - Master",
-          "status": "rejected",
-          "reason": "its a bit too low effort for the master bounty unfortunately :((( if u submit it for the hard bounty (cook a meal), we'll approve it! :)",
-          "created_at": "2026-10-24T06:39:49.730Z"
         }
       ]
     },
@@ -11295,29 +10651,6 @@
           "delta": 387,
           "reason": "Tenure points",
           "balance": 207
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-26T20:45:14.622Z"
-        },
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-27T18:05:24.344Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-28T07:40:51.449Z"
         }
       ]
     },
@@ -11524,15 +10857,6 @@
           "delta": 273,
           "reason": "Tenure points",
           "balance": 153
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T15:16:42.970Z"
         }
       ]
     },
@@ -12525,29 +11849,6 @@
           "delta": 78,
           "reason": "Tenure points",
           "balance": 193
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-27T14:08:07.384Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-27T14:08:07.384Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-27T14:08:07.384Z"
         }
       ]
     },
@@ -13753,29 +13054,6 @@
           "reason": "Tenure points",
           "balance": 80
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-27T22:58:40.732Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-27T22:58:52.260Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-27T23:50:20.892Z"
-        }
       ]
     },
     {
@@ -14668,29 +13946,6 @@
           "reason": "Tenure points",
           "balance": 98
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-21T18:22:45.850Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-21T18:22:53.206Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T12:08:09.053Z"
-        }
       ]
     },
     {
@@ -14882,7 +14137,7 @@
       "points_total": 487,
       "points_spent": 110,
       "points_available": 377,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -15607,29 +14862,6 @@
           "reason": "Tenure points",
           "balance": 938
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T16:06:37.391Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T16:06:42.893Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T17:28:47.848Z"
-        }
       ]
     },
     {
@@ -15773,22 +15005,6 @@
           "delta": 128,
           "reason": "Tenure points",
           "balance": 43
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T12:48:29.049Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-25T11:05:40.796Z"
         }
       ]
     },
@@ -15964,22 +15180,6 @@
           "reason": "Tenure points",
           "balance": 19
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T22:31:33.560Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-27T10:35:05.850Z"
-        }
       ]
     },
     {
@@ -15991,14 +15191,14 @@
       "points_total": 29,
       "points_spent": 0,
       "points_available": 29,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 71,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -16201,43 +15401,6 @@
           "delta": 200,
           "reason": "Tenure points",
           "balance": 190
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-21T19:50:53.195Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-21T19:50:53.196Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-21T19:51:53.205Z"
-        },
-        {
-          "bounty_id": "77",
-          "name": "Cooking SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T20:58:05.965Z"
-        },
-        {
-          "bounty_id": "78",
-          "name": "Cooking SOTW - Master",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-25T18:44:10.237Z"
         }
       ]
     },
@@ -16713,36 +15876,6 @@
           "reason": "Tenure points",
           "balance": 295
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-28T17:18:25.188Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-28T17:18:31.429Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-28T17:18:39.648Z"
-        },
-        {
-          "bounty_id": "77",
-          "name": "Cooking SOTW - Elite",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-28T17:18:52.468Z"
-        }
       ]
     },
     {
@@ -17002,29 +16135,6 @@
           "delta": 90,
           "reason": "Tenure points",
           "balance": 60
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T03:12:35.197Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T03:12:45.976Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T03:12:54.514Z"
         }
       ]
     },
@@ -17554,29 +16664,6 @@
           "reason": "Tenure points",
           "balance": 97
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T00:18:20.133Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T00:18:20.133Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T00:19:20.139Z"
-        }
       ]
     },
     {
@@ -17726,29 +16813,6 @@
           "delta": 47,
           "reason": "Tenure points",
           "balance": 217
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T07:43:11.117Z"
-        },
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T07:43:11.129Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T09:39:27.626Z"
         }
       ]
     },
@@ -18088,22 +17152,6 @@
           "reason": "Tenure points",
           "balance": 546
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "78",
-          "name": "Cooking SOTW - Master",
-          "status": "rejected",
-          "reason": "Sorry, will reject this since its not halloweeny enough :( feel free to claim it for the hard bounty if you havent already",
-          "created_at": "2026-10-26T06:19:07.414Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-26T06:19:15.465Z"
-        }
       ]
     },
     {
@@ -18149,7 +17197,7 @@
       "points_total": 121,
       "points_spent": 0,
       "points_available": 121,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -18343,22 +17391,6 @@
           "delta": 398,
           "reason": "Tenure points",
           "balance": 1666
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T02:16:55.924Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T02:17:12.103Z"
         }
       ]
     },
@@ -18680,29 +17712,6 @@
           "reason": "Tenure points",
           "balance": 162
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T11:26:06.876Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T11:26:19.725Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-26T20:10:49.522Z"
-        }
       ]
     },
     {
@@ -19019,15 +18028,6 @@
           "reason": "Tenure points",
           "balance": 56
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-26T00:08:07.084Z"
-        }
       ]
     },
     {
@@ -19248,22 +18248,6 @@
           "reason": "Tenure points",
           "balance": 151
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-27T13:10:45.411Z"
-        },
-        {
-          "bounty_id": "78",
-          "name": "Cooking SOTW - Master",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-27T13:11:10.809Z"
-        }
       ]
     },
     {
@@ -19441,43 +18425,6 @@
           "delta": 231,
           "reason": "Tenure points",
           "balance": 321
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T02:35:28.548Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T02:35:37.005Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T02:35:43.872Z"
-        },
-        {
-          "bounty_id": "77",
-          "name": "Cooking SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T02:12:54.684Z"
-        },
-        {
-          "bounty_id": "78",
-          "name": "Cooking SOTW - Master",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-25T15:31:26.809Z"
         }
       ]
     },
@@ -19661,36 +18608,6 @@
           "reason": "Tenure points",
           "balance": 259
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T12:54:26.014Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T12:54:44.827Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T12:55:08.214Z"
-        },
-        {
-          "bounty_id": "77",
-          "name": "Cooking SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T12:55:26.629Z"
-        }
       ]
     },
     {
@@ -19838,7 +18755,7 @@
       "points_total": 301,
       "points_spent": 100,
       "points_available": 201,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -19902,29 +18819,6 @@
           "delta": 91,
           "reason": "Tenure points",
           "balance": 201
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T17:24:48.682Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T17:26:19.572Z"
-        },
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T17:26:26.658Z"
         }
       ]
     },
@@ -20155,36 +19049,6 @@
           "delta": 408,
           "reason": "Tenure points",
           "balance": 483
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T01:10:01.068Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T18:51:02.218Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T18:51:10.600Z"
-        },
-        {
-          "bounty_id": "77",
-          "name": "Cooking SOTW - Elite",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-28T02:57:43.933Z"
         }
       ]
     },
@@ -20502,15 +19366,6 @@
           "reason": "Tenure points",
           "balance": 576
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-27T22:52:31.967Z"
-        }
       ]
     },
     {
@@ -20723,29 +19578,6 @@
           "reason": "Tenure points",
           "balance": 163
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T21:21:06.160Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T21:21:06.160Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T21:22:06.181Z"
-        }
       ]
     },
     {
@@ -20923,36 +19755,6 @@
           "delta": 382,
           "reason": "Tenure points",
           "balance": 601
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-26T00:21:46.955Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-26T00:22:22.904Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-26T00:23:58.046Z"
-        },
-        {
-          "bounty_id": "77",
-          "name": "Cooking SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-27T00:28:25.459Z"
         }
       ]
     },
@@ -21646,36 +20448,6 @@
           "reason": "Tenure points",
           "balance": 358
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T08:46:33.046Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T08:46:40.149Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T08:46:46.862Z"
-        },
-        {
-          "bounty_id": "77",
-          "name": "Cooking SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T16:29:03.861Z"
-        }
       ]
     },
     {
@@ -22338,22 +21110,6 @@
           "reason": "Tenure points",
           "balance": 99
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T23:38:40.692Z"
-        },
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T01:55:33.016Z"
-        }
       ]
     },
     {
@@ -22829,29 +21585,6 @@
           "delta": 401,
           "reason": "Tenure points",
           "balance": 421
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T06:34:33.891Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T06:34:45.773Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T09:33:47.562Z"
         }
       ]
     },
@@ -23357,29 +22090,6 @@
           "reason": "Tenure points",
           "balance": 142
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T10:17:19.453Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-25T12:35:18.642Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-25T23:08:09.495Z"
-        }
       ]
     },
     {
@@ -23557,36 +22267,6 @@
           "delta": 226,
           "reason": "Tenure points",
           "balance": 591
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T23:57:52.337Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T17:39:42.339Z"
-        },
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-28T02:50:16.244Z"
-        },
-        {
-          "bounty_id": "77",
-          "name": "Cooking SOTW - Elite",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-28T02:50:47.529Z"
         }
       ]
     },
@@ -23882,15 +22562,6 @@
           "reason": "Tenure points",
           "balance": 56
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-26T00:08:07.084Z"
-        }
       ]
     },
     {
@@ -23984,22 +22655,6 @@
           "delta": 234,
           "reason": "Tenure points",
           "balance": 154
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "78",
-          "name": "Cooking SOTW - Master",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T01:43:56.758Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-28T07:11:51.908Z"
         }
       ]
     },
@@ -24178,43 +22833,6 @@
           "delta": 420,
           "reason": "Tenure points",
           "balance": 60
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "78",
-          "name": "Cooking SOTW - Master",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T17:10:47.403Z"
-        },
-        {
-          "bounty_id": "77",
-          "name": "Cooking SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-26T12:12:06.881Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-26T12:12:17.928Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-26T12:12:29.912Z"
-        },
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-26T12:12:39.497Z"
         }
       ]
     },
@@ -24461,7 +23079,7 @@
       "points_total": 162,
       "points_spent": 100,
       "points_available": 62,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -24643,36 +23261,6 @@
           "delta": 13,
           "reason": "Tenure points",
           "balance": 163
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-21T20:45:53.596Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-21T23:55:54.984Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-22T03:46:56.693Z"
-        },
-        {
-          "bounty_id": "77",
-          "name": "Cooking SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T00:29:07.725Z"
         }
       ]
     },
@@ -25094,43 +23682,6 @@
           "reason": "Tenure points",
           "balance": 57
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T16:31:16.568Z"
-        },
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T16:32:16.576Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T16:32:16.576Z"
-        },
-        {
-          "bounty_id": "77",
-          "name": "Cooking SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T01:48:20.794Z"
-        },
-        {
-          "bounty_id": "78",
-          "name": "Cooking SOTW - Master",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-25T23:14:46.536Z"
-        }
       ]
     },
     {
@@ -25365,36 +23916,6 @@
           "reason": "Tenure points",
           "balance": 399
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "78",
-          "name": "Cooking SOTW - Master",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-28T11:19:34.062Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-28T11:20:55.360Z"
-        },
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-28T11:21:33.401Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-28T11:22:18.411Z"
-        }
       ]
     },
     {
@@ -25573,36 +24094,6 @@
           "reason": "Tenure points",
           "balance": 276
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-23T13:16:35.901Z"
-        },
-        {
-          "bounty_id": "78",
-          "name": "Cooking SOTW - Master",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-25T01:07:04.865Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-25T17:51:34.220Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-26T11:11:19.647Z"
-        }
       ]
     },
     {
@@ -25690,29 +24181,6 @@
           "delta": 115,
           "reason": "Tenure points",
           "balance": 40
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-27T21:11:12.400Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-27T21:11:24.681Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-27T21:11:33.398Z"
         }
       ]
     },
@@ -26253,7 +24721,7 @@
       "points_total": 487,
       "points_spent": 110,
       "points_available": 377,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -26574,22 +25042,6 @@
           "reason": "Tenure points",
           "balance": 151
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-27T13:10:45.411Z"
-        },
-        {
-          "bounty_id": "78",
-          "name": "Cooking SOTW - Master",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-27T13:11:10.809Z"
-        }
       ]
     },
     {
@@ -26802,29 +25254,6 @@
           "reason": "Tenure points",
           "balance": 136
         }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-25T12:37:41.482Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-25T12:37:41.482Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-27T18:56:09.637Z"
-        }
       ]
     },
     {
@@ -26982,29 +25411,6 @@
           "delta": 202,
           "reason": "Tenure points",
           "balance": 117
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "74",
-          "name": "Cooking SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-21T16:40:03.290Z"
-        },
-        {
-          "bounty_id": "75",
-          "name": "Cooking SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-10-24T22:27:58.396Z"
-        },
-        {
-          "bounty_id": "76",
-          "name": "Cooking SOTW - Hard",
-          "status": "pending",
-          "reason": null,
-          "created_at": "2026-10-28T03:52:29.094Z"
         }
       ]
     },
