@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T00:29:34.470Z",
+  "generated_at": "2026-10-30T00:44:41.021Z",
   "broadcasts": [],
   "events": [
     {
@@ -5861,6 +5861,26 @@
       ]
     },
     {
+      "rsn": "dndrmifflin",
+      "rsn_key": "dndrmifflin",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-30",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "doc on rs",
       "rsn_key": "doconrs",
       "bot_rank": "Emerald",
@@ -9505,6 +9525,18 @@
           "balance": 125
         }
       ]
+    },
+    {
+      "rsn": "Grey Farms",
+      "rsn_key": "greyfarms",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-10-30",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
     },
     {
       "rsn": "grimmjay17",
@@ -24596,34 +24628,6 @@
           "delta": 241,
           "reason": "Tenure points",
           "balance": 241
-        }
-      ]
-    },
-    {
-      "rsn": "vipermagi",
-      "rsn_key": "vipermagi",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-08-16",
-      "points_total": 75,
-      "points_spent": 0,
-      "points_available": 75,
-      "months_in_clan": 2,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 25,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-30T00:29:31.127Z",
-          "delta": 75,
-          "reason": "Tenure points",
-          "balance": 75
         }
       ]
     },
