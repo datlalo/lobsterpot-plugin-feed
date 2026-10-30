@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T12:11:01.271Z",
+  "generated_at": "2026-10-30T20:46:08.323Z",
   "broadcasts": [],
   "events": [
     {
@@ -7716,16 +7716,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-08-25",
-      "points_total": 81,
+      "points_total": 96,
       "points_spent": 0,
-      "points_available": 81,
+      "points_available": 96,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 19,
+        "missing_points": 4,
         "missing_months": 0,
         "can_claim": false
       },
@@ -7737,10 +7737,16 @@
           "balance": 15
         },
         {
+          "timestamp": "2026-10-30T20:46:06.806Z",
+          "delta": 15,
+          "reason": "Friday friendslop october",
+          "balance": 30
+        },
+        {
           "timestamp": "2026-10-30T00:29:31.127Z",
           "delta": 66,
           "reason": "Tenure points",
-          "balance": 81
+          "balance": 96
         }
       ]
     },
@@ -7778,26 +7784,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-21",
-      "points_total": 1429,
+      "points_total": 1444,
       "points_spent": 1200,
-      "points_available": 229,
+      "points_available": 244,
       "months_in_clan": 13,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 571,
+        "missing_points": 556,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-24T19:33:20.960Z",
-          "delta": -400,
-          "reason": "Rank upgrade: Diamond",
-          "balance": -165
-        },
         {
           "timestamp": "2026-07-03T06:11:03.714Z",
           "delta": 5,
@@ -7943,10 +7943,16 @@
           "balance": -175
         },
         {
+          "timestamp": "2026-10-30T20:46:06.807Z",
+          "delta": 15,
+          "reason": "Friday friendslop october",
+          "balance": -160
+        },
+        {
           "timestamp": "2026-10-30T00:29:31.127Z",
           "delta": 404,
           "reason": "Tenure points",
-          "balance": 229
+          "balance": 244
         }
       ]
     },
@@ -7956,26 +7962,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-21",
-      "points_total": 1429,
+      "points_total": 1444,
       "points_spent": 1200,
-      "points_available": 229,
+      "points_available": 244,
       "months_in_clan": 13,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 571,
+        "missing_points": 556,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-24T19:33:20.960Z",
-          "delta": -400,
-          "reason": "Rank upgrade: Diamond",
-          "balance": -165
-        },
         {
           "timestamp": "2026-07-03T06:11:03.714Z",
           "delta": 5,
@@ -8121,10 +8121,16 @@
           "balance": -175
         },
         {
+          "timestamp": "2026-10-30T20:46:06.807Z",
+          "delta": 15,
+          "reason": "Friday friendslop october",
+          "balance": -160
+        },
+        {
           "timestamp": "2026-10-30T00:29:31.127Z",
           "delta": 404,
           "reason": "Tenure points",
-          "balance": 229
+          "balance": 244
         }
       ]
     },
@@ -10242,26 +10248,20 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-09-03",
-      "points_total": 2072,
+      "points_total": 2087,
       "points_spent": 2010,
-      "points_available": 62,
+      "points_available": 77,
       "months_in_clan": 13,
       "next_rank": {
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
         "requirements": "Trimmed QC, 2000 Total, or Elite CA",
-        "missing_points": 938,
+        "missing_points": 923,
         "missing_months": 3,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-10T15:25:40.065Z",
-          "delta": -500,
-          "reason": "Rank upgrade: Dragonstone",
-          "balance": -340
-        },
         {
           "timestamp": "2026-08-19T14:59:42.081Z",
           "delta": 75,
@@ -10407,10 +10407,16 @@
           "balance": -360
         },
         {
+          "timestamp": "2026-10-30T20:46:06.807Z",
+          "delta": 15,
+          "reason": "Friday friendslop october",
+          "balance": -345
+        },
+        {
           "timestamp": "2026-10-30T00:29:31.127Z",
           "delta": 422,
           "reason": "Tenure points",
-          "balance": 62
+          "balance": 77
         }
       ]
     },
@@ -14856,9 +14862,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-09-05",
-      "points_total": 1590,
+      "points_total": 1605,
       "points_spent": 650,
-      "points_available": 940,
+      "points_available": 955,
       "months_in_clan": 13,
       "next_rank": {
         "name": "Diamond",
@@ -14870,12 +14876,6 @@
         "can_claim": true
       },
       "points_history": [
-        {
-          "timestamp": "2026-05-31T10:21:13.582Z",
-          "delta": 5,
-          "reason": "Discord bot: Added 5 points",
-          "balance": 105
-        },
         {
           "timestamp": "2026-06-06T09:06:29.168Z",
           "delta": 20,
@@ -15021,10 +15021,16 @@
           "balance": 520
         },
         {
+          "timestamp": "2026-10-30T20:46:06.807Z",
+          "delta": 15,
+          "reason": "Friday friendslop october",
+          "balance": 535
+        },
+        {
           "timestamp": "2026-10-30T00:29:31.127Z",
           "delta": 420,
           "reason": "Tenure points",
-          "balance": 940
+          "balance": 955
         }
       ]
     },
@@ -22858,26 +22864,20 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-09-03",
-      "points_total": 2072,
+      "points_total": 2087,
       "points_spent": 2010,
-      "points_available": 62,
+      "points_available": 77,
       "months_in_clan": 13,
       "next_rank": {
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
         "requirements": "Trimmed QC, 2000 Total, or Elite CA",
-        "missing_points": 938,
+        "missing_points": 923,
         "missing_months": 3,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-10T15:25:40.065Z",
-          "delta": -500,
-          "reason": "Rank upgrade: Dragonstone",
-          "balance": -340
-        },
         {
           "timestamp": "2026-08-19T14:59:42.081Z",
           "delta": 75,
@@ -23023,10 +23023,16 @@
           "balance": -360
         },
         {
+          "timestamp": "2026-10-30T20:46:06.807Z",
+          "delta": 15,
+          "reason": "Friday friendslop october",
+          "balance": -345
+        },
+        {
           "timestamp": "2026-10-30T00:29:31.127Z",
           "delta": 422,
           "reason": "Tenure points",
-          "balance": 62
+          "balance": 77
         }
       ]
     },
