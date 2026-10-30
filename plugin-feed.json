@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T20:46:08.323Z",
+  "generated_at": "2026-10-30T22:44:42.908Z",
   "broadcasts": [],
   "events": [
     {
@@ -12,16 +12,6 @@
       "ends_at": "2026-10-31T23:59:00.000Z",
       "description": "",
       "thread_id": "1555721009339048101"
-    },
-    {
-      "id": "f7c9ec6d-3134-47c0-9781-e278917caf9d",
-      "type": "event",
-      "title": "Friendly Friendslop friday",
-      "location": "Somewhere on the internet",
-      "starts_at": "2026-10-30T19:00:00.000Z",
-      "ends_at": "2026-10-30T21:00:00.000Z",
-      "description": "Grab a drink, some snacks or just good vibes and join us for the fourth friendslop friday, where we play some short fun games together",
-      "thread_id": "1564320378896126113"
     }
   ],
   "bounties": [],
@@ -25495,6 +25485,88 @@
       ]
     },
     {
+      "rsn": "woo 67",
+      "rsn_key": "woo67",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2026-07-10",
+      "points_total": 352,
+      "points_spent": 300,
+      "points_available": 52,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 248,
+        "missing_months": 0,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-08-05T16:34:15.302Z",
+          "delta": 15,
+          "reason": "Bounty: Fishing SOTW - Easy",
+          "balance": 15
+        },
+        {
+          "timestamp": "2026-08-06T05:14:54.522Z",
+          "delta": 30,
+          "reason": "Bounty: Fishing SOTW - Medium",
+          "balance": 45
+        },
+        {
+          "timestamp": "2026-08-06T20:49:58.868Z",
+          "delta": 45,
+          "reason": "Bounty: Fishing SOTW - Hard",
+          "balance": 90
+        },
+        {
+          "timestamp": "2026-08-09T23:26:59.414Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -10
+        },
+        {
+          "timestamp": "2026-09-20T15:32:47.870Z",
+          "delta": 15,
+          "reason": "Bounty: Mad Angel BOTW - Easy",
+          "balance": 5
+        },
+        {
+          "timestamp": "2026-09-20T15:33:38.347Z",
+          "delta": 30,
+          "reason": "Bounty: Mad Angel BOTW - Medium",
+          "balance": 35
+        },
+        {
+          "timestamp": "2026-09-20T15:33:42.991Z",
+          "delta": 45,
+          "reason": "Bounty: Mad Angel BOTW - Hard",
+          "balance": 80
+        },
+        {
+          "timestamp": "2026-09-20T16:17:18.954Z",
+          "delta": 60,
+          "reason": "Bounty: Mad Angel BOTW - Elite",
+          "balance": 140
+        },
+        {
+          "timestamp": "2026-09-20T16:49:13.572Z",
+          "delta": -200,
+          "reason": "Rank upgrade: Emerald",
+          "balance": -60
+        },
+        {
+          "timestamp": "2026-10-30T00:29:31.127Z",
+          "delta": 112,
+          "reason": "Tenure points",
+          "balance": 52
+        }
+      ]
+    },
+    {
       "rsn": "Woofle Boi",
       "rsn_key": "woofleboi",
       "bot_rank": "Ruby",
@@ -25627,88 +25699,6 @@
           "delta": 204,
           "reason": "Tenure points",
           "balance": 164
-        }
-      ]
-    },
-    {
-      "rsn": "wooimboutta",
-      "rsn_key": "wooimboutta",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
-      "join_date": "2026-07-10",
-      "points_total": 352,
-      "points_spent": 300,
-      "points_available": 52,
-      "months_in_clan": 3,
-      "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 248,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-05T16:34:15.302Z",
-          "delta": 15,
-          "reason": "Bounty: Fishing SOTW - Easy",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-08-06T05:14:54.522Z",
-          "delta": 30,
-          "reason": "Bounty: Fishing SOTW - Medium",
-          "balance": 45
-        },
-        {
-          "timestamp": "2026-08-06T20:49:58.868Z",
-          "delta": 45,
-          "reason": "Bounty: Fishing SOTW - Hard",
-          "balance": 90
-        },
-        {
-          "timestamp": "2026-08-09T23:26:59.414Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": -10
-        },
-        {
-          "timestamp": "2026-09-20T15:32:47.870Z",
-          "delta": 15,
-          "reason": "Bounty: Mad Angel BOTW - Easy",
-          "balance": 5
-        },
-        {
-          "timestamp": "2026-09-20T15:33:38.347Z",
-          "delta": 30,
-          "reason": "Bounty: Mad Angel BOTW - Medium",
-          "balance": 35
-        },
-        {
-          "timestamp": "2026-09-20T15:33:42.991Z",
-          "delta": 45,
-          "reason": "Bounty: Mad Angel BOTW - Hard",
-          "balance": 80
-        },
-        {
-          "timestamp": "2026-09-20T16:17:18.954Z",
-          "delta": 60,
-          "reason": "Bounty: Mad Angel BOTW - Elite",
-          "balance": 140
-        },
-        {
-          "timestamp": "2026-09-20T16:49:13.572Z",
-          "delta": -200,
-          "reason": "Rank upgrade: Emerald",
-          "balance": -60
-        },
-        {
-          "timestamp": "2026-10-30T00:29:31.127Z",
-          "delta": 112,
-          "reason": "Tenure points",
-          "balance": 52
         }
       ]
     },
