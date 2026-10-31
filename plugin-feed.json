@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T23:14:20.503Z",
+  "generated_at": "2026-10-31T23:30:13.146Z",
   "broadcasts": [],
   "events": [
     {
@@ -4659,34 +4659,6 @@
           "delta": 128,
           "reason": "Tenure points",
           "balance": 128
-        }
-      ]
-    },
-    {
-      "rsn": "cgim double",
-      "rsn_key": "cgimdouble",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-09-09",
-      "points_total": 52,
-      "points_spent": 0,
-      "points_available": 52,
-      "months_in_clan": 1,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 48,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-31T23:14:18.957Z",
-          "delta": 52,
-          "reason": "Tenure points",
-          "balance": 52
         }
       ]
     },
@@ -9517,34 +9489,6 @@
       ]
     },
     {
-      "rsn": "grimmjay17",
-      "rsn_key": "grimmjay17",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-08-22",
-      "points_total": 70,
-      "points_spent": 0,
-      "points_available": 70,
-      "months_in_clan": 2,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 30,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-31T23:14:18.976Z",
-          "delta": 70,
-          "reason": "Tenure points",
-          "balance": 70
-        }
-      ]
-    },
-    {
       "rsn": "Grookshank",
       "rsn_key": "grookshank",
       "bot_rank": "Diamond",
@@ -13631,34 +13575,6 @@
       ]
     },
     {
-      "rsn": "leekable",
-      "rsn_key": "leekable",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-05-25",
-      "points_total": 159,
-      "points_spent": 0,
-      "points_available": 159,
-      "months_in_clan": 5,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-31T23:14:18.971Z",
-          "delta": 159,
-          "reason": "Tenure points",
-          "balance": 159
-        }
-      ]
-    },
-    {
       "rsn": "legwater",
       "rsn_key": "legwater",
       "bot_rank": "Gnome",
@@ -14257,34 +14173,6 @@
           "delta": 83,
           "reason": "Tenure points",
           "balance": 83
-        }
-      ]
-    },
-    {
-      "rsn": "marco bizot",
-      "rsn_key": "marcobizot",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-06-07",
-      "points_total": 146,
-      "points_spent": 0,
-      "points_available": 146,
-      "months_in_clan": 4,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-31T23:14:18.967Z",
-          "delta": 146,
-          "reason": "Tenure points",
-          "balance": 146
         }
       ]
     },
@@ -23969,34 +23857,6 @@
           "delta": 395,
           "reason": "Tenure points",
           "balance": 110
-        }
-      ]
-    },
-    {
-      "rsn": "tylland",
-      "rsn_key": "tylland",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-08-11",
-      "points_total": 81,
-      "points_spent": 0,
-      "points_available": 81,
-      "months_in_clan": 2,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 19,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-31T23:14:18.962Z",
-          "delta": 81,
-          "reason": "Tenure points",
-          "balance": 81
         }
       ]
     },
