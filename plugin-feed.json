@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T21:57:57.778Z",
+  "generated_at": "2026-10-31T23:14:20.503Z",
   "broadcasts": [],
   "events": [
     {
@@ -409,7 +409,7 @@
       "points_total": 456,
       "points_spent": 0,
       "points_available": 456,
-      "months_in_clan": 14,
+      "months_in_clan": 15,
       "next_rank": null,
       "points_history": [
         {
@@ -3083,7 +3083,7 @@
       "points_total": 60,
       "points_spent": 0,
       "points_available": 60,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -4667,50 +4667,26 @@
       "rsn_key": "cgimdouble",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
-      "join_date": "2026-06-17",
-      "points_total": 241,
+      "join_date": "2026-09-09",
+      "points_total": 52,
       "points_spent": 0,
-      "points_available": 241,
-      "months_in_clan": 4,
+      "points_available": 52,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 48,
         "missing_months": 0,
-        "can_claim": true
+        "can_claim": false
       },
       "points_history": [
         {
-          "timestamp": "2026-07-02T14:27:24.620Z",
-          "delta": 15,
-          "reason": "Bounty: Farming - Easy",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-07-02T14:27:26.640Z",
-          "delta": 30,
-          "reason": "Bounty: Farming - Medium",
-          "balance": 45
-        },
-        {
-          "timestamp": "2026-07-03T15:37:26.610Z",
-          "delta": 40,
-          "reason": "Bounty: Farming - Hard",
-          "balance": 85
-        },
-        {
-          "timestamp": "2026-08-04T00:17:54.137Z",
-          "delta": 20,
-          "reason": "Thank you for participating in PVM Map Sweep event.",
-          "balance": 105
-        },
-        {
-          "timestamp": "2026-10-31T00:29:32.613Z",
-          "delta": 136,
+          "timestamp": "2026-10-31T23:14:18.957Z",
+          "delta": 52,
           "reason": "Tenure points",
-          "balance": 241
+          "balance": 52
         }
       ]
     },
@@ -5389,7 +5365,7 @@
       "points_total": 6483,
       "points_spent": 1140,
       "points_available": 5343,
-      "months_in_clan": 26,
+      "months_in_clan": 27,
       "next_rank": null,
       "points_history": [
         {
@@ -6919,14 +6895,14 @@
       "points_total": 240,
       "points_spent": 100,
       "points_available": 140,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
         "missing_points": 60,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -8899,7 +8875,7 @@
       "points_total": 851,
       "points_spent": 600,
       "points_available": 251,
-      "months_in_clan": 5,
+      "months_in_clan": 6,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -9561,7 +9537,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-10-31T00:29:32.613Z",
+          "timestamp": "2026-10-31T23:14:18.976Z",
           "delta": 70,
           "reason": "Tenure points",
           "balance": 70
@@ -9783,7 +9759,7 @@
       "points_total": 775,
       "points_spent": 0,
       "points_available": 775,
-      "months_in_clan": 24,
+      "months_in_clan": 25,
       "next_rank": null,
       "points_history": [
         {
@@ -10999,7 +10975,7 @@
       "points_total": 142,
       "points_spent": 0,
       "points_available": 142,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -11801,34 +11777,20 @@
     {
       "rsn": "iron mowglie",
       "rsn_key": "ironmowglie",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2025-12-07 18:36:20.02776+00",
-      "points_total": 338,
+      "bot_rank": "Founder",
+      "progression_rank": "Founder",
+      "join_date": "2025-07-25",
+      "points_total": 463,
       "points_spent": 0,
-      "points_available": 338,
-      "months_in_clan": 10,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
+      "points_available": 463,
+      "months_in_clan": 15,
+      "next_rank": null,
       "points_history": [
         {
-          "timestamp": "2026-04-14T20:01:31.973Z",
-          "delta": 10,
-          "reason": "Discord adjustment",
-          "balance": 10
-        },
-        {
-          "timestamp": "2026-10-31T00:29:32.613Z",
-          "delta": 328,
+          "timestamp": "2026-10-31T23:14:18.951Z",
+          "delta": 463,
           "reason": "Tenure points",
-          "balance": 338
+          "balance": 463
         }
       ]
     },
@@ -13689,7 +13651,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-10-31T00:29:32.613Z",
+          "timestamp": "2026-10-31T23:14:18.971Z",
           "delta": 159,
           "reason": "Tenure points",
           "balance": 159
@@ -13739,7 +13701,7 @@
       "points_total": 60,
       "points_spent": 0,
       "points_available": 60,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -14304,9 +14266,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-06-07",
-      "points_total": 191,
+      "points_total": 146,
       "points_spent": 0,
-      "points_available": 191,
+      "points_available": 146,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
@@ -14319,16 +14281,10 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-07-03T06:06:07.457Z",
-          "delta": 45,
-          "reason": "Slayer",
-          "balance": 45
-        },
-        {
-          "timestamp": "2026-10-31T00:29:32.613Z",
+          "timestamp": "2026-10-31T23:14:18.967Z",
           "delta": 146,
           "reason": "Tenure points",
-          "balance": 191
+          "balance": 146
         }
       ]
     },
@@ -14463,7 +14419,7 @@
       "points_total": 6483,
       "points_spent": 1140,
       "points_available": 5343,
-      "months_in_clan": 26,
+      "months_in_clan": 27,
       "next_rank": null,
       "points_history": [
         {
@@ -19685,7 +19641,7 @@
       "points_total": 249,
       "points_spent": 0,
       "points_available": 249,
-      "months_in_clan": 7,
+      "months_in_clan": 8,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -21463,7 +21419,7 @@
       "points_total": 257,
       "points_spent": 100,
       "points_available": 157,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -21653,7 +21609,7 @@
       "points_total": 2432,
       "points_spent": 0,
       "points_available": 2432,
-      "months_in_clan": 26,
+      "months_in_clan": 27,
       "next_rank": {
         "name": "Gnome",
         "point_cost": 0,
@@ -23863,7 +23819,7 @@
       "points_total": 60,
       "points_spent": 0,
       "points_available": 60,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -23937,7 +23893,7 @@
       "points_total": 840,
       "points_spent": 730,
       "points_available": 110,
-      "months_in_clan": 12,
+      "months_in_clan": 13,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
@@ -24037,7 +23993,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-10-31T00:29:32.613Z",
+          "timestamp": "2026-10-31T23:14:18.962Z",
           "delta": 81,
           "reason": "Tenure points",
           "balance": 81
