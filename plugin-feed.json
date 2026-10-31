@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T16:16:40.469Z",
+  "generated_at": "2026-10-31T19:26:45.193Z",
   "broadcasts": [],
   "events": [
     {
@@ -2868,26 +2868,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-08-29",
-      "points_total": 1878,
+      "points_total": 1928,
       "points_spent": 1200,
-      "points_available": 678,
+      "points_available": 728,
       "months_in_clan": 14,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 122,
+        "missing_points": 72,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-02-17T20:08:18.366Z",
-          "delta": 15,
-          "reason": "wintertodt and movie",
-          "balance": 680
-        },
         {
           "timestamp": "2026-02-17T20:10:07.341Z",
           "delta": 30,
@@ -3033,10 +3027,16 @@
           "balance": 250
         },
         {
+          "timestamp": "2026-10-31T19:26:43.683Z",
+          "delta": 50,
+          "reason": "Prop Hunt (not giving placement awards since the plugin was buggy)",
+          "balance": 300
+        },
+        {
           "timestamp": "2026-10-31T00:29:32.613Z",
           "delta": 428,
           "reason": "Tenure points",
-          "balance": 678
+          "balance": 728
         }
       ]
     },
@@ -5386,9 +5386,9 @@
       "bot_rank": "Owner",
       "progression_rank": "Owner",
       "join_date": "2024-08-01",
-      "points_total": 6433,
+      "points_total": 6483,
       "points_spent": 1140,
-      "points_available": 5293,
+      "points_available": 5343,
       "months_in_clan": 26,
       "next_rank": null,
       "points_history": [
@@ -5477,10 +5477,16 @@
           "balance": 4472
         },
         {
+          "timestamp": "2026-10-31T19:26:43.683Z",
+          "delta": 50,
+          "reason": "Prop Hunt (not giving placement awards since the plugin was buggy)",
+          "balance": 4522
+        },
+        {
           "timestamp": "2026-10-31T00:29:32.613Z",
           "delta": 821,
           "reason": "Tenure points",
-          "balance": 5293
+          "balance": 5343
         }
       ]
     },
@@ -7758,26 +7764,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-21",
-      "points_total": 1445,
+      "points_total": 1495,
       "points_spent": 1200,
-      "points_available": 245,
+      "points_available": 295,
       "months_in_clan": 13,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 555,
+        "missing_points": 505,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-03T06:11:03.714Z",
-          "delta": 5,
-          "reason": "Slayer",
-          "balance": -160
-        },
         {
           "timestamp": "2026-07-08T19:06:16.568Z",
           "delta": 10,
@@ -7923,10 +7923,16 @@
           "balance": -160
         },
         {
+          "timestamp": "2026-10-31T19:26:43.682Z",
+          "delta": 50,
+          "reason": "Prop Hunt (not giving placement awards since the plugin was buggy)",
+          "balance": -110
+        },
+        {
           "timestamp": "2026-10-31T00:29:32.613Z",
           "delta": 405,
           "reason": "Tenure points",
-          "balance": 245
+          "balance": 295
         }
       ]
     },
@@ -7936,26 +7942,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-21",
-      "points_total": 1445,
+      "points_total": 1495,
       "points_spent": 1200,
-      "points_available": 245,
+      "points_available": 295,
       "months_in_clan": 13,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 555,
+        "missing_points": 505,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-03T06:11:03.714Z",
-          "delta": 5,
-          "reason": "Slayer",
-          "balance": -160
-        },
         {
           "timestamp": "2026-07-08T19:06:16.568Z",
           "delta": 10,
@@ -8101,10 +8101,16 @@
           "balance": -160
         },
         {
+          "timestamp": "2026-10-31T19:26:43.682Z",
+          "delta": 50,
+          "reason": "Prop Hunt (not giving placement awards since the plugin was buggy)",
+          "balance": -110
+        },
+        {
           "timestamp": "2026-10-31T00:29:32.613Z",
           "delta": 405,
           "reason": "Tenure points",
-          "balance": 245
+          "balance": 295
         }
       ]
     },
@@ -14448,9 +14454,9 @@
       "bot_rank": "Owner",
       "progression_rank": "Owner",
       "join_date": "2024-08-01",
-      "points_total": 6433,
+      "points_total": 6483,
       "points_spent": 1140,
-      "points_available": 5293,
+      "points_available": 5343,
       "months_in_clan": 26,
       "next_rank": null,
       "points_history": [
@@ -14539,10 +14545,16 @@
           "balance": 4472
         },
         {
+          "timestamp": "2026-10-31T19:26:43.683Z",
+          "delta": 50,
+          "reason": "Prop Hunt (not giving placement awards since the plugin was buggy)",
+          "balance": 4522
+        },
+        {
           "timestamp": "2026-10-31T00:29:32.613Z",
           "delta": 821,
           "reason": "Tenure points",
-          "balance": 5293
+          "balance": 5343
         }
       ]
     },
@@ -21308,16 +21320,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-05-17",
-      "points_total": 402,
+      "points_total": 452,
       "points_spent": 300,
-      "points_available": 102,
+      "points_available": 152,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 198,
+        "missing_points": 148,
         "missing_months": 0,
         "can_claim": false
       },
@@ -21395,10 +21407,16 @@
           "balance": -65
         },
         {
+          "timestamp": "2026-10-31T19:26:43.683Z",
+          "delta": 50,
+          "reason": "Prop Hunt (not giving placement awards since the plugin was buggy)",
+          "balance": -15
+        },
+        {
           "timestamp": "2026-10-31T00:29:32.613Z",
           "delta": 167,
           "reason": "Tenure points",
-          "balance": 102
+          "balance": 152
         }
       ]
     },
@@ -23280,9 +23298,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-04-08",
-      "points_total": 206,
+      "points_total": 256,
       "points_spent": 0,
-      "points_available": 206,
+      "points_available": 256,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Sapphire",
@@ -23295,10 +23313,16 @@
       },
       "points_history": [
         {
+          "timestamp": "2026-10-31T19:26:43.683Z",
+          "delta": 50,
+          "reason": "Prop Hunt (not giving placement awards since the plugin was buggy)",
+          "balance": 50
+        },
+        {
           "timestamp": "2026-10-31T00:29:32.613Z",
           "delta": 206,
           "reason": "Tenure points",
-          "balance": 206
+          "balance": 256
         }
       ]
     },
@@ -23904,16 +23928,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-10-01",
-      "points_total": 790,
+      "points_total": 840,
       "points_spent": 730,
-      "points_available": 60,
+      "points_available": 110,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 440,
+        "missing_points": 390,
         "missing_months": 0,
         "can_claim": false
       },
@@ -23973,10 +23997,16 @@
           "balance": -335
         },
         {
+          "timestamp": "2026-10-31T19:26:43.683Z",
+          "delta": 50,
+          "reason": "Prop Hunt (not giving placement awards since the plugin was buggy)",
+          "balance": -285
+        },
+        {
           "timestamp": "2026-10-31T00:29:32.613Z",
           "delta": 395,
           "reason": "Tenure points",
-          "balance": 60
+          "balance": 110
         }
       ]
     },
