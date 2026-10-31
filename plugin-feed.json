@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T12:49:26.004Z",
+  "generated_at": "2026-10-31T16:13:37.706Z",
   "broadcasts": [],
   "events": [
     {
@@ -5807,6 +5807,26 @@
       ]
     },
     {
+      "rsn": "Dlscharged",
+      "rsn_key": "dlscharged",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-31",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "dndrmifflin",
       "rsn_key": "dndrmifflin",
       "bot_rank": "Gnome",
@@ -11417,6 +11437,26 @@
       ]
     },
     {
+      "rsn": "ImAtonomus",
+      "rsn_key": "imatonomus",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-31",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "imbony",
       "rsn_key": "imbony",
       "bot_rank": "Sapphire",
@@ -13231,6 +13271,26 @@
       ]
     },
     {
+      "rsn": "LadyIca",
+      "rsn_key": "ladyica",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-31",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "Lamp Lite",
       "rsn_key": "lamplite",
       "bot_rank": "Dragonstone",
@@ -14177,6 +14237,26 @@
           "balance": 148
         }
       ]
+    },
+    {
+      "rsn": "maelle 33",
+      "rsn_key": "maelle33",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-31",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "Magnetofu",
@@ -16637,6 +16717,26 @@
           "balance": 62
         }
       ]
+    },
+    {
+      "rsn": "Notdeades",
+      "rsn_key": "notdeades",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-31",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "notfitz",
@@ -24907,6 +25007,26 @@
       ]
     },
     {
+      "rsn": "w00d fella",
+      "rsn_key": "w00dfella",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-31",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "wardyironboi",
       "rsn_key": "wardyironboi",
       "bot_rank": "Sapphire",
@@ -25707,6 +25827,26 @@
           "balance": 165
         }
       ]
+    },
+    {
+      "rsn": "Xaoirsee",
+      "rsn_key": "xaoirsee",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-31",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "Xesata",
