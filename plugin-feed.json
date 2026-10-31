@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T11:29:44.400Z",
+  "generated_at": "2026-10-31T12:36:17.848Z",
   "broadcasts": [],
   "events": [
     {
@@ -17878,9 +17878,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-08-14",
-      "points_total": 123,
+      "points_total": 213,
       "points_spent": 0,
-      "points_available": 123,
+      "points_available": 213,
       "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
@@ -17905,10 +17905,16 @@
           "balance": 45
         },
         {
+          "timestamp": "2026-10-31T12:36:16.331Z",
+          "delta": 90,
+          "reason": "recruitment of 3 more fellows",
+          "balance": 135
+        },
+        {
           "timestamp": "2026-10-31T00:29:32.613Z",
           "delta": 78,
           "reason": "Tenure points",
-          "balance": 123
+          "balance": 213
         }
       ]
     },
