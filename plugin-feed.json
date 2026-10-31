@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T12:46:22.758Z",
+  "generated_at": "2026-10-31T12:49:26.004Z",
   "broadcasts": [],
   "events": [
     {
@@ -9489,20 +9489,28 @@
     {
       "rsn": "Grey Farms",
       "rsn_key": "greyfarms",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2026-10-30",
-      "points_total": 1,
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-07",
+      "points_total": 24,
       "points_spent": 0,
-      "points_available": 1,
+      "points_available": 24,
       "months_in_clan": 0,
-      "next_rank": null,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 76,
+        "missing_months": 1,
+        "can_claim": false
+      },
       "points_history": [
         {
-          "timestamp": "2026-10-31T00:29:32.613Z",
-          "delta": 1,
+          "timestamp": "2026-10-31T12:46:25.363Z",
+          "delta": 24,
           "reason": "Tenure points",
-          "balance": 1
+          "balance": 24
         }
       ]
     },
@@ -18823,7 +18831,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-10-31T00:29:32.613Z",
+          "timestamp": "2026-10-31T12:46:25.363Z",
           "delta": 24,
           "reason": "Tenure points",
           "balance": 24
