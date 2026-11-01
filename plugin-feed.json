@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T00:15:07.689Z",
+  "generated_at": "2026-11-01T16:15:10.423Z",
   "broadcasts": [],
   "events": [],
   "bounties": [],
@@ -6168,6 +6168,26 @@
       ]
     },
     {
+      "rsn": "Dragonoid SS",
+      "rsn_key": "dragonoidss",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-11-01",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "drbees69",
       "rsn_key": "drbees69",
       "bot_rank": "Diamond",
@@ -6938,6 +6958,26 @@
           "balance": 141
         }
       ]
+    },
+    {
+      "rsn": "eiiyaa",
+      "rsn_key": "eiiyaa",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-11-01",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "elastic pant",
@@ -11732,26 +11772,6 @@
       ]
     },
     {
-      "rsn": "iron mowglie",
-      "rsn_key": "ironmowglie",
-      "bot_rank": "Founder",
-      "progression_rank": "Founder",
-      "join_date": "2025-07-25",
-      "points_total": 464,
-      "points_spent": 0,
-      "points_available": 464,
-      "months_in_clan": 15,
-      "next_rank": null,
-      "points_history": [
-        {
-          "timestamp": "2026-11-01T00:15:04.445Z",
-          "delta": 464,
-          "reason": "Tenure points",
-          "balance": 464
-        }
-      ]
-    },
-    {
       "rsn": "ironsynotics",
       "rsn_key": "ironsynotics",
       "bot_rank": "Sapphire",
@@ -12360,34 +12380,6 @@
       ]
     },
     {
-      "rsn": "JohnSnow6ix",
-      "rsn_key": "johnsnow6ix",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-09-18",
-      "points_total": 44,
-      "points_spent": 0,
-      "points_available": 44,
-      "months_in_clan": 1,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 56,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-11-01T00:15:04.445Z",
-          "delta": 44,
-          "reason": "Tenure points",
-          "balance": 44
-        }
-      ]
-    },
-    {
       "rsn": "Jorknits",
       "rsn_key": "jorknits",
       "bot_rank": "Gnome",
@@ -12532,6 +12524,26 @@
           "balance": 55
         }
       ]
+    },
+    {
+      "rsn": "KafkaOnDaMic",
+      "rsn_key": "kafkaondamic",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-11-01",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "kaverinn",
@@ -17388,6 +17400,26 @@
           "balance": 125
         }
       ]
+    },
+    {
+      "rsn": "peppymaccy",
+      "rsn_key": "peppymaccy",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-11-01",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "PerpSloth",
