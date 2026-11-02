@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T00:15:09.246Z",
+  "generated_at": "2026-11-02T06:30:10.445Z",
   "broadcasts": [],
   "events": [],
   "bounties": [],
@@ -17140,6 +17140,64 @@
       ]
     },
     {
+      "rsn": "P3pRidg3Farm",
+      "rsn_key": "p3pridg3farm",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-06-05",
+      "points_total": 215,
+      "points_spent": 100,
+      "points_available": 115,
+      "months_in_clan": 4,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 85,
+        "missing_months": 0,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-07-03T06:10:02.879Z",
+          "delta": 20,
+          "reason": "Slayer",
+          "balance": 20
+        },
+        {
+          "timestamp": "2026-07-08T19:06:16.569Z",
+          "delta": 10,
+          "reason": "Volcanic Mine Event",
+          "balance": 30
+        },
+        {
+          "timestamp": "2026-08-04T15:43:59.534Z",
+          "delta": 20,
+          "reason": "Thank you for participating in PVM Map Sweep event.",
+          "balance": 50
+        },
+        {
+          "timestamp": "2026-08-06T04:40:03.758Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -50
+        },
+        {
+          "timestamp": "2026-08-21T01:23:37.492Z",
+          "delta": 15,
+          "reason": "Screenshot participation",
+          "balance": -35
+        },
+        {
+          "timestamp": "2026-11-02T00:15:05.967Z",
+          "delta": 150,
+          "reason": "Tenure points",
+          "balance": 115
+        }
+      ]
+    },
+    {
       "rsn": "parm a jon",
       "rsn_key": "parmajon",
       "bot_rank": "Sapphire",
@@ -22120,64 +22178,6 @@
           "delta": 97,
           "reason": "Tenure points",
           "balance": 97
-        }
-      ]
-    },
-    {
-      "rsn": "StonedGengar",
-      "rsn_key": "stonedgengar",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2026-06-05",
-      "points_total": 215,
-      "points_spent": 100,
-      "points_available": 115,
-      "months_in_clan": 4,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 85,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-07-03T06:10:02.879Z",
-          "delta": 20,
-          "reason": "Slayer",
-          "balance": 20
-        },
-        {
-          "timestamp": "2026-07-08T19:06:16.569Z",
-          "delta": 10,
-          "reason": "Volcanic Mine Event",
-          "balance": 30
-        },
-        {
-          "timestamp": "2026-08-04T15:43:59.534Z",
-          "delta": 20,
-          "reason": "Thank you for participating in PVM Map Sweep event.",
-          "balance": 50
-        },
-        {
-          "timestamp": "2026-08-06T04:40:03.758Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": -50
-        },
-        {
-          "timestamp": "2026-08-21T01:23:37.492Z",
-          "delta": 15,
-          "reason": "Screenshot participation",
-          "balance": -35
-        },
-        {
-          "timestamp": "2026-11-02T00:15:05.967Z",
-          "delta": 150,
-          "reason": "Tenure points",
-          "balance": 115
         }
       ]
     },
