@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T03:45:12.549Z",
+  "generated_at": "2026-11-03T08:16:09.000Z",
   "broadcasts": [],
   "events": [
     {
@@ -15456,16 +15456,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-04-11",
-      "points_total": 796,
+      "points_total": 811,
       "points_spent": 600,
-      "points_available": 196,
+      "points_available": 211,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 204,
+        "missing_points": 189,
         "missing_months": 0,
         "can_claim": false
       },
@@ -15609,10 +15609,16 @@
           "balance": -10
         },
         {
+          "timestamp": "2026-11-03T08:16:07.479Z",
+          "delta": 15,
+          "reason": "Cooking SOTW - 4th to 6th place",
+          "balance": 5
+        },
+        {
           "timestamp": "2026-11-03T00:15:07.491Z",
           "delta": 206,
           "reason": "Tenure points",
-          "balance": 196
+          "balance": 211
         }
       ]
     },
@@ -18616,26 +18622,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-11",
-      "points_total": 1357,
+      "points_total": 1372,
       "points_spent": 1030,
-      "points_available": 327,
+      "points_available": 342,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 173,
+        "missing_points": 158,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-25T00:49:58.392Z",
-          "delta": -200,
-          "reason": "Rank upgrade: Emerald",
-          "balance": 10
-        },
         {
           "timestamp": "2026-06-25T06:40:48.936Z",
           "delta": 30,
@@ -18781,10 +18781,16 @@
           "balance": 90
         },
         {
+          "timestamp": "2026-11-03T08:16:07.480Z",
+          "delta": 15,
+          "reason": "Cooking SOTW - 4th to 6th place",
+          "balance": 105
+        },
+        {
           "timestamp": "2026-11-03T00:15:07.491Z",
           "delta": 237,
           "reason": "Tenure points",
-          "balance": 327
+          "balance": 342
         }
       ]
     },
@@ -18906,9 +18912,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-10-09",
-      "points_total": 265,
+      "points_total": 280,
       "points_spent": 0,
-      "points_available": 265,
+      "points_available": 280,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
@@ -18963,10 +18969,16 @@
           "balance": 240
         },
         {
+          "timestamp": "2026-11-03T08:16:07.480Z",
+          "delta": 15,
+          "reason": "Cooking SOTW - 4th to 6th place",
+          "balance": 255
+        },
+        {
           "timestamp": "2026-11-03T00:15:07.491Z",
           "delta": 25,
           "reason": "Tenure points",
-          "balance": 265
+          "balance": 280
         }
       ]
     },
