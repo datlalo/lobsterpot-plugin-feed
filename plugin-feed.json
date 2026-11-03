@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T08:16:09.000Z",
+  "generated_at": "2026-11-03T08:19:11.821Z",
   "broadcasts": [],
   "events": [
     {
@@ -3986,26 +3986,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-20 22:12:14.780985+00",
-      "points_total": 1493,
+      "points_total": 1553,
       "points_spent": 1000,
-      "points_available": 493,
+      "points_available": 553,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 7,
+        "missing_points": 0,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-09-02T22:11:40.094Z",
-          "delta": 15,
-          "reason": "Bounty: Crafting SOTW - Easy",
-          "balance": -30
-        },
         {
           "timestamp": "2026-09-06T15:14:45.558Z",
           "delta": 5,
@@ -4151,10 +4145,16 @@
           "balance": 265
         },
         {
+          "timestamp": "2026-11-03T08:17:31.387Z",
+          "delta": 60,
+          "reason": "cooking sotw winner",
+          "balance": 325
+        },
+        {
           "timestamp": "2026-11-03T00:15:07.491Z",
           "delta": 228,
           "reason": "Tenure points",
-          "balance": 493
+          "balance": 553
         }
       ]
     },
@@ -20708,9 +20708,9 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-02-22",
-      "points_total": 784,
+      "points_total": 834,
       "points_spent": 420,
-      "points_available": 364,
+      "points_available": 414,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Ruby",
@@ -20861,10 +20861,16 @@
           "balance": 110
         },
         {
+          "timestamp": "2026-11-03T08:17:01.324Z",
+          "delta": 50,
+          "reason": "cooking sotw - 2nd place",
+          "balance": 160
+        },
+        {
           "timestamp": "2026-11-03T00:15:07.491Z",
           "delta": 254,
           "reason": "Tenure points",
-          "balance": 364
+          "balance": 414
         }
       ]
     },
@@ -24014,16 +24020,16 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-10-01",
-      "points_total": 843,
+      "points_total": 873,
       "points_spent": 730,
-      "points_available": 113,
+      "points_available": 143,
       "months_in_clan": 13,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 387,
+        "missing_points": 357,
         "missing_months": 0,
         "can_claim": false
       },
@@ -24089,10 +24095,16 @@
           "balance": -285
         },
         {
+          "timestamp": "2026-11-03T08:16:32.447Z",
+          "delta": 30,
+          "reason": "cooking sotw 3rd place",
+          "balance": -255
+        },
+        {
           "timestamp": "2026-11-03T00:15:07.491Z",
           "delta": 398,
           "reason": "Tenure points",
-          "balance": 113
+          "balance": 143
         }
       ]
     },
