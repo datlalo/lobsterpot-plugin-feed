@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T08:19:11.821Z",
+  "generated_at": "2026-11-03T15:00:16.082Z",
   "broadcasts": [],
   "events": [
     {
@@ -25663,8 +25663,8 @@
       ]
     },
     {
-      "rsn": "Wizard Jhorg",
-      "rsn_key": "wizardjhorg",
+      "rsn": "WizardGeorge",
+      "rsn_key": "wizardgeorge",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-10-23",
