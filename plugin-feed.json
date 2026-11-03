@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T16:00:16.353Z",
+  "generated_at": "2026-11-03T20:45:14.873Z",
   "broadcasts": [],
   "events": [
     {
@@ -4569,6 +4569,100 @@
       ]
     },
     {
+      "rsn": "Capt Dabbin",
+      "rsn_key": "captdabbin",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2026-06-24",
+      "points_total": 467,
+      "points_spent": 300,
+      "points_available": 167,
+      "months_in_clan": 4,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 133,
+        "missing_months": 0,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-07-16T21:13:11.377Z",
+          "delta": 20,
+          "reason": "Thanks for joining Giants' Foundry",
+          "balance": 20
+        },
+        {
+          "timestamp": "2026-08-04T00:17:54.187Z",
+          "delta": 20,
+          "reason": "Thank you for participating in PVM Map Sweep event.",
+          "balance": 40
+        },
+        {
+          "timestamp": "2026-08-04T00:21:57.403Z",
+          "delta": 150,
+          "reason": "1st place in PVM Map Sweep",
+          "balance": 190
+        },
+        {
+          "timestamp": "2026-08-09T16:55:33.560Z",
+          "delta": 10,
+          "reason": "100kc scurrius sunday",
+          "balance": 200
+        },
+        {
+          "timestamp": "2026-08-16T16:56:31.161Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": 100
+        },
+        {
+          "timestamp": "2026-09-14T23:56:10.134Z",
+          "delta": 50,
+          "reason": "Saradomin Mid rng",
+          "balance": 150
+        },
+        {
+          "timestamp": "2026-09-15T02:44:10.683Z",
+          "delta": 10,
+          "reason": "Held 1 tile",
+          "balance": 160
+        },
+        {
+          "timestamp": "2026-09-15T13:16:21.111Z",
+          "delta": -200,
+          "reason": "Rank upgrade: Emerald",
+          "balance": -40
+        },
+        {
+          "timestamp": "2026-09-17T03:50:13.302Z",
+          "delta": 45,
+          "reason": "Bounty: Mad Angel BOTW - Hard",
+          "balance": 5
+        },
+        {
+          "timestamp": "2026-10-10T20:35:25.557Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": 20
+        },
+        {
+          "timestamp": "2026-10-19T22:05:50.980Z",
+          "delta": 15,
+          "reason": "zalcano mass",
+          "balance": 35
+        },
+        {
+          "timestamp": "2026-11-03T00:15:07.491Z",
+          "delta": 132,
+          "reason": "Tenure points",
+          "balance": 167
+        }
+      ]
+    },
+    {
       "rsn": "Ceramiq",
       "rsn_key": "ceramiq",
       "bot_rank": "Gnome",
@@ -6011,100 +6105,6 @@
           "delta": 342,
           "reason": "Tenure points",
           "balance": 342
-        }
-      ]
-    },
-    {
-      "rsn": "Dont Pull P2",
-      "rsn_key": "dontpullp2",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
-      "join_date": "2026-06-24",
-      "points_total": 467,
-      "points_spent": 300,
-      "points_available": 167,
-      "months_in_clan": 4,
-      "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 133,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-07-16T21:13:11.377Z",
-          "delta": 20,
-          "reason": "Thanks for joining Giants' Foundry",
-          "balance": 20
-        },
-        {
-          "timestamp": "2026-08-04T00:17:54.187Z",
-          "delta": 20,
-          "reason": "Thank you for participating in PVM Map Sweep event.",
-          "balance": 40
-        },
-        {
-          "timestamp": "2026-08-04T00:21:57.403Z",
-          "delta": 150,
-          "reason": "1st place in PVM Map Sweep",
-          "balance": 190
-        },
-        {
-          "timestamp": "2026-08-09T16:55:33.560Z",
-          "delta": 10,
-          "reason": "100kc scurrius sunday",
-          "balance": 200
-        },
-        {
-          "timestamp": "2026-08-16T16:56:31.161Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": 100
-        },
-        {
-          "timestamp": "2026-09-14T23:56:10.134Z",
-          "delta": 50,
-          "reason": "Saradomin Mid rng",
-          "balance": 150
-        },
-        {
-          "timestamp": "2026-09-15T02:44:10.683Z",
-          "delta": 10,
-          "reason": "Held 1 tile",
-          "balance": 160
-        },
-        {
-          "timestamp": "2026-09-15T13:16:21.111Z",
-          "delta": -200,
-          "reason": "Rank upgrade: Emerald",
-          "balance": -40
-        },
-        {
-          "timestamp": "2026-09-17T03:50:13.302Z",
-          "delta": 45,
-          "reason": "Bounty: Mad Angel BOTW - Hard",
-          "balance": 5
-        },
-        {
-          "timestamp": "2026-10-10T20:35:25.557Z",
-          "delta": 15,
-          "reason": "Halloween Fashionscape participation",
-          "balance": 20
-        },
-        {
-          "timestamp": "2026-10-19T22:05:50.980Z",
-          "delta": 15,
-          "reason": "zalcano mass",
-          "balance": 35
-        },
-        {
-          "timestamp": "2026-11-03T00:15:07.491Z",
-          "delta": 132,
-          "reason": "Tenure points",
-          "balance": 167
         }
       ]
     },
