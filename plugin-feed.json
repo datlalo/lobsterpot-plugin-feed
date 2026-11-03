@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T00:15:11.918Z",
+  "generated_at": "2026-11-03T03:45:12.549Z",
   "broadcasts": [],
   "events": [
     {
@@ -19781,6 +19781,34 @@
       ]
     },
     {
+      "rsn": "Ryzeku",
+      "rsn_key": "ryzeku",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-07-11",
+      "points_total": 115,
+      "points_spent": 0,
+      "points_available": 115,
+      "months_in_clan": 3,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-11-03T00:15:07.491Z",
+          "delta": 115,
+          "reason": "Tenure points",
+          "balance": 115
+        }
+      ]
+    },
+    {
       "rsn": "Saint Divahn",
       "rsn_key": "saintdivahn",
       "bot_rank": "Founder",
@@ -24723,34 +24751,6 @@
           "delta": 232,
           "reason": "Tenure points",
           "balance": 247
-        }
-      ]
-    },
-    {
-      "rsn": "Vermir",
-      "rsn_key": "vermir",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-07-11",
-      "points_total": 115,
-      "points_spent": 0,
-      "points_available": 115,
-      "months_in_clan": 3,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-11-03T00:15:07.491Z",
-          "delta": 115,
-          "reason": "Tenure points",
-          "balance": 115
         }
       ]
     },
