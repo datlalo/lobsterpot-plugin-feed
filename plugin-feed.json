@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T06:37:13.186Z",
+  "generated_at": "2026-11-04T07:36:40.655Z",
   "broadcasts": [],
   "events": [
     {
@@ -14,7 +14,16 @@
       "thread_id": "1566883934086766643"
     }
   ],
-  "bounties": [],
+  "bounties": [
+    {
+      "id": "79",
+      "name": "Hunter SOTW - Easy",
+      "active": true,
+      "points": 15,
+      "description": "500k Hunter XP",
+      "expires_at": "2026-11-12T00:00:00.000Z"
+    }
+  ],
   "members": [
     {
       "rsn": "0gass",
