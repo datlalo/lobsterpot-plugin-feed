@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T18:00:22.330Z",
+  "generated_at": "2026-11-04T18:15:16.327Z",
   "broadcasts": [],
   "events": [
     {
@@ -22450,24 +22450,44 @@
       ]
     },
     {
-      "rsn": "sumise",
+      "rsn": "Sumise",
       "rsn_key": "sumise",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
-      "join_date": "2026-11-04",
-      "points_total": 0,
+      "join_date": "2026-09-29",
+      "points_total": 56,
       "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
+      "points_available": 56,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 100,
-        "missing_months": 1,
+        "missing_points": 44,
+        "missing_months": 0,
         "can_claim": false
-      }
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-10-12T14:05:40.655Z",
+          "delta": 5,
+          "reason": "50 KC Amoxliatl Sunday",
+          "balance": 5
+        },
+        {
+          "timestamp": "2026-10-19T17:19:26.524Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": 20
+        },
+        {
+          "timestamp": "2026-11-04T00:15:08.980Z",
+          "delta": 36,
+          "reason": "Tenure points",
+          "balance": 56
+        }
+      ]
     },
     {
       "rsn": "SuperRamen",
