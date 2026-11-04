@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T07:40:44.182Z",
+  "generated_at": "2026-11-04T07:43:47.067Z",
   "broadcasts": [],
   "events": [
     {
@@ -15,6 +15,30 @@
     }
   ],
   "bounties": [
+    {
+      "id": "83",
+      "name": "Hunter SOTW - Master",
+      "active": true,
+      "points": 75,
+      "description": "Any hunter pet drop (herbi, chinchompa, quetzal, goat) or adopt a dog irl",
+      "expires_at": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "id": "82",
+      "name": "Hunter SOTW - Elite",
+      "active": true,
+      "points": 60,
+      "description": "4m Hunter xp or catch a Lucky or Dragon impling (not from Puro Puro)",
+      "expires_at": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "id": "81",
+      "name": "Hunter SOTW - Hard",
+      "active": true,
+      "points": 45,
+      "description": "2m Hunter XP",
+      "expires_at": "2026-11-12T00:00:00.000Z"
+    },
     {
       "id": "80",
       "name": "Hunter SOTW - Medium",
