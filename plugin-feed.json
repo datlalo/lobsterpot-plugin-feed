@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T20:34:23.976Z",
+  "generated_at": "2026-11-04T20:37:26.924Z",
   "broadcasts": [],
   "events": [
     {
@@ -1248,20 +1248,34 @@
       "rsn_key": "anver",
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
-      "join_date": "2026-11-04",
-      "points_total": 0,
+      "join_date": "2025-12-07 18:36:24.335888+00",
+      "points_total": 337,
       "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
+      "points_available": 337,
+      "months_in_clan": 10,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 300,
-        "missing_months": 3,
-        "can_claim": false
-      }
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-04-14T19:59:16.303Z",
+          "delta": 5,
+          "reason": "Discord adjustment",
+          "balance": 5
+        },
+        {
+          "timestamp": "2026-11-04T00:15:08.980Z",
+          "delta": 332,
+          "reason": "Tenure points",
+          "balance": 337
+        }
+      ]
     },
     {
       "rsn": "AodhagaIM",
@@ -7303,26 +7317,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-05-17 14:00:07.458542+00",
-      "points_total": 1351,
+      "points_total": 1366,
       "points_spent": 900,
-      "points_available": 451,
+      "points_available": 466,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 49,
+        "missing_points": 34,
         "missing_months": 3,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-06T05:14:02.559Z",
-          "delta": 15,
-          "reason": "Bounty: Fishing SOTW - Easy",
-          "balance": 200
-        },
         {
           "timestamp": "2026-08-06T20:49:45.118Z",
           "delta": 30,
@@ -7468,10 +7476,16 @@
           "balance": 280
         },
         {
+          "timestamp": "2026-11-04T20:34:59.745Z",
+          "delta": 15,
+          "reason": "Bounty: Hunter SOTW - Easy",
+          "balance": 295
+        },
+        {
           "timestamp": "2026-11-04T00:15:08.980Z",
           "delta": 171,
           "reason": "Tenure points",
-          "balance": 451
+          "balance": 466
         }
       ],
       "pending_bounties": [
@@ -7485,7 +7499,7 @@
         {
           "bounty_id": "79",
           "name": "Hunter SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-04T17:19:44.426Z"
         }
