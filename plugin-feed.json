@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T20:31:21.283Z",
+  "generated_at": "2026-11-04T20:34:23.976Z",
   "broadcasts": [],
   "events": [
     {
@@ -1269,16 +1269,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-04-19",
-      "points_total": 394,
+      "points_total": 424,
       "points_spent": 200,
-      "points_available": 194,
+      "points_available": 224,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 106,
+        "missing_points": 76,
         "missing_months": 0,
         "can_claim": false
       },
@@ -1350,17 +1350,23 @@
           "balance": -5
         },
         {
+          "timestamp": "2026-11-04T20:32:27.731Z",
+          "delta": 30,
+          "reason": "Bounty: Hunter SOTW - Medium",
+          "balance": 25
+        },
+        {
           "timestamp": "2026-11-04T00:15:08.980Z",
           "delta": 199,
           "reason": "Tenure points",
-          "balance": 194
+          "balance": 224
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "80",
           "name": "Hunter SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-04T18:23:45.519Z"
         }
@@ -1372,16 +1378,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-04-19",
-      "points_total": 394,
+      "points_total": 424,
       "points_spent": 200,
-      "points_available": 194,
+      "points_available": 224,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 106,
+        "missing_points": 76,
         "missing_months": 0,
         "can_claim": false
       },
@@ -1453,17 +1459,23 @@
           "balance": -5
         },
         {
+          "timestamp": "2026-11-04T20:32:27.731Z",
+          "delta": 30,
+          "reason": "Bounty: Hunter SOTW - Medium",
+          "balance": 25
+        },
+        {
           "timestamp": "2026-11-04T00:15:08.980Z",
           "delta": 199,
           "reason": "Tenure points",
-          "balance": 194
+          "balance": 224
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "80",
           "name": "Hunter SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-04T18:23:45.519Z"
         }
@@ -7291,26 +7303,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-05-17 14:00:07.458542+00",
-      "points_total": 1321,
+      "points_total": 1351,
       "points_spent": 900,
-      "points_available": 421,
+      "points_available": 451,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": "Barrows Gloves",
-        "missing_points": 79,
+        "missing_points": 49,
         "missing_months": 3,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-04T00:17:54.187Z",
-          "delta": 20,
-          "reason": "Thank you for participating in PVM Map Sweep event.",
-          "balance": 185
-        },
         {
           "timestamp": "2026-08-06T05:14:02.559Z",
           "delta": 15,
@@ -7456,17 +7462,23 @@
           "balance": 250
         },
         {
+          "timestamp": "2026-11-04T20:32:06.391Z",
+          "delta": 30,
+          "reason": "Bounty: Hunter SOTW - Medium",
+          "balance": 280
+        },
+        {
           "timestamp": "2026-11-04T00:15:08.980Z",
           "delta": 171,
           "reason": "Tenure points",
-          "balance": 421
+          "balance": 451
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "80",
           "name": "Hunter SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-04T14:29:07.074Z"
         },
@@ -9955,26 +9967,20 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-12-16 18:05:33.310017+00",
-      "points_total": 1083,
+      "points_total": 1113,
       "points_spent": 800,
-      "points_available": 283,
+      "points_available": 313,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 117,
+        "missing_points": 87,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-01-31T18:05:51.801Z",
-          "delta": 10,
-          "reason": "Hawks max event/drop party",
-          "balance": 50
-        },
         {
           "timestamp": "2026-04-14T19:59:33.861Z",
           "delta": 5,
@@ -10120,17 +10126,23 @@
           "balance": -40
         },
         {
+          "timestamp": "2026-11-04T20:32:02.177Z",
+          "delta": 30,
+          "reason": "Bounty: Hunter SOTW - Medium",
+          "balance": -10
+        },
+        {
           "timestamp": "2026-11-04T00:15:08.980Z",
           "delta": 323,
           "reason": "Tenure points",
-          "balance": 283
+          "balance": 313
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "80",
           "name": "Hunter SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-04T14:20:19.681Z"
         }
@@ -15686,16 +15698,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-07-05",
-      "points_total": 502,
+      "points_total": 532,
       "points_spent": 300,
-      "points_available": 202,
+      "points_available": 232,
       "months_in_clan": 3,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 98,
+        "missing_points": 68,
         "missing_months": 0,
         "can_claim": false
       },
@@ -15755,17 +15767,23 @@
           "balance": 80
         },
         {
+          "timestamp": "2026-11-04T20:32:14.985Z",
+          "delta": 30,
+          "reason": "Bounty: Hunter SOTW - Medium",
+          "balance": 110
+        },
+        {
           "timestamp": "2026-11-04T00:15:08.980Z",
           "delta": 122,
           "reason": "Tenure points",
-          "balance": 202
+          "balance": 232
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "80",
           "name": "Hunter SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-04T16:10:16.182Z"
         }
@@ -18207,26 +18225,20 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-09-30",
-      "points_total": 2063,
+      "points_total": 2093,
       "points_spent": 2000,
-      "points_available": 63,
+      "points_available": 93,
       "months_in_clan": 13,
       "next_rank": {
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
         "requirements": "Trimmed QC, 2000 Total, or Elite CA",
-        "missing_points": 937,
+        "missing_points": 907,
         "missing_months": 3,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-17T06:32:26.147Z",
-          "delta": 30,
-          "reason": "Bounty: Duke Sucellus - Medium",
-          "balance": -232
-        },
         {
           "timestamp": "2026-07-17T22:54:47.056Z",
           "delta": 30,
@@ -18372,17 +18384,23 @@
           "balance": -337
         },
         {
+          "timestamp": "2026-11-04T20:32:34.976Z",
+          "delta": 30,
+          "reason": "Bounty: Hunter SOTW - Medium",
+          "balance": -307
+        },
+        {
           "timestamp": "2026-11-04T00:15:08.980Z",
           "delta": 400,
           "reason": "Tenure points",
-          "balance": 63
+          "balance": 93
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "80",
           "name": "Hunter SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-04T20:31:19.769Z"
         }
@@ -22816,26 +22834,20 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-09-30",
-      "points_total": 2063,
+      "points_total": 2093,
       "points_spent": 2000,
-      "points_available": 63,
+      "points_available": 93,
       "months_in_clan": 13,
       "next_rank": {
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
         "requirements": "Trimmed QC, 2000 Total, or Elite CA",
-        "missing_points": 937,
+        "missing_points": 907,
         "missing_months": 3,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-17T06:32:26.147Z",
-          "delta": 30,
-          "reason": "Bounty: Duke Sucellus - Medium",
-          "balance": -232
-        },
         {
           "timestamp": "2026-07-17T22:54:47.056Z",
           "delta": 30,
@@ -22981,17 +22993,23 @@
           "balance": -337
         },
         {
+          "timestamp": "2026-11-04T20:32:34.976Z",
+          "delta": 30,
+          "reason": "Bounty: Hunter SOTW - Medium",
+          "balance": -307
+        },
+        {
           "timestamp": "2026-11-04T00:15:08.980Z",
           "delta": 400,
           "reason": "Tenure points",
-          "balance": 63
+          "balance": 93
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "80",
           "name": "Hunter SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-04T20:31:19.769Z"
         }
@@ -24381,26 +24399,20 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-12-16 18:05:33.310017+00",
-      "points_total": 1083,
+      "points_total": 1113,
       "points_spent": 800,
-      "points_available": 283,
+      "points_available": 313,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 117,
+        "missing_points": 87,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-01-31T18:05:51.801Z",
-          "delta": 10,
-          "reason": "Hawks max event/drop party",
-          "balance": 50
-        },
         {
           "timestamp": "2026-04-14T19:59:33.861Z",
           "delta": 5,
@@ -24546,17 +24558,23 @@
           "balance": -40
         },
         {
+          "timestamp": "2026-11-04T20:32:02.177Z",
+          "delta": 30,
+          "reason": "Bounty: Hunter SOTW - Medium",
+          "balance": -10
+        },
+        {
           "timestamp": "2026-11-04T00:15:08.980Z",
           "delta": 323,
           "reason": "Tenure points",
-          "balance": 283
+          "balance": 313
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "80",
           "name": "Hunter SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-04T14:20:19.681Z"
         }
