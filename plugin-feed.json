@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T07:36:40.655Z",
+  "generated_at": "2026-11-04T07:40:44.182Z",
   "broadcasts": [],
   "events": [
     {
@@ -15,6 +15,14 @@
     }
   ],
   "bounties": [
+    {
+      "id": "80",
+      "name": "Hunter SOTW - Medium",
+      "active": true,
+      "points": 30,
+      "description": "1m Hunter XP or a photo of a wild animal",
+      "expires_at": "2026-11-12T00:00:00.000Z"
+    },
     {
       "id": "79",
       "name": "Hunter SOTW - Easy",
