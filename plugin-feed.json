@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T12:02:01.057Z",
+  "generated_at": "2026-11-04T14:20:21.188Z",
   "broadcasts": [],
   "events": [
     {
@@ -10144,6 +10144,15 @@
           "delta": 323,
           "reason": "Tenure points",
           "balance": 283
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "80",
+          "name": "Hunter SOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-04T14:20:19.681Z"
         }
       ]
     },
@@ -24548,6 +24557,15 @@
           "delta": 323,
           "reason": "Tenure points",
           "balance": 283
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "80",
+          "name": "Hunter SOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-04T14:20:19.681Z"
         }
       ]
     },
