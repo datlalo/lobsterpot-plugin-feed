@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T02:48:01.833Z",
+  "generated_at": "2026-11-05T04:26:24.710Z",
   "broadcasts": [],
   "events": [
     {
@@ -12700,7 +12700,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-11-05T00:41:20.819Z",
+          "timestamp": "2026-11-05T04:26:23.189Z",
           "delta": 4,
           "reason": "Tenure points",
           "balance": 4
