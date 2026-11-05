@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T07:03:12.061Z",
+  "generated_at": "2026-11-05T08:52:14.048Z",
   "broadcasts": [],
   "events": [
     {
@@ -12,6 +12,16 @@
       "ends_at": "2026-11-11T12:00:00.000Z",
       "description": "",
       "thread_id": "1566883934086766643"
+    },
+    {
+      "id": "df481a7b-93e1-458f-9d61-c4c1a56a06a4",
+      "type": "event",
+      "title": "Herbi Hidden Bingo",
+      "location": "Fossil Island",
+      "starts_at": "2026-11-07T20:30:00.000Z",
+      "ends_at": "2026-11-07T22:00:00.000Z",
+      "description": "",
+      "thread_id": "1567823845858222130"
     }
   ],
   "bounties": [
