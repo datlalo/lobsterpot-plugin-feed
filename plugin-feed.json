@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T14:36:33.700Z",
+  "generated_at": "2026-11-05T14:56:26.255Z",
   "broadcasts": [],
   "events": [
     {
@@ -474,6 +474,58 @@
           "delta": 461,
           "reason": "Tenure points",
           "balance": 461
+        }
+      ]
+    },
+    {
+      "rsn": "A Blue Crab",
+      "rsn_key": "abluecrab",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-07-04",
+      "points_total": 259,
+      "points_spent": 100,
+      "points_available": 159,
+      "months_in_clan": 4,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 41,
+        "missing_months": 0,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-10-09T06:49:07.692Z",
+          "delta": 15,
+          "reason": "Bounty: Dagannoth Kings BOTW - Easy",
+          "balance": 15
+        },
+        {
+          "timestamp": "2026-10-10T10:41:07.516Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -85
+        },
+        {
+          "timestamp": "2026-10-27T13:26:02.851Z",
+          "delta": 75,
+          "reason": "Bounty: Cooking SOTW - Master",
+          "balance": -10
+        },
+        {
+          "timestamp": "2026-10-27T13:26:06.071Z",
+          "delta": 45,
+          "reason": "Bounty: Cooking SOTW - Hard",
+          "balance": 35
+        },
+        {
+          "timestamp": "2026-11-05T00:41:20.819Z",
+          "delta": 124,
+          "reason": "Tenure points",
+          "balance": 159
         }
       ]
     },
@@ -18851,58 +18903,6 @@
           "delta": 169,
           "reason": "Tenure points",
           "balance": 333
-        }
-      ]
-    },
-    {
-      "rsn": "RaccoonCEO",
-      "rsn_key": "raccoonceo",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2026-07-04",
-      "points_total": 259,
-      "points_spent": 100,
-      "points_available": 159,
-      "months_in_clan": 4,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 41,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-09T06:49:07.692Z",
-          "delta": 15,
-          "reason": "Bounty: Dagannoth Kings BOTW - Easy",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-10-10T10:41:07.516Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": -85
-        },
-        {
-          "timestamp": "2026-10-27T13:26:02.851Z",
-          "delta": 75,
-          "reason": "Bounty: Cooking SOTW - Master",
-          "balance": -10
-        },
-        {
-          "timestamp": "2026-10-27T13:26:06.071Z",
-          "delta": 45,
-          "reason": "Bounty: Cooking SOTW - Hard",
-          "balance": 35
-        },
-        {
-          "timestamp": "2026-11-05T00:41:20.819Z",
-          "delta": 124,
-          "reason": "Tenure points",
-          "balance": 159
         }
       ]
     },
