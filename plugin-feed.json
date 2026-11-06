@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T18:50:42.484Z",
+  "generated_at": "2026-11-06T00:11:26.615Z",
   "broadcasts": [],
   "events": [
     {
@@ -734,6 +734,26 @@
           "balance": 147
         }
       ]
+    },
+    {
+      "rsn": "a deergirl",
+      "rsn_key": "adeergirl",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-11-06",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "Aerea",
@@ -1750,7 +1770,7 @@
       "points_total": 776,
       "points_spent": 300,
       "points_available": 476,
-      "months_in_clan": 14,
+      "months_in_clan": 15,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -2258,7 +2278,7 @@
       "points_total": 454,
       "points_spent": 200,
       "points_available": 254,
-      "months_in_clan": 11,
+      "months_in_clan": 12,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -3563,26 +3583,6 @@
           "delta": 131,
           "reason": "Tenure points",
           "balance": 46
-        }
-      ]
-    },
-    {
-      "rsn": "Blacked HCIM",
-      "rsn_key": "blackedhcim",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2026-11-02",
-      "points_total": 3,
-      "points_spent": 0,
-      "points_available": 3,
-      "months_in_clan": 0,
-      "next_rank": null,
-      "points_history": [
-        {
-          "timestamp": "2026-11-05T00:41:20.819Z",
-          "delta": 3,
-          "reason": "Tenure points",
-          "balance": 3
         }
       ]
     },
@@ -5153,7 +5153,7 @@
       "points_total": 183,
       "points_spent": 0,
       "points_available": 183,
-      "months_in_clan": 5,
+      "months_in_clan": 6,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -5181,14 +5181,14 @@
       "points_total": 30,
       "points_spent": 0,
       "points_available": 30,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 70,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -5277,7 +5277,7 @@
       "points_total": 183,
       "points_spent": 0,
       "points_available": 183,
-      "months_in_clan": 5,
+      "months_in_clan": 6,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -6608,58 +6608,6 @@
       ]
     },
     {
-      "rsn": "ducksarecool",
-      "rsn_key": "ducksarecool",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2026-07-04",
-      "points_total": 259,
-      "points_spent": 100,
-      "points_available": 159,
-      "months_in_clan": 4,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 41,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-09T06:49:07.692Z",
-          "delta": 15,
-          "reason": "Bounty: Dagannoth Kings BOTW - Easy",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-10-10T10:41:07.516Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": -85
-        },
-        {
-          "timestamp": "2026-10-27T13:26:02.851Z",
-          "delta": 75,
-          "reason": "Bounty: Cooking SOTW - Master",
-          "balance": -10
-        },
-        {
-          "timestamp": "2026-10-27T13:26:06.071Z",
-          "delta": 45,
-          "reason": "Bounty: Cooking SOTW - Hard",
-          "balance": 35
-        },
-        {
-          "timestamp": "2026-11-05T00:41:20.819Z",
-          "delta": 124,
-          "reason": "Tenure points",
-          "balance": 159
-        }
-      ]
-    },
-    {
       "rsn": "Dufish",
       "rsn_key": "dufish",
       "bot_rank": "Alt",
@@ -6716,7 +6664,7 @@
       "points_total": 604,
       "points_spent": 500,
       "points_available": 104,
-      "months_in_clan": 11,
+      "months_in_clan": 12,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -10979,7 +10927,7 @@
       "points_total": 775,
       "points_spent": 500,
       "points_available": 275,
-      "months_in_clan": 12,
+      "months_in_clan": 13,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -11051,6 +10999,26 @@
           "balance": 275
         }
       ]
+    },
+    {
+      "rsn": "hundredcuts",
+      "rsn_key": "hundredcuts",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-11-06",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "hunklebean",
@@ -12412,7 +12380,7 @@
       "points_total": 183,
       "points_spent": 0,
       "points_available": 183,
-      "months_in_clan": 5,
+      "months_in_clan": 6,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -12614,58 +12582,6 @@
           "delta": 123,
           "reason": "Tenure points",
           "balance": 123
-        }
-      ]
-    },
-    {
-      "rsn": "JamminJon",
-      "rsn_key": "jamminjon",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2026-03-04 14:15:12.474046+00",
-      "points_total": 281,
-      "points_spent": 100,
-      "points_available": 181,
-      "months_in_clan": 8,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 19,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-03-19T15:54:24.961Z",
-          "delta": 15,
-          "reason": "Discord adjustment",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-04-14T19:59:36.114Z",
-          "delta": 5,
-          "reason": "Discord adjustment",
-          "balance": 20
-        },
-        {
-          "timestamp": "2026-07-15T08:48:52.767Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": -80
-        },
-        {
-          "timestamp": "2026-10-10T20:35:25.561Z",
-          "delta": 15,
-          "reason": "Halloween Fashionscape participation",
-          "balance": -65
-        },
-        {
-          "timestamp": "2026-11-05T00:41:20.819Z",
-          "delta": 246,
-          "reason": "Tenure points",
-          "balance": 181
         }
       ]
     },
@@ -14802,7 +14718,7 @@
       "points_total": 152,
       "points_spent": 0,
       "points_available": 152,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -15958,7 +15874,7 @@
       "points_total": 425,
       "points_spent": 300,
       "points_available": 125,
-      "months_in_clan": 13,
+      "months_in_clan": 14,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -16391,7 +16307,7 @@
       "points_total": 750,
       "points_spent": 300,
       "points_available": 450,
-      "months_in_clan": 13,
+      "months_in_clan": 14,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -20993,6 +20909,26 @@
           "balance": 120
         }
       ]
+    },
+    {
+      "rsn": "Shydra1997",
+      "rsn_key": "shydra1997",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-11-06",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "ShyvanaTop",
@@ -25846,58 +25782,6 @@
       ]
     },
     {
-      "rsn": "WhereDraynor",
-      "rsn_key": "wheredraynor",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2026-07-04",
-      "points_total": 259,
-      "points_spent": 100,
-      "points_available": 159,
-      "months_in_clan": 4,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 41,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-09T06:49:07.692Z",
-          "delta": 15,
-          "reason": "Bounty: Dagannoth Kings BOTW - Easy",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-10-10T10:41:07.516Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": -85
-        },
-        {
-          "timestamp": "2026-10-27T13:26:02.851Z",
-          "delta": 75,
-          "reason": "Bounty: Cooking SOTW - Master",
-          "balance": -10
-        },
-        {
-          "timestamp": "2026-10-27T13:26:06.071Z",
-          "delta": 45,
-          "reason": "Bounty: Cooking SOTW - Hard",
-          "balance": 35
-        },
-        {
-          "timestamp": "2026-11-05T00:41:20.819Z",
-          "delta": 124,
-          "reason": "Tenure points",
-          "balance": 159
-        }
-      ]
-    },
-    {
       "rsn": "whiskey bobb",
       "rsn_key": "whiskeybobb",
       "bot_rank": "Gnome",
@@ -26146,88 +26030,6 @@
           "delta": 13,
           "reason": "Tenure points",
           "balance": 13
-        }
-      ]
-    },
-    {
-      "rsn": "woo 67",
-      "rsn_key": "woo67",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
-      "join_date": "2026-07-10",
-      "points_total": 358,
-      "points_spent": 300,
-      "points_available": 58,
-      "months_in_clan": 3,
-      "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
-        "requirements": null,
-        "missing_points": 242,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-05T16:34:15.302Z",
-          "delta": 15,
-          "reason": "Bounty: Fishing SOTW - Easy",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-08-06T05:14:54.522Z",
-          "delta": 30,
-          "reason": "Bounty: Fishing SOTW - Medium",
-          "balance": 45
-        },
-        {
-          "timestamp": "2026-08-06T20:49:58.868Z",
-          "delta": 45,
-          "reason": "Bounty: Fishing SOTW - Hard",
-          "balance": 90
-        },
-        {
-          "timestamp": "2026-08-09T23:26:59.414Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": -10
-        },
-        {
-          "timestamp": "2026-09-20T15:32:47.870Z",
-          "delta": 15,
-          "reason": "Bounty: Mad Angel BOTW - Easy",
-          "balance": 5
-        },
-        {
-          "timestamp": "2026-09-20T15:33:38.347Z",
-          "delta": 30,
-          "reason": "Bounty: Mad Angel BOTW - Medium",
-          "balance": 35
-        },
-        {
-          "timestamp": "2026-09-20T15:33:42.991Z",
-          "delta": 45,
-          "reason": "Bounty: Mad Angel BOTW - Hard",
-          "balance": 80
-        },
-        {
-          "timestamp": "2026-09-20T16:17:18.954Z",
-          "delta": 60,
-          "reason": "Bounty: Mad Angel BOTW - Elite",
-          "balance": 140
-        },
-        {
-          "timestamp": "2026-09-20T16:49:13.572Z",
-          "delta": -200,
-          "reason": "Rank upgrade: Emerald",
-          "balance": -60
-        },
-        {
-          "timestamp": "2026-11-05T00:41:20.819Z",
-          "delta": 118,
-          "reason": "Tenure points",
-          "balance": 58
         }
       ]
     },
@@ -26636,6 +26438,18 @@
           "balance": 142
         }
       ]
+    },
+    {
+      "rsn": "Zyn 9mg",
+      "rsn_key": "zyn9mg",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-11-06",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
     },
     {
       "rsn": "zyperii",
