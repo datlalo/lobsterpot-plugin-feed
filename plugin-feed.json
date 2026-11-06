@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T06:44:09.601Z",
+  "generated_at": "2026-11-06T06:47:12.359Z",
   "broadcasts": [],
   "events": [
     {
@@ -26460,12 +26460,20 @@
       "rsn_key": "zyn9mg",
       "bot_rank": "Alt",
       "progression_rank": "Alt",
-      "join_date": "2026-11-06",
-      "points_total": 0,
+      "join_date": "2026-11-02",
+      "points_total": 4,
       "points_spent": 0,
-      "points_available": 0,
+      "points_available": 4,
       "months_in_clan": 0,
-      "next_rank": null
+      "next_rank": null,
+      "points_history": [
+        {
+          "timestamp": "2026-11-06T06:44:31.046Z",
+          "delta": 4,
+          "reason": "Tenure points",
+          "balance": 4
+        }
+      ]
     },
     {
       "rsn": "zyperii",
