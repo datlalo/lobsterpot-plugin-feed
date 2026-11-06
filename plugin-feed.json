@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T06:47:12.359Z",
+  "generated_at": "2026-11-06T08:57:42.115Z",
   "broadcasts": [],
   "events": [
     {
@@ -2957,6 +2957,15 @@
           "delta": 251,
           "reason": "Tenure points",
           "balance": 116
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "79",
+          "name": "Hunter SOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-06T08:57:40.605Z"
         }
       ]
     },
