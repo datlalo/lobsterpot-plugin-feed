@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T16:15:57.769Z",
+  "generated_at": "2026-11-07T16:53:14.145Z",
   "broadcasts": [],
   "events": [
     {
@@ -12,6 +12,17 @@
       "ends_at": "2026-11-11T12:00:00.000Z",
       "description": "",
       "thread_id": "1566883934086766643"
+    },
+    {
+      "id": "165002",
+      "type": "boss_competition",
+      "title": "Zulrah Zunday",
+      "metric": "zulrah",
+      "metric_label": "Zulrah",
+      "starts_at": "2026-11-07T17:00:00.000Z",
+      "ends_at": "2026-11-09T05:00:00.000Z",
+      "thread_id": "1522561512089194536",
+      "wom_id": 165002
     },
     {
       "id": "df481a7b-93e1-458f-9d61-c4c1a56a06a4",
