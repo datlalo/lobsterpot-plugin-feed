@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T10:56:30.232Z",
+  "generated_at": "2026-11-07T11:41:28.433Z",
   "broadcasts": [],
   "events": [
     {
@@ -25365,9 +25365,9 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2025-10-17",
-      "points_total": 390,
+      "points_total": 486,
       "points_spent": 0,
-      "points_available": 390,
+      "points_available": 486,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Emerald",
@@ -25380,10 +25380,10 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-08-03T00:17:17.639Z",
-          "delta": 290,
+          "timestamp": "2026-11-07T11:41:25.116Z",
+          "delta": 386,
           "reason": "Tenure points",
-          "balance": 390
+          "balance": 486
         }
       ]
     },
