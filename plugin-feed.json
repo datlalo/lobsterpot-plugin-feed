@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T00:41:27.134Z",
+  "generated_at": "2026-11-07T03:08:13.069Z",
   "broadcasts": [],
   "events": [
     {
@@ -19116,6 +19116,15 @@
           "delta": 241,
           "reason": "Tenure points",
           "balance": 346
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "82",
+          "name": "Hunter SOTW - Elite",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-07T03:08:11.556Z"
         }
       ]
     },
