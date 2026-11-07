@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T22:43:45.305Z",
+  "generated_at": "2026-11-07T23:06:37.254Z",
   "broadcasts": [],
   "events": [
     {
@@ -97,7 +97,7 @@
       "points_total": 740,
       "points_spent": 300,
       "points_available": 440,
-      "months_in_clan": 13,
+      "months_in_clan": 14,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -2357,7 +2357,7 @@
       "points_total": 60,
       "points_spent": 0,
       "points_available": 60,
-      "months_in_clan": 1,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -2799,7 +2799,7 @@
       "points_total": 197,
       "points_spent": 100,
       "points_available": 97,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -6308,7 +6308,7 @@
       "points_total": 197,
       "points_spent": 100,
       "points_available": 97,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -7768,7 +7768,7 @@
       "points_total": 373,
       "points_spent": 300,
       "points_available": 73,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -9633,7 +9633,7 @@
       "points_total": 309,
       "points_spent": 200,
       "points_available": 109,
-      "months_in_clan": 7,
+      "months_in_clan": 8,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -9829,14 +9829,14 @@
       "points_total": 1548,
       "points_spent": 1520,
       "points_available": 28,
-      "months_in_clan": 9,
+      "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
         "missing_points": 772,
-        "missing_months": 3,
+        "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
@@ -14499,7 +14499,7 @@
       "points_total": 425,
       "points_spent": 0,
       "points_available": 425,
-      "months_in_clan": 13,
+      "months_in_clan": 14,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -15337,6 +15337,15 @@
           "delta": 428,
           "reason": "Tenure points",
           "balance": 963
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "82",
+          "name": "Hunter SOTW - Elite",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-07T23:06:35.740Z"
         }
       ]
     },
@@ -21176,7 +21185,7 @@
       "points_total": 122,
       "points_spent": 0,
       "points_available": 122,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -21646,7 +21655,7 @@
       "points_total": 277,
       "points_spent": 0,
       "points_available": 277,
-      "months_in_clan": 8,
+      "months_in_clan": 9,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -23651,7 +23660,7 @@
       "points_total": 509,
       "points_spent": 300,
       "points_available": 209,
-      "months_in_clan": 7,
+      "months_in_clan": 8,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -24087,7 +24096,7 @@
       "points_total": 263,
       "points_spent": 0,
       "points_available": 263,
-      "months_in_clan": 6,
+      "months_in_clan": 7,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -24121,7 +24130,7 @@
       "points_total": 309,
       "points_spent": 200,
       "points_available": 109,
-      "months_in_clan": 7,
+      "months_in_clan": 8,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -26178,7 +26187,7 @@
       "points_total": 167,
       "points_spent": 0,
       "points_available": 167,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
