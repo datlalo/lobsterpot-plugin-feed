@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T22:17:12.263Z",
+  "generated_at": "2026-11-07T22:20:15.029Z",
   "broadcasts": [],
   "events": [
     {
@@ -11856,6 +11856,15 @@
           "delta": 7,
           "reason": "Tenure points",
           "balance": 32
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "80",
+          "name": "Hunter SOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-07T22:19:12.995Z"
         }
       ]
     },
