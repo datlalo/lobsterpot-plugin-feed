@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T17:03:16.427Z",
+  "generated_at": "2026-11-07T17:46:14.977Z",
   "broadcasts": [],
   "events": [
     {
@@ -7622,6 +7622,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-11-04T17:19:44.426Z"
+        },
+        {
+          "bounty_id": "81",
+          "name": "Hunter SOTW - Hard",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-07T17:46:13.466Z"
         }
       ]
     },
