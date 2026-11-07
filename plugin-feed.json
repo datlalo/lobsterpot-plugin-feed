@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T20:45:07.775Z",
+  "generated_at": "2026-11-07T20:56:30.536Z",
   "broadcasts": [],
   "events": [
     {
@@ -6407,6 +6407,26 @@
           "balance": 6
         }
       ]
+    },
+    {
+      "rsn": "dravite",
+      "rsn_key": "dravite",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-11-07",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 200,
+        "missing_months": 2,
+        "can_claim": false
+      }
     },
     {
       "rsn": "drbees69",
@@ -17516,46 +17536,6 @@
           "delta": 7,
           "reason": "Tenure points",
           "balance": 7
-        }
-      ]
-    },
-    {
-      "rsn": "oops sry",
-      "rsn_key": "oopssry",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2026-07-27",
-      "points_total": 108,
-      "points_spent": 100,
-      "points_available": 8,
-      "months_in_clan": 3,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 192,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-12T14:05:40.653Z",
-          "delta": 5,
-          "reason": "50 KC Amoxliatl Sunday",
-          "balance": 5
-        },
-        {
-          "timestamp": "2026-11-07T20:42:15.846Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": -95
-        },
-        {
-          "timestamp": "2026-11-07T00:41:23.754Z",
-          "delta": 103,
-          "reason": "Tenure points",
-          "balance": 8
         }
       ]
     },
