@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T17:46:14.977Z",
+  "generated_at": "2026-11-07T18:41:30.666Z",
   "broadcasts": [],
   "events": [
     {
@@ -19557,6 +19557,26 @@
       ]
     },
     {
+      "rsn": "remiixer",
+      "rsn_key": "remiixer",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-11-07",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "remil200z",
       "rsn_key": "remil200z",
       "bot_rank": "Emerald",
@@ -26480,6 +26500,26 @@
           "balance": 172
         }
       ]
+    },
+    {
+      "rsn": "xaemte",
+      "rsn_key": "xaemte",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-11-07",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "Xaoirsee",
