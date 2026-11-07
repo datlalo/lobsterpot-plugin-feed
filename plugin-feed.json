@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T22:14:09.869Z",
+  "generated_at": "2026-11-07T22:17:12.263Z",
   "broadcasts": [],
   "events": [
     {
@@ -4166,9 +4166,9 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-20 22:12:14.780985+00",
-      "points_total": 1617,
+      "points_total": 1627,
       "points_spent": 1000,
-      "points_available": 617,
+      "points_available": 627,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Dragonstone",
@@ -4180,12 +4180,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-09-15T02:44:10.684Z",
-          "delta": 10,
-          "reason": "Held 1 tile",
-          "balance": 75
-        },
         {
           "timestamp": "2026-09-17T03:49:52.942Z",
           "delta": 15,
@@ -4331,10 +4325,16 @@
           "balance": 385
         },
         {
+          "timestamp": "2026-11-07T22:14:41.249Z",
+          "delta": 10,
+          "reason": "Herbi Hidden Bingo 1 tile",
+          "balance": 395
+        },
+        {
           "timestamp": "2026-11-07T00:41:23.754Z",
           "delta": 232,
           "reason": "Tenure points",
-          "balance": 617
+          "balance": 627
         }
       ],
       "pending_bounties": [
@@ -8419,26 +8419,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-02",
-      "points_total": 1989,
+      "points_total": 2019,
       "points_spent": 1400,
-      "points_available": 589,
+      "points_available": 619,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 211,
+        "missing_points": 181,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-24T19:58:00.869Z",
-          "delta": 15,
-          "reason": "Bounty: Slayer BOTM Easy Bounty",
-          "balance": 115
-        },
         {
           "timestamp": "2026-06-28T13:35:59.323Z",
           "delta": 60,
@@ -8584,10 +8578,16 @@
           "balance": 219
         },
         {
+          "timestamp": "2026-11-07T22:16:59.746Z",
+          "delta": 30,
+          "reason": "Herbi Hidden Bingo 3 tiles",
+          "balance": 249
+        },
+        {
           "timestamp": "2026-11-07T00:41:23.754Z",
           "delta": 370,
           "reason": "Tenure points",
-          "balance": 589
+          "balance": 619
         }
       ],
       "pending_bounties": [
@@ -11567,16 +11567,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-03-18",
-      "points_total": 769,
+      "points_total": 809,
       "points_spent": 600,
-      "points_available": 169,
+      "points_available": 209,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 231,
+        "missing_points": 191,
         "missing_months": 0,
         "can_claim": false
       },
@@ -11696,10 +11696,16 @@
           "balance": -65
         },
         {
+          "timestamp": "2026-11-07T22:16:25.930Z",
+          "delta": 40,
+          "reason": "Herbi Hidden Bingo 4 tiles",
+          "balance": -25
+        },
+        {
           "timestamp": "2026-11-07T00:41:23.754Z",
           "delta": 234,
           "reason": "Tenure points",
-          "balance": 169
+          "balance": 209
         }
       ]
     },
@@ -11819,16 +11825,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-10-31",
-      "points_total": 22,
+      "points_total": 32,
       "points_spent": 0,
-      "points_available": 22,
+      "points_available": 32,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 78,
+        "missing_points": 68,
         "missing_months": 1,
         "can_claim": false
       },
@@ -11840,10 +11846,16 @@
           "balance": 15
         },
         {
+          "timestamp": "2026-11-07T22:15:53.284Z",
+          "delta": 10,
+          "reason": "Herbi Hidden Bingo 1 tile",
+          "balance": 25
+        },
+        {
           "timestamp": "2026-11-07T00:41:23.754Z",
           "delta": 7,
           "reason": "Tenure points",
-          "balance": 22
+          "balance": 32
         }
       ]
     },
@@ -15810,26 +15822,20 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-04-11",
-      "points_total": 830,
+      "points_total": 840,
       "points_spent": 600,
-      "points_available": 230,
+      "points_available": 240,
       "months_in_clan": 6,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": "Fire Cape",
-        "missing_points": 170,
+        "missing_points": 160,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-14T19:59:40.878Z",
-          "delta": 5,
-          "reason": "Discord adjustment",
-          "balance": 5
-        },
         {
           "timestamp": "2026-04-18T22:17:14.322Z",
           "delta": 5,
@@ -15975,10 +15981,16 @@
           "balance": 20
         },
         {
+          "timestamp": "2026-11-07T22:15:12.859Z",
+          "delta": 10,
+          "reason": "Herbi Hidden Bingo 1 tile",
+          "balance": 30
+        },
+        {
           "timestamp": "2026-11-07T00:41:23.754Z",
           "delta": 210,
           "reason": "Tenure points",
-          "balance": 230
+          "balance": 240
         }
       ]
     },
@@ -24849,26 +24861,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-02",
-      "points_total": 1989,
+      "points_total": 2019,
       "points_spent": 1400,
-      "points_available": 589,
+      "points_available": 619,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 211,
+        "missing_points": 181,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-24T19:58:00.869Z",
-          "delta": 15,
-          "reason": "Bounty: Slayer BOTM Easy Bounty",
-          "balance": 115
-        },
         {
           "timestamp": "2026-06-28T13:35:59.323Z",
           "delta": 60,
@@ -25014,10 +25020,16 @@
           "balance": 219
         },
         {
+          "timestamp": "2026-11-07T22:16:59.746Z",
+          "delta": 30,
+          "reason": "Herbi Hidden Bingo 3 tiles",
+          "balance": 249
+        },
+        {
           "timestamp": "2026-11-07T00:41:23.754Z",
           "delta": 370,
           "reason": "Tenure points",
-          "balance": 589
+          "balance": 619
         }
       ],
       "pending_bounties": [
