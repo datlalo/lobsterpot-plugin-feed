@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T18:39:46.111Z",
+  "generated_at": "2026-11-08T18:42:49.132Z",
   "broadcasts": [],
   "events": [
     {
@@ -4455,16 +4455,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-09-22",
-      "points_total": 137,
+      "points_total": 167,
       "points_spent": 100,
-      "points_available": 37,
+      "points_available": 67,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 163,
+        "missing_points": 133,
         "missing_months": 1,
         "can_claim": false
       },
@@ -4494,17 +4494,23 @@
           "balance": -10
         },
         {
+          "timestamp": "2026-11-08T18:42:24.498Z",
+          "delta": 30,
+          "reason": "Bounty: Hunter SOTW - Medium",
+          "balance": 20
+        },
+        {
           "timestamp": "2026-11-08T00:41:25.207Z",
           "delta": 47,
           "reason": "Tenure points",
-          "balance": 37
+          "balance": 67
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "80",
           "name": "Hunter SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-08T18:33:49.894Z"
         }
@@ -5075,26 +5081,21 @@
     {
       "rsn": "chef ed up",
       "rsn_key": "chefedup",
-      "bot_rank": "Ruby",
-      "progression_rank": "Ruby",
+      "bot_rank": "Diamond",
+      "progression_rank": "Diamond",
       "join_date": "2025-09-09",
       "points_total": 713,
-      "points_spent": 300,
-      "points_available": 413,
+      "points_spent": 700,
+      "points_available": 13,
       "months_in_clan": 13,
       "next_rank": {
-        "name": "Diamond",
-        "point_cost": 400,
-        "min_months": 5,
-        "requirements": "Fire Cape",
-        "missing_points": 0,
+        "name": "Dragonstone",
+        "point_cost": 500,
+        "min_months": 8,
+        "requirements": "Barrows Gloves",
+        "missing_points": 487,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Diamond",
-        "created_at": "2026-11-08T18:39:43.705Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -5116,10 +5117,16 @@
           "balance": -12
         },
         {
+          "timestamp": "2026-11-08T18:41:56.377Z",
+          "delta": -400,
+          "reason": "Rank upgrade: Diamond",
+          "balance": -412
+        },
+        {
           "timestamp": "2026-11-08T00:41:25.207Z",
           "delta": 425,
           "reason": "Tenure points",
-          "balance": 413
+          "balance": 13
         }
       ]
     },
