@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T13:47:34.964Z",
+  "generated_at": "2026-11-08T13:50:37.896Z",
   "broadcasts": [],
   "events": [
     {
@@ -8624,6 +8624,20 @@
           "status": "pending",
           "reason": null,
           "created_at": "2026-11-08T13:47:33.443Z"
+        },
+        {
+          "bounty_id": "79",
+          "name": "Hunter SOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-08T13:47:45.967Z"
+        },
+        {
+          "bounty_id": "80",
+          "name": "Hunter SOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-08T13:47:55.083Z"
         }
       ]
     },
@@ -25175,6 +25189,20 @@
           "status": "pending",
           "reason": null,
           "created_at": "2026-11-08T13:47:33.443Z"
+        },
+        {
+          "bounty_id": "79",
+          "name": "Hunter SOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-08T13:47:45.967Z"
+        },
+        {
+          "bounty_id": "80",
+          "name": "Hunter SOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-08T13:47:55.083Z"
         }
       ]
     },
