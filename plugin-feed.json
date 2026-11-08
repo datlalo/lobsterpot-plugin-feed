@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T23:11:02.288Z",
+  "generated_at": "2026-11-08T00:36:06.088Z",
   "broadcasts": [],
   "events": [
     {
@@ -8419,26 +8419,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-02",
-      "points_total": 2019,
+      "points_total": 2079,
       "points_spent": 1400,
-      "points_available": 619,
+      "points_available": 679,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 181,
+        "missing_points": 121,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-28T13:35:59.323Z",
-          "delta": 60,
-          "reason": "Bounty: Slayer BOTM Elite Bounty",
-          "balance": 175
-        },
         {
           "timestamp": "2026-07-03T05:52:26.148Z",
           "delta": 204,
@@ -8584,17 +8578,23 @@
           "balance": 249
         },
         {
+          "timestamp": "2026-11-08T00:36:04.581Z",
+          "delta": 60,
+          "reason": "Bounty: Hunter SOTW - Elite",
+          "balance": 309
+        },
+        {
           "timestamp": "2026-11-07T00:41:23.754Z",
           "delta": 370,
           "reason": "Tenure points",
-          "balance": 619
+          "balance": 679
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "82",
           "name": "Hunter SOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-07T12:09:53.944Z"
         }
@@ -24897,26 +24897,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-11-02",
-      "points_total": 2019,
+      "points_total": 2079,
       "points_spent": 1400,
-      "points_available": 619,
+      "points_available": 679,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 181,
+        "missing_points": 121,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-28T13:35:59.323Z",
-          "delta": 60,
-          "reason": "Bounty: Slayer BOTM Elite Bounty",
-          "balance": 175
-        },
         {
           "timestamp": "2026-07-03T05:52:26.148Z",
           "delta": 204,
@@ -25062,17 +25056,23 @@
           "balance": 249
         },
         {
+          "timestamp": "2026-11-08T00:36:04.581Z",
+          "delta": 60,
+          "reason": "Bounty: Hunter SOTW - Elite",
+          "balance": 309
+        },
+        {
           "timestamp": "2026-11-07T00:41:23.754Z",
           "delta": 370,
           "reason": "Tenure points",
-          "balance": 619
+          "balance": 679
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "82",
           "name": "Hunter SOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-07T12:09:53.944Z"
         }
