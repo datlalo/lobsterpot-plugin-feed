@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T11:35:03.364Z",
+  "generated_at": "2026-11-09T15:44:00.089Z",
   "broadcasts": [],
   "events": [
     {
@@ -4538,6 +4538,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-11-08T18:33:49.894Z"
+        },
+        {
+          "bounty_id": "79",
+          "name": "Hunter SOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-09T15:43:58.572Z"
         }
       ]
     },
