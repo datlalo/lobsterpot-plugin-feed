@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T18:50:59.637Z",
+  "generated_at": "2026-11-09T21:01:59.111Z",
   "broadcasts": [],
   "events": [
     {
@@ -5452,6 +5452,26 @@
       ]
     },
     {
+      "rsn": "coolguy69",
+      "rsn_key": "coolguy69",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-11-09",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "corvusim",
       "rsn_key": "corvusim",
       "bot_rank": "Gnome",
@@ -10028,6 +10048,26 @@
           "balance": 135
         }
       ]
+    },
+    {
+      "rsn": "grace based",
+      "rsn_key": "gracebased",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-11-09",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "Grey Farms",
@@ -19701,110 +19741,6 @@
           "delta": 256,
           "reason": "Tenure points",
           "balance": 301
-        }
-      ]
-    },
-    {
-      "rsn": "RanchRS",
-      "rsn_key": "ranchrs",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-10-09",
-      "points_total": 331,
-      "points_spent": 0,
-      "points_available": 331,
-      "months_in_clan": 1,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-10-11T04:49:01.358Z",
-          "delta": 45,
-          "reason": "Bounty: Dagannoth Kings BOTW - Hard",
-          "balance": 45
-        },
-        {
-          "timestamp": "2026-10-13T02:23:27.487Z",
-          "delta": 15,
-          "reason": "Bounty: Dagannoth Kings BOTW - Easy",
-          "balance": 60
-        },
-        {
-          "timestamp": "2026-10-20T07:34:20.188Z",
-          "delta": 30,
-          "reason": "Recruit",
-          "balance": 90
-        },
-        {
-          "timestamp": "2026-10-22T13:54:49.381Z",
-          "delta": 60,
-          "reason": "Bounty: Cooking SOTW - Elite",
-          "balance": 150
-        },
-        {
-          "timestamp": "2026-10-22T13:54:50.589Z",
-          "delta": 45,
-          "reason": "Bounty: Cooking SOTW - Hard",
-          "balance": 195
-        },
-        {
-          "timestamp": "2026-10-22T13:54:51.651Z",
-          "delta": 30,
-          "reason": "Bounty: Cooking SOTW - Medium",
-          "balance": 225
-        },
-        {
-          "timestamp": "2026-10-22T13:54:52.494Z",
-          "delta": 15,
-          "reason": "Bounty: Cooking SOTW - Easy",
-          "balance": 240
-        },
-        {
-          "timestamp": "2026-11-03T08:16:07.480Z",
-          "delta": 15,
-          "reason": "Cooking SOTW - 4th to 6th place",
-          "balance": 255
-        },
-        {
-          "timestamp": "2026-11-08T00:36:54.556Z",
-          "delta": 15,
-          "reason": "Bounty: Hunter SOTW - Easy",
-          "balance": 270
-        },
-        {
-          "timestamp": "2026-11-08T00:41:04.926Z",
-          "delta": 30,
-          "reason": "Bounty: Hunter SOTW - Medium",
-          "balance": 300
-        },
-        {
-          "timestamp": "2026-11-09T00:41:26.720Z",
-          "delta": 31,
-          "reason": "Tenure points",
-          "balance": 331
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "79",
-          "name": "Hunter SOTW - Easy",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-11-07T15:25:22.061Z"
-        },
-        {
-          "bounty_id": "80",
-          "name": "Hunter SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-11-07T15:29:33.987Z"
         }
       ]
     },
