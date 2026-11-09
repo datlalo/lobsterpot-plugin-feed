@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T15:44:00.089Z",
+  "generated_at": "2026-11-09T17:50:01.596Z",
   "broadcasts": [],
   "events": [
     {
@@ -91,7 +91,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
@@ -553,7 +553,7 @@
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
-        "requirements": "Trimmed QC, 2000 Total, or Elite CA",
+        "requirements": null,
         "missing_points": 0,
         "missing_months": 3,
         "can_claim": false
@@ -723,6 +723,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-11-07T07:11:57.962Z"
+        },
+        {
+          "bounty_id": "80",
+          "name": "Hunter SOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-09T17:50:00.087Z"
         }
       ]
     },
@@ -824,7 +831,7 @@
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
-        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "requirements": null,
         "missing_points": 285,
         "missing_months": 1,
         "can_claim": false
@@ -1624,7 +1631,7 @@
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
-        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "requirements": null,
         "missing_points": 595,
         "missing_months": 2,
         "can_claim": false
@@ -1811,7 +1818,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
@@ -1863,7 +1870,7 @@
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
-        "requirements": "Barrows Gloves",
+        "requirements": null,
         "missing_points": 304,
         "missing_months": 0,
         "can_claim": false
@@ -2041,7 +2048,7 @@
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
-        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "requirements": null,
         "missing_points": 513,
         "missing_months": 3,
         "can_claim": false
@@ -2583,7 +2590,7 @@
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
-        "requirements": "Barrows Gloves",
+        "requirements": null,
         "missing_points": 66,
         "missing_months": 0,
         "can_claim": false
@@ -2908,7 +2915,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 251,
         "missing_months": 0,
         "can_claim": false
@@ -3159,7 +3166,7 @@
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
-        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "requirements": null,
         "missing_points": 63,
         "missing_months": 0,
         "can_claim": false
@@ -3419,7 +3426,7 @@
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
-        "requirements": "Barrows Gloves",
+        "requirements": null,
         "missing_points": 399,
         "missing_months": 0,
         "can_claim": false
@@ -4069,7 +4076,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 152,
         "missing_months": 0,
         "can_claim": false
@@ -4229,7 +4236,7 @@
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
-        "requirements": "Barrows Gloves",
+        "requirements": null,
         "missing_points": 0,
         "missing_months": 1,
         "can_claim": false
@@ -4596,7 +4603,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
@@ -5124,7 +5131,7 @@
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
-        "requirements": "Barrows Gloves",
+        "requirements": null,
         "missing_points": 486,
         "missing_months": 0,
         "can_claim": false
@@ -5856,7 +5863,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 137,
         "missing_months": 0,
         "can_claim": false
@@ -6569,7 +6576,7 @@
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
-        "requirements": "Barrows Gloves",
+        "requirements": null,
         "missing_points": 339,
         "missing_months": 0,
         "can_claim": false
@@ -6711,7 +6718,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 217,
         "missing_months": 0,
         "can_claim": false
@@ -6863,7 +6870,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 292,
         "missing_months": 0,
         "can_claim": false
@@ -7035,7 +7042,7 @@
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
-        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "requirements": null,
         "missing_points": 437,
         "missing_months": 4,
         "can_claim": false
@@ -7599,7 +7606,7 @@
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
-        "requirements": "Barrows Gloves",
+        "requirements": null,
         "missing_points": 0,
         "missing_months": 3,
         "can_claim": false
@@ -8146,7 +8153,7 @@
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
-        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "requirements": null,
         "missing_points": 496,
         "missing_months": 0,
         "can_claim": false
@@ -8324,7 +8331,7 @@
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
-        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "requirements": null,
         "missing_points": 496,
         "missing_months": 0,
         "can_claim": false
@@ -8558,7 +8565,7 @@
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
-        "requirements": "Trimmed QC, 2000 Total, or Elite CA",
+        "requirements": null,
         "missing_points": 999,
         "missing_months": 4,
         "can_claim": false
@@ -8766,7 +8773,7 @@
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
-        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "requirements": null,
         "missing_points": 239,
         "missing_months": 0,
         "can_claim": false
@@ -9108,7 +9115,7 @@
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
-        "requirements": "Barrows Gloves",
+        "requirements": null,
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
@@ -9192,7 +9199,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
@@ -9336,7 +9343,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 95,
         "missing_months": 0,
         "can_claim": false
@@ -10014,7 +10021,7 @@
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
-        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "requirements": null,
         "missing_points": 770,
         "missing_months": 2,
         "can_claim": false
@@ -10379,7 +10386,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 82,
         "missing_months": 0,
         "can_claim": false
@@ -10566,7 +10573,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 382,
         "missing_months": 0,
         "can_claim": false
@@ -10716,7 +10723,7 @@
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
-        "requirements": "Trimmed QC, 2000 Total, or Elite CA",
+        "requirements": null,
         "missing_points": 823,
         "missing_months": 2,
         "can_claim": false
@@ -10966,7 +10973,7 @@
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
-        "requirements": "Barrows Gloves",
+        "requirements": null,
         "missing_points": 0,
         "missing_months": 1,
         "can_claim": false
@@ -11240,7 +11247,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 121,
         "missing_months": 0,
         "can_claim": false
@@ -11384,7 +11391,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 235,
         "missing_months": 0,
         "can_claim": false
@@ -11590,7 +11597,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 345,
         "missing_months": 1,
         "can_claim": false
@@ -11762,7 +11769,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 129,
         "missing_months": 0,
         "can_claim": false
@@ -13171,7 +13178,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 173,
         "missing_months": 0,
         "can_claim": false
@@ -13545,7 +13552,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 308,
         "missing_months": 0,
         "can_claim": false
@@ -13665,7 +13672,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
@@ -13811,7 +13818,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 255,
         "missing_months": 0,
         "can_claim": false
@@ -13873,7 +13880,7 @@
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
-        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "requirements": null,
         "missing_points": 285,
         "missing_months": 1,
         "can_claim": false
@@ -14085,7 +14092,7 @@
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
-        "requirements": "Barrows Gloves",
+        "requirements": null,
         "missing_points": 142,
         "missing_months": 0,
         "can_claim": false
@@ -14353,7 +14360,7 @@
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
-        "requirements": "Barrows Gloves",
+        "requirements": null,
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
@@ -14555,7 +14562,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 290,
         "missing_months": 1,
         "can_claim": false
@@ -14731,7 +14738,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 258,
         "missing_months": 0,
         "can_claim": false
@@ -15139,7 +15146,7 @@
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
-        "requirements": "Barrows Gloves",
+        "requirements": null,
         "missing_points": 391,
         "missing_months": 0,
         "can_claim": false
@@ -15257,7 +15264,7 @@
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
-        "requirements": "Barrows Gloves",
+        "requirements": null,
         "missing_points": 459,
         "missing_months": 0,
         "can_claim": false
@@ -15375,7 +15382,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
@@ -16079,7 +16086,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 113,
         "missing_months": 0,
         "can_claim": false
@@ -16329,7 +16336,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 271,
         "missing_months": 0,
         "can_claim": false
@@ -16466,7 +16473,7 @@
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
-        "requirements": "Barrows Gloves",
+        "requirements": null,
         "missing_points": 391,
         "missing_months": 0,
         "can_claim": false
@@ -16584,7 +16591,7 @@
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
-        "requirements": "Barrows Gloves",
+        "requirements": null,
         "missing_points": 443,
         "missing_months": 2,
         "can_claim": false
@@ -16762,7 +16769,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
@@ -17022,7 +17029,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 155,
         "missing_months": 0,
         "can_claim": false
@@ -18040,7 +18047,7 @@
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
-        "requirements": "Trimmed QC, 2000 Total, or Elite CA",
+        "requirements": null,
         "missing_points": 412,
         "missing_months": 3,
         "can_claim": false
@@ -18317,7 +18324,7 @@
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
-        "requirements": "Trimmed QC, 2000 Total, or Elite CA",
+        "requirements": null,
         "missing_points": 0,
         "missing_months": 3,
         "can_claim": false
@@ -18487,6 +18494,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-11-07T07:11:57.962Z"
+        },
+        {
+          "bounty_id": "80",
+          "name": "Hunter SOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-09T17:50:00.087Z"
         }
       ]
     },
@@ -18646,7 +18660,7 @@
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
-        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "requirements": null,
         "missing_points": 581,
         "missing_months": 3,
         "can_claim": false
@@ -18977,7 +18991,7 @@
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
-        "requirements": "Trimmed QC, 2000 Total, or Elite CA",
+        "requirements": null,
         "missing_points": 902,
         "missing_months": 3,
         "can_claim": false
@@ -19332,7 +19346,7 @@
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
-        "requirements": "Barrows Gloves",
+        "requirements": null,
         "missing_points": 47,
         "missing_months": 1,
         "can_claim": false
@@ -20059,7 +20073,7 @@
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
-        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "requirements": null,
         "missing_points": 745,
         "missing_months": 0,
         "can_claim": false
@@ -20476,7 +20490,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
@@ -20840,7 +20854,7 @@
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
-        "requirements": "Trimmed QC, 2000 Total, or Elite CA",
+        "requirements": null,
         "missing_points": 387,
         "missing_months": 4,
         "can_claim": false
@@ -21238,7 +21252,7 @@
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
-        "requirements": "Barrows Gloves",
+        "requirements": null,
         "missing_points": 120,
         "missing_months": 0,
         "can_claim": false
@@ -21964,7 +21978,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
@@ -22542,7 +22556,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 85,
         "missing_months": 0,
         "can_claim": false
@@ -22738,7 +22752,7 @@
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
-        "requirements": "Quest Cape, 1800 Total, or Hard CA",
+        "requirements": null,
         "missing_points": 277,
         "missing_months": 0,
         "can_claim": false
@@ -22986,7 +23000,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 152,
         "missing_months": 0,
         "can_claim": false
@@ -23214,7 +23228,7 @@
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
-        "requirements": "Barrows Gloves",
+        "requirements": null,
         "missing_points": 346,
         "missing_months": 2,
         "can_claim": false
@@ -23432,7 +23446,7 @@
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
-        "requirements": "Barrows Gloves",
+        "requirements": null,
         "missing_points": 0,
         "missing_months": 1,
         "can_claim": false
@@ -23654,7 +23668,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 384,
         "missing_months": 0,
         "can_claim": false
@@ -23770,7 +23784,7 @@
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
-        "requirements": "Trimmed QC, 2000 Total, or Elite CA",
+        "requirements": null,
         "missing_points": 902,
         "missing_months": 3,
         "can_claim": false
@@ -24057,7 +24071,7 @@
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
-        "requirements": "Trimmed QC, 2000 Total, or Elite CA",
+        "requirements": null,
         "missing_points": 823,
         "missing_months": 2,
         "can_claim": false
@@ -25078,7 +25092,7 @@
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
-        "requirements": "Barrows Gloves",
+        "requirements": null,
         "missing_points": 351,
         "missing_months": 0,
         "can_claim": false
@@ -25200,7 +25214,7 @@
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
-        "requirements": "Trimmed QC, 2000 Total, or Elite CA",
+        "requirements": null,
         "missing_points": 999,
         "missing_months": 4,
         "can_claim": false
@@ -25408,7 +25422,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 82,
         "missing_months": 0,
         "can_claim": false
@@ -26049,7 +26063,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 17,
         "missing_months": 0,
         "can_claim": false
@@ -26359,7 +26373,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
@@ -26781,7 +26795,7 @@
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
-        "requirements": "Fire Cape",
+        "requirements": null,
         "missing_points": 226,
         "missing_months": 0,
         "can_claim": false
