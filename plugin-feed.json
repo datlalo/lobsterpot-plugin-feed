@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T07:07:26.799Z",
+  "generated_at": "2026-11-09T07:10:29.169Z",
   "broadcasts": [],
   "events": [
     {
@@ -8751,26 +8751,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-08-25",
-      "points_total": 1781,
+      "points_total": 1761,
       "points_spent": 1200,
-      "points_available": 581,
+      "points_available": 561,
       "months_in_clan": 14,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 219,
+        "missing_points": 239,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-14T20:04:05.434Z",
-          "delta": 15,
-          "reason": "Discord adjustment",
-          "balance": 710
-        },
         {
           "timestamp": "2026-04-29T06:16:50.278Z",
           "delta": -300,
@@ -8916,10 +8910,16 @@
           "balance": 140
         },
         {
+          "timestamp": "2026-11-09T07:09:42.250Z",
+          "delta": -20,
+          "reason": "Bot gave up points by mistake",
+          "balance": 120
+        },
+        {
           "timestamp": "2026-11-09T00:41:26.720Z",
           "delta": 441,
           "reason": "Tenure points",
-          "balance": 581
+          "balance": 561
         }
       ]
     },
@@ -24970,16 +24970,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-11-02",
-      "points_total": 37,
+      "points_total": 7,
       "points_spent": 0,
-      "points_available": 37,
+      "points_available": 7,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 63,
+        "missing_points": 93,
         "missing_months": 1,
         "can_claim": false
       },
@@ -24991,10 +24991,16 @@
           "balance": 30
         },
         {
+          "timestamp": "2026-11-09T07:08:39.502Z",
+          "delta": -30,
+          "reason": "Bot gave out points by mistake",
+          "balance": 0
+        },
+        {
           "timestamp": "2026-11-09T00:41:26.720Z",
           "delta": 7,
           "reason": "Tenure points",
-          "balance": 37
+          "balance": 7
         }
       ]
     },
