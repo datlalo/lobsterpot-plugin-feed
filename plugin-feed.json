@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T23:16:58.287Z",
+  "generated_at": "2026-11-09T23:46:58.203Z",
   "broadcasts": [],
   "events": [
     {
@@ -5722,6 +5722,200 @@
       ]
     },
     {
+      "rsn": "CupNoodles",
+      "rsn_key": "cupnoodles",
+      "bot_rank": "Diamond",
+      "progression_rank": "Diamond",
+      "join_date": "2026-03-16",
+      "points_total": 1768,
+      "points_spent": 1000,
+      "points_available": 768,
+      "months_in_clan": 7,
+      "next_rank": {
+        "name": "Dragonstone",
+        "point_cost": 500,
+        "min_months": 8,
+        "requirements": null,
+        "missing_points": 0,
+        "missing_months": 1,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-09-06T15:15:31.714Z",
+          "delta": 10,
+          "reason": "100kc sarachnis sunday",
+          "balance": 220
+        },
+        {
+          "timestamp": "2026-09-12T18:09:08.197Z",
+          "delta": -400,
+          "reason": "Rank upgrade: Diamond",
+          "balance": -180
+        },
+        {
+          "timestamp": "2026-09-14T23:56:10.137Z",
+          "delta": 50,
+          "reason": "Saradomin Mid rng",
+          "balance": -130
+        },
+        {
+          "timestamp": "2026-09-15T02:44:10.682Z",
+          "delta": 10,
+          "reason": "Held 1 tile",
+          "balance": -120
+        },
+        {
+          "timestamp": "2026-09-15T02:44:48.472Z",
+          "delta": 10,
+          "reason": "Held 2 tiles",
+          "balance": -110
+        },
+        {
+          "timestamp": "2026-09-15T02:45:18.058Z",
+          "delta": 10,
+          "reason": "Held 3 tiles",
+          "balance": -100
+        },
+        {
+          "timestamp": "2026-09-17T12:34:16.593Z",
+          "delta": 45,
+          "reason": "Bounty: Mad Angel BOTW - Hard",
+          "balance": -55
+        },
+        {
+          "timestamp": "2026-09-18T07:37:43.226Z",
+          "delta": 15,
+          "reason": "Bounty: Mad Angel BOTW - Easy",
+          "balance": -40
+        },
+        {
+          "timestamp": "2026-09-18T07:37:45.522Z",
+          "delta": 30,
+          "reason": "Bounty: Mad Angel BOTW - Medium",
+          "balance": -10
+        },
+        {
+          "timestamp": "2026-10-08T06:04:27.508Z",
+          "delta": 45,
+          "reason": "Bounty: Dagannoth Kings BOTW - Hard",
+          "balance": 35
+        },
+        {
+          "timestamp": "2026-10-08T06:04:39.535Z",
+          "delta": 15,
+          "reason": "Bounty: Dagannoth Kings BOTW - Easy",
+          "balance": 50
+        },
+        {
+          "timestamp": "2026-10-08T06:04:42.544Z",
+          "delta": 30,
+          "reason": "Bounty: Dagannoth Kings BOTW - Medium",
+          "balance": 80
+        },
+        {
+          "timestamp": "2026-10-10T17:16:02.544Z",
+          "delta": 60,
+          "reason": "Bounty: Dagannoth Kings BOTW - Elite",
+          "balance": 140
+        },
+        {
+          "timestamp": "2026-10-10T20:35:25.562Z",
+          "delta": 15,
+          "reason": "Halloween Fashionscape participation",
+          "balance": 155
+        },
+        {
+          "timestamp": "2026-10-12T13:59:53.221Z",
+          "delta": 15,
+          "reason": "Mad Angel BOTW - 4th to 6th place",
+          "balance": 170
+        },
+        {
+          "timestamp": "2026-10-12T14:11:06.593Z",
+          "delta": 25,
+          "reason": "250kc Amoxliatl Sunday",
+          "balance": 195
+        },
+        {
+          "timestamp": "2026-10-15T08:57:41.043Z",
+          "delta": 60,
+          "reason": "Dag Kings BOTW - 1st Place",
+          "balance": 255
+        },
+        {
+          "timestamp": "2026-10-18T04:27:25.525Z",
+          "delta": 20,
+          "reason": "Bounty: Barrows Double Equipment",
+          "balance": 275
+        },
+        {
+          "timestamp": "2026-10-19T17:19:26.526Z",
+          "delta": 15,
+          "reason": "Participation in the Barrows Rush Mass",
+          "balance": 290
+        },
+        {
+          "timestamp": "2026-10-25T00:35:52.035Z",
+          "delta": 45,
+          "reason": "Bounty: Cooking SOTW - Hard",
+          "balance": 335
+        },
+        {
+          "timestamp": "2026-10-25T00:38:58.528Z",
+          "delta": 30,
+          "reason": "Bounty: Cooking SOTW - Medium",
+          "balance": 365
+        },
+        {
+          "timestamp": "2026-10-29T07:46:58.807Z",
+          "delta": 15,
+          "reason": "Bounty: Cooking SOTW - Easy",
+          "balance": 380
+        },
+        {
+          "timestamp": "2026-10-29T07:49:14.085Z",
+          "delta": 60,
+          "reason": "Bounty: Cooking SOTW - Elite",
+          "balance": 440
+        },
+        {
+          "timestamp": "2026-11-08T00:37:41.689Z",
+          "delta": 30,
+          "reason": "Bounty: Hunter SOTW - Medium",
+          "balance": 470
+        },
+        {
+          "timestamp": "2026-11-09T05:49:30.441Z",
+          "delta": 60,
+          "reason": "Bounty: Hunter SOTW - Elite",
+          "balance": 530
+        },
+        {
+          "timestamp": "2026-11-09T00:41:26.720Z",
+          "delta": 238,
+          "reason": "Tenure points",
+          "balance": 768
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "80",
+          "name": "Hunter SOTW - Medium",
+          "status": "approved",
+          "reason": null,
+          "created_at": "2026-11-07T16:15:56.255Z"
+        },
+        {
+          "bounty_id": "82",
+          "name": "Hunter SOTW - Elite",
+          "status": "approved",
+          "reason": null,
+          "created_at": "2026-11-09T02:45:15.075Z"
+        }
+      ]
+    },
+    {
       "rsn": "Dallorey",
       "rsn_key": "dallorey",
       "bot_rank": "Gnome",
@@ -11159,200 +11353,6 @@
           "delta": 115,
           "reason": "Tenure points",
           "balance": 115
-        }
-      ]
-    },
-    {
-      "rsn": "hotcuparamen",
-      "rsn_key": "hotcuparamen",
-      "bot_rank": "Diamond",
-      "progression_rank": "Diamond",
-      "join_date": "2026-03-16",
-      "points_total": 1768,
-      "points_spent": 1000,
-      "points_available": 768,
-      "months_in_clan": 7,
-      "next_rank": {
-        "name": "Dragonstone",
-        "point_cost": 500,
-        "min_months": 8,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-09-06T15:15:31.714Z",
-          "delta": 10,
-          "reason": "100kc sarachnis sunday",
-          "balance": 220
-        },
-        {
-          "timestamp": "2026-09-12T18:09:08.197Z",
-          "delta": -400,
-          "reason": "Rank upgrade: Diamond",
-          "balance": -180
-        },
-        {
-          "timestamp": "2026-09-14T23:56:10.137Z",
-          "delta": 50,
-          "reason": "Saradomin Mid rng",
-          "balance": -130
-        },
-        {
-          "timestamp": "2026-09-15T02:44:10.682Z",
-          "delta": 10,
-          "reason": "Held 1 tile",
-          "balance": -120
-        },
-        {
-          "timestamp": "2026-09-15T02:44:48.472Z",
-          "delta": 10,
-          "reason": "Held 2 tiles",
-          "balance": -110
-        },
-        {
-          "timestamp": "2026-09-15T02:45:18.058Z",
-          "delta": 10,
-          "reason": "Held 3 tiles",
-          "balance": -100
-        },
-        {
-          "timestamp": "2026-09-17T12:34:16.593Z",
-          "delta": 45,
-          "reason": "Bounty: Mad Angel BOTW - Hard",
-          "balance": -55
-        },
-        {
-          "timestamp": "2026-09-18T07:37:43.226Z",
-          "delta": 15,
-          "reason": "Bounty: Mad Angel BOTW - Easy",
-          "balance": -40
-        },
-        {
-          "timestamp": "2026-09-18T07:37:45.522Z",
-          "delta": 30,
-          "reason": "Bounty: Mad Angel BOTW - Medium",
-          "balance": -10
-        },
-        {
-          "timestamp": "2026-10-08T06:04:27.508Z",
-          "delta": 45,
-          "reason": "Bounty: Dagannoth Kings BOTW - Hard",
-          "balance": 35
-        },
-        {
-          "timestamp": "2026-10-08T06:04:39.535Z",
-          "delta": 15,
-          "reason": "Bounty: Dagannoth Kings BOTW - Easy",
-          "balance": 50
-        },
-        {
-          "timestamp": "2026-10-08T06:04:42.544Z",
-          "delta": 30,
-          "reason": "Bounty: Dagannoth Kings BOTW - Medium",
-          "balance": 80
-        },
-        {
-          "timestamp": "2026-10-10T17:16:02.544Z",
-          "delta": 60,
-          "reason": "Bounty: Dagannoth Kings BOTW - Elite",
-          "balance": 140
-        },
-        {
-          "timestamp": "2026-10-10T20:35:25.562Z",
-          "delta": 15,
-          "reason": "Halloween Fashionscape participation",
-          "balance": 155
-        },
-        {
-          "timestamp": "2026-10-12T13:59:53.221Z",
-          "delta": 15,
-          "reason": "Mad Angel BOTW - 4th to 6th place",
-          "balance": 170
-        },
-        {
-          "timestamp": "2026-10-12T14:11:06.593Z",
-          "delta": 25,
-          "reason": "250kc Amoxliatl Sunday",
-          "balance": 195
-        },
-        {
-          "timestamp": "2026-10-15T08:57:41.043Z",
-          "delta": 60,
-          "reason": "Dag Kings BOTW - 1st Place",
-          "balance": 255
-        },
-        {
-          "timestamp": "2026-10-18T04:27:25.525Z",
-          "delta": 20,
-          "reason": "Bounty: Barrows Double Equipment",
-          "balance": 275
-        },
-        {
-          "timestamp": "2026-10-19T17:19:26.526Z",
-          "delta": 15,
-          "reason": "Participation in the Barrows Rush Mass",
-          "balance": 290
-        },
-        {
-          "timestamp": "2026-10-25T00:35:52.035Z",
-          "delta": 45,
-          "reason": "Bounty: Cooking SOTW - Hard",
-          "balance": 335
-        },
-        {
-          "timestamp": "2026-10-25T00:38:58.528Z",
-          "delta": 30,
-          "reason": "Bounty: Cooking SOTW - Medium",
-          "balance": 365
-        },
-        {
-          "timestamp": "2026-10-29T07:46:58.807Z",
-          "delta": 15,
-          "reason": "Bounty: Cooking SOTW - Easy",
-          "balance": 380
-        },
-        {
-          "timestamp": "2026-10-29T07:49:14.085Z",
-          "delta": 60,
-          "reason": "Bounty: Cooking SOTW - Elite",
-          "balance": 440
-        },
-        {
-          "timestamp": "2026-11-08T00:37:41.689Z",
-          "delta": 30,
-          "reason": "Bounty: Hunter SOTW - Medium",
-          "balance": 470
-        },
-        {
-          "timestamp": "2026-11-09T05:49:30.441Z",
-          "delta": 60,
-          "reason": "Bounty: Hunter SOTW - Elite",
-          "balance": 530
-        },
-        {
-          "timestamp": "2026-11-09T00:41:26.720Z",
-          "delta": 238,
-          "reason": "Tenure points",
-          "balance": 768
-        }
-      ],
-      "pending_bounties": [
-        {
-          "bounty_id": "80",
-          "name": "Hunter SOTW - Medium",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-11-07T16:15:56.255Z"
-        },
-        {
-          "bounty_id": "82",
-          "name": "Hunter SOTW - Elite",
-          "status": "approved",
-          "reason": null,
-          "created_at": "2026-11-09T02:45:15.075Z"
         }
       ]
     },
