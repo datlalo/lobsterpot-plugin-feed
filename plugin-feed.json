@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T00:41:30.097Z",
+  "generated_at": "2026-11-09T02:45:16.589Z",
   "broadcasts": [],
   "events": [
     {
@@ -11133,6 +11133,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-11-07T16:15:56.255Z"
+        },
+        {
+          "bounty_id": "82",
+          "name": "Hunter SOTW - Elite",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-09T02:45:15.075Z"
         }
       ]
     },
@@ -23585,6 +23592,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-11-07T16:15:56.255Z"
+        },
+        {
+          "bounty_id": "82",
+          "name": "Hunter SOTW - Elite",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-09T02:45:15.075Z"
         }
       ]
     },
