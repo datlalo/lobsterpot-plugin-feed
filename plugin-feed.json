@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T03:52:43.535Z",
+  "generated_at": "2026-11-09T05:41:33.960Z",
   "broadcasts": [],
   "events": [
     {
@@ -12,17 +12,6 @@
       "ends_at": "2026-11-11T12:00:00.000Z",
       "description": "",
       "thread_id": "1566883934086766643"
-    },
-    {
-      "id": "165002",
-      "type": "boss_competition",
-      "title": "Zulrah Zunday",
-      "metric": "zulrah",
-      "metric_label": "Zulrah",
-      "starts_at": "2026-11-07T17:00:00.000Z",
-      "ends_at": "2026-11-09T05:00:00.000Z",
-      "thread_id": "1522561512089194536",
-      "wom_id": 165002
     }
   ],
   "bounties": [
@@ -8762,26 +8751,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-08-25",
-      "points_total": 1761,
+      "points_total": 1781,
       "points_spent": 1200,
-      "points_available": 561,
+      "points_available": 581,
       "months_in_clan": 14,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 239,
+        "missing_points": 219,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-05T11:20:59.043Z",
-          "delta": 10,
-          "reason": "Toxic's 99 Slayer event",
-          "balance": 695
-        },
         {
           "timestamp": "2026-04-14T20:04:05.434Z",
           "delta": 15,
@@ -8927,10 +8910,16 @@
           "balance": 120
         },
         {
+          "timestamp": "2026-11-09T05:41:32.442Z",
+          "delta": 20,
+          "reason": "Zulrah Zunday — 3rd place",
+          "balance": 140
+        },
+        {
           "timestamp": "2026-11-09T00:41:26.720Z",
           "delta": 441,
           "reason": "Tenure points",
-          "balance": 561
+          "balance": 581
         }
       ]
     },
@@ -24981,25 +24970,31 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-11-02",
-      "points_total": 7,
+      "points_total": 37,
       "points_spent": 0,
-      "points_available": 7,
+      "points_available": 37,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 93,
+        "missing_points": 63,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
         {
+          "timestamp": "2026-11-09T05:41:32.441Z",
+          "delta": 30,
+          "reason": "Zulrah Zunday — 2nd place",
+          "balance": 30
+        },
+        {
           "timestamp": "2026-11-09T00:41:26.720Z",
           "delta": 7,
           "reason": "Tenure points",
-          "balance": 7
+          "balance": 37
         }
       ]
     },
@@ -26718,25 +26713,31 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-10-23",
-      "points_total": 17,
+      "points_total": 67,
       "points_spent": 0,
-      "points_available": 17,
+      "points_available": 67,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 83,
+        "missing_points": 33,
         "missing_months": 1,
         "can_claim": false
       },
       "points_history": [
         {
+          "timestamp": "2026-11-09T05:41:32.440Z",
+          "delta": 50,
+          "reason": "Zulrah Zunday — 1st place",
+          "balance": 50
+        },
+        {
           "timestamp": "2026-11-09T00:41:26.720Z",
           "delta": 17,
           "reason": "Tenure points",
-          "balance": 17
+          "balance": 67
         }
       ]
     },
