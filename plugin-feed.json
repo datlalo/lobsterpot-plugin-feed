@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T11:25:50.452Z",
+  "generated_at": "2026-11-09T11:28:53.019Z",
   "broadcasts": [],
   "events": [
     {
@@ -8540,34 +8540,23 @@
     {
       "rsn": "fires brand",
       "rsn_key": "firesbrand",
-      "bot_rank": "Dragonstone",
-      "progression_rank": "Dragonstone",
+      "bot_rank": "Onyx",
+      "progression_rank": "Onyx",
       "join_date": "2025-11-02",
       "points_total": 2201,
-      "points_spent": 1400,
-      "points_available": 801,
+      "points_spent": 2200,
+      "points_available": 1,
       "months_in_clan": 12,
       "next_rank": {
-        "name": "Onyx",
-        "point_cost": 800,
-        "min_months": 12,
-        "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Onyx",
-        "created_at": "2026-11-09T11:25:48.277Z"
+        "name": "Zenyte",
+        "point_cost": 1000,
+        "min_months": 16,
+        "requirements": "Trimmed QC, 2000 Total, or Elite CA",
+        "missing_points": 999,
+        "missing_months": 4,
+        "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-25T14:31:27.764Z",
-          "delta": 15,
-          "reason": "Bounty: Vardorvis BOTW - Easy",
-          "balance": 504
-        },
         {
           "timestamp": "2026-09-07T12:32:39.066Z",
           "delta": 15,
@@ -8713,10 +8702,16 @@
           "balance": 429
         },
         {
+          "timestamp": "2026-11-09T11:26:42.494Z",
+          "delta": -800,
+          "reason": "Rank upgrade: Onyx",
+          "balance": -371
+        },
+        {
           "timestamp": "2026-11-09T00:41:26.720Z",
           "delta": 372,
           "reason": "Tenure points",
-          "balance": 801
+          "balance": 1
         }
       ],
       "pending_bounties": [
@@ -25180,34 +25175,23 @@
     {
       "rsn": "uiwolf holo",
       "rsn_key": "uiwolfholo",
-      "bot_rank": "Dragonstone",
-      "progression_rank": "Dragonstone",
+      "bot_rank": "Onyx",
+      "progression_rank": "Onyx",
       "join_date": "2025-11-02",
       "points_total": 2201,
-      "points_spent": 1400,
-      "points_available": 801,
+      "points_spent": 2200,
+      "points_available": 1,
       "months_in_clan": 12,
       "next_rank": {
-        "name": "Onyx",
-        "point_cost": 800,
-        "min_months": 12,
-        "requirements": "Quest Cape, 1800 Total, or Hard CA",
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Onyx",
-        "created_at": "2026-11-09T11:25:48.277Z"
+        "name": "Zenyte",
+        "point_cost": 1000,
+        "min_months": 16,
+        "requirements": "Trimmed QC, 2000 Total, or Elite CA",
+        "missing_points": 999,
+        "missing_months": 4,
+        "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-25T14:31:27.764Z",
-          "delta": 15,
-          "reason": "Bounty: Vardorvis BOTW - Easy",
-          "balance": 504
-        },
         {
           "timestamp": "2026-09-07T12:32:39.066Z",
           "delta": 15,
@@ -25353,10 +25337,16 @@
           "balance": 429
         },
         {
+          "timestamp": "2026-11-09T11:26:42.494Z",
+          "delta": -800,
+          "reason": "Rank upgrade: Onyx",
+          "balance": -371
+        },
+        {
           "timestamp": "2026-11-09T00:41:26.720Z",
           "delta": 372,
           "reason": "Tenure points",
-          "balance": 801
+          "balance": 1
         }
       ],
       "pending_bounties": [
