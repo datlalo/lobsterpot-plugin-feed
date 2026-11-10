@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T08:42:40.960Z",
+  "generated_at": "2026-11-10T12:54:08.076Z",
   "broadcasts": [],
   "events": [
     {
@@ -3121,6 +3121,20 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-11-06T08:57:40.605Z"
+        },
+        {
+          "bounty_id": "80",
+          "name": "Hunter SOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-10T12:54:06.564Z"
+        },
+        {
+          "bounty_id": "81",
+          "name": "Hunter SOTW - Hard",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-10T12:54:06.564Z"
         }
       ]
     },
