@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T08:15:45.683Z",
+  "generated_at": "2026-11-10T08:39:38.522Z",
   "broadcasts": [],
   "events": [
     {
@@ -21011,26 +21011,20 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-10-11",
-      "points_total": 2814,
+      "points_total": 2829,
       "points_spent": 2200,
-      "points_available": 614,
+      "points_available": 629,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
         "requirements": null,
-        "missing_points": 386,
+        "missing_points": 371,
         "missing_months": 4,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-11T01:05:23.582Z",
-          "delta": 15,
-          "reason": "Bounty: Fishing SOTW - Easy",
-          "balance": 284
-        },
         {
           "timestamp": "2026-08-11T01:05:25.788Z",
           "delta": 30,
@@ -21176,17 +21170,23 @@
           "balance": 219
         },
         {
+          "timestamp": "2026-11-10T08:39:37.003Z",
+          "delta": 15,
+          "reason": "Bounty: Hunter SOTW - Easy",
+          "balance": 234
+        },
+        {
           "timestamp": "2026-11-10T00:46:54.332Z",
           "delta": 395,
           "reason": "Tenure points",
-          "balance": 614
+          "balance": 629
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "79",
           "name": "Hunter SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-10T01:42:22.018Z"
         },
