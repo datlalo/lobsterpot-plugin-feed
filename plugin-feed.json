@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T08:12:42.539Z",
+  "generated_at": "2026-11-10T08:15:45.683Z",
   "broadcasts": [],
   "events": [
     {
@@ -10756,16 +10756,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-03-02",
-      "points_total": 353,
+      "points_total": 383,
       "points_spent": 300,
-      "points_available": 53,
+      "points_available": 83,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 247,
+        "missing_points": 217,
         "missing_months": 0,
         "can_claim": false
       },
@@ -10813,17 +10813,23 @@
           "balance": -200
         },
         {
+          "timestamp": "2026-11-10T08:12:47.901Z",
+          "delta": 30,
+          "reason": "Bounty: Hunter SOTW - Medium",
+          "balance": -170
+        },
+        {
           "timestamp": "2026-11-10T00:46:54.332Z",
           "delta": 253,
           "reason": "Tenure points",
-          "balance": 53
+          "balance": 83
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "80",
           "name": "Hunter SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-09T18:50:58.125Z"
         }
@@ -26975,16 +26981,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-04-09",
-      "points_total": 675,
+      "points_total": 720,
       "points_spent": 500,
-      "points_available": 175,
+      "points_available": 220,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": null,
-        "missing_points": 225,
+        "missing_points": 180,
         "missing_months": 0,
         "can_claim": false
       },
@@ -27098,24 +27104,36 @@
           "balance": -40
         },
         {
+          "timestamp": "2026-11-10T08:13:39.847Z",
+          "delta": 15,
+          "reason": "Bounty: Hunter SOTW - Easy",
+          "balance": -25
+        },
+        {
+          "timestamp": "2026-11-10T08:13:52.465Z",
+          "delta": 30,
+          "reason": "Bounty: Hunter SOTW - Medium",
+          "balance": 5
+        },
+        {
           "timestamp": "2026-11-10T00:46:54.332Z",
           "delta": 215,
           "reason": "Tenure points",
-          "balance": 175
+          "balance": 220
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "79",
           "name": "Hunter SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-10T01:09:16.909Z"
         },
         {
           "bounty_id": "80",
           "name": "Hunter SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-10T01:09:27.019Z"
         }
