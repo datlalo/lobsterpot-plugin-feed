@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T18:34:44.645Z",
+  "generated_at": "2026-11-10T18:57:04.156Z",
   "broadcasts": [],
   "events": [
     {
@@ -11343,9 +11343,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-10-16",
-      "points_total": 220,
+      "points_total": 235,
       "points_spent": 0,
-      "points_available": 220,
+      "points_available": 235,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
@@ -11394,10 +11394,16 @@
           "balance": 195
         },
         {
+          "timestamp": "2026-11-10T18:57:02.638Z",
+          "delta": 15,
+          "reason": "Bounty: Hunter SOTW - Easy",
+          "balance": 210
+        },
+        {
           "timestamp": "2026-11-10T00:46:54.332Z",
           "delta": 25,
           "reason": "Tenure points",
-          "balance": 220
+          "balance": 235
         }
       ],
       "pending_bounties": [
@@ -11418,7 +11424,7 @@
         {
           "bounty_id": "79",
           "name": "Hunter SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-10T16:51:08.370Z"
         }
