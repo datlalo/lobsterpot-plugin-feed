@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T15:32:34.097Z",
+  "generated_at": "2026-11-10T15:51:50.338Z",
   "broadcasts": [],
   "events": [
     {
@@ -490,26 +490,21 @@
     {
       "rsn": "A Blue Crab",
       "rsn_key": "abluecrab",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2026-07-04",
       "points_total": 339,
-      "points_spent": 100,
-      "points_available": 239,
+      "points_spent": 300,
+      "points_available": 39,
       "months_in_clan": 4,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 261,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Emerald",
-        "created_at": "2026-11-10T14:35:51.235Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -543,10 +538,16 @@
           "balance": 110
         },
         {
+          "timestamp": "2026-11-10T15:51:48.830Z",
+          "delta": -200,
+          "reason": "Rank upgrade: Emerald",
+          "balance": -90
+        },
+        {
           "timestamp": "2026-11-10T00:46:54.332Z",
           "delta": 129,
           "reason": "Tenure points",
-          "balance": 239
+          "balance": 39
         }
       ],
       "pending_bounties": [
