@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T16:51:09.889Z",
+  "generated_at": "2026-11-10T17:02:01.270Z",
   "broadcasts": [],
   "events": [
     {
@@ -846,6 +846,26 @@
       ]
     },
     {
+      "rsn": "AgilityLamp",
+      "rsn_key": "agilitylamp",
+      "bot_rank": "Dragonstone",
+      "progression_rank": "Dragonstone",
+      "join_date": "2026-11-10",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Onyx",
+        "point_cost": 800,
+        "min_months": 12,
+        "requirements": null,
+        "missing_points": 800,
+        "missing_months": 12,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "Agnes Milker",
       "rsn_key": "agnesmilker",
       "bot_rank": "Gnome",
@@ -1665,184 +1685,6 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-11-10T06:38:15.512Z"
-        }
-      ]
-    },
-    {
-      "rsn": "archive29619",
-      "rsn_key": "archive29619",
-      "bot_rank": "Dragonstone",
-      "progression_rank": "Dragonstone",
-      "join_date": "2025-11-24",
-      "points_total": 1916,
-      "points_spent": 1400,
-      "points_available": 516,
-      "months_in_clan": 11,
-      "next_rank": {
-        "name": "Onyx",
-        "point_cost": 800,
-        "min_months": 12,
-        "requirements": null,
-        "missing_points": 284,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-03-03T07:47:12.025Z",
-          "delta": 40,
-          "reason": "Bounty reward: Hard Tier Bounty - Zulrah",
-          "balance": 155
-        },
-        {
-          "timestamp": "2026-03-04T17:30:22.944Z",
-          "delta": 150,
-          "reason": "January Donor Raffle Winner x3",
-          "balance": 305
-        },
-        {
-          "timestamp": "2026-03-06T19:15:11.871Z",
-          "delta": 60,
-          "reason": "Bounty reward: Elite Tier bounty - Zulrah",
-          "balance": 365
-        },
-        {
-          "timestamp": "2026-03-06T19:15:15.781Z",
-          "delta": 75,
-          "reason": "Bounty reward: Master Tier Bounty - Zulrah",
-          "balance": 440
-        },
-        {
-          "timestamp": "2026-03-09T07:53:44.943Z",
-          "delta": 50,
-          "reason": "BOTM 2nd place",
-          "balance": 490
-        },
-        {
-          "timestamp": "2026-04-14T20:07:56.064Z",
-          "delta": 40,
-          "reason": "Discord adjustment",
-          "balance": 530
-        },
-        {
-          "timestamp": "2026-04-25T10:55:41.868Z",
-          "delta": -400,
-          "reason": "Rank upgraded to: Diamond",
-          "balance": 130
-        },
-        {
-          "timestamp": "2026-05-22T18:37:50.971Z",
-          "delta": 20,
-          "reason": "Discord adjustment",
-          "balance": 150
-        },
-        {
-          "timestamp": "2026-07-07T12:04:22.922Z",
-          "delta": 10,
-          "reason": "100kc mole monday",
-          "balance": 160
-        },
-        {
-          "timestamp": "2026-07-17T22:54:15.983Z",
-          "delta": 20,
-          "reason": "callisto mass",
-          "balance": 180
-        },
-        {
-          "timestamp": "2026-07-29T19:07:01.407Z",
-          "delta": 150,
-          "reason": "Easy-elite",
-          "balance": 330
-        },
-        {
-          "timestamp": "2026-08-09T16:55:33.561Z",
-          "delta": 10,
-          "reason": "100kc scurrius sunday",
-          "balance": 340
-        },
-        {
-          "timestamp": "2026-08-10T14:59:49.148Z",
-          "delta": -500,
-          "reason": "Rank upgrade: Dragonstone",
-          "balance": -160
-        },
-        {
-          "timestamp": "2026-08-17T11:27:14.469Z",
-          "delta": 10,
-          "reason": "scurrius sunday 100kc",
-          "balance": -150
-        },
-        {
-          "timestamp": "2026-08-24T23:48:18.792Z",
-          "delta": 15,
-          "reason": "Bounty: Vardorvis BOTW - Easy",
-          "balance": -135
-        },
-        {
-          "timestamp": "2026-08-24T23:48:20.994Z",
-          "delta": 30,
-          "reason": "Bounty: Vardorvis BOTW - Medium",
-          "balance": -105
-        },
-        {
-          "timestamp": "2026-08-24T23:48:24.612Z",
-          "delta": 45,
-          "reason": "Bounty: Vardorvis BOTW - Hard",
-          "balance": -60
-        },
-        {
-          "timestamp": "2026-08-24T23:48:27.757Z",
-          "delta": 75,
-          "reason": "Bounty: Vardorvis BOTW - Master",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-08-26T14:17:17.344Z",
-          "delta": 15,
-          "reason": "Vardorvis BOTW - 4th-6th place",
-          "balance": 30
-        },
-        {
-          "timestamp": "2026-09-07T02:01:56.237Z",
-          "delta": 15,
-          "reason": "Bounty: Crafting SOTW - Easy",
-          "balance": 45
-        },
-        {
-          "timestamp": "2026-09-07T02:01:58.155Z",
-          "delta": 30,
-          "reason": "Bounty: Crafting SOTW - Medium",
-          "balance": 75
-        },
-        {
-          "timestamp": "2026-09-07T02:02:00.166Z",
-          "delta": 45,
-          "reason": "Bounty: Crafting SOTW - Hard",
-          "balance": 120
-        },
-        {
-          "timestamp": "2026-09-09T21:05:26.259Z",
-          "delta": 15,
-          "reason": "callisto mass",
-          "balance": 135
-        },
-        {
-          "timestamp": "2026-10-19T22:05:50.980Z",
-          "delta": 15,
-          "reason": "zalcano mass",
-          "balance": 150
-        },
-        {
-          "timestamp": "2026-11-07T22:14:08.353Z",
-          "delta": 15,
-          "reason": "Herbi Hidden Bingo",
-          "balance": 165
-        },
-        {
-          "timestamp": "2026-11-10T00:46:54.332Z",
-          "delta": 351,
-          "reason": "Tenure points",
-          "balance": 516
         }
       ]
     },
@@ -4197,6 +4039,18 @@
           "balance": 27
         }
       ]
+    },
+    {
+      "rsn": "bondlamp",
+      "rsn_key": "bondlamp",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-11-10",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
     },
     {
       "rsn": "br1tneyspear",
@@ -12772,6 +12626,26 @@
       ]
     },
     {
+      "rsn": "iron mower",
+      "rsn_key": "ironmower",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-11-10",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "ironsynotics",
       "rsn_key": "ironsynotics",
       "bot_rank": "Sapphire",
@@ -14200,184 +14074,6 @@
           "delta": 10,
           "reason": "Tenure points",
           "balance": 10
-        }
-      ]
-    },
-    {
-      "rsn": "Lamp Lite",
-      "rsn_key": "lamplite",
-      "bot_rank": "Dragonstone",
-      "progression_rank": "Dragonstone",
-      "join_date": "2025-11-24",
-      "points_total": 1916,
-      "points_spent": 1400,
-      "points_available": 516,
-      "months_in_clan": 11,
-      "next_rank": {
-        "name": "Onyx",
-        "point_cost": 800,
-        "min_months": 12,
-        "requirements": null,
-        "missing_points": 284,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-03-03T07:47:12.025Z",
-          "delta": 40,
-          "reason": "Bounty reward: Hard Tier Bounty - Zulrah",
-          "balance": 155
-        },
-        {
-          "timestamp": "2026-03-04T17:30:22.944Z",
-          "delta": 150,
-          "reason": "January Donor Raffle Winner x3",
-          "balance": 305
-        },
-        {
-          "timestamp": "2026-03-06T19:15:11.871Z",
-          "delta": 60,
-          "reason": "Bounty reward: Elite Tier bounty - Zulrah",
-          "balance": 365
-        },
-        {
-          "timestamp": "2026-03-06T19:15:15.781Z",
-          "delta": 75,
-          "reason": "Bounty reward: Master Tier Bounty - Zulrah",
-          "balance": 440
-        },
-        {
-          "timestamp": "2026-03-09T07:53:44.943Z",
-          "delta": 50,
-          "reason": "BOTM 2nd place",
-          "balance": 490
-        },
-        {
-          "timestamp": "2026-04-14T20:07:56.064Z",
-          "delta": 40,
-          "reason": "Discord adjustment",
-          "balance": 530
-        },
-        {
-          "timestamp": "2026-04-25T10:55:41.868Z",
-          "delta": -400,
-          "reason": "Rank upgraded to: Diamond",
-          "balance": 130
-        },
-        {
-          "timestamp": "2026-05-22T18:37:50.971Z",
-          "delta": 20,
-          "reason": "Discord adjustment",
-          "balance": 150
-        },
-        {
-          "timestamp": "2026-07-07T12:04:22.922Z",
-          "delta": 10,
-          "reason": "100kc mole monday",
-          "balance": 160
-        },
-        {
-          "timestamp": "2026-07-17T22:54:15.983Z",
-          "delta": 20,
-          "reason": "callisto mass",
-          "balance": 180
-        },
-        {
-          "timestamp": "2026-07-29T19:07:01.407Z",
-          "delta": 150,
-          "reason": "Easy-elite",
-          "balance": 330
-        },
-        {
-          "timestamp": "2026-08-09T16:55:33.561Z",
-          "delta": 10,
-          "reason": "100kc scurrius sunday",
-          "balance": 340
-        },
-        {
-          "timestamp": "2026-08-10T14:59:49.148Z",
-          "delta": -500,
-          "reason": "Rank upgrade: Dragonstone",
-          "balance": -160
-        },
-        {
-          "timestamp": "2026-08-17T11:27:14.469Z",
-          "delta": 10,
-          "reason": "scurrius sunday 100kc",
-          "balance": -150
-        },
-        {
-          "timestamp": "2026-08-24T23:48:18.792Z",
-          "delta": 15,
-          "reason": "Bounty: Vardorvis BOTW - Easy",
-          "balance": -135
-        },
-        {
-          "timestamp": "2026-08-24T23:48:20.994Z",
-          "delta": 30,
-          "reason": "Bounty: Vardorvis BOTW - Medium",
-          "balance": -105
-        },
-        {
-          "timestamp": "2026-08-24T23:48:24.612Z",
-          "delta": 45,
-          "reason": "Bounty: Vardorvis BOTW - Hard",
-          "balance": -60
-        },
-        {
-          "timestamp": "2026-08-24T23:48:27.757Z",
-          "delta": 75,
-          "reason": "Bounty: Vardorvis BOTW - Master",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-08-26T14:17:17.344Z",
-          "delta": 15,
-          "reason": "Vardorvis BOTW - 4th-6th place",
-          "balance": 30
-        },
-        {
-          "timestamp": "2026-09-07T02:01:56.237Z",
-          "delta": 15,
-          "reason": "Bounty: Crafting SOTW - Easy",
-          "balance": 45
-        },
-        {
-          "timestamp": "2026-09-07T02:01:58.155Z",
-          "delta": 30,
-          "reason": "Bounty: Crafting SOTW - Medium",
-          "balance": 75
-        },
-        {
-          "timestamp": "2026-09-07T02:02:00.166Z",
-          "delta": 45,
-          "reason": "Bounty: Crafting SOTW - Hard",
-          "balance": 120
-        },
-        {
-          "timestamp": "2026-09-09T21:05:26.259Z",
-          "delta": 15,
-          "reason": "callisto mass",
-          "balance": 135
-        },
-        {
-          "timestamp": "2026-10-19T22:05:50.980Z",
-          "delta": 15,
-          "reason": "zalcano mass",
-          "balance": 150
-        },
-        {
-          "timestamp": "2026-11-07T22:14:08.353Z",
-          "delta": 15,
-          "reason": "Herbi Hidden Bingo",
-          "balance": 165
-        },
-        {
-          "timestamp": "2026-11-10T00:46:54.332Z",
-          "delta": 351,
-          "reason": "Tenure points",
-          "balance": 516
         }
       ]
     },
@@ -26614,6 +26310,26 @@
       ]
     },
     {
+      "rsn": "water daily",
+      "rsn_key": "waterdaily",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-11-10",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
+    },
+    {
       "rsn": "WeebWorld",
       "rsn_key": "weebworld",
       "bot_rank": "Gnome",
@@ -27224,34 +26940,6 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-11-10T01:09:27.019Z"
-        }
-      ]
-    },
-    {
-      "rsn": "xaemte",
-      "rsn_key": "xaemte",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-11-07",
-      "points_total": 3,
-      "points_spent": 0,
-      "points_available": 3,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 97,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-11-10T00:46:54.332Z",
-          "delta": 3,
-          "reason": "Tenure points",
-          "balance": 3
         }
       ]
     },
