@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T13:08:43.179Z",
+  "generated_at": "2026-11-10T13:12:08.191Z",
   "broadcasts": [],
   "events": [
     {
@@ -24908,6 +24908,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-11-06T04:10:38.490Z"
+        },
+        {
+          "bounty_id": "80",
+          "name": "Hunter SOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-10T13:12:06.680Z"
         }
       ]
     },
