@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T08:39:38.522Z",
+  "generated_at": "2026-11-10T08:42:40.960Z",
   "broadcasts": [],
   "events": [
     {
@@ -1445,32 +1445,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-12-24",
-      "points_total": 1716,
+      "points_total": 1761,
       "points_spent": 1510,
-      "points_available": 206,
+      "points_available": 251,
       "months_in_clan": 10,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": null,
-        "missing_points": 594,
+        "missing_points": 549,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-01T17:40:58.248Z",
-          "delta": 30,
-          "reason": "Bounty: Farming - Medium",
-          "balance": 105
-        },
-        {
-          "timestamp": "2026-07-02T08:36:49.785Z",
-          "delta": 60,
-          "reason": "Bounty: Farming - Elite",
-          "balance": 165
-        },
         {
           "timestamp": "2026-07-03T06:05:37.341Z",
           "delta": 50,
@@ -1610,10 +1598,22 @@
           "balance": -115
         },
         {
+          "timestamp": "2026-11-10T08:39:48.923Z",
+          "delta": 15,
+          "reason": "Bounty: Hunter SOTW - Easy",
+          "balance": -100
+        },
+        {
+          "timestamp": "2026-11-10T08:39:51.724Z",
+          "delta": 30,
+          "reason": "Bounty: Hunter SOTW - Medium",
+          "balance": -70
+        },
+        {
           "timestamp": "2026-11-10T00:46:54.332Z",
           "delta": 321,
           "reason": "Tenure points",
-          "balance": 206
+          "balance": 251
         }
       ],
       "pending_bounties": [
@@ -1627,14 +1627,14 @@
         {
           "bounty_id": "79",
           "name": "Hunter SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-10T06:38:01.705Z"
         },
         {
           "bounty_id": "80",
           "name": "Hunter SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-10T06:38:15.512Z"
         }
@@ -21011,32 +21011,20 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-10-11",
-      "points_total": 2829,
+      "points_total": 2934,
       "points_spent": 2200,
-      "points_available": 629,
+      "points_available": 734,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
         "requirements": null,
-        "missing_points": 371,
+        "missing_points": 266,
         "missing_months": 4,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-11T01:05:25.788Z",
-          "delta": 30,
-          "reason": "Bounty: Fishing SOTW - Medium",
-          "balance": 314
-        },
-        {
-          "timestamp": "2026-08-11T01:05:28.670Z",
-          "delta": 45,
-          "reason": "Bounty: Fishing SOTW - Hard",
-          "balance": 359
-        },
         {
           "timestamp": "2026-08-26T12:59:42.820Z",
           "delta": 15,
@@ -21176,10 +21164,22 @@
           "balance": 234
         },
         {
+          "timestamp": "2026-11-10T08:39:39.452Z",
+          "delta": 30,
+          "reason": "Bounty: Hunter SOTW - Medium",
+          "balance": 264
+        },
+        {
+          "timestamp": "2026-11-10T08:39:42.594Z",
+          "delta": 75,
+          "reason": "Bounty: Hunter SOTW - Master",
+          "balance": 339
+        },
+        {
           "timestamp": "2026-11-10T00:46:54.332Z",
           "delta": 395,
           "reason": "Tenure points",
-          "balance": 629
+          "balance": 734
         }
       ],
       "pending_bounties": [
@@ -21193,14 +21193,14 @@
         {
           "bounty_id": "80",
           "name": "Hunter SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-10T01:42:32.669Z"
         },
         {
           "bounty_id": "83",
           "name": "Hunter SOTW - Master",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-10T01:42:50.712Z"
         }
