@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T06:41:05.463Z",
+  "generated_at": "2026-11-10T07:49:58.694Z",
   "broadcasts": [],
   "events": [
     {
@@ -545,9 +545,9 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-09-25",
-      "points_total": 3769,
+      "points_total": 3799,
       "points_spent": 2030,
-      "points_available": 1739,
+      "points_available": 1769,
       "months_in_clan": 13,
       "next_rank": {
         "name": "Zenyte",
@@ -559,12 +559,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-29T17:01:03.128Z",
-          "delta": 15,
-          "reason": "Funny friendslop friday (august) [meccha chameleon]",
-          "balance": 1358
-        },
         {
           "timestamp": "2026-09-04T00:12:15.335Z",
           "delta": 45,
@@ -710,10 +704,16 @@
           "balance": 1328
         },
         {
+          "timestamp": "2026-11-10T07:49:57.186Z",
+          "delta": 30,
+          "reason": "Bounty: Hunter SOTW - Medium",
+          "balance": 1358
+        },
+        {
           "timestamp": "2026-11-10T00:46:54.332Z",
           "delta": 411,
           "reason": "Tenure points",
-          "balance": 1739
+          "balance": 1769
         }
       ],
       "pending_bounties": [
@@ -727,7 +727,7 @@
         {
           "bounty_id": "80",
           "name": "Hunter SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-09T17:50:00.087Z"
         }
@@ -18555,9 +18555,9 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-09-25",
-      "points_total": 3769,
+      "points_total": 3799,
       "points_spent": 2030,
-      "points_available": 1739,
+      "points_available": 1769,
       "months_in_clan": 13,
       "next_rank": {
         "name": "Zenyte",
@@ -18569,12 +18569,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-29T17:01:03.128Z",
-          "delta": 15,
-          "reason": "Funny friendslop friday (august) [meccha chameleon]",
-          "balance": 1358
-        },
         {
           "timestamp": "2026-09-04T00:12:15.335Z",
           "delta": 45,
@@ -18720,10 +18714,16 @@
           "balance": 1328
         },
         {
+          "timestamp": "2026-11-10T07:49:57.186Z",
+          "delta": 30,
+          "reason": "Bounty: Hunter SOTW - Medium",
+          "balance": 1358
+        },
+        {
           "timestamp": "2026-11-10T00:46:54.332Z",
           "delta": 411,
           "reason": "Tenure points",
-          "balance": 1739
+          "balance": 1769
         }
       ],
       "pending_bounties": [
@@ -18737,7 +18737,7 @@
         {
           "bounty_id": "80",
           "name": "Hunter SOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-09T17:50:00.087Z"
         }
