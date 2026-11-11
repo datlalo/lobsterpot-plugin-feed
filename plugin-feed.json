@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T12:08:12.512Z",
+  "generated_at": "2026-11-11T12:40:04.732Z",
   "broadcasts": [],
   "events": [],
   "bounties": [
@@ -27336,16 +27336,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-06-22",
-      "points_total": 562,
+      "points_total": 577,
       "points_spent": 300,
-      "points_available": 262,
+      "points_available": 277,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 38,
+        "missing_points": 23,
         "missing_months": 0,
         "can_claim": false
       },
@@ -27447,17 +27447,23 @@
           "balance": 120
         },
         {
+          "timestamp": "2026-11-11T12:40:03.223Z",
+          "delta": 15,
+          "reason": "Bounty: Hunter SOTW - Easy",
+          "balance": 135
+        },
+        {
           "timestamp": "2026-11-11T00:46:55.894Z",
           "delta": 142,
           "reason": "Tenure points",
-          "balance": 262
+          "balance": 277
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "79",
           "name": "Hunter SOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-10T20:39:52.320Z"
         },
