@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T19:36:58.818Z",
+  "generated_at": "2026-11-11T20:32:36.688Z",
   "broadcasts": [],
   "events": [],
   "bounties": [
@@ -343,26 +343,6 @@
           "delta": 75,
           "reason": "Tenure points",
           "balance": 75
-        }
-      ]
-    },
-    {
-      "rsn": "5G",
-      "rsn_key": "5g",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2026-11-08",
-      "points_total": 3,
-      "points_spent": 0,
-      "points_available": 3,
-      "months_in_clan": 0,
-      "next_rank": null,
-      "points_history": [
-        {
-          "timestamp": "2026-11-11T00:46:55.894Z",
-          "delta": 3,
-          "reason": "Tenure points",
-          "balance": 3
         }
       ]
     },
@@ -26626,34 +26606,6 @@
           "delta": 286,
           "reason": "Tenure points",
           "balance": 391
-        }
-      ]
-    },
-    {
-      "rsn": "water daily",
-      "rsn_key": "waterdaily",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-11-10",
-      "points_total": 1,
-      "points_spent": 0,
-      "points_available": 1,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 99,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-11-11T00:46:55.894Z",
-          "delta": 1,
-          "reason": "Tenure points",
-          "balance": 1
         }
       ]
     },
