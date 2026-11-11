@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T13:08:55.211Z",
+  "generated_at": "2026-11-11T14:19:27.310Z",
   "broadcasts": [],
   "events": [],
   "bounties": [
@@ -9053,26 +9053,20 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-11-02",
-      "points_total": 2203,
+      "points_total": 2248,
       "points_spent": 2200,
-      "points_available": 3,
+      "points_available": 48,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
         "requirements": null,
-        "missing_points": 997,
+        "missing_points": 952,
         "missing_months": 4,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-09-07T12:32:39.066Z",
-          "delta": 15,
-          "reason": "Bounty: Crafting SOTW - Easy",
-          "balance": 519
-        },
         {
           "timestamp": "2026-09-07T12:33:06.251Z",
           "delta": 30,
@@ -9218,10 +9212,16 @@
           "balance": -371
         },
         {
+          "timestamp": "2026-11-11T14:19:25.791Z",
+          "delta": 45,
+          "reason": "Bounty: Hunter SOTW - Hard",
+          "balance": -326
+        },
+        {
           "timestamp": "2026-11-11T00:46:55.894Z",
           "delta": 374,
           "reason": "Tenure points",
-          "balance": 3
+          "balance": 48
         }
       ],
       "pending_bounties": [
@@ -9256,7 +9256,7 @@
         {
           "bounty_id": "81",
           "name": "Hunter SOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-11T13:08:53.690Z"
         }
@@ -25473,26 +25473,20 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-11-02",
-      "points_total": 2203,
+      "points_total": 2248,
       "points_spent": 2200,
-      "points_available": 3,
+      "points_available": 48,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
         "requirements": null,
-        "missing_points": 997,
+        "missing_points": 952,
         "missing_months": 4,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-09-07T12:32:39.066Z",
-          "delta": 15,
-          "reason": "Bounty: Crafting SOTW - Easy",
-          "balance": 519
-        },
         {
           "timestamp": "2026-09-07T12:33:06.251Z",
           "delta": 30,
@@ -25638,10 +25632,16 @@
           "balance": -371
         },
         {
+          "timestamp": "2026-11-11T14:19:25.791Z",
+          "delta": 45,
+          "reason": "Bounty: Hunter SOTW - Hard",
+          "balance": -326
+        },
+        {
           "timestamp": "2026-11-11T00:46:55.894Z",
           "delta": 374,
           "reason": "Tenure points",
-          "balance": 3
+          "balance": 48
         }
       ],
       "pending_bounties": [
@@ -25676,7 +25676,7 @@
         {
           "bounty_id": "81",
           "name": "Hunter SOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-11T13:08:53.690Z"
         }
