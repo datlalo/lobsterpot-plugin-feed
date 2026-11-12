@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T10:14:50.461Z",
+  "generated_at": "2026-11-12T10:17:53.481Z",
   "broadcasts": [],
   "events": [],
   "bounties": [],
@@ -2493,26 +2493,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2025-11-30",
-      "points_total": 1337,
+      "points_total": 1352,
       "points_spent": 900,
-      "points_available": 437,
+      "points_available": 452,
       "months_in_clan": 11,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": null,
-        "missing_points": 63,
+        "missing_points": 48,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-04-18T22:06:26.035Z",
-          "delta": 5,
-          "reason": "Fire cape in leagues",
-          "balance": 155
-        },
         {
           "timestamp": "2026-04-18T22:10:45.227Z",
           "delta": 10,
@@ -2658,10 +2652,16 @@
           "balance": 90
         },
         {
+          "timestamp": "2026-11-12T10:16:17.496Z",
+          "delta": 15,
+          "reason": "Hunter SOTW 4th to 6th place",
+          "balance": 105
+        },
+        {
           "timestamp": "2026-11-12T00:47:31.469Z",
           "delta": 347,
           "reason": "Tenure points",
-          "balance": 437
+          "balance": 452
         }
       ]
     },
@@ -4163,9 +4163,9 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-20 22:12:14.780985+00",
-      "points_total": 1677,
+      "points_total": 1692,
       "points_spent": 1000,
-      "points_available": 677,
+      "points_available": 692,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Dragonstone",
@@ -4177,12 +4177,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-09-17T19:52:30.615Z",
-          "delta": 30,
-          "reason": "Bounty: Mad Angel BOTW - Medium",
-          "balance": 120
-        },
         {
           "timestamp": "2026-09-17T20:31:19.306Z",
           "delta": 45,
@@ -4328,10 +4322,16 @@
           "balance": 440
         },
         {
+          "timestamp": "2026-11-12T10:16:17.485Z",
+          "delta": 15,
+          "reason": "Hunter SOTW 4th to 6th place",
+          "balance": 455
+        },
+        {
           "timestamp": "2026-11-12T00:47:31.469Z",
           "delta": 237,
           "reason": "Tenure points",
-          "balance": 677
+          "balance": 692
         }
       ]
     },
@@ -7747,9 +7747,9 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-05-17 14:00:07.458542+00",
-      "points_total": 1479,
+      "points_total": 1509,
       "points_spent": 900,
-      "points_available": 579,
+      "points_available": 609,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Dragonstone",
@@ -7761,12 +7761,6 @@
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-10T12:07:10.176Z",
-          "delta": 60,
-          "reason": "Bounty: Fishing SOTW - Elite",
-          "balance": 335
-        },
         {
           "timestamp": "2026-08-12T12:15:34.503Z",
           "delta": 30,
@@ -7912,10 +7906,16 @@
           "balance": 400
         },
         {
+          "timestamp": "2026-11-12T10:15:44.569Z",
+          "delta": 30,
+          "reason": "Hunter SOTW 3rd place",
+          "balance": 430
+        },
+        {
           "timestamp": "2026-11-12T00:47:31.469Z",
           "delta": 179,
           "reason": "Tenure points",
-          "balance": 579
+          "balance": 609
         }
       ]
     },
@@ -16943,18 +16943,18 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-06-11",
-      "points_total": 559,
+      "points_total": 609,
       "points_spent": 300,
-      "points_available": 259,
+      "points_available": 309,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 41,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
@@ -17042,10 +17042,16 @@
           "balance": 105
         },
         {
+          "timestamp": "2026-11-12T10:15:21.063Z",
+          "delta": 50,
+          "reason": "Hunter SOTW 2nd place",
+          "balance": 155
+        },
+        {
           "timestamp": "2026-11-12T00:47:31.469Z",
           "delta": 154,
           "reason": "Tenure points",
-          "balance": 259
+          "balance": 309
         }
       ]
     },
@@ -26369,16 +26375,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-06-22",
-      "points_total": 653,
+      "points_total": 668,
       "points_spent": 600,
-      "points_available": 53,
+      "points_available": 68,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": null,
-        "missing_points": 347,
+        "missing_points": 332,
         "missing_months": 1,
         "can_claim": false
       },
@@ -26504,10 +26510,16 @@
           "balance": -90
         },
         {
+          "timestamp": "2026-11-12T10:16:17.497Z",
+          "delta": 15,
+          "reason": "Hunter SOTW 4th to 6th place",
+          "balance": -75
+        },
+        {
           "timestamp": "2026-11-12T00:47:31.469Z",
           "delta": 143,
           "reason": "Tenure points",
-          "balance": 53
+          "balance": 68
         }
       ]
     },
