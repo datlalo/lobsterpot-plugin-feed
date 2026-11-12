@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T10:17:53.481Z",
+  "generated_at": "2026-11-12T11:32:38.619Z",
   "broadcasts": [],
   "events": [],
   "bounties": [],
@@ -9824,6 +9824,34 @@
       ]
     },
     {
+      "rsn": "Goblu",
+      "rsn_key": "goblu",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-31",
+      "points_total": 12,
+      "points_spent": 0,
+      "points_available": 12,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 88,
+        "missing_months": 1,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-11-12T00:47:31.469Z",
+          "delta": 12,
+          "reason": "Tenure points",
+          "balance": 12
+        }
+      ]
+    },
+    {
       "rsn": "gods quads",
       "rsn_key": "godsquads",
       "bot_rank": "Sapphire",
@@ -17456,34 +17484,6 @@
           "delta": 62,
           "reason": "Tenure points",
           "balance": 92
-        }
-      ]
-    },
-    {
-      "rsn": "Oomlo",
-      "rsn_key": "oomlo",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-10-31",
-      "points_total": 12,
-      "points_spent": 0,
-      "points_available": 12,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 88,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-11-12T00:47:31.469Z",
-          "delta": 12,
-          "reason": "Tenure points",
-          "balance": 12
         }
       ]
     },
