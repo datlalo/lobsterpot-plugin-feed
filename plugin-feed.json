@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T15:53:02.169Z",
+  "generated_at": "2026-11-12T15:56:04.775Z",
   "broadcasts": [],
   "events": [],
   "bounties": [],
@@ -6012,26 +6012,21 @@
     {
       "rsn": "Di3 4 Me",
       "rsn_key": "di34me",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-07-05",
       "points_total": 190,
-      "points_spent": 0,
-      "points_available": 190,
+      "points_spent": 100,
+      "points_available": 90,
       "months_in_clan": 4,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 110,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-11-12T15:53:00.134Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -6041,10 +6036,16 @@
           "balance": 60
         },
         {
+          "timestamp": "2026-11-12T15:55:25.467Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -40
+        },
+        {
           "timestamp": "2026-11-12T00:47:31.469Z",
           "delta": 130,
           "reason": "Tenure points",
-          "balance": 190
+          "balance": 90
         }
       ]
     },
