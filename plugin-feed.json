@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T00:47:36.237Z",
+  "generated_at": "2026-11-12T10:14:50.461Z",
   "broadcasts": [],
   "events": [],
   "bounties": [],
@@ -22189,26 +22189,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-22",
-      "points_total": 1786,
+      "points_total": 1846,
       "points_spent": 1200,
-      "points_available": 586,
+      "points_available": 646,
       "months_in_clan": 13,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": null,
-        "missing_points": 214,
+        "missing_points": 154,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-03T06:04:33.488Z",
-          "delta": 60,
-          "reason": "Slayer",
-          "balance": 375
-        },
         {
           "timestamp": "2026-07-13T09:19:25.300Z",
           "delta": -400,
@@ -22354,10 +22348,16 @@
           "balance": 170
         },
         {
+          "timestamp": "2026-11-12T10:14:48.936Z",
+          "delta": 60,
+          "reason": "Hunter SOTW 1st place",
+          "balance": 230
+        },
+        {
           "timestamp": "2026-11-12T00:47:31.469Z",
           "delta": 416,
           "reason": "Tenure points",
-          "balance": 586
+          "balance": 646
         }
       ]
     },
