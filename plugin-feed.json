@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T15:56:04.775Z",
+  "generated_at": "2026-11-12T21:17:40.066Z",
   "broadcasts": [],
   "events": [],
   "bounties": [],
@@ -10448,24 +10448,32 @@
       ]
     },
     {
-      "rsn": "hagg",
+      "rsn": "Hagg",
       "rsn_key": "hagg",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
-      "join_date": "2026-11-12",
-      "points_total": 0,
+      "join_date": "2026-08-26",
+      "points_total": 78,
       "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
+      "points_available": 78,
+      "months_in_clan": 2,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 100,
-        "missing_months": 1,
+        "missing_points": 22,
+        "missing_months": 0,
         "can_claim": false
-      }
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-11-12T00:47:31.469Z",
+          "delta": 78,
+          "reason": "Tenure points",
+          "balance": 78
+        }
+      ]
     },
     {
       "rsn": "hausmartian",
