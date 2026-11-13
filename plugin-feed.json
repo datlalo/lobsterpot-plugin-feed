@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T00:47:37.566Z",
+  "generated_at": "2026-11-13T02:17:39.174Z",
   "broadcasts": [],
   "events": [],
   "bounties": [],
@@ -4852,6 +4852,70 @@
       ]
     },
     {
+      "rsn": "cdrive",
+      "rsn_key": "cdrive",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
+      "join_date": "2025-10-12",
+      "points_total": 687,
+      "points_spent": 500,
+      "points_available": 187,
+      "months_in_clan": 13,
+      "next_rank": {
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
+        "requirements": null,
+        "missing_points": 213,
+        "missing_months": 0,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-01-22T22:15:19.705Z",
+          "delta": 30,
+          "reason": "Discord adjustment",
+          "balance": 180
+        },
+        {
+          "timestamp": "2026-01-31T12:55:51.863Z",
+          "delta": 50,
+          "reason": "bingo participation",
+          "balance": 230
+        },
+        {
+          "timestamp": "2026-02-07T11:55:44.069Z",
+          "delta": -200,
+          "reason": "Rank upgraded to: Emerald",
+          "balance": 30
+        },
+        {
+          "timestamp": "2026-03-04T17:29:43.696Z",
+          "delta": 50,
+          "reason": "January Donor Raffle Winner",
+          "balance": 80
+        },
+        {
+          "timestamp": "2026-04-14T20:02:36.350Z",
+          "delta": 10,
+          "reason": "Discord adjustment",
+          "balance": 90
+        },
+        {
+          "timestamp": "2026-07-01T17:37:02.054Z",
+          "delta": -300,
+          "reason": "Rank upgrade: Ruby",
+          "balance": -210
+        },
+        {
+          "timestamp": "2026-11-13T00:47:33.142Z",
+          "delta": 397,
+          "reason": "Tenure points",
+          "balance": 187
+        }
+      ]
+    },
+    {
       "rsn": "Ceramiq",
       "rsn_key": "ceramiq",
       "bot_rank": "Gnome",
@@ -6900,70 +6964,6 @@
           "delta": 425,
           "reason": "Tenure points",
           "balance": 165
-        }
-      ]
-    },
-    {
-      "rsn": "drrive",
-      "rsn_key": "drrive",
-      "bot_rank": "Ruby",
-      "progression_rank": "Ruby",
-      "join_date": "2025-10-12",
-      "points_total": 687,
-      "points_spent": 500,
-      "points_available": 187,
-      "months_in_clan": 13,
-      "next_rank": {
-        "name": "Diamond",
-        "point_cost": 400,
-        "min_months": 5,
-        "requirements": null,
-        "missing_points": 213,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-01-22T22:15:19.705Z",
-          "delta": 30,
-          "reason": "Discord adjustment",
-          "balance": 180
-        },
-        {
-          "timestamp": "2026-01-31T12:55:51.863Z",
-          "delta": 50,
-          "reason": "bingo participation",
-          "balance": 230
-        },
-        {
-          "timestamp": "2026-02-07T11:55:44.069Z",
-          "delta": -200,
-          "reason": "Rank upgraded to: Emerald",
-          "balance": 30
-        },
-        {
-          "timestamp": "2026-03-04T17:29:43.696Z",
-          "delta": 50,
-          "reason": "January Donor Raffle Winner",
-          "balance": 80
-        },
-        {
-          "timestamp": "2026-04-14T20:02:36.350Z",
-          "delta": 10,
-          "reason": "Discord adjustment",
-          "balance": 90
-        },
-        {
-          "timestamp": "2026-07-01T17:37:02.054Z",
-          "delta": -300,
-          "reason": "Rank upgrade: Ruby",
-          "balance": -210
-        },
-        {
-          "timestamp": "2026-11-13T00:47:33.142Z",
-          "delta": 397,
-          "reason": "Tenure points",
-          "balance": 187
         }
       ]
     },
