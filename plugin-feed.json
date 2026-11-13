@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T22:03:50.227Z",
+  "generated_at": "2026-11-13T22:47:39.449Z",
   "broadcasts": [],
   "events": [],
   "bounties": [],
@@ -311,17 +311,17 @@
       "bot_rank": "Alt",
       "progression_rank": "Alt",
       "join_date": "2026-11-08",
-      "points_total": 3,
+      "points_total": 5,
       "points_spent": 0,
-      "points_available": 3,
+      "points_available": 5,
       "months_in_clan": 0,
       "next_rank": null,
       "points_history": [
         {
-          "timestamp": "2026-11-11T00:46:55.894Z",
-          "delta": 3,
+          "timestamp": "2026-11-13T22:47:34.871Z",
+          "delta": 5,
           "reason": "Tenure points",
-          "balance": 3
+          "balance": 5
         }
       ]
     },
