@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-15T14:42:52.388Z",
+  "generated_at": "2026-11-15T14:45:54.998Z",
   "broadcasts": [],
   "events": [],
   "bounties": [],
@@ -18242,20 +18242,58 @@
       "rsn_key": "plazmatix",
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
-      "join_date": "2026-11-15",
-      "points_total": 0,
-      "points_spent": 0,
-      "points_available": 0,
-      "months_in_clan": 0,
+      "join_date": "2026-03-03",
+      "points_total": 282,
+      "points_spent": 100,
+      "points_available": 182,
+      "months_in_clan": 8,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 200,
-        "missing_months": 2,
+        "missing_points": 18,
+        "missing_months": 0,
         "can_claim": false
-      }
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-02-16T03:19:07.463Z",
+          "delta": 10,
+          "reason": "Discord adjustment",
+          "balance": 0
+        },
+        {
+          "timestamp": "2026-03-03T01:43:38.999Z",
+          "delta": 10,
+          "reason": "Points transferred from unclaimed member on account link",
+          "balance": 10
+        },
+        {
+          "timestamp": "2026-04-05T11:21:09.295Z",
+          "delta": 10,
+          "reason": "Toxic's 99 Slayer event",
+          "balance": 20
+        },
+        {
+          "timestamp": "2026-04-14T19:59:44.296Z",
+          "delta": 5,
+          "reason": "Discord adjustment",
+          "balance": 25
+        },
+        {
+          "timestamp": "2026-06-24T12:13:16.204Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -75
+        },
+        {
+          "timestamp": "2026-11-15T00:47:36.556Z",
+          "delta": 257,
+          "reason": "Tenure points",
+          "balance": 182
+        }
+      ]
     },
     {
       "rsn": "Pokkel Robin",
