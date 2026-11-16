@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-16T07:21:35.751Z",
+  "generated_at": "2026-11-16T07:24:39.230Z",
   "broadcasts": [],
   "events": [],
   "bounties": [],
@@ -11136,26 +11136,21 @@
     {
       "rsn": "hsifreta",
       "rsn_key": "hsifreta",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
       "join_date": "2026-10-16",
       "points_total": 241,
-      "points_spent": 0,
-      "points_available": 241,
+      "points_spent": 100,
+      "points_available": 141,
       "months_in_clan": 1,
       "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
         "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Sapphire",
-        "created_at": "2026-11-16T07:21:33.564Z"
+        "missing_points": 59,
+        "missing_months": 1,
+        "can_claim": false
       },
       "points_history": [
         {
@@ -11201,10 +11196,16 @@
           "balance": 210
         },
         {
+          "timestamp": "2026-11-16T07:24:14.631Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": 110
+        },
+        {
           "timestamp": "2026-11-16T00:47:38.225Z",
           "delta": 31,
           "reason": "Tenure points",
-          "balance": 241
+          "balance": 141
         }
       ]
     },
