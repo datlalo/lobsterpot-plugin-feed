@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-16T15:30:10.580Z",
+  "generated_at": "2026-11-16T16:20:44.162Z",
   "broadcasts": [],
   "events": [],
   "bounties": [],
@@ -5602,34 +5602,23 @@
     {
       "rsn": "CupNoodles",
       "rsn_key": "cupnoodles",
-      "bot_rank": "Diamond",
-      "progression_rank": "Diamond",
+      "bot_rank": "Dragonstone",
+      "progression_rank": "Dragonstone",
       "join_date": "2026-03-16",
       "points_total": 1775,
-      "points_spent": 1000,
-      "points_available": 775,
+      "points_spent": 1500,
+      "points_available": 275,
       "months_in_clan": 8,
       "next_rank": {
-        "name": "Dragonstone",
-        "point_cost": 500,
-        "min_months": 8,
+        "name": "Onyx",
+        "point_cost": 800,
+        "min_months": 12,
         "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Dragonstone",
-        "created_at": "2026-11-16T15:30:08.297Z"
+        "missing_points": 525,
+        "missing_months": 4,
+        "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-09-06T15:15:31.714Z",
-          "delta": 10,
-          "reason": "100kc sarachnis sunday",
-          "balance": 220
-        },
         {
           "timestamp": "2026-09-12T18:09:08.197Z",
           "delta": -400,
@@ -5775,10 +5764,16 @@
           "balance": 530
         },
         {
+          "timestamp": "2026-11-16T16:20:42.640Z",
+          "delta": -500,
+          "reason": "Rank upgrade: Dragonstone",
+          "balance": 30
+        },
+        {
           "timestamp": "2026-11-16T00:47:38.225Z",
           "delta": 245,
           "reason": "Tenure points",
-          "balance": 775
+          "balance": 275
         }
       ]
     },
@@ -22931,34 +22926,23 @@
     {
       "rsn": "SuperRamen",
       "rsn_key": "superramen",
-      "bot_rank": "Diamond",
-      "progression_rank": "Diamond",
+      "bot_rank": "Dragonstone",
+      "progression_rank": "Dragonstone",
       "join_date": "2026-03-16",
       "points_total": 1775,
-      "points_spent": 1000,
-      "points_available": 775,
+      "points_spent": 1500,
+      "points_available": 275,
       "months_in_clan": 8,
       "next_rank": {
-        "name": "Dragonstone",
-        "point_cost": 500,
-        "min_months": 8,
+        "name": "Onyx",
+        "point_cost": 800,
+        "min_months": 12,
         "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Dragonstone",
-        "created_at": "2026-11-16T15:30:08.297Z"
+        "missing_points": 525,
+        "missing_months": 4,
+        "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-09-06T15:15:31.714Z",
-          "delta": 10,
-          "reason": "100kc sarachnis sunday",
-          "balance": 220
-        },
         {
           "timestamp": "2026-09-12T18:09:08.197Z",
           "delta": -400,
@@ -23104,10 +23088,16 @@
           "balance": 530
         },
         {
+          "timestamp": "2026-11-16T16:20:42.640Z",
+          "delta": -500,
+          "reason": "Rank upgrade: Dragonstone",
+          "balance": 30
+        },
+        {
           "timestamp": "2026-11-16T00:47:38.225Z",
           "delta": 245,
           "reason": "Tenure points",
-          "balance": 775
+          "balance": 275
         }
       ]
     },
