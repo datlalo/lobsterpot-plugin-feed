@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-16T12:02:48.655Z",
+  "generated_at": "2026-11-16T15:30:10.580Z",
   "broadcasts": [],
   "events": [],
   "bounties": [],
@@ -5617,6 +5617,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Dragonstone",
+        "created_at": "2026-11-16T15:30:08.297Z"
       },
       "points_history": [
         {
@@ -22941,6 +22946,11 @@
         "missing_points": 0,
         "missing_months": 0,
         "can_claim": true
+      },
+      "pending_claim": {
+        "type": "rank",
+        "rank": "Dragonstone",
+        "created_at": "2026-11-16T15:30:08.297Z"
       },
       "points_history": [
         {
