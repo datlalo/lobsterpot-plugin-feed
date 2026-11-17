@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-17T14:39:19.716Z",
+  "generated_at": "2026-11-17T21:39:28.568Z",
   "broadcasts": [],
   "events": [],
   "bounties": [],
@@ -12484,26 +12484,21 @@
     {
       "rsn": "IronTheGalch",
       "rsn_key": "ironthegalch",
-      "bot_rank": "Emerald",
-      "progression_rank": "Emerald",
+      "bot_rank": "Ruby",
+      "progression_rank": "Ruby",
       "join_date": "2026-08-11",
       "points_total": 603,
-      "points_spent": 300,
-      "points_available": 303,
+      "points_spent": 600,
+      "points_available": 3,
       "months_in_clan": 3,
       "next_rank": {
-        "name": "Ruby",
-        "point_cost": 300,
-        "min_months": 3,
+        "name": "Diamond",
+        "point_cost": 400,
+        "min_months": 5,
         "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Ruby",
-        "created_at": "2026-11-17T14:39:16.606Z"
+        "missing_points": 397,
+        "missing_months": 2,
+        "can_claim": false
       },
       "points_history": [
         {
@@ -12615,10 +12610,16 @@
           "balance": 205
         },
         {
+          "timestamp": "2026-11-17T21:39:27.047Z",
+          "delta": -300,
+          "reason": "Rank upgrade: Ruby",
+          "balance": -95
+        },
+        {
           "timestamp": "2026-11-17T00:47:39.886Z",
           "delta": 98,
           "reason": "Tenure points",
-          "balance": 303
+          "balance": 3
         }
       ]
     },
