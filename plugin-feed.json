@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T12:03:56.048Z",
+  "generated_at": "2026-11-18T12:06:58.900Z",
   "broadcasts": [],
   "events": [
     {
@@ -14,7 +14,24 @@
       "thread_id": "1572583114985705574"
     }
   ],
-  "bounties": [],
+  "bounties": [
+    {
+      "id": "85",
+      "name": "Royal Titans BOTW - Easy",
+      "active": true,
+      "points": 15,
+      "description": "Fire Element Staff Crown or Vigour Prayer Scroll or 50 KC",
+      "expires_at": "2026-11-26T00:00:00.000Z"
+    },
+    {
+      "id": "84",
+      "name": "Royal TItans BOTW - Beginner",
+      "active": true,
+      "points": 5,
+      "description": "1 KC with a clannie",
+      "expires_at": "2026-11-26T00:00:00.000Z"
+    }
+  ],
   "members": [
     {
       "rsn": "0gass",
