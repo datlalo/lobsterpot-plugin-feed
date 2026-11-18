@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T12:06:58.900Z",
+  "generated_at": "2026-11-18T12:10:01.439Z",
   "broadcasts": [],
   "events": [
     {
@@ -15,6 +15,38 @@
     }
   ],
   "bounties": [
+    {
+      "id": "89",
+      "name": "Royal Titans BOTW - Master",
+      "active": true,
+      "points": 75,
+      "description": "Pet (if you killed with a clannie, both of you can claim this bounty if one of you gets pet)",
+      "expires_at": "2026-11-26T00:00:00.000Z"
+    },
+    {
+      "id": "88",
+      "name": "Royal Titans BOTW - Elite",
+      "active": true,
+      "points": 60,
+      "description": "400 KC",
+      "expires_at": "2026-11-26T00:00:00.000Z"
+    },
+    {
+      "id": "87",
+      "name": "Royal Titans BOTW - Hard",
+      "active": true,
+      "points": 45,
+      "description": "250 KC",
+      "expires_at": "2026-11-26T00:00:00.000Z"
+    },
+    {
+      "id": "86",
+      "name": "Royal Titans BOTW - Medium",
+      "active": true,
+      "points": 30,
+      "description": "Perfect Royal Titans CA or Royal Titan Speedrunner or 125 KC",
+      "expires_at": "2026-11-26T00:00:00.000Z"
+    },
     {
       "id": "85",
       "name": "Royal Titans BOTW - Easy",
