@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T15:20:13.095Z",
+  "generated_at": "2026-11-18T15:23:16.078Z",
   "broadcasts": [],
   "events": [
     {
@@ -44,7 +44,7 @@
       "name": "Royal Titans BOTW - Medium",
       "active": true,
       "points": 30,
-      "description": "Perfect Royal Titans CA or Royal Titan Speedrunner or 125 KC",
+      "description": "Perfect Royal Titans CA or  <1:30 fight duration or 125 KC",
       "expires_at": "2026-11-26T00:00:00.000Z"
     },
     {
@@ -11214,16 +11214,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-10-16",
-      "points_total": 243,
+      "points_total": 293,
       "points_spent": 100,
-      "points_available": 143,
+      "points_available": 193,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 57,
+        "missing_points": 7,
         "missing_months": 1,
         "can_claim": false
       },
@@ -11277,31 +11277,49 @@
           "balance": 110
         },
         {
+          "timestamp": "2026-11-18T15:20:22.799Z",
+          "delta": 15,
+          "reason": "Bounty: Royal Titans BOTW - Easy",
+          "balance": 125
+        },
+        {
+          "timestamp": "2026-11-18T15:20:31.129Z",
+          "delta": 30,
+          "reason": "Bounty: Royal Titans BOTW - Medium",
+          "balance": 155
+        },
+        {
+          "timestamp": "2026-11-18T15:22:21.804Z",
+          "delta": 5,
+          "reason": "Bounty: Royal TItans BOTW - Beginner",
+          "balance": 160
+        },
+        {
           "timestamp": "2026-11-18T00:47:41.582Z",
           "delta": 33,
           "reason": "Tenure points",
-          "balance": 143
+          "balance": 193
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "84",
           "name": "Royal TItans BOTW - Beginner",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-18T14:02:09.658Z"
         },
         {
           "bounty_id": "85",
           "name": "Royal Titans BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-18T14:20:41.404Z"
         },
         {
           "bounty_id": "86",
           "name": "Royal Titans BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-18T14:27:47.025Z"
         }
