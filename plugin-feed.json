@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T14:27:48.552Z",
+  "generated_at": "2026-11-18T15:20:13.095Z",
   "broadcasts": [],
   "events": [
     {
@@ -8795,26 +8795,20 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-11-02",
-      "points_total": 2255,
+      "points_total": 2260,
       "points_spent": 2200,
-      "points_available": 55,
+      "points_available": 60,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
         "requirements": null,
-        "missing_points": 945,
+        "missing_points": 940,
         "missing_months": 4,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-09-07T12:33:06.251Z",
-          "delta": 30,
-          "reason": "Bounty: Crafting SOTW - Medium",
-          "balance": 549
-        },
         {
           "timestamp": "2026-09-14T23:54:36.391Z",
           "delta": 75,
@@ -8960,17 +8954,23 @@
           "balance": -326
         },
         {
+          "timestamp": "2026-11-18T15:20:11.591Z",
+          "delta": 5,
+          "reason": "Bounty: Royal TItans BOTW - Beginner",
+          "balance": -321
+        },
+        {
           "timestamp": "2026-11-18T00:47:41.582Z",
           "delta": 381,
           "reason": "Tenure points",
-          "balance": 55
+          "balance": 60
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "84",
           "name": "Royal TItans BOTW - Beginner",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-18T13:44:49.221Z"
         }
@@ -24772,26 +24772,20 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-11-02",
-      "points_total": 2255,
+      "points_total": 2260,
       "points_spent": 2200,
-      "points_available": 55,
+      "points_available": 60,
       "months_in_clan": 12,
       "next_rank": {
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
         "requirements": null,
-        "missing_points": 945,
+        "missing_points": 940,
         "missing_months": 4,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-09-07T12:33:06.251Z",
-          "delta": 30,
-          "reason": "Bounty: Crafting SOTW - Medium",
-          "balance": 549
-        },
         {
           "timestamp": "2026-09-14T23:54:36.391Z",
           "delta": 75,
@@ -24937,17 +24931,23 @@
           "balance": -326
         },
         {
+          "timestamp": "2026-11-18T15:20:11.591Z",
+          "delta": 5,
+          "reason": "Bounty: Royal TItans BOTW - Beginner",
+          "balance": -321
+        },
+        {
           "timestamp": "2026-11-18T00:47:41.582Z",
           "delta": 381,
           "reason": "Tenure points",
-          "balance": 55
+          "balance": 60
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "84",
           "name": "Royal TItans BOTW - Beginner",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-18T13:44:49.221Z"
         }
