@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T13:44:50.739Z",
+  "generated_at": "2026-11-18T14:02:11.174Z",
   "broadcasts": [],
   "events": [
     {
@@ -11281,6 +11281,15 @@
           "delta": 33,
           "reason": "Tenure points",
           "balance": 143
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "84",
+          "name": "Royal TItans BOTW - Beginner",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-18T14:02:09.658Z"
         }
       ]
     },
