@@ -1,8 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T00:47:46.181Z",
+  "generated_at": "2026-11-18T12:03:56.048Z",
   "broadcasts": [],
-  "events": [],
+  "events": [
+    {
+      "id": "ea56af7f-b794-4c82-9471-96e007fe46ba",
+      "type": "event",
+      "title": "Royal Titans - Boss of the Week",
+      "location": null,
+      "starts_at": "2026-11-18T12:00:00.000Z",
+      "ends_at": "2026-11-25T12:00:00.000Z",
+      "description": "https://wiseoldman.net/competitions/166596",
+      "thread_id": "1572583114985705574"
+    }
+  ],
   "bounties": [],
   "members": [
     {
