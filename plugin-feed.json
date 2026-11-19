@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T21:51:09.777Z",
+  "generated_at": "2026-11-19T22:06:02.292Z",
   "broadcasts": [],
   "events": [
     {
@@ -5474,7 +5474,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-11-19T00:47:43.257Z",
+          "timestamp": "2026-11-19T22:06:00.758Z",
           "delta": 197,
           "reason": "Tenure points",
           "balance": 197
@@ -20992,9 +20992,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-02-16",
-      "points_total": 291,
+      "points_total": 276,
       "points_spent": 0,
-      "points_available": 291,
+      "points_available": 276,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Sapphire",
@@ -21007,16 +21007,10 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-02-17T20:08:15.895Z",
-          "delta": 15,
-          "reason": "wintertodt and movie",
-          "balance": 15
-        },
-        {
-          "timestamp": "2026-11-19T00:47:43.257Z",
+          "timestamp": "2026-11-19T22:06:00.764Z",
           "delta": 276,
           "reason": "Tenure points",
-          "balance": 291
+          "balance": 276
         }
       ]
     },
@@ -25573,7 +25567,7 @@
       },
       "points_history": [
         {
-          "timestamp": "2026-11-19T00:47:43.257Z",
+          "timestamp": "2026-11-19T22:06:00.770Z",
           "delta": 139,
           "reason": "Tenure points",
           "balance": 139
@@ -25743,26 +25737,26 @@
       "rsn_key": "vnx",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
-      "join_date": "2026-07-15",
-      "points_total": 127,
+      "join_date": "2026-10-28",
+      "points_total": 22,
       "points_spent": 0,
-      "points_available": 127,
-      "months_in_clan": 4,
+      "points_available": 22,
+      "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
+        "missing_points": 78,
+        "missing_months": 1,
+        "can_claim": false
       },
       "points_history": [
         {
-          "timestamp": "2026-11-19T00:47:43.257Z",
-          "delta": 127,
+          "timestamp": "2026-11-19T22:06:00.775Z",
+          "delta": 22,
           "reason": "Tenure points",
-          "balance": 127
+          "balance": 22
         }
       ]
     },
