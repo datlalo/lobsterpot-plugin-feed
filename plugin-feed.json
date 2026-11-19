@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T03:24:02.531Z",
+  "generated_at": "2026-11-19T07:02:44.645Z",
   "broadcasts": [],
   "events": [
     {
@@ -13538,16 +13538,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-04-12",
-      "points_total": 436,
+      "points_total": 441,
       "points_spent": 300,
-      "points_available": 136,
+      "points_available": 141,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 164,
+        "missing_points": 159,
         "missing_months": 0,
         "can_claim": false
       },
@@ -13607,17 +13607,23 @@
           "balance": -85
         },
         {
+          "timestamp": "2026-11-19T07:02:43.101Z",
+          "delta": 5,
+          "reason": "Bounty: Royal TItans BOTW - Beginner",
+          "balance": -80
+        },
+        {
           "timestamp": "2026-11-19T00:47:43.257Z",
           "delta": 221,
           "reason": "Tenure points",
-          "balance": 136
+          "balance": 141
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "84",
           "name": "Royal TItans BOTW - Beginner",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-18T16:46:48.748Z"
         },
