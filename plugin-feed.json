@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T07:02:44.645Z",
+  "generated_at": "2026-11-19T07:05:47.252Z",
   "broadcasts": [],
   "events": [
     {
@@ -5434,9 +5434,9 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-10-09",
-      "points_total": 341,
+      "points_total": 371,
       "points_spent": 100,
-      "points_available": 241,
+      "points_available": 271,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Emerald",
@@ -5515,17 +5515,23 @@
           "balance": 200
         },
         {
+          "timestamp": "2026-11-19T07:05:07.529Z",
+          "delta": 30,
+          "reason": "Bounty: Royal Titans BOTW - Medium",
+          "balance": 230
+        },
+        {
           "timestamp": "2026-11-19T00:47:43.257Z",
           "delta": 41,
           "reason": "Tenure points",
-          "balance": 241
+          "balance": 271
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "86",
           "name": "Royal Titans BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-18T15:53:11.337Z"
         }
@@ -10998,26 +11004,20 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-09-03",
-      "points_total": 2197,
+      "points_total": 2227,
       "points_spent": 2010,
-      "points_available": 187,
+      "points_available": 217,
       "months_in_clan": 14,
       "next_rank": {
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
         "requirements": null,
-        "missing_points": 813,
+        "missing_points": 783,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-21T01:23:37.503Z",
-          "delta": 15,
-          "reason": "Screenshot participation",
-          "balance": -235
-        },
         {
           "timestamp": "2026-08-29T17:01:03.129Z",
           "delta": 15,
@@ -11163,17 +11163,23 @@
           "balance": -255
         },
         {
+          "timestamp": "2026-11-19T07:04:38.908Z",
+          "delta": 30,
+          "reason": "Bounty: Royal Titans BOTW - Medium",
+          "balance": -225
+        },
+        {
           "timestamp": "2026-11-19T00:47:43.257Z",
           "delta": 442,
           "reason": "Tenure points",
-          "balance": 187
+          "balance": 217
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "86",
           "name": "Royal Titans BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-18T16:44:08.587Z"
         }
@@ -13538,16 +13544,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-04-12",
-      "points_total": 441,
+      "points_total": 456,
       "points_spent": 300,
-      "points_available": 141,
+      "points_available": 156,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 159,
+        "missing_points": 144,
         "missing_months": 0,
         "can_claim": false
       },
@@ -13613,10 +13619,16 @@
           "balance": -80
         },
         {
+          "timestamp": "2026-11-19T07:03:50.052Z",
+          "delta": 15,
+          "reason": "Bounty: Royal Titans BOTW - Easy",
+          "balance": -65
+        },
+        {
           "timestamp": "2026-11-19T00:47:43.257Z",
           "delta": 221,
           "reason": "Tenure points",
-          "balance": 141
+          "balance": 156
         }
       ],
       "pending_bounties": [
@@ -13637,7 +13649,7 @@
         {
           "bounty_id": "85",
           "name": "Royal Titans BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-18T18:09:54.426Z"
         }
@@ -19282,32 +19294,20 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-11",
-      "points_total": 1493,
+      "points_total": 1538,
       "points_spent": 1030,
-      "points_available": 463,
+      "points_available": 508,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": null,
-        "missing_points": 37,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-02T06:56:53.211Z",
-          "delta": 40,
-          "reason": "Bounty: Farming - Hard",
-          "balance": 125
-        },
-        {
-          "timestamp": "2026-07-03T06:00:48.794Z",
-          "delta": 100,
-          "reason": "Slayer",
-          "balance": 225
-        },
         {
           "timestamp": "2026-07-07T08:06:17.303Z",
           "delta": 60,
@@ -19447,24 +19447,36 @@
           "balance": 210
         },
         {
+          "timestamp": "2026-11-19T07:04:08.124Z",
+          "delta": 30,
+          "reason": "Bounty: Royal Titans BOTW - Medium",
+          "balance": 240
+        },
+        {
+          "timestamp": "2026-11-19T07:04:20.698Z",
+          "delta": 15,
+          "reason": "Bounty: Royal Titans BOTW - Easy",
+          "balance": 255
+        },
+        {
           "timestamp": "2026-11-19T00:47:43.257Z",
           "delta": 253,
           "reason": "Tenure points",
-          "balance": 463
+          "balance": 508
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "85",
           "name": "Royal Titans BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-19T02:31:50.039Z"
         },
         {
           "bounty_id": "86",
           "name": "Royal Titans BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-19T03:24:01.018Z"
         }
@@ -23732,26 +23744,20 @@
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-09-03",
-      "points_total": 2197,
+      "points_total": 2227,
       "points_spent": 2010,
-      "points_available": 187,
+      "points_available": 217,
       "months_in_clan": 14,
       "next_rank": {
         "name": "Zenyte",
         "point_cost": 1000,
         "min_months": 16,
         "requirements": null,
-        "missing_points": 813,
+        "missing_points": 783,
         "missing_months": 2,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-21T01:23:37.503Z",
-          "delta": 15,
-          "reason": "Screenshot participation",
-          "balance": -235
-        },
         {
           "timestamp": "2026-08-29T17:01:03.129Z",
           "delta": 15,
@@ -23897,17 +23903,23 @@
           "balance": -255
         },
         {
+          "timestamp": "2026-11-19T07:04:38.908Z",
+          "delta": 30,
+          "reason": "Bounty: Royal Titans BOTW - Medium",
+          "balance": -225
+        },
+        {
           "timestamp": "2026-11-19T00:47:43.257Z",
           "delta": 442,
           "reason": "Tenure points",
-          "balance": 187
+          "balance": 217
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "86",
           "name": "Royal Titans BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-18T16:44:08.587Z"
         }
