@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T22:09:05.053Z",
+  "generated_at": "2026-11-19T22:30:04.018Z",
   "broadcasts": [],
   "events": [
     {
@@ -18129,8 +18129,8 @@
       ]
     },
     {
-      "rsn": "part e pat",
-      "rsn_key": "partepat",
+      "rsn": "PartyPat",
+      "rsn_key": "partypat",
       "bot_rank": "Onyx",
       "progression_rank": "Onyx",
       "join_date": "2025-09-12",
