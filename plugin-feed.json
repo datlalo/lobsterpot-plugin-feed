@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T22:30:04.018Z",
+  "generated_at": "2026-11-19T23:55:36.839Z",
   "broadcasts": [],
   "events": [
     {
@@ -1014,14 +1014,14 @@
       "points_total": 30,
       "points_spent": 0,
       "points_available": 30,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 70,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
@@ -4216,7 +4216,7 @@
       "points_total": 858,
       "points_spent": 600,
       "points_available": 258,
-      "months_in_clan": 9,
+      "months_in_clan": 10,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -4376,15 +4376,15 @@
       "points_total": 1699,
       "points_spent": 1000,
       "points_available": 699,
-      "months_in_clan": 7,
+      "months_in_clan": 8,
       "next_rank": {
         "name": "Dragonstone",
         "point_cost": 500,
         "min_months": 8,
         "requirements": null,
         "missing_points": 0,
-        "missing_months": 1,
-        "can_claim": false
+        "missing_months": 0,
+        "can_claim": true
       },
       "points_history": [
         {
@@ -5256,7 +5256,7 @@
       "points_total": 711,
       "points_spent": 0,
       "points_available": 711,
-      "months_in_clan": 14,
+      "months_in_clan": 15,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -9344,7 +9344,7 @@
       "points_total": 202,
       "points_spent": 100,
       "points_available": 102,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
@@ -12145,6 +12145,15 @@
           "reason": "Tenure points",
           "balance": 311
         }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "86",
+          "name": "Royal Titans BOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-19T23:55:35.318Z"
+        }
       ]
     },
     {
@@ -12458,7 +12467,7 @@
       "points_total": 183,
       "points_spent": 0,
       "points_available": 183,
-      "months_in_clan": 5,
+      "months_in_clan": 6,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -17773,7 +17782,7 @@
       "points_total": 91,
       "points_spent": 0,
       "points_available": 91,
-      "months_in_clan": 2,
+      "months_in_clan": 3,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -17947,7 +17956,7 @@
       "points_total": 152,
       "points_spent": 0,
       "points_available": 152,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -18315,7 +18324,7 @@
       "points_total": 308,
       "points_spent": 0,
       "points_available": 308,
-      "months_in_clan": 9,
+      "months_in_clan": 10,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -19007,7 +19016,7 @@
       "points_total": 456,
       "points_spent": 0,
       "points_available": 456,
-      "months_in_clan": 14,
+      "months_in_clan": 15,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -19345,7 +19354,7 @@
       "points_total": 647,
       "points_spent": 300,
       "points_available": 347,
-      "months_in_clan": 5,
+      "months_in_clan": 6,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -22843,7 +22852,7 @@
       "points_total": 858,
       "points_spent": 600,
       "points_available": 258,
-      "months_in_clan": 9,
+      "months_in_clan": 10,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
