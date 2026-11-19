@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T23:55:36.839Z",
+  "generated_at": "2026-11-19T23:56:18.868Z",
   "broadcasts": [],
   "events": [
     {
@@ -11993,16 +11993,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-03-18",
-      "points_total": 911,
+      "points_total": 946,
       "points_spent": 600,
-      "points_available": 311,
+      "points_available": 346,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": null,
-        "missing_points": 89,
+        "missing_points": 54,
         "missing_months": 0,
         "can_claim": false
       },
@@ -12140,19 +12140,38 @@
           "balance": 65
         },
         {
+          "timestamp": "2026-11-19T23:56:15.170Z",
+          "delta": 30,
+          "reason": "Bounty: Royal Titans BOTW - Medium",
+          "balance": 95
+        },
+        {
+          "timestamp": "2026-11-19T23:56:17.355Z",
+          "delta": 5,
+          "reason": "Bounty: Royal TItans BOTW - Beginner",
+          "balance": 100
+        },
+        {
           "timestamp": "2026-11-19T00:47:43.257Z",
           "delta": 246,
           "reason": "Tenure points",
-          "balance": 311
+          "balance": 346
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "86",
           "name": "Royal Titans BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-19T23:55:35.318Z"
+        },
+        {
+          "bounty_id": "84",
+          "name": "Royal TItans BOTW - Beginner",
+          "status": "approved",
+          "reason": null,
+          "created_at": "2026-11-19T23:55:41.514Z"
         }
       ]
     },
