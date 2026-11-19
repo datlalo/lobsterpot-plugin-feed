@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T22:06:02.292Z",
+  "generated_at": "2026-11-19T22:09:05.053Z",
   "broadcasts": [],
   "events": [
     {
@@ -14940,16 +14940,16 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-10-31",
-      "points_total": 69,
+      "points_total": 84,
       "points_spent": 0,
-      "points_available": 69,
+      "points_available": 84,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 31,
+        "missing_points": 16,
         "missing_months": 1,
         "can_claim": false
       },
@@ -14973,10 +14973,16 @@
           "balance": 50
         },
         {
+          "timestamp": "2026-11-19T22:08:25.989Z",
+          "delta": 15,
+          "reason": "Bounty: Royal Titans BOTW - Easy",
+          "balance": 65
+        },
+        {
           "timestamp": "2026-11-19T00:47:43.257Z",
           "delta": 19,
           "reason": "Tenure points",
-          "balance": 69
+          "balance": 84
         }
       ],
       "pending_bounties": [
@@ -14990,7 +14996,7 @@
         {
           "bounty_id": "85",
           "name": "Royal Titans BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-19T21:00:52.806Z"
         }
