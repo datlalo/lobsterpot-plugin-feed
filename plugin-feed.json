@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T12:52:04.485Z",
+  "generated_at": "2026-11-19T14:15:01.384Z",
   "broadcasts": [],
   "events": [
     {
@@ -3091,34 +3091,6 @@
           "delta": 357,
           "reason": "Tenure points",
           "balance": 377
-        }
-      ]
-    },
-    {
-      "rsn": "bajs321",
-      "rsn_key": "bajs321",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-11-09",
-      "points_total": 10,
-      "points_spent": 0,
-      "points_available": 10,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 90,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-11-19T00:47:43.257Z",
-          "delta": 10,
-          "reason": "Tenure points",
-          "balance": 10
         }
       ]
     },
@@ -7050,26 +7022,6 @@
       ]
     },
     {
-      "rsn": "DreamSauce",
-      "rsn_key": "dreamsauce",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2026-11-13",
-      "points_total": 6,
-      "points_spent": 0,
-      "points_available": 6,
-      "months_in_clan": 0,
-      "next_rank": null,
-      "points_history": [
-        {
-          "timestamp": "2026-11-19T00:47:43.257Z",
-          "delta": 6,
-          "reason": "Tenure points",
-          "balance": 6
-        }
-      ]
-    },
-    {
       "rsn": "Du5tyr0ck1",
       "rsn_key": "du5tyr0ck1",
       "bot_rank": "Gnome",
@@ -8080,40 +8032,6 @@
           "delta": 83,
           "reason": "Tenure points",
           "balance": 83
-        }
-      ]
-    },
-    {
-      "rsn": "EngiMaini",
-      "rsn_key": "engimaini",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2026-07-17",
-      "points_total": 125,
-      "points_spent": 100,
-      "points_available": 25,
-      "months_in_clan": 4,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 175,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-11-16T07:28:23.775Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": -100
-        },
-        {
-          "timestamp": "2026-11-19T00:47:43.257Z",
-          "delta": 125,
-          "reason": "Tenure points",
-          "balance": 25
         }
       ]
     },
@@ -23336,40 +23254,6 @@
       ]
     },
     {
-      "rsn": "sutured soul",
-      "rsn_key": "suturedsoul",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2026-07-17",
-      "points_total": 125,
-      "points_spent": 100,
-      "points_available": 25,
-      "months_in_clan": 4,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 175,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-11-16T07:28:23.775Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": -100
-        },
-        {
-          "timestamp": "2026-11-19T00:47:43.257Z",
-          "delta": 125,
-          "reason": "Tenure points",
-          "balance": 25
-        }
-      ]
-    },
-    {
       "rsn": "syly",
       "rsn_key": "syly",
       "bot_rank": "Ruby",
@@ -26942,24 +26826,24 @@
       ]
     },
     {
-      "rsn": "Zyn 9mg",
-      "rsn_key": "zyn9mg",
-      "bot_rank": "Alt",
-      "progression_rank": "Alt",
-      "join_date": "2026-11-02",
-      "points_total": 17,
+      "rsn": "Zyn 12mg",
+      "rsn_key": "zyn12mg",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-11-19",
+      "points_total": 0,
       "points_spent": 0,
-      "points_available": 17,
+      "points_available": 0,
       "months_in_clan": 0,
-      "next_rank": null,
-      "points_history": [
-        {
-          "timestamp": "2026-11-19T00:47:43.257Z",
-          "delta": 17,
-          "reason": "Tenure points",
-          "balance": 17
-        }
-      ]
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 100,
+        "missing_months": 1,
+        "can_claim": false
+      }
     },
     {
       "rsn": "zyperii",
