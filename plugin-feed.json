@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T21:19:30.897Z",
+  "generated_at": "2026-11-19T21:45:04.082Z",
   "broadcasts": [],
   "events": [
     {
@@ -26411,6 +26411,26 @@
           "balance": 27
         }
       ]
+    },
+    {
+      "rsn": "woobop",
+      "rsn_key": "woobop",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
+      "join_date": "2026-11-19",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
+        "requirements": null,
+        "missing_points": 300,
+        "missing_months": 3,
+        "can_claim": false
+      }
     },
     {
       "rsn": "Woofle Boi",
