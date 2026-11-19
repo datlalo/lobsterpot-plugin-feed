@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T21:16:28.250Z",
+  "generated_at": "2026-11-19T21:19:30.897Z",
   "broadcasts": [],
   "events": [
     {
@@ -5581,26 +5581,21 @@
     {
       "rsn": "creyns",
       "rsn_key": "creyns",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
+      "bot_rank": "Emerald",
+      "progression_rank": "Emerald",
       "join_date": "2026-01-23",
       "points_total": 300,
-      "points_spent": 100,
-      "points_available": 200,
+      "points_spent": 300,
+      "points_available": 0,
       "months_in_clan": 9,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Ruby",
+        "point_cost": 300,
+        "min_months": 3,
         "requirements": null,
-        "missing_points": 0,
+        "missing_points": 300,
         "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Emerald",
-        "created_at": "2026-11-19T21:16:26.086Z"
+        "can_claim": false
       },
       "points_history": [
         {
@@ -5610,10 +5605,16 @@
           "balance": -100
         },
         {
+          "timestamp": "2026-11-19T21:17:53.382Z",
+          "delta": -200,
+          "reason": "Rank upgrade: Emerald",
+          "balance": -300
+        },
+        {
           "timestamp": "2026-11-19T00:47:43.257Z",
           "delta": 300,
           "reason": "Tenure points",
-          "balance": 200
+          "balance": 0
         }
       ]
     },
