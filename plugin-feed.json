@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T07:22:52.397Z",
+  "generated_at": "2026-11-19T08:23:15.077Z",
   "broadcasts": [],
   "events": [
     {
@@ -52,7 +52,7 @@
       "name": "Royal Titans BOTW - Easy",
       "active": true,
       "points": 15,
-      "description": "Fire Element Staff Crown or Vigour Prayer Scroll or 50 KC",
+      "description": "Staff Crown piece or Prayer Scroll or 50 KC",
       "expires_at": "2026-11-26T00:00:00.000Z"
     },
     {
