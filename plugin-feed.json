@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T22:53:06.041Z",
+  "generated_at": "2026-11-20T23:05:20.814Z",
   "broadcasts": [],
   "events": [
     {
@@ -5848,7 +5848,7 @@
       "points_total": 122,
       "points_spent": 0,
       "points_available": 122,
-      "months_in_clan": 3,
+      "months_in_clan": 4,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -8331,26 +8331,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-21",
-      "points_total": 1515,
+      "points_total": 1520,
       "points_spent": 1200,
-      "points_available": 315,
-      "months_in_clan": 13,
+      "points_available": 320,
+      "months_in_clan": 14,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": null,
-        "missing_points": 485,
+        "missing_points": 480,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-08T19:06:16.568Z",
-          "delta": 10,
-          "reason": "Volcanic Mine Event",
-          "balance": -150
-        },
         {
           "timestamp": "2026-07-13T15:15:05.285Z",
           "delta": 15,
@@ -8496,17 +8490,23 @@
           "balance": -110
         },
         {
+          "timestamp": "2026-11-20T23:05:19.295Z",
+          "delta": 5,
+          "reason": "Bounty: Royal TItans BOTW - Beginner",
+          "balance": -105
+        },
+        {
           "timestamp": "2026-11-20T00:06:00.077Z",
           "delta": 425,
           "reason": "Tenure points",
-          "balance": 315
+          "balance": 320
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "84",
           "name": "Royal TItans BOTW - Beginner",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-20T22:46:31.240Z"
         }
@@ -8518,26 +8518,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2025-09-21",
-      "points_total": 1515,
+      "points_total": 1520,
       "points_spent": 1200,
-      "points_available": 315,
-      "months_in_clan": 13,
+      "points_available": 320,
+      "months_in_clan": 14,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": null,
-        "missing_points": 485,
+        "missing_points": 480,
         "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-08T19:06:16.568Z",
-          "delta": 10,
-          "reason": "Volcanic Mine Event",
-          "balance": -150
-        },
         {
           "timestamp": "2026-07-13T15:15:05.285Z",
           "delta": 15,
@@ -8683,17 +8677,23 @@
           "balance": -110
         },
         {
+          "timestamp": "2026-11-20T23:05:19.295Z",
+          "delta": 5,
+          "reason": "Bounty: Royal TItans BOTW - Beginner",
+          "balance": -105
+        },
+        {
           "timestamp": "2026-11-20T00:06:00.077Z",
           "delta": 425,
           "reason": "Tenure points",
-          "balance": 315
+          "balance": 320
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "84",
           "name": "Royal TItans BOTW - Beginner",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-20T22:46:31.240Z"
         }
@@ -9789,7 +9789,7 @@
       "points_total": 456,
       "points_spent": 0,
       "points_available": 456,
-      "months_in_clan": 14,
+      "months_in_clan": 15,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
@@ -13963,7 +13963,7 @@
       "points_total": 456,
       "points_spent": 300,
       "points_available": 156,
-      "months_in_clan": 14,
+      "months_in_clan": 15,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -19235,7 +19235,7 @@
       "points_total": 152,
       "points_spent": 0,
       "points_available": 152,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -22381,7 +22381,7 @@
       "points_total": 626,
       "points_spent": 300,
       "points_available": 326,
-      "months_in_clan": 14,
+      "months_in_clan": 15,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
@@ -24346,7 +24346,7 @@
       "points_total": 237,
       "points_spent": 0,
       "points_available": 237,
-      "months_in_clan": 4,
+      "months_in_clan": 5,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
@@ -25813,14 +25813,14 @@
       "points_total": 30,
       "points_spent": 0,
       "points_available": 30,
-      "months_in_clan": 0,
+      "months_in_clan": 1,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
         "missing_points": 70,
-        "missing_months": 1,
+        "missing_months": 0,
         "can_claim": false
       },
       "points_history": [
