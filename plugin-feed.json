@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T05:12:42.975Z",
+  "generated_at": "2026-11-20T05:15:45.360Z",
   "broadcasts": [],
   "events": [
     {
@@ -5844,26 +5844,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2026-03-16",
-      "points_total": 1784,
+      "points_total": 1814,
       "points_spent": 1500,
-      "points_available": 284,
+      "points_available": 314,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": null,
-        "missing_points": 516,
+        "missing_points": 486,
         "missing_months": 4,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-09-14T23:56:10.137Z",
-          "delta": 50,
-          "reason": "Saradomin Mid rng",
-          "balance": -130
-        },
         {
           "timestamp": "2026-09-15T02:44:10.682Z",
           "delta": 10,
@@ -6009,10 +6003,16 @@
           "balance": 35
         },
         {
+          "timestamp": "2026-11-20T05:13:28.002Z",
+          "delta": 30,
+          "reason": "Bounty: Royal Titans BOTW - Medium",
+          "balance": 65
+        },
+        {
           "timestamp": "2026-11-20T00:06:00.077Z",
           "delta": 249,
           "reason": "Tenure points",
-          "balance": 284
+          "balance": 314
         }
       ],
       "pending_bounties": [
@@ -6026,7 +6026,7 @@
         {
           "bounty_id": "86",
           "name": "Royal Titans BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-20T04:33:39.680Z"
         }
@@ -23330,26 +23330,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2026-03-16",
-      "points_total": 1784,
+      "points_total": 1814,
       "points_spent": 1500,
-      "points_available": 284,
+      "points_available": 314,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": null,
-        "missing_points": 516,
+        "missing_points": 486,
         "missing_months": 4,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-09-14T23:56:10.137Z",
-          "delta": 50,
-          "reason": "Saradomin Mid rng",
-          "balance": -130
-        },
         {
           "timestamp": "2026-09-15T02:44:10.682Z",
           "delta": 10,
@@ -23495,10 +23489,16 @@
           "balance": 35
         },
         {
+          "timestamp": "2026-11-20T05:13:28.002Z",
+          "delta": 30,
+          "reason": "Bounty: Royal Titans BOTW - Medium",
+          "balance": 65
+        },
+        {
           "timestamp": "2026-11-20T00:06:00.077Z",
           "delta": 249,
           "reason": "Tenure points",
-          "balance": 284
+          "balance": 314
         }
       ],
       "pending_bounties": [
@@ -23512,7 +23512,7 @@
         {
           "bounty_id": "86",
           "name": "Royal Titans BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-20T04:33:39.680Z"
         }
