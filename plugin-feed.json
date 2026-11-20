@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T04:33:41.200Z",
+  "generated_at": "2026-11-20T05:12:42.975Z",
   "broadcasts": [],
   "events": [
     {
@@ -5844,26 +5844,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2026-03-16",
-      "points_total": 1779,
+      "points_total": 1784,
       "points_spent": 1500,
-      "points_available": 279,
+      "points_available": 284,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": null,
-        "missing_points": 521,
+        "missing_points": 516,
         "missing_months": 4,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-09-12T18:09:08.197Z",
-          "delta": -400,
-          "reason": "Rank upgrade: Diamond",
-          "balance": -180
-        },
         {
           "timestamp": "2026-09-14T23:56:10.137Z",
           "delta": 50,
@@ -6009,17 +6003,23 @@
           "balance": 30
         },
         {
+          "timestamp": "2026-11-20T05:12:41.457Z",
+          "delta": 5,
+          "reason": "Bounty: Royal TItans BOTW - Beginner",
+          "balance": 35
+        },
+        {
           "timestamp": "2026-11-20T00:06:00.077Z",
           "delta": 249,
           "reason": "Tenure points",
-          "balance": 279
+          "balance": 284
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "84",
           "name": "Royal TItans BOTW - Beginner",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-20T04:33:18.776Z"
         },
@@ -23330,26 +23330,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2026-03-16",
-      "points_total": 1779,
+      "points_total": 1784,
       "points_spent": 1500,
-      "points_available": 279,
+      "points_available": 284,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": null,
-        "missing_points": 521,
+        "missing_points": 516,
         "missing_months": 4,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-09-12T18:09:08.197Z",
-          "delta": -400,
-          "reason": "Rank upgrade: Diamond",
-          "balance": -180
-        },
         {
           "timestamp": "2026-09-14T23:56:10.137Z",
           "delta": 50,
@@ -23495,17 +23489,23 @@
           "balance": 30
         },
         {
+          "timestamp": "2026-11-20T05:12:41.457Z",
+          "delta": 5,
+          "reason": "Bounty: Royal TItans BOTW - Beginner",
+          "balance": 35
+        },
+        {
           "timestamp": "2026-11-20T00:06:00.077Z",
           "delta": 249,
           "reason": "Tenure points",
-          "balance": 279
+          "balance": 284
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "84",
           "name": "Royal TItans BOTW - Beginner",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-20T04:33:18.776Z"
         },
