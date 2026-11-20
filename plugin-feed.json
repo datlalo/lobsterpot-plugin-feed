@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T22:32:43.694Z",
+  "generated_at": "2026-11-20T22:40:46.185Z",
   "broadcasts": [],
   "events": [
     {
@@ -10437,6 +10437,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-11-20T17:11:22.901Z"
+        },
+        {
+          "bounty_id": "85",
+          "name": "Royal Titans BOTW - Easy",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-20T22:40:44.661Z"
         }
       ]
     },
