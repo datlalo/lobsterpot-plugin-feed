@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T23:18:46.240Z",
+  "generated_at": "2026-11-20T23:21:48.529Z",
   "broadcasts": [],
   "events": [
     {
@@ -21244,16 +21244,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-07-09",
-      "points_total": 194,
+      "points_total": 224,
       "points_spent": 100,
-      "points_available": 94,
+      "points_available": 124,
       "months_in_clan": 4,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 106,
+        "missing_points": 76,
         "missing_months": 0,
         "can_claim": false
       },
@@ -21295,10 +21295,16 @@
           "balance": -40
         },
         {
+          "timestamp": "2026-11-20T23:18:47.672Z",
+          "delta": 30,
+          "reason": "Bounty: Royal Titans BOTW - Medium",
+          "balance": -10
+        },
+        {
           "timestamp": "2026-11-20T00:06:00.077Z",
           "delta": 134,
           "reason": "Tenure points",
-          "balance": 94
+          "balance": 124
         }
       ],
       "pending_bounties": [
@@ -21312,7 +21318,7 @@
         {
           "bounty_id": "86",
           "name": "Royal Titans BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-20T23:06:24.633Z"
         }
