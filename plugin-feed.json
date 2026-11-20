@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T22:19:53.993Z",
+  "generated_at": "2026-11-20T22:29:41.302Z",
   "broadcasts": [],
   "events": [
     {
@@ -15429,9 +15429,9 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2025-09-05",
-      "points_total": 1686,
+      "points_total": 1691,
       "points_spent": 650,
-      "points_available": 1036,
+      "points_available": 1041,
       "months_in_clan": 14,
       "next_rank": {
         "name": "Diamond",
@@ -15443,12 +15443,6 @@
         "can_claim": true
       },
       "points_history": [
-        {
-          "timestamp": "2026-06-16T19:39:01.879Z",
-          "delta": 30,
-          "reason": "Event Participation",
-          "balance": 155
-        },
         {
           "timestamp": "2026-06-25T08:18:25.978Z",
           "delta": 185,
@@ -15594,17 +15588,23 @@
           "balance": 595
         },
         {
+          "timestamp": "2026-11-20T22:29:39.794Z",
+          "delta": 5,
+          "reason": "Bounty: Royal TItans BOTW - Beginner",
+          "balance": 600
+        },
+        {
           "timestamp": "2026-11-20T00:06:00.077Z",
           "delta": 441,
           "reason": "Tenure points",
-          "balance": 1036
+          "balance": 1041
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "84",
           "name": "Royal TItans BOTW - Beginner",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-20T21:40:30.364Z"
         },
