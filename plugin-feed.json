@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T11:59:14.351Z",
+  "generated_at": "2026-11-21T12:33:05.413Z",
   "broadcasts": [],
   "events": [
     {
@@ -19467,34 +19467,23 @@
     {
       "rsn": "Radicafire",
       "rsn_key": "radicafire",
-      "bot_rank": "Diamond",
-      "progression_rank": "Diamond",
+      "bot_rank": "Dragonstone",
+      "progression_rank": "Dragonstone",
       "join_date": "2026-03-11",
       "points_total": 1545,
-      "points_spent": 1030,
-      "points_available": 515,
+      "points_spent": 1530,
+      "points_available": 15,
       "months_in_clan": 8,
       "next_rank": {
-        "name": "Dragonstone",
-        "point_cost": 500,
-        "min_months": 8,
+        "name": "Onyx",
+        "point_cost": 800,
+        "min_months": 12,
         "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Dragonstone",
-        "created_at": "2026-11-21T01:37:50.488Z"
+        "missing_points": 785,
+        "missing_months": 4,
+        "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-08-08T12:41:20.420Z",
-          "delta": 15,
-          "reason": "Bounty: Fishing SOTW - Easy",
-          "balance": 300
-        },
         {
           "timestamp": "2026-08-16T00:29:45.228Z",
           "delta": -300,
@@ -19640,10 +19629,16 @@
           "balance": 260
         },
         {
+          "timestamp": "2026-11-21T12:33:03.898Z",
+          "delta": -500,
+          "reason": "Rank upgrade: Dragonstone",
+          "balance": -240
+        },
+        {
           "timestamp": "2026-11-21T00:03:28.498Z",
           "delta": 255,
           "reason": "Tenure points",
-          "balance": 515
+          "balance": 15
         }
       ],
       "pending_bounties": [
