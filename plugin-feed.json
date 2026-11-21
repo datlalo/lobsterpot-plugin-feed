@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T18:57:30.962Z",
+  "generated_at": "2026-11-21T20:08:39.946Z",
   "broadcasts": [],
   "events": [
     {
@@ -18809,26 +18809,20 @@
       "bot_rank": "Dragonstone",
       "progression_rank": "Dragonstone",
       "join_date": "2026-02-03",
-      "points_total": 1811,
+      "points_total": 1826,
       "points_spent": 1550,
-      "points_available": 261,
+      "points_available": 276,
       "months_in_clan": 9,
       "next_rank": {
         "name": "Onyx",
         "point_cost": 800,
         "min_months": 12,
         "requirements": null,
-        "missing_points": 539,
+        "missing_points": 524,
         "missing_months": 3,
         "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-17T13:56:02.061Z",
-          "delta": 30,
-          "reason": "Bounty: Duke Sucellus - Medium",
-          "balance": 250
-        },
         {
           "timestamp": "2026-07-17T14:16:52.883Z",
           "delta": -400,
@@ -18974,10 +18968,16 @@
           "balance": -30
         },
         {
+          "timestamp": "2026-11-21T20:08:38.430Z",
+          "delta": 15,
+          "reason": "Bounty: Royal Titans BOTW - Easy",
+          "balance": -15
+        },
+        {
           "timestamp": "2026-11-21T00:03:28.498Z",
           "delta": 291,
           "reason": "Tenure points",
-          "balance": 261
+          "balance": 276
         }
       ],
       "pending_bounties": [
@@ -18991,7 +18991,7 @@
         {
           "bounty_id": "85",
           "name": "Royal Titans BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-21T18:57:29.443Z"
         }
