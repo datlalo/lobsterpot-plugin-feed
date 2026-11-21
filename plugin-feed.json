@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T02:47:35.959Z",
+  "generated_at": "2026-11-21T02:52:48.531Z",
   "broadcasts": [],
   "events": [
     {
@@ -19645,6 +19645,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-11-19T03:24:01.018Z"
+        },
+        {
+          "bounty_id": "84",
+          "name": "Royal TItans BOTW - Beginner",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-21T02:52:47.017Z"
         }
       ]
     },
