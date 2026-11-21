@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T21:51:42.212Z",
+  "generated_at": "2026-11-21T21:56:41.415Z",
   "broadcasts": [],
   "events": [
     {
@@ -12,6 +12,16 @@
       "ends_at": "2026-11-25T12:00:00.000Z",
       "description": "https://wiseoldman.net/competitions/166596",
       "thread_id": "1572583114985705574"
+    },
+    {
+      "id": "dfe2003d-2f23-477d-b514-d7b69d5cb5e3",
+      "type": "event",
+      "title": "Zulrah Zunday",
+      "location": null,
+      "starts_at": "2026-11-21T19:00:00.000Z",
+      "ends_at": "2026-11-23T07:00:00.000Z",
+      "description": "",
+      "thread_id": "1522561512089194536"
     }
   ],
   "bounties": [
@@ -20977,34 +20987,6 @@
       ]
     },
     {
-      "rsn": "ScottishBobB",
-      "rsn_key": "scottishbobb",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-02-16",
-      "points_total": 278,
-      "points_spent": 0,
-      "points_available": 278,
-      "months_in_clan": 9,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-11-21T21:48:34.817Z",
-          "delta": 278,
-          "reason": "Tenure points",
-          "balance": 278
-        }
-      ]
-    },
-    {
       "rsn": "ScrappyGainz",
       "rsn_key": "scrappygainz",
       "bot_rank": "Gnome",
@@ -25651,34 +25633,6 @@
           "delta": 282,
           "reason": "Tenure points",
           "balance": 292
-        }
-      ]
-    },
-    {
-      "rsn": "v0idrogue",
-      "rsn_key": "v0idrogue",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-07-03",
-      "points_total": 141,
-      "points_spent": 0,
-      "points_available": 141,
-      "months_in_clan": 4,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-11-21T21:48:34.830Z",
-          "delta": 141,
-          "reason": "Tenure points",
-          "balance": 141
         }
       ]
     },
