@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T11:56:11.817Z",
+  "generated_at": "2026-11-21T11:59:14.351Z",
   "broadcasts": [],
   "events": [
     {
@@ -12247,16 +12247,16 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-04-02",
-      "points_total": 283,
+      "points_total": 288,
       "points_spent": 100,
-      "points_available": 183,
+      "points_available": 188,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Emerald",
         "point_cost": 200,
         "min_months": 2,
         "requirements": null,
-        "missing_points": 17,
+        "missing_points": 12,
         "missing_months": 0,
         "can_claim": false
       },
@@ -12286,17 +12286,23 @@
           "balance": -50
         },
         {
+          "timestamp": "2026-11-21T11:56:19.935Z",
+          "delta": 5,
+          "reason": "Bounty: Royal TItans BOTW - Beginner",
+          "balance": -45
+        },
+        {
           "timestamp": "2026-11-21T00:03:28.498Z",
           "delta": 233,
           "reason": "Tenure points",
-          "balance": 183
+          "balance": 188
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "84",
           "name": "Royal TItans BOTW - Beginner",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-21T02:47:34.443Z"
         }
@@ -19464,9 +19470,9 @@
       "bot_rank": "Diamond",
       "progression_rank": "Diamond",
       "join_date": "2026-03-11",
-      "points_total": 1540,
+      "points_total": 1545,
       "points_spent": 1030,
-      "points_available": 510,
+      "points_available": 515,
       "months_in_clan": 8,
       "next_rank": {
         "name": "Dragonstone",
@@ -19483,12 +19489,6 @@
         "created_at": "2026-11-21T01:37:50.488Z"
       },
       "points_history": [
-        {
-          "timestamp": "2026-07-07T08:06:17.303Z",
-          "delta": 60,
-          "reason": "Bounty: Farming - Elite",
-          "balance": 285
-        },
         {
           "timestamp": "2026-08-08T12:41:20.420Z",
           "delta": 15,
@@ -19634,10 +19634,16 @@
           "balance": 255
         },
         {
+          "timestamp": "2026-11-21T11:56:17.548Z",
+          "delta": 5,
+          "reason": "Bounty: Royal TItans BOTW - Beginner",
+          "balance": 260
+        },
+        {
           "timestamp": "2026-11-21T00:03:28.498Z",
           "delta": 255,
           "reason": "Tenure points",
-          "balance": 510
+          "balance": 515
         }
       ],
       "pending_bounties": [
@@ -19658,7 +19664,7 @@
         {
           "bounty_id": "84",
           "name": "Royal TItans BOTW - Beginner",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-21T02:52:47.017Z"
         }
