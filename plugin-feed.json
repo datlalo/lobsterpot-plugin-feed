@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T20:11:42.294Z",
+  "generated_at": "2026-11-21T21:39:33.645Z",
   "broadcasts": [],
   "events": [
     {
@@ -19496,178 +19496,178 @@
     {
       "rsn": "Radicafire",
       "rsn_key": "radicafire",
-      "bot_rank": "Dragonstone",
-      "progression_rank": "Dragonstone",
-      "join_date": "2026-03-11",
-      "points_total": 1545,
-      "points_spent": 1530,
-      "points_available": 15,
-      "months_in_clan": 8,
+      "bot_rank": "",
+      "progression_rank": "",
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
       "next_rank": {
-        "name": "Onyx",
-        "point_cost": 800,
-        "min_months": 12,
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
         "requirements": null,
-        "missing_points": 785,
-        "missing_months": 4,
-        "can_claim": false
+        "missing_points": 0,
+        "missing_months": 0,
+        "can_claim": true
       },
       "points_history": [
         {
           "timestamp": "2026-08-16T00:29:45.228Z",
           "delta": -300,
           "reason": "Rank upgrade: Ruby",
-          "balance": 0
+          "balance": -15
         },
         {
           "timestamp": "2026-09-03T03:16:40.002Z",
           "delta": 15,
           "reason": "Bounty: Crafting SOTW - Easy",
-          "balance": 15
+          "balance": 0
         },
         {
           "timestamp": "2026-09-03T03:16:44.563Z",
           "delta": 45,
           "reason": "Bounty: Crafting SOTW - Hard",
-          "balance": 60
+          "balance": 45
         },
         {
           "timestamp": "2026-09-04T02:28:24.567Z",
           "delta": 30,
           "reason": "Bounty: Crafting SOTW - Medium",
-          "balance": 90
+          "balance": 75
         },
         {
           "timestamp": "2026-09-14T23:56:10.137Z",
           "delta": 50,
           "reason": "Saradomin Mid rng",
-          "balance": 140
+          "balance": 125
         },
         {
           "timestamp": "2026-09-18T21:46:29.126Z",
           "delta": 45,
           "reason": "Bounty: Mad Angel BOTW - Hard",
-          "balance": 185
+          "balance": 170
         },
         {
           "timestamp": "2026-09-18T21:46:59.534Z",
           "delta": 15,
           "reason": "Bounty: Mad Angel BOTW - Easy",
-          "balance": 200
+          "balance": 185
         },
         {
           "timestamp": "2026-09-20T11:54:48.340Z",
           "delta": 30,
           "reason": "Bounty: Mad Angel BOTW - Medium",
-          "balance": 230
+          "balance": 215
         },
         {
           "timestamp": "2026-09-20T16:13:59.138Z",
           "delta": -400,
           "reason": "Rank upgrade: Diamond",
-          "balance": -170
+          "balance": -185
         },
         {
           "timestamp": "2026-10-12T14:05:40.654Z",
           "delta": 5,
           "reason": "50 KC Amoxliatl Sunday",
-          "balance": -165
+          "balance": -180
         },
         {
           "timestamp": "2026-10-13T02:23:21.758Z",
           "delta": 15,
           "reason": "Bounty: Dagannoth Kings BOTW - Easy",
-          "balance": -150
+          "balance": -165
         },
         {
           "timestamp": "2026-10-19T17:19:26.542Z",
           "delta": 15,
           "reason": "Participation in the Barrows Rush Mass",
-          "balance": -135
+          "balance": -150
         },
         {
           "timestamp": "2026-10-23T06:51:11.083Z",
           "delta": 45,
           "reason": "Bounty: Cooking SOTW - Hard",
-          "balance": -90
+          "balance": -105
         },
         {
           "timestamp": "2026-10-23T06:51:11.994Z",
           "delta": 30,
           "reason": "Bounty: Cooking SOTW - Medium",
-          "balance": -60
+          "balance": -75
         },
         {
           "timestamp": "2026-10-23T06:51:14.358Z",
           "delta": 15,
           "reason": "Bounty: Cooking SOTW - Easy",
-          "balance": -45
+          "balance": -60
         },
         {
           "timestamp": "2026-10-25T00:36:17.373Z",
           "delta": 60,
           "reason": "Bounty: Cooking SOTW - Elite",
-          "balance": 15
+          "balance": 0
         },
         {
           "timestamp": "2026-10-25T15:33:31.756Z",
           "delta": 75,
           "reason": "Bounty: Cooking SOTW - Master",
-          "balance": 90
+          "balance": 75
         },
         {
           "timestamp": "2026-11-03T08:16:07.480Z",
           "delta": 15,
           "reason": "Cooking SOTW - 4th to 6th place",
-          "balance": 105
+          "balance": 90
         },
         {
           "timestamp": "2026-11-07T07:38:31.185Z",
           "delta": 60,
           "reason": "Bounty: Hunter SOTW - Elite",
-          "balance": 165
+          "balance": 150
         },
         {
           "timestamp": "2026-11-07T07:39:35.310Z",
           "delta": 15,
           "reason": "Bounty: Hunter SOTW - Easy",
-          "balance": 180
+          "balance": 165
         },
         {
           "timestamp": "2026-11-08T00:38:26.222Z",
           "delta": 30,
           "reason": "Bounty: Hunter SOTW - Medium",
-          "balance": 210
+          "balance": 195
         },
         {
           "timestamp": "2026-11-19T07:04:08.124Z",
           "delta": 30,
           "reason": "Bounty: Royal Titans BOTW - Medium",
-          "balance": 240
+          "balance": 225
         },
         {
           "timestamp": "2026-11-19T07:04:20.698Z",
           "delta": 15,
           "reason": "Bounty: Royal Titans BOTW - Easy",
-          "balance": 255
+          "balance": 240
         },
         {
           "timestamp": "2026-11-21T11:56:17.548Z",
           "delta": 5,
           "reason": "Bounty: Royal TItans BOTW - Beginner",
-          "balance": 260
+          "balance": 245
         },
         {
           "timestamp": "2026-11-21T12:33:03.898Z",
           "delta": -500,
           "reason": "Rank upgrade: Dragonstone",
-          "balance": -240
+          "balance": -255
         },
         {
           "timestamp": "2026-11-21T00:03:28.498Z",
           "delta": 255,
           "reason": "Tenure points",
-          "balance": 15
+          "balance": 0
         }
       ],
       "pending_bounties": [
@@ -22361,34 +22361,34 @@
     {
       "rsn": "Slinklekody",
       "rsn_key": "slinklekody",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2026-07-12",
-      "points_total": 132,
-      "points_spent": 100,
-      "points_available": 32,
-      "months_in_clan": 4,
+      "bot_rank": null,
+      "progression_rank": null,
+      "join_date": null,
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
       "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
+        "name": "Gnome",
+        "point_cost": 0,
+        "min_months": 0,
         "requirements": null,
-        "missing_points": 168,
+        "missing_points": 0,
         "missing_months": 0,
-        "can_claim": false
+        "can_claim": true
       },
       "points_history": [
         {
           "timestamp": "2026-11-21T12:33:21.388Z",
           "delta": -100,
           "reason": "Rank upgrade: Sapphire",
-          "balance": -100
+          "balance": -132
         },
         {
           "timestamp": "2026-11-21T00:03:28.498Z",
           "delta": 132,
           "reason": "Tenure points",
-          "balance": 32
+          "balance": 0
         }
       ]
     },
