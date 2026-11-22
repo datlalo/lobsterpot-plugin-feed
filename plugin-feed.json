@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-22T00:03:34.968Z",
+  "generated_at": "2026-11-22T03:48:38.402Z",
   "broadcasts": [],
   "events": [
     {
@@ -10200,52 +10200,6 @@
       ]
     },
     {
-      "rsn": "GR1M Carl",
-      "rsn_key": "gr1mcarl",
-      "bot_rank": "Sapphire",
-      "progression_rank": "Sapphire",
-      "join_date": "2026-06-07",
-      "points_total": 248,
-      "points_spent": 100,
-      "points_available": 148,
-      "months_in_clan": 5,
-      "next_rank": {
-        "name": "Emerald",
-        "point_cost": 200,
-        "min_months": 2,
-        "requirements": null,
-        "missing_points": 52,
-        "missing_months": 0,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-09-14T23:54:36.390Z",
-          "delta": 75,
-          "reason": "Zammy bad rng",
-          "balance": 75
-        },
-        {
-          "timestamp": "2026-09-15T10:30:03.246Z",
-          "delta": -100,
-          "reason": "Rank upgrade: Sapphire",
-          "balance": -25
-        },
-        {
-          "timestamp": "2026-10-12T14:07:52.326Z",
-          "delta": 5,
-          "reason": "50 KC Amoxliatl Sunday",
-          "balance": -20
-        },
-        {
-          "timestamp": "2026-11-22T00:03:30.075Z",
-          "delta": 168,
-          "reason": "Tenure points",
-          "balance": 148
-        }
-      ]
-    },
-    {
       "rsn": "grace based",
       "rsn_key": "gracebased",
       "bot_rank": "Gnome",
@@ -14984,6 +14938,52 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-11-19T21:00:52.806Z"
+        }
+      ]
+    },
+    {
+      "rsn": "Maestr0",
+      "rsn_key": "maestr0",
+      "bot_rank": "Sapphire",
+      "progression_rank": "Sapphire",
+      "join_date": "2026-06-07",
+      "points_total": 248,
+      "points_spent": 100,
+      "points_available": 148,
+      "months_in_clan": 5,
+      "next_rank": {
+        "name": "Emerald",
+        "point_cost": 200,
+        "min_months": 2,
+        "requirements": null,
+        "missing_points": 52,
+        "missing_months": 0,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-09-14T23:54:36.390Z",
+          "delta": 75,
+          "reason": "Zammy bad rng",
+          "balance": 75
+        },
+        {
+          "timestamp": "2026-09-15T10:30:03.246Z",
+          "delta": -100,
+          "reason": "Rank upgrade: Sapphire",
+          "balance": -25
+        },
+        {
+          "timestamp": "2026-10-12T14:07:52.326Z",
+          "delta": 5,
+          "reason": "50 KC Amoxliatl Sunday",
+          "balance": -20
+        },
+        {
+          "timestamp": "2026-11-22T00:03:30.075Z",
+          "delta": 168,
+          "reason": "Tenure points",
+          "balance": 148
         }
       ]
     },
