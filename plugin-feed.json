@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-23T17:22:23.606Z",
+  "generated_at": "2026-11-23T17:48:42.470Z",
   "broadcasts": [],
   "events": [
     {
@@ -13160,6 +13160,18 @@
           "balance": 36
         }
       ]
+    },
+    {
+      "rsn": "JoeyStuart",
+      "rsn_key": "joeystuart",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-11-23",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
     },
     {
       "rsn": "Jorknits",
@@ -26665,32 +26677,24 @@
       ]
     },
     {
-      "rsn": "Wirbul",
-      "rsn_key": "wirbul",
+      "rsn": "Wizard Dwarf",
+      "rsn_key": "wizarddwarf",
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
-      "join_date": "2026-11-22",
-      "points_total": 1,
+      "join_date": "2026-11-23",
+      "points_total": 0,
       "points_spent": 0,
-      "points_available": 1,
+      "points_available": 0,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
         "point_cost": 100,
         "min_months": 1,
         "requirements": null,
-        "missing_points": 99,
+        "missing_points": 100,
         "missing_months": 1,
         "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-11-23T00:03:31.684Z",
-          "delta": 1,
-          "reason": "Tenure points",
-          "balance": 1
-        }
-      ]
+      }
     },
     {
       "rsn": "WizardGeorge",
