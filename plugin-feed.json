@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-23T12:32:17.627Z",
+  "generated_at": "2026-11-23T17:22:23.606Z",
   "broadcasts": [],
   "events": [
     {
@@ -4376,6 +4376,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-11-21T15:06:26.302Z"
+        },
+        {
+          "bounty_id": "86",
+          "name": "Royal Titans BOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-23T17:22:22.091Z"
         }
       ]
     },
