@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-23T11:33:43.118Z",
+  "generated_at": "2026-11-23T12:32:17.627Z",
   "broadcasts": [],
   "events": [
     {
@@ -12,6 +12,16 @@
       "ends_at": "2026-11-25T12:00:00.000Z",
       "description": "https://wiseoldman.net/competitions/166596",
       "thread_id": "1572583114985705574"
+    },
+    {
+      "id": "63442d38-d893-4e16-b734-da381adc0458",
+      "type": "event",
+      "title": "Froggy friendslop friday",
+      "location": "With the fishies",
+      "starts_at": "2026-11-27T21:00:00.000Z",
+      "ends_at": "2026-11-27T22:59:00.000Z",
+      "description": "Grab a drink, a friend, a buddy, or a pal* and come join us for our next adventure. This time we'll be exploring one of the scariest things in existence... friendship.\n\n* Note that the Mayor of Catherby counts for all of these",
+      "thread_id": "1574402177227694080"
     }
   ],
   "bounties": [
