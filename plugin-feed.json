@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-24T18:58:10.114Z",
+  "generated_at": "2026-11-24T19:01:13.523Z",
   "broadcasts": [],
   "events": [
     {
@@ -11233,9 +11233,9 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-10-16",
-      "points_total": 344,
+      "points_total": 404,
       "points_spent": 100,
-      "points_available": 244,
+      "points_available": 304,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Emerald",
@@ -11320,10 +11320,16 @@
           "balance": 205
         },
         {
+          "timestamp": "2026-11-24T18:58:39.333Z",
+          "delta": 60,
+          "reason": "Bounty: Royal Titans BOTW - Elite",
+          "balance": 265
+        },
+        {
           "timestamp": "2026-11-24T00:03:33.235Z",
           "delta": 39,
           "reason": "Tenure points",
-          "balance": 244
+          "balance": 304
         }
       ],
       "pending_bounties": [
@@ -11358,7 +11364,7 @@
         {
           "bounty_id": "88",
           "name": "Royal Titans BOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-24T18:16:29.601Z"
         }
