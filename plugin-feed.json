@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-24T19:01:13.523Z",
+  "generated_at": "2026-11-24T19:33:44.380Z",
   "broadcasts": [],
   "events": [
     {
@@ -25151,6 +25151,34 @@
       ]
     },
     {
+      "rsn": "uiv",
+      "rsn_key": "uiv",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-28",
+      "points_total": 27,
+      "points_spent": 0,
+      "points_available": 27,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 73,
+        "missing_months": 1,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-11-24T00:03:33.235Z",
+          "delta": 27,
+          "reason": "Tenure points",
+          "balance": 27
+        }
+      ]
+    },
+    {
       "rsn": "uiwolf holo",
       "rsn_key": "uiwolfholo",
       "bot_rank": "Onyx",
@@ -25866,34 +25894,6 @@
           "delta": 103,
           "reason": "Tenure points",
           "balance": 103
-        }
-      ]
-    },
-    {
-      "rsn": "v n x",
-      "rsn_key": "vnx",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-10-28",
-      "points_total": 27,
-      "points_spent": 0,
-      "points_available": 27,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 73,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-11-24T00:03:33.235Z",
-          "delta": 27,
-          "reason": "Tenure points",
-          "balance": 27
         }
       ]
     },
