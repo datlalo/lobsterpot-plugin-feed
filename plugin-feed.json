@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-24T18:16:31.110Z",
+  "generated_at": "2026-11-24T18:33:16.475Z",
   "broadcasts": [],
   "events": [
     {
@@ -2751,6 +2751,15 @@
           "delta": 359,
           "reason": "Tenure points",
           "balance": 464
+        }
+      ],
+      "pending_bounties": [
+        {
+          "bounty_id": "86",
+          "name": "Royal Titans BOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-24T18:33:14.958Z"
         }
       ]
     },
