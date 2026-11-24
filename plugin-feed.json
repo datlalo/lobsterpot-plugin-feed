@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-24T11:45:16.366Z",
+  "generated_at": "2026-11-24T18:16:31.110Z",
   "broadcasts": [],
   "events": [
     {
@@ -11345,6 +11345,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-11-23T02:29:11.274Z"
+        },
+        {
+          "bounty_id": "88",
+          "name": "Royal Titans BOTW - Elite",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-24T18:16:29.601Z"
         }
       ]
     },
