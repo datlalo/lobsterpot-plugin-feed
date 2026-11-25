@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-25T01:46:24.443Z",
+  "generated_at": "2026-11-25T01:49:27.848Z",
   "broadcasts": [],
   "events": [
     {
@@ -14110,9 +14110,9 @@
       "bot_rank": "Gnome",
       "progression_rank": "Gnome",
       "join_date": "2026-10-31",
-      "points_total": 195,
+      "points_total": 255,
       "points_spent": 0,
-      "points_available": 195,
+      "points_available": 255,
       "months_in_clan": 0,
       "next_rank": {
         "name": "Sapphire",
@@ -14155,10 +14155,16 @@
           "balance": 170
         },
         {
+          "timestamp": "2026-11-25T01:46:32.699Z",
+          "delta": 60,
+          "reason": "Bounty: Royal Titans BOTW - Elite",
+          "balance": 230
+        },
+        {
           "timestamp": "2026-11-25T00:03:34.774Z",
           "delta": 25,
           "reason": "Tenure points",
-          "balance": 195
+          "balance": 255
         }
       ],
       "pending_bounties": [
@@ -14200,7 +14206,7 @@
         {
           "bounty_id": "88",
           "name": "Royal Titans BOTW - Elite",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-24T22:15:47.777Z"
         }
@@ -27132,16 +27138,16 @@
       "bot_rank": "Ruby",
       "progression_rank": "Ruby",
       "join_date": "2026-06-22",
-      "points_total": 681,
+      "points_total": 726,
       "points_spent": 600,
-      "points_available": 81,
+      "points_available": 126,
       "months_in_clan": 5,
       "next_rank": {
         "name": "Diamond",
         "point_cost": 400,
         "min_months": 5,
         "requirements": null,
-        "missing_points": 319,
+        "missing_points": 274,
         "missing_months": 0,
         "can_claim": false
       },
@@ -27273,24 +27279,36 @@
           "balance": -75
         },
         {
+          "timestamp": "2026-11-25T01:46:25.865Z",
+          "delta": 15,
+          "reason": "Bounty: Royal Titans BOTW - Easy",
+          "balance": -60
+        },
+        {
+          "timestamp": "2026-11-25T01:46:29.505Z",
+          "delta": 30,
+          "reason": "Bounty: Royal Titans BOTW - Medium",
+          "balance": -30
+        },
+        {
           "timestamp": "2026-11-25T00:03:34.774Z",
           "delta": 156,
           "reason": "Tenure points",
-          "balance": 81
+          "balance": 126
         }
       ],
       "pending_bounties": [
         {
           "bounty_id": "85",
           "name": "Royal Titans BOTW - Easy",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-24T22:12:28.841Z"
         },
         {
           "bounty_id": "86",
           "name": "Royal Titans BOTW - Medium",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-24T22:12:56.823Z"
         }
