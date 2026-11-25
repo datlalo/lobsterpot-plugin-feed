@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-25T17:28:35.353Z",
+  "generated_at": "2026-11-25T17:31:38.210Z",
   "broadcasts": [],
   "events": [
     {
@@ -4200,34 +4200,23 @@
     {
       "rsn": "bravo boogie",
       "rsn_key": "bravoboogie",
-      "bot_rank": "Diamond",
-      "progression_rank": "Diamond",
+      "bot_rank": "Dragonstone",
+      "progression_rank": "Dragonstone",
       "join_date": "2026-03-20 22:12:14.780985+00",
       "points_total": 1765,
-      "points_spent": 1000,
-      "points_available": 765,
+      "points_spent": 1500,
+      "points_available": 265,
       "months_in_clan": 8,
       "next_rank": {
-        "name": "Dragonstone",
-        "point_cost": 500,
-        "min_months": 8,
+        "name": "Onyx",
+        "point_cost": 800,
+        "min_months": 12,
         "requirements": null,
-        "missing_points": 0,
-        "missing_months": 0,
-        "can_claim": true
-      },
-      "pending_claim": {
-        "type": "rank",
-        "rank": "Dragonstone",
-        "created_at": "2026-11-25T17:28:33.040Z"
+        "missing_points": 535,
+        "missing_months": 4,
+        "can_claim": false
       },
       "points_history": [
-        {
-          "timestamp": "2026-09-21T19:41:27.255Z",
-          "delta": 60,
-          "reason": "Bounty: Mad Angel BOTW - Elite",
-          "balance": -100
-        },
         {
           "timestamp": "2026-10-01T13:08:57.607Z",
           "delta": -10,
@@ -4373,10 +4362,16 @@
           "balance": 515
         },
         {
+          "timestamp": "2026-11-25T17:28:44.232Z",
+          "delta": -500,
+          "reason": "Rank upgrade: Dragonstone",
+          "balance": 15
+        },
+        {
           "timestamp": "2026-11-25T00:03:34.774Z",
           "delta": 250,
           "reason": "Tenure points",
-          "balance": 765
+          "balance": 265
         }
       ],
       "pending_bounties": [
@@ -13667,16 +13662,16 @@
       "bot_rank": "Emerald",
       "progression_rank": "Emerald",
       "join_date": "2026-04-12",
-      "points_total": 507,
+      "points_total": 552,
       "points_spent": 300,
-      "points_available": 207,
+      "points_available": 252,
       "months_in_clan": 7,
       "next_rank": {
         "name": "Ruby",
         "point_cost": 300,
         "min_months": 3,
         "requirements": null,
-        "missing_points": 93,
+        "missing_points": 48,
         "missing_months": 0,
         "can_claim": false
       },
@@ -13760,10 +13755,16 @@
           "balance": -20
         },
         {
+          "timestamp": "2026-11-25T17:30:41.766Z",
+          "delta": 45,
+          "reason": "Bounty: Royal Titans BOTW - Hard",
+          "balance": 25
+        },
+        {
           "timestamp": "2026-11-25T00:03:34.774Z",
           "delta": 227,
           "reason": "Tenure points",
-          "balance": 207
+          "balance": 252
         }
       ],
       "pending_bounties": [
@@ -13791,7 +13792,7 @@
         {
           "bounty_id": "87",
           "name": "Royal Titans BOTW - Hard",
-          "status": "pending",
+          "status": "approved",
           "reason": null,
           "created_at": "2026-11-25T14:14:03.850Z"
         }
