@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-25T09:37:11.204Z",
+  "generated_at": "2026-11-25T09:40:14.265Z",
   "broadcasts": [],
   "events": [
     {
@@ -14917,6 +14917,13 @@
           "status": "pending",
           "reason": null,
           "created_at": "2026-11-25T09:37:09.688Z"
+        },
+        {
+          "bounty_id": "86",
+          "name": "Royal Titans BOTW - Medium",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-25T09:37:20.535Z"
         }
       ]
     },
@@ -26418,6 +26425,13 @@
           "status": "approved",
           "reason": null,
           "created_at": "2026-11-25T09:08:24.442Z"
+        },
+        {
+          "bounty_id": "84",
+          "name": "Royal TItans BOTW - Beginner",
+          "status": "pending",
+          "reason": null,
+          "created_at": "2026-11-25T09:37:38.572Z"
         }
       ]
     },
