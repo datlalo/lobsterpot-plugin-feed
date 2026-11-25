@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-25T14:14:05.371Z",
+  "generated_at": "2026-11-25T15:51:02.785Z",
   "broadcasts": [],
   "events": [
     {
@@ -11223,9 +11223,9 @@
       "bot_rank": "Sapphire",
       "progression_rank": "Sapphire",
       "join_date": "2026-10-16",
-      "points_total": 405,
+      "points_total": 465,
       "points_spent": 100,
-      "points_available": 305,
+      "points_available": 365,
       "months_in_clan": 1,
       "next_rank": {
         "name": "Emerald",
@@ -11316,10 +11316,16 @@
           "balance": 265
         },
         {
+          "timestamp": "2026-11-25T15:51:01.275Z",
+          "delta": 60,
+          "reason": "botw royal titans - 1st place",
+          "balance": 325
+        },
+        {
           "timestamp": "2026-11-25T00:03:34.774Z",
           "delta": 40,
           "reason": "Tenure points",
-          "balance": 305
+          "balance": 365
         }
       ],
       "pending_bounties": [
