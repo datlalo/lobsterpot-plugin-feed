@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-26T00:03:41.963Z",
+  "generated_at": "2026-11-26T22:18:48.988Z",
   "broadcasts": [],
   "events": [
     {
@@ -3929,6 +3929,34 @@
       ]
     },
     {
+      "rsn": "BP1",
+      "rsn_key": "bp1",
+      "bot_rank": "Gnome",
+      "progression_rank": "Gnome",
+      "join_date": "2026-10-31",
+      "points_total": 26,
+      "points_spent": 0,
+      "points_available": 26,
+      "months_in_clan": 0,
+      "next_rank": {
+        "name": "Sapphire",
+        "point_cost": 100,
+        "min_months": 1,
+        "requirements": null,
+        "missing_points": 74,
+        "missing_months": 1,
+        "can_claim": false
+      },
+      "points_history": [
+        {
+          "timestamp": "2026-11-26T00:03:36.302Z",
+          "delta": 26,
+          "reason": "Tenure points",
+          "balance": 26
+        }
+      ]
+    },
+    {
       "rsn": "br1tneyspear",
       "rsn_key": "br1tneyspear",
       "bot_rank": "Gnome",
@@ -6281,34 +6309,6 @@
           "delta": 62,
           "reason": "Tenure points",
           "balance": 62
-        }
-      ]
-    },
-    {
-      "rsn": "Dlscharged",
-      "rsn_key": "dlscharged",
-      "bot_rank": "Gnome",
-      "progression_rank": "Gnome",
-      "join_date": "2026-10-31",
-      "points_total": 26,
-      "points_spent": 0,
-      "points_available": 26,
-      "months_in_clan": 0,
-      "next_rank": {
-        "name": "Sapphire",
-        "point_cost": 100,
-        "min_months": 1,
-        "requirements": null,
-        "missing_points": 74,
-        "missing_months": 1,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-11-26T00:03:36.302Z",
-          "delta": 26,
-          "reason": "Tenure points",
-          "balance": 26
         }
       ]
     },
