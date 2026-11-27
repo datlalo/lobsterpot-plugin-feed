@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-27T19:33:51.226Z",
+  "generated_at": "2026-11-27T20:35:03.483Z",
   "broadcasts": [],
   "events": [
     {
@@ -18035,6 +18035,18 @@
       ]
     },
     {
+      "rsn": "pasi toska",
+      "rsn_key": "pasitoska",
+      "bot_rank": "Alt",
+      "progression_rank": "Alt",
+      "join_date": "2026-11-27",
+      "points_total": 0,
+      "points_spent": 0,
+      "points_available": 0,
+      "months_in_clan": 0,
+      "next_rank": null
+    },
+    {
       "rsn": "peksoleb",
       "rsn_key": "peksoleb",
       "bot_rank": "Gnome",
@@ -23505,184 +23517,6 @@
           "delta": 264,
           "reason": "Tenure points",
           "balance": 229
-        }
-      ]
-    },
-    {
-      "rsn": "tarba kynas",
-      "rsn_key": "tarbakynas",
-      "bot_rank": "Onyx",
-      "progression_rank": "Onyx",
-      "join_date": "2025-09-03",
-      "points_total": 2235,
-      "points_spent": 2010,
-      "points_available": 225,
-      "months_in_clan": 14,
-      "next_rank": {
-        "name": "Zenyte",
-        "point_cost": 1000,
-        "min_months": 16,
-        "requirements": null,
-        "missing_points": 775,
-        "missing_months": 2,
-        "can_claim": false
-      },
-      "points_history": [
-        {
-          "timestamp": "2026-08-29T17:01:03.129Z",
-          "delta": 15,
-          "reason": "Funny friendslop friday (august) [meccha chameleon]",
-          "balance": -220
-        },
-        {
-          "timestamp": "2026-09-07T02:01:22.504Z",
-          "delta": 15,
-          "reason": "Bounty: Crafting SOTW - Easy",
-          "balance": -205
-        },
-        {
-          "timestamp": "2026-09-07T02:01:25.816Z",
-          "delta": 30,
-          "reason": "Bounty: Crafting SOTW - Medium",
-          "balance": -175
-        },
-        {
-          "timestamp": "2026-09-07T02:01:28.096Z",
-          "delta": 45,
-          "reason": "Bounty: Crafting SOTW - Hard",
-          "balance": -130
-        },
-        {
-          "timestamp": "2026-09-07T02:01:30.466Z",
-          "delta": 60,
-          "reason": "Bounty: Crafting SOTW - Elite",
-          "balance": -70
-        },
-        {
-          "timestamp": "2026-09-09T19:40:59.113Z",
-          "delta": 15,
-          "reason": "crafting sotw 4th-6th place",
-          "balance": -55
-        },
-        {
-          "timestamp": "2026-09-09T21:05:26.260Z",
-          "delta": 15,
-          "reason": "callisto mass",
-          "balance": -40
-        },
-        {
-          "timestamp": "2026-09-14T23:56:10.136Z",
-          "delta": 50,
-          "reason": "Saradomin Mid rng",
-          "balance": 10
-        },
-        {
-          "timestamp": "2026-09-15T02:44:10.684Z",
-          "delta": 10,
-          "reason": "Held 1 tile",
-          "balance": 20
-        },
-        {
-          "timestamp": "2026-09-17T03:49:48.310Z",
-          "delta": 45,
-          "reason": "Bounty: Mad Angel BOTW - Hard",
-          "balance": 65
-        },
-        {
-          "timestamp": "2026-09-18T21:47:16.506Z",
-          "delta": 75,
-          "reason": "Bounty: Mad Angel BOTW - Master",
-          "balance": 140
-        },
-        {
-          "timestamp": "2026-09-19T14:08:11.055Z",
-          "delta": 30,
-          "reason": "Bounty: Mad Angel BOTW - Medium",
-          "balance": 170
-        },
-        {
-          "timestamp": "2026-09-20T15:32:17.793Z",
-          "delta": 15,
-          "reason": "Bounty: Mad Angel BOTW - Easy",
-          "balance": 185
-        },
-        {
-          "timestamp": "2026-09-25T23:08:29.794Z",
-          "delta": 15,
-          "reason": "Friendslop friday fudge (September)",
-          "balance": 200
-        },
-        {
-          "timestamp": "2026-10-10T20:35:25.559Z",
-          "delta": 15,
-          "reason": "Halloween Fashionscape participation",
-          "balance": 215
-        },
-        {
-          "timestamp": "2026-10-25T00:38:46.875Z",
-          "delta": 75,
-          "reason": "Bounty: Cooking SOTW - Master",
-          "balance": 290
-        },
-        {
-          "timestamp": "2026-10-26T17:45:38.588Z",
-          "delta": 60,
-          "reason": "Bounty: Cooking SOTW - Elite",
-          "balance": 350
-        },
-        {
-          "timestamp": "2026-10-26T17:45:41.339Z",
-          "delta": 45,
-          "reason": "Bounty: Cooking SOTW - Hard",
-          "balance": 395
-        },
-        {
-          "timestamp": "2026-10-26T17:45:44.212Z",
-          "delta": 30,
-          "reason": "Bounty: Cooking SOTW - Medium",
-          "balance": 425
-        },
-        {
-          "timestamp": "2026-10-26T17:45:46.606Z",
-          "delta": 15,
-          "reason": "Bounty: Cooking SOTW - Easy",
-          "balance": 440
-        },
-        {
-          "timestamp": "2026-10-26T18:39:06.625Z",
-          "delta": -800,
-          "reason": "Rank upgrade: Onyx",
-          "balance": -360
-        },
-        {
-          "timestamp": "2026-10-30T20:46:06.807Z",
-          "delta": 15,
-          "reason": "Friday friendslop october",
-          "balance": -345
-        },
-        {
-          "timestamp": "2026-11-05T09:12:27.564Z",
-          "delta": 60,
-          "reason": "Bounty: Hunter SOTW - Elite",
-          "balance": -285
-        },
-        {
-          "timestamp": "2026-11-08T00:37:50.090Z",
-          "delta": 30,
-          "reason": "Bounty: Hunter SOTW - Medium",
-          "balance": -255
-        },
-        {
-          "timestamp": "2026-11-19T07:04:38.908Z",
-          "delta": 30,
-          "reason": "Bounty: Royal Titans BOTW - Medium",
-          "balance": -225
-        },
-        {
-          "timestamp": "2026-11-27T00:03:37.855Z",
-          "delta": 450,
-          "reason": "Tenure points",
-          "balance": 225
         }
       ]
     },
